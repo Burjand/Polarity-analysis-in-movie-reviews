@@ -1,3 +1,4 @@
+processed_data_path = r"D:\Data\Knowledge\Academic\Master\1er Semestre\Tratamiento del lenguaje natural\Polarity_analysis\data\processed"
 lexicon_file_medium = r"D:\Data\Knowledge\Academic\Master\1er Semestre\Tratamiento del lenguaje natural\Polarity_analysis\data\raw\sentiment_dictionaries\mediumStrengthLexicon.txt"
 lexicon_file_full = r"D:\Data\Knowledge\Academic\Master\1er Semestre\Tratamiento del lenguaje natural\Polarity_analysis\data\raw\sentiment_dictionaries\fullStrengthLexicon.txt"
 senticon_file = r"D:\Data\Knowledge\Academic\Master\1er Semestre\Tratamiento del lenguaje natural\Polarity_analysis\data\raw\sentiment_dictionaries\senticon.es.xml"

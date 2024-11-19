@@ -6,6 +6,7 @@ import numpy as np
 if __name__ == "__main__":
 
     # FILES AND PATHS
+    processed_data_path = config.processed_data_path
     lexicon_file_medium = config.lexicon_file_medium
     lexicon_file_full = config.lexicon_file_full
     senticon_file = config.senticon_file
@@ -58,7 +59,13 @@ if __name__ == "__main__":
 
     print(avg_polarity)
     
+    # SAVE INFO
+    listed_avg_polarity = [[key, avg_polarity[key]] for key in avg_polarity.keys()]
+    listed_avg_polarity = sorted(listed_avg_polarity, key=lambda x: x[0])
 
+    f = open(processed_data_path + "\\avg_polarity_per_stars.txt", "a", encoding=encoding)
+    f.writelines([f"{str(stars)}: {str(polarity)}\n" for stars, polarity in listed_avg_polarity])
+    f.close()
 
 
 
