@@ -1,0 +1,61 @@
+grup-verb/top/(hace hacer VMIP3S0 -) [
+  sn/subj/(Sofia_Coppola sofia_coppola NP00000 -)
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(trabajo trabajo NCMS000 -) [
+      espec-ms/espec/(su su DP3CS0 -)
+      s-a-ms/qual/(último último AO0MS0 -)
+    ]
+  ]
+  sn/obj/(objeto objeto NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(culto culto NCMS000 -)
+    ]
+  ]
+  grup-sp/iobj/(para para SPS00 -) [
+    sn/head/(snobs snob NCCP000 -) [
+      s-a-mp/qual/(determinados determinar VMP00PM -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(virtudes virtud NCFP000 -) [
+      espec-fp/espec/(algunas alguno DI0FP0 -)
+      grup-sp/modnomatch/(además_de además_de SPS00 -) [
+        sn/head/(banda banda NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          s-a-fs/qual/(mencionada mencionar VMP00SF -)
+          s-a-fs/qual/(sonora sonoro AQ0FS0 -)
+          grup-verb/modnomatch/(hay haber VMIP3S0 -) [
+            sadv/cc/(también también RG -)
+          ]
+        ]
+      ]
+    ]
+    F-no-c/modnomatch/(( ( Fpa -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  conj-subord/modnomatch/(que que CS -)
+  grup-verb-inf/modnomatch/(aplaudir aplaudir VMN0000 -)
+  espec-ms/modnomatch/(el el DA0MS0 -)
+  grup-verb-inf/modnomatch/(mostrar mostrar VMN0000 -)
+  sn/obj/(punto punto NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(vista vista NCFS000 -) [
+        s-a-fs/qual/(diferente diferente AQ0CS0 -)
+        coor-sp/modnomatch/(pero pero CC -) [
+          grup-sp/modnorule/(con con SPS00 -) [
+            sn/head/(defectos defecto NCMP000 -) [
+              s-a-mp/qual/(notables notable AQ0CP0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+    F-no-c/modnomatch/() ) Fpt -)
+    F-no-c/modnomatch/(; ; Fx -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

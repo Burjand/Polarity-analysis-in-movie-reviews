@@ -1,0 +1,36 @@
+grup-verb/top/(Gustará gustar VMIF3S0 -) [
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(incondicionales incondicional NCCP000 -) [
+      espec-mp/espec/(todos todo DI0MP0 -) [
+        dem-mp/modnorule/(aquellos aquel DD0MP0 -)
+      ]
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(Terry_Gilliam terry_gilliam NP00000 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(pasar pasar VMN0000 -) [
+  patons/modnomatch/(lo lo PP3CNA00 -)
+  VMI*<ir>/modnomatch/(van ir VMIP3P0 -)
+  SPS00(a)/modnomatch/(a a SPS00 -)
+  sn/subj/(Aquellos aquel PD0MP000 -) [
+    subord/modnomatch/(que que CS -) [
+      grup-verb/modnorule/(tengan tener VMSP3P0 -) [
+        neg/modneg/(no no RN -)
+        sn/obj/(estómago estómago NCMS000 -) [
+          espec-ms/espec/(un uno DI0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  grup-sp/cc/(a_prueba_de a_prueba_de SPS00 -) [
+    sn/head/(bombas bomba NCFP000 -)
+  ]
+  sadv/cc/(realmente realmente RG -)
+  sn/obj/(mal mal NCMS000 -)
+  F-no-c/modnomatch/(... ... Fs -)
+]
+

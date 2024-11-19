@@ -1,0 +1,55 @@
+grup-verb/top/(fue ser VSIS3S0 -) [
+  sn/subj/(drama drama NCMS000 -) [
+    espec-ms/espec/(Su su DP3CS0 -)
+    s-a-ms/qual/(mayor mayor AQ0CS0 -)
+  ]
+  conj-subord/modnomatch/(que que CS -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(principio principio NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      grup-verb/modnomatch/(conseguía conseguir VMII1S0 -) [
+        neg/modneg/(no no RN -)
+      ]
+      grup-verb/modnomatch/(tenía tener VMII1S0 -) [
+        sn/subj/(hijos hijo NCMP000 -) [
+          F-no-c/modnomatch/(; ; Fx -)
+        ]
+        sn/subj/(rey rey NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+        sn/obj/(problemas problema NCMP000 -)
+        grup-sp/cc/(en en SPS00 -) [
+          sn/head/(cama cama NCFS000 -) [
+            espec-fs/espec/(la el DA0FS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb-inf/modnomatch/(tener tener VMN0000 -)
+  F-term/term/(. . Fp -)
+]
+
+prep/top/(Según según SPS00 -) [
+  grup-verb/modnorule/(leído leer VMP00SM -) [
+    vaux/aux/(he haber VAIP1S0 -)
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  sn/modnorule/(frenillo frenillo NCMS000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-sp/modnomatch/(según según SPS00 -) [
+      sn/head/(película película NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/modnorule/(torpeza torpeza NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(incomprensible incomprensible AQ0CS0 -)
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

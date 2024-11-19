@@ -1,0 +1,58 @@
+grup-verb/top/(importa importar VMIP3S0 -) [
+  sn/subj/(Poco poco PI0MS000 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(sea ser VSSP1S0 -) [
+      sn/subj/(guión guión NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+      neg/modneg/(no no RN -)
+      sp-de/modnomatch/(de de SPS00 -) [
+        sn/gen/(Oscar oscar NP00000 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(o o CC -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(naufraguen naufragar VMSP3P0 -) [
+      sn/subj/(actores actor NCMP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+      ]
+      grup-sp/modnomatch/(sin sin SPS00 -) [
+        sn/head/(remisión remisión NCFS000 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+espec-ms/top/(Lo el DA0NS0 -) [
+  subord/modnorule/(que que PR0CN000 -) [
+    grup-verb/modnorule/(busca buscar VMIP3S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+    ]
+  ]
+  grup-verb/modnorule/(es ser VSIP3S0 -) [
+    sn/obj/(diversión diversión NCFS000 -)
+    coor-n/obj/(y y CC -) [
+      Fc(,)/modnomatch/(, , Fc -)
+      sn/co-n/(eso ese PD0NS000 -) [
+        grup-verb/modnomatch/(es ser VSIP3S0 -) [
+          sadv/cc/(ni_más_ni_menos ni_más_ni_menos RG -)
+        ]
+      ]
+    ]
+  ]
+  espec-ms/modnorule/(lo el DA0NS0 -)
+  subord/modnorule/(que que PR0CN000 -) [
+    grup-verb/modnorule/(ofrece ofrecer VMIP3S0 -)
+    F-no-c/modnorule/(" " Fe -)
+  ]
+  sn/modnorule/(Resident_Evil resident_evil NP00000 -) [
+    F-no-c/modnomatch/(: : Fd -)
+  ]
+  sn/modnorule/(Extinción extinción NP00000 -) [
+    F-no-c/modnomatch/(" " Fe -)
+  ]
+]
+

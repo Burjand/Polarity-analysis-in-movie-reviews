@@ -1,0 +1,60 @@
+grup-verb/top/(Repite repetir VMM02S0 -) [
+  sn/obj/(patrones patrón NCMP000 -) [
+    espec-mp/espec/(los el DA0MP0 -)
+    s-a-mp/qual/(mismos mismo AQ0MP0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(parte parte NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        s-a-fs/qual/(mayor mayor AQ0CS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(películas película NCFP000 -) [
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(terror terror NCMS000 -) [
+                sp-de/mod/(de de SPS00 -) [
+                  sn/gen/(Estados_Unidos estados_unidos NP00000 -)
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  parti-flex/modnomatch/(venidas venir VMP00PF -)
+  F-no-c/modnomatch/(: : Fd -)
+  sn/obj/(atmósfera atmósfera NCFS000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(misterio misterio NCMS000 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(chicas chico NCFP000 -) [
+    s-a-fp/qual/(guapas guapo AQ0FP0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(mueren morir VMIP3P0 -)
+    ]
+  ]
+  sadv/cc/(tarde tarde RG -) [
+    cuantif/modnorule/(más más RG -)
+  ]
+  conj-subord/modnomatch/(que que CS -)
+  sn/obj/(compañeros compañero NCMP000 -) [
+    espec-mp/espec/(sus su DP3CP0 -)
+    F-no-c/modnomatch/(- - Fg -)
+    s-adj/qual/(feos feo AQ0MP0 -) [
+      sadv/modnorule/(más más RG -)
+    ]
+  ]
+  prel/modnomatch/(que que PR0CN000 -)
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(ellas ellos PP3FP000 -) [
+      F-no-c/modnomatch/(- - Fg -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(correrías correría NCFP000 -)
+    sn/co-n/(poco poco PI0MS000 -)
+  ]
+  sadv/cc/(más más RG -)
+  F-term/term/(. . Fp -)
+]
+

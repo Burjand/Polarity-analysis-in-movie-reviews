@@ -1,0 +1,71 @@
+grup-verb/top/(convertido convertir VMP00SM -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  vaux/aux/(ha haber VAIP3S0 -)
+  sn/subj/(vida vida NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(familia familia NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+      ]
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(dibujos dibujo NCMP000 -) [
+      s-a-mp/qual/(animados animar VMP00PM -)
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(referente referente NCCS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(cultural cultural AQ0CS0 -)
+    ]
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  espec-fs/modnomatch/(la el DA0FS0 -)
+  F-no-c/modnomatch/(( ( Fpa -)
+  PX1FS0P0(nuestra)/modnomatch/(nuestra nuestro PX1FS0P0 -)
+  F-no-c/modnomatch/() ) Fpt -)
+  sn/obj/(sociedad sociedad NCFS000 -) [
+    s-a-fs/qual/(occidental occidental AQ0CS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(Insisto insistir VMIP1S0 -) [
+  Fc(,)/modnomatch/(, , Fc -)
+  F-no-c/modnomatch/(¿ ¿ Fia -)
+  grup-verb/modnomatch/(tienen tener VMIP3P0 -) [
+    sn/subj/(qué qué PT0CN000 -)
+    subord/modnomatch/(que que CS -) [
+      grup-verb/modnorule/(gustan gustar VMIP3P0 -) [
+        patons/modnomatch/(nos nos PP1CP000 -)
+      ]
+    ]
+    sadv/cc/(tanto tanto RG -)
+  ]
+  F-term/term/(? ? Fit -)
+]
+
+grup-verb/top/(Seamos ser VSSP1P0 -) [
+  s-adj/att/(precisos preciso AQ0MP0 -) [
+    sadv/modnorule/(más más RG -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  F-no-c/modnomatch/(¿ ¿ Fia -)
+  grup-verb/modnomatch/(tiene tener VMIP3S0 -) [
+    sn/subj/(qué qué PT0CN000 -)
+    sn/obj/(Homer homer NP00000 -)
+    sn/obj/(Homero homero NP00000 -) [
+      Fpa/modnomatch/(( ( Fpa -)
+      Fpt/modnomatch/() ) Fpt -)
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(queremos querer VMIP1P0 -) [
+          patons/modnomatch/(le le PP3CSD00 -)
+        ]
+      ]
+    ]
+    sadv/cc/(tanto tanto RG -)
+  ]
+  F-term/term/(? ? Fit -)
+]
+

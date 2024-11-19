@@ -1,0 +1,57 @@
+grup-verb/top/(enfatiza enfatizar VMIP3S0 -) [
+  sn/subj/(Wilder wilder NP00000 -)
+  sadv/cc/(proverbialmente proverbialmente RG -)
+  sn/obj/(corruptelas corruptela NCFP000 -) [
+    espec-fp/espec/(las el DA0FP0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(poder poder NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(y y CC -) [
+  sn/subj/(plana plana NCFS000 -) [
+    s-a-fs/qual/(Primera 1 AO0FS0 -)
+  ]
+  grup-verb/co-v/(vive vivir VMIP3S0 -) [
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(libertad libertad NCFS000 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(escribe escribir VMIP3S0 -) [
+    morfema-verbal/modnomatch/(se se P0000000 -)
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(libertad libertad NCFS000 -)
+    ]
+  ]
+  grup-verb/co-v/(filma filmar VMIP3S0 -) [
+    morfema-verbal/modnomatch/(se se P0000000 -)
+    grup-sp/modnomatch/(sin sin SPS00 -) [
+      sn/head/(corsé corsé NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        s-a-ms/qual/(homicida homicida AQ0CS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(filtros filtro NCMP000 -) [
+            espec-mp/espec/(los el DA0MP0 -)
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(censura censura NCFS000 -) [
+                espec-fs/espec/(la el DA0FS0 -)
+                sp-de/mod/(de de SPS00 -) [
+                  sn/gen/(época época NCFS000 -) [
+                    espec-fs/espec/(la el DA0FS0 -)
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-no-c/modnomatch/(... ... Fs -)
+]
+

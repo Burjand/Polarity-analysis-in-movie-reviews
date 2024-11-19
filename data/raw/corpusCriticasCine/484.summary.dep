@@ -1,0 +1,55 @@
+grup-verb/top/(desagrada desagradar VMIP3S0 -) [
+  patons/modnomatch/(Me me PP1CS000 -)
+  grup-verb-inf/modnomatch/(ver ver VMN0000 -)
+  sn/obj/(nombre nombre NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Caperucita_Roja caperucita_roja NP00000 -) [
+        grup-sp/modnomatch/(en en SPS00 -) [
+          sn/head/(título título NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(película película NCFS000 -) [
+                espec-fs/espec/(una uno DI0FS0 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  prep/modnomatch/(en en SPS00 -)
+  espec-fs/modnomatch/(la el DA0FS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(siendo ser VSG0000 -) [
+      VMI*<acabar>/modnomatch/(acaba acabar VMIP3S0 -)
+    ]
+  ]
+  s-adj/modnomatch/(sospechosa sospechoso AQ0FS0 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(junto_a junto_a SPS00 -) [
+    sn/head/(abuela abuelo NCFS000 -) [
+      espec-fs/espec/(su su DP3CS0 -)
+    ]
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(lobo lobo NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(robo robo NCMS000 -) [
+          espec-ms/espec/(un uno DI0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(e e CC -)
+  parti-flex/modnomatch/(investigada investigar VMP00SF -)
+  grup-sp/modnomatch/(por por SPS00 -) [
+    sn/head/(policía policía NCCS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

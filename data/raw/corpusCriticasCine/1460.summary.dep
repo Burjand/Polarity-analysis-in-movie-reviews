@@ -1,0 +1,52 @@
+grup-verb/top/(utiliza utilizar VMIP3S0 -) [
+  sn/subj/(Winterbottom winterbottom NP00000 -)
+  subord/modnomatch/(como como CS -) [
+    grup-verb/modnorule/(excusa excusar VMIP3S0 -) [
+      sn/obj/(adaptación adaptación NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(novela novela NCFS000 -) [
+            espec-fs/espec/(la el DA0FS0 -)
+            w-fs/modnomatch/(Laurence_Sterne laurence_sterne NP00000 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(contando contar VMG0000 -) [
+      VMN0000(acabar)/modnomatch/(acabar acabar VMN0000 -)
+    ]
+    sn/modnomatch/(historia historia NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(cine cine NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  grup-sp/modnomatch/(dentro_de dentro_de SPS00 -) [
+    sn/head/(cine cine NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  prep/modnomatch/(sobre sobre SPS00 -)
+  espec-ms/modnomatch/(el el DA0MS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(ofrece ofrecer VMIP3S0 -)
+  ]
+  sn/obj/(visión visión NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(paródica paródico AQ0FS0 -)
+  ]
+  grup-sp-inf/modnomatch/(sin sin SPS00 -) [
+    grup-verb-inf/head/(restar restar VMN0000 -) [
+      PP*/modnomatch/(le le PP3CSD00 -)
+    ]
+    sn/modnomatch/(credibilidad credibilidad NCFS000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

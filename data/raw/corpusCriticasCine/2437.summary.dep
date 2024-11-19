@@ -1,0 +1,50 @@
+sn/top/(Cine cine NCMS000 -) [
+  s-a-ms/qual/(vulgar vulgar AQ0CS0 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(reminiscencias reminiscencia NCFP000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(Mariano_Ozores mariano_ozores NP00000 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-n/top/(y y CC -) [
+  sn/co-n/(Estereotipos estereotipos NP00000 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/co-n/(anacronismos anacronismo NCMP000 -)
+  sn/co-n/(falta falta NCFS000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(ingenio ingenio NCMS000 -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+prep/top/(Para para SPS00 -) [
+  subord/modnorule/(que que CS -) [
+    grup-verb/modnorule/(digan decir VMSP3P0 -) [
+      sadv/cc/(luego luego RG -)
+    ]
+  ]
+  subord/modnorule/(que que CS -) [
+    grup-verb/modnorule/(pierde perder VMIP3S0 -) [
+      sn/subj/(cine cine NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        s-a-ms/qual/(español español AQ0MS0 -)
+      ]
+      sn/obj/(espectadores espectador NCMP000 -) [
+        subord/modnomatch/(porque porque CS -) [
+          grup-verb/modnorule/(promociona promocionar VMIP3S0 -) [
+            morfema-verbal/modnomatch/(se se P0000000 -)
+            neg/modneg/(no no RN -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

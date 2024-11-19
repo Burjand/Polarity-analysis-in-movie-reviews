@@ -1,0 +1,57 @@
+coor-vb/top/(y y CC -) [
+  grup-verb/co-v/(es ser VSIP3S0 -) [
+    neg/modneg/(No no RN -)
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-sp/iobj/(para para SPS00 -) [
+      sn/head/(nada nada PI0CS000 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(buena bueno AQ0FS0 -)
+  ]
+  grup-verb/co-v/(creo crear VMIP1S0 -) [
+    sadv/cc/(tampoco tampoco RG -)
+    subord/modnomatch/(que que CS -) [
+      grup-verb/modnorule/(pretenda pretender VMSP1S0 -) [
+        patons/modnomatch/(lo lo PP3CNA00 -)
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(Eso ese PD0NS000 -) [
+    sadv/modnomatch/(sí sí RG -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(comedia comedia NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(atípica atípico AQ0FS0 -) [
+      sadv/modnorule/(ciertamente ciertamente RG -)
+    ]
+  ]
+  grup-sp/modnomatch/(dentro_de dentro_de SPS00 -) [
+    sn/head/(denominado denominar VMP00SM -) [
+      j-ms/modnomatch/(el el DA0MS0 -)
+    ]
+  ]
+  F-term/term/(? ? Fit -)
+  sn/obj/(humor humor NCMS000 -) [
+    s-a-ms/qual/(patrio patrio AQ0MS0 -)
+    grup-verb/modnomatch/(es ser VSIP3S0 -) [
+      coor-n/subj/(y y CC -) [
+        Fc(,)/modnomatch/(, , Fc -)
+        sn/co-n/(eso ese PD0NS000 -)
+      ]
+      grup-sp-inf/modnomatch/(de de SPS00 -) [
+        grup-verb-inf/head/(agradecer agradecer VMN0000 -)
+      ]
+    ]
+  ]
+  F-term/term/(? ? Fit -)
+  F-term/term/(. . Fp -)
+]
+

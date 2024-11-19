@@ -1,0 +1,69 @@
+coor-vb/top/(y y CC -) [
+  sn/subj/(Ang_Lee ang_lee NP00000 -) [
+    morfema-verbal/modnomatch/(se se P0000000 -)
+  ]
+  sn/subj/(revisita revisita NCFS000 -) [
+    grup-sp/modnomatch/(a a SPS00 -) [
+      s-a-ms/modnomatch/(mismo mismo AQ0MS0 -) [
+        sadv/modnorule/(sí sí RG -)
+      ]
+    ]
+  ]
+  grup-verb/co-v/(muestra mostrar VMIP3S0 -) [
+    patons/modnomatch/(nos nos PP1CP000 -)
+    sn/obj/(mundo mundo NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(contradictorio contradictorio AQ0MS0 -) [
+        sadv/modnorule/(tan tan RG -)
+      ]
+    ]
+    grup-sp/modnomatch/(como como CS -) [
+      sn/head/(figura figura NCFS000 -) [
+        espec-fs/espec/(su su DP3CS0 -)
+        s-a-fs/qual/(propia propio AQ0FS0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/modnomatch/(mundo mundo NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    grup-sp/modnomatch/(de de SPS00 -) [
+      s-a-mp/modnomatch/(infiltrados infiltrar VMP00PM -)
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(juegan jugar VMIP3P0 -)
+    ]
+    grup-sp/modnomatch/(a a SPS00 -) [
+      sn/head/(máscaras máscara NCFP000 -) [
+        espec-fp/espec/(las el DA0FP0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(personalidades personalidad NCFP000 -)
+        ]
+      ]
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(encontrando encontrar VMG0000 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+      VMI*<acabar>/modnomatch/(acaban acabar VMIP3P0 -)
+    ]
+  ]
+  parti-flex/modnomatch/(perdidos perder VMP00PM -)
+  grup-sp/modnomatch/(en en SPS00 -) [
+    sn/head/(maremoto maremoto NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(emociones emoción NCFP000 -)
+      ]
+    ]
+  ]
+  coor-n/modnomatch/(y y CC -) [
+    sn/co-n/(preguntas pregunta NCFP000 -)
+  ]
+  grup-sp/modnomatch/(sin sin SPS00 -) [
+    sn/head/(respuesta respuesta NCFS000 -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

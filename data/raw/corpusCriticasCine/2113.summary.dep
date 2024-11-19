@@ -1,0 +1,71 @@
+grup-verb/top/(dan dar VMIP3P0 -) [
+  sn/subj/(cocoteros cocotero NCMP000 -) [
+    espec-mp/espec/(Los el DA0MP0 -)
+  ]
+  sadv/cc/(aún aun RG -)
+  neg/modneg/(no no RN -)
+  sn/obj/(castañas castaña NCFP000 -)
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(constituyen constituir VMIP3P0 -) [
+  coor-n/subj/(y y CC -) [
+    sn/co-n/(pactos pacto NCMP000 -) [
+      espec-mp/espec/(Los el DA0MP0 -)
+      s-a-mp/qual/(continuos continuo AQ0MP0 -)
+    ]
+    sn/co-n/(traiciones traición NCFP000 -)
+    coor-n/modnomatch/(y y CC -) [
+      Fc(,)/modnomatch/(, , Fc -)
+      sn/co-n/(creación creación NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(personaje personaje NCMS000 -) [
+            espec-ms/espec/(un uno DI0MS0 -)
+            s-a-ms/qual/(homosexual homosexual AQ0CS0 -)
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(aciertos acierto NCMP000 -) [
+    s-a-mp/qual/(innegables innegable AQ0CP0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(guión guión NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+F-no-c/top/(¡ ¡ Faa -) [
+  coor-vb/modnorule/(Y y CC -) [
+    grup-verb/co-v/(reencontramos reencontrar VMIP1P0 -) [
+      patons/modnomatch/(nos nos PP1CP000 -)
+      grup-sp/modnomatch/(con con SPS00 -) [
+        sn/head/(perro perro NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/modnorule/(! ! Fat -)
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(causa causar VMIP3S0 -) [
+    sp-de/modnomatch/(de de SPS00 -) [
+      sn/gen/(alegría alegría NCFS000 -) [
+        espec-fs/espec/(mi mi DP1CSS -)
+        s-a-fs/qual/(única único AQ0FS0 -)
+      ]
+    ]
+    coor-n/obj/(y y CC -) [
+      sn/co-n/(preocupación preocupación NCFS000 -) [
+        s-a-fs/qual/(máxima máximo AQ0FS0 -)
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

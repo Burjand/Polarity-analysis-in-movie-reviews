@@ -1,0 +1,49 @@
+grup-verb/top/(negar negar VMN0000 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+  neg/modneg/(No no RN -)
+  conj-subord/modnomatch/(que que CS -)
+  grup-sp/modnomatch/(como como CS -) [
+    sn/head/(película película NCFS000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(monstruos monstruo NCMP000 -) [
+          grup-verb/modnomatch/(eiga eiga VMSP1S0 -) [
+            grup-sp/modnomatch/(a a SPS00 -) [
+              sn/head/(estilo estilo NCMS000 -) [
+                espec-ms/espec/(el el DA0MS0 -)
+                w-ms/modnomatch/(kaiju kaiju NP00000 -)
+                grup-verb/modnomatch/(consigue conseguir VMIP3S0 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb-inf/modnomatch/(innovar innovar VMN0000 -)
+  sn/obj/(forma forma NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(contar contar VMN0000 -) [
+      PP*/modnomatch/(nos nos PP1CP000 -)
+      PP*/modnomatch/(lo lo PP3CNA00 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(Es ser VSIP3S0 -) [
+  sn/obj/(cine_fantástico cine_fantástico NCMS000 -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(filtro filtro NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(realidad realidad NCFS000 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

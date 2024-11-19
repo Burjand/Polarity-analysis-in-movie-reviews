@@ -1,0 +1,68 @@
+grup-verb/top/(morir morir VMN0000 -) [
+  VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+  sn/subj/(cine cine NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+  ]
+  s-adj/modnomatch/(tranquilo tranquilo AQ0MS0 -)
+  grup-sp/modnomatch/(después_de después_de SPS00 -) [
+    sn/head/(peli peli AQ0CN0 -) [
+      pdem-fs/modnomatch/(ésta este PD0FS000 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(clásico clásico NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(verdadero verdadero AQ0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(cine cine NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(pelis pelis NCFN000 -) [
+  espec-fp/espec/(Las el DA0FP0 -)
+  vaux/modnomatch/(están estar VAIP3P0 -)
+  parti-flex/modnomatch/(hechas hacer VMP00PF -)
+  prep/modnomatch/(para para SPS00 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(hagan hacer VMSP3P0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+      sn/obj/(cosas cosa NCFP000 -)
+    ]
+  ]
+  sadv/modnomatch/(así así RG -)
+  F-term/term/(. . Fp -)
+]
+
+quien-s/top/(Quien quien PR0CS000 -) [
+  grup-verb/modnorule/(ver ver VMN0000 -) [
+    VMS*<querer>/modnomatch/(quiera querer VMSP1S0 -)
+  ]
+  prep/modnorule/(de de SPS00 -)
+  subord/modnorule/(que que PR0CN000 -) [
+    grup-verb/modnorule/(va ir VMIP3S0 -)
+  ]
+  parti-flex/modnorule/(ésto ésto VMP00SM -)
+  sp-de/modnorule/(de de SPS00 -) [
+    sn/gen/(cine cine NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  subord/modnorule/(que que PR0CN000 -) [
+    grup-verb/modnorule/(vea ver VMSP1S0 -)
+  ]
+  sn/modnorule/(Death_Proof death_proof NP00000 -)
+  F-term/modnorule/(. . Fp -)
+  grup-verb/modnorule/(es ser VSIP3S0 -) [
+    sn/subj/(cine cine NCMS000 -)
+    sn/obj/(estado estado NCMS000 -) [
+      s-a-ms/qual/(puro puro AQ0MS0 -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

@@ -1,0 +1,54 @@
+espec-fp/top/(Estas este DD0FP0 -) [
+  data/modnorule/(dos_horas_y_poco [??:??/??/??:2.??:??] W -)
+  sp-de/modnorule/(de de SPS00 -) [
+    sn/gen/(cine cine NCMS000 -)
+  ]
+  grup-verb/modnorule/(saben saber VMIP3P0 -)
+  Fc(,)/modnorule/(, , Fc -)
+  grup-sp-inf/modnorule/(a a SPS00 -) [
+    grup-verb-inf/head/(ver ver VMN0000 -)
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(hacer hacer VMN0000 -) [
+    patons/modnomatch/(le le PP3CSD00 -)
+    VMI*<ir>/modnomatch/(vamos ir VMIP1P0 -)
+    SPS00(a)/modnomatch/(a a SPS00 -)
+    sn/subj/(qué qué PT0CN000 -)
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  grup-sp/modnorule/(a a SPS00 -) [
+    sn/head/(poco poco PI0MS000 -)
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+grup-verb/top/(dudo dudar VMIP1S0 -) [
+  neg/modneg/(No no RN -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(asigne asignar VMSP1S0 -) [
+      patons/modnomatch/(le le PP3CSD00 -)
+      sn/subj/(festival festival NCMS000 -) [
+        espec-ms/espec/(algún alguno DI0MS0 -)
+      ]
+      grup-sp/modnomatch/(con con SPS00 -) [
+        sn/head/(ínfulas ínfula NCFP000 -) [
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(autopromoción autopromoción NCFS000 -) [
+              s-a-fs/qual/(rápida rápido AQ0FS0 -)
+            ]
+          ]
+        ]
+      ]
+      sn/obj/(estrellato estrellato NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        subord/modnomatch/(que que PR0CN000 -) [
+          grup-verb/modnorule/(merece merecer VMIP3S0 -) [
+            neg/modneg/(no no RN -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

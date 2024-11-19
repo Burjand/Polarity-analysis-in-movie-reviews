@@ -1,0 +1,70 @@
+prep/top/(A_pesar_de a_pesar_de SPS00 -) [
+  subord/modnorule/(que que CS -) [
+    grup-verb/modnorule/(flaquee flaquear VMSP1S0 -) [
+      grup-sp/cc/(en en SPS00 -) [
+        sn/head/(ocasiones ocasión NCFP000 -)
+      ]
+    ]
+  ]
+  coor-sp/modnorule/(o o CC -) [
+    grup-sp/modnorule/(en en SPS00 -) [
+      sn/head/(ideas idea NCFP000 -) [
+        espec-fp/espec/(las el DA0FP0 -)
+      ]
+    ]
+    grup-sp/modnorule/(en en SPS00 -) [
+      sn/head/(modo modo NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  grup-sp-inf/modnorule/(de de SPS00 -) [
+    grup-verb-inf/head/(tratar tratar VMN0000 -) [
+      PP*/modnomatch/(las los PP3FPA00 -)
+    ]
+  ]
+  grup-verb/modnorule/(es ser VSIP3S0 -) [
+    sn/obj/(cinta cinta NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(entretenida entretener VMP00SF -)
+    ]
+  ]
+  prep/modnorule/(en en SPS00 -)
+  espec-fs/modnorule/(la el DA0FS0 -)
+  prel/modnorule/(que que PR0CN000 -)
+  subord/modnorule/(si si CS -) [
+    grup-verb/modnorule/(medido medir VMP00SM -) [
+      vaux/aux/(hubiesen haber VASI3P0 -)
+      sn/obj/(parte parte NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        s-a-fs/qual/(y y CC -) [
+          s-a-fs/modnorule/(personal personal AQ0CS0 -)
+          s-a-fs/modnorule/(romántica romántico AQ0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  grup-verb/modnorule/(logrado lograr VMP00SM -) [
+    VMI*<poder>/modnomatch/(podrían poder VMIC3P0 -)
+    infaux/modnomatch/(haber haber VAN0000 -)
+    grup-sp/modnomatch/(con con SPS00 -) [
+      sn/head/(tino tino NCMS000 -) [
+        espec-ms/espec/(más más RG -)
+      ]
+    ]
+    sn/obj/(combinación combinación NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+    ]
+    sadv/cc/(casi casi RG -)
+    grup-sp-inf/modnomatch/(de de SPS00 -) [
+      grup-verb-inf/head/(quitar quitar VMN0000 -) [
+        PP*/modnomatch/(se se PP3CN000 -)
+      ]
+      sn/modnomatch/(sombrero sombrero NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

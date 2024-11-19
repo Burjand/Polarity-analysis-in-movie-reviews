@@ -1,0 +1,54 @@
+grup-verb/top/(asombrar asombrar VMN0000 -) [
+  patons/modnomatch/(me me PP1CS000 -)
+  VMI*<dejar>/modnomatch/(dejo dejar VMIP1S0 -)
+  SPS00(de)/modnomatch/(de de SPS00 -)
+  grup-sp/modnomatch/(Desde desde SPS00 -) [
+    sn/head/(Toy_Story toy_story NP00000 -)
+  ]
+  neg/modneg/(no no RN -)
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(nivel nivel NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(calidad calidad NCFS000 -)
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(alcanzado alcanzar VMP00SM -) [
+      vaux/aux/(han haber VAIP3P0 -)
+    ]
+  ]
+  sn/obj/(animaciones animación NCFP000 -) [
+    espec-fp/espec/(las el DA0FP0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(detalles detalle NCMP000 -) [
+    espec-mp/espec/(Los el DA0MP0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(paisajes paisaje NCMP000 -) [
+    espec-mp/espec/(los el DA0MP0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(todo todo PI0MS000 -)
+  s-adj/att/(y y CC -) [
+    s-a-ms/modnorule/(real real AQ0CS0 -) [
+      sadv/modnorule/(tan tan RG -)
+    ]
+    s-a-ms/modnorule/(perfecto perfecto AQ0MS0 -) [
+      sadv/modnorule/(tan tan RG -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(Es ser VSIP3S0 -) [
+  sadv/cc/(sencillamente sencillamente RG -)
+  F-no-c/modnomatch/(... ... Fs -)
+  s-adj/att/(mágico mágico AQ0MS0 -)
+]
+

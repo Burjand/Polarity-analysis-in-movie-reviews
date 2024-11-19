@@ -1,0 +1,43 @@
+grup-verb/top/(esperemos esperar VMM01P0 -) [
+  sn/subj/(resurgimiento resurgimiento NCMS000 -) [
+    espec-ms/espec/(Un uno DI0MS0 -)
+    s-a-ms/qual/(gran gran AQ0CS0 -)
+    grup-sp/modnomatch/(para para SPS00 -) [
+      sn/head/(saga saga NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        grup-sp/modnomatch/(con con SPS00 -) [
+          sn/head/(Bond bond NP00000 -) [
+            espec-ms/espec/(un uno DI0MS0 -)
+            s-a-ms/qual/(nuevo nuevo AQ0MS0 -)
+            s-a-ms/qual/(carismático carismático AQ0MS0 -) [
+              sadv/modnorule/(muy muy RG -)
+            ]
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    coord/modnomatch/(y y CC -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(augura augurar VMIP3S0 -) [
+        patons/modnomatch/(le le PP3CSD00 -)
+      ]
+    ]
+  ]
+  sn/subj/(serie serie NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(nueva nuevo AQ0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(películas película NCFP000 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(estilo estilo NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(mismo mismo AQ0MS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

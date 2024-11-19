@@ -1,0 +1,61 @@
+grup-verb/top/(hace hacer VMIP3S0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+    s-adj/qual/(solo solo AQ0MS0 -) [
+      sadv/modnorule/(tan tan RG -)
+    ]
+    grup-sp/modnomatch/(a a SPS00 -) [
+      sn/head/(cuarto cuarto NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(hora hora NCFS000 -)
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(tortura tortura NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(verdadera verdadero AQ0FS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(Imaginen imaginar VMM03P0 -) [
+  patons/modnomatch/(se se PP3CN000 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/modnomatch/(hay haber VMIP3S0 -) [
+    sn/obj/(momento momento NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+    ]
+  ]
+  prep/modnomatch/(en en SPS00 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(salta saltar VMIP3S0 -) [
+      sn/subj/(protagonista protagonista NCCS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        Fc(,)/modnomatch/(, , Fc -)
+      ]
+      sn/subj/(motorista motorista NCCS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        Fc(,)/modnomatch/(, , Fc -)
+      ]
+      sn/obj/(90_metros LN_m:90 Zu -)
+      grup-sp/iobj/(a a SPS00 -) [
+        sn/head/(largo largo AQ0MS0 -) [
+          j-ms/modnomatch/(lo el DA0NS0 -)
+        ]
+      ]
+    ]
+  ]
+  prep/modnomatch/(por por SPS00 -)
+  grup-sp/modnomatch/(encima_de encima_de SPS00 -) [
+    sn/head/(helicópteros helicóptero NCMP000 -) [
+      espec-mp/espec/(unos uno DI0MP0 -)
+    ]
+    F-no-c/modnomatch/(.... .... Fz -)
+  ]
+]
+

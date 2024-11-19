@@ -1,0 +1,54 @@
+sn/top/(película película NCFS000 -) [
+  s-a-fs/qual/(Buena bueno AQ0FS0 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/modnomatch/(director director NCMS000 -) [
+    s-a-ms/qual/(gran gran AQ0CS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+subord/top/(Si si CS -) [
+  grup-verb/modnorule/(sigue seguir VMIP3S0 -) [
+    sn/subj/(señor señor NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      w-ms/modnomatch/(Joe_Wright joe_wright NP00000 -)
+    ]
+    grup-sp/modnomatch/(con con SPS00 -) [
+      sn/head/(evolución evolución NCFS000 -) [
+        espec-fs/espec/(esta este DD0FS0 -)
+      ]
+    ]
+  ]
+  grup-verb/modnorule/(espera esperar VMIP3S0 -) [
+    patons/modnomatch/(le le PP3CSD00 -)
+    sn/obj/(carrera carrera NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(prometedora prometedor AQ0FS0 -) [
+        sadv/modnorule/(muy muy RG -)
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+grup-verb/top/(Deseo desear VMIP1S0 -) [
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(consiga conseguir VMSP1S0 -) [
+      patons/modnomatch/(lo lo PP3CNA00 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/modnomatch/(será ser VSIF3S0 -) [
+    grup-sp/modnomatch/(sin sin SPS00 -) [
+      sn/head/(duda duda NCFS000 -)
+    ]
+    sn/obj/(señal señal NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(buena bueno AQ0FS0 -) [
+        sadv/modnorule/(muy muy RG -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

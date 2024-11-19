@@ -1,0 +1,74 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(Mujeres mujer NCFP000 -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(Parque parque NP00000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(buena bueno AQ0FS0 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(disecciona diseccionar VMIP3S0 -)
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(personajes personaje NCMP000 -) [
+      espec-mp/espec/(unos uno DI0MP0 -)
+    ]
+  ]
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(mostrar mostrar VMN0000 -) [
+      PP*/modnomatch/(los los PP3MPA00 -)
+    ]
+  ]
+  subord/modnomatch/(tal_y_como tal_y_como CS -) [
+    grup-verb/modnorule/(son ser VSIP3P0 -)
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(público público NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(queda quedar VMIP3S0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  grup-sp/modnomatch/(Sin sin SPS00 -) [
+    sn/head/(embargo embargo NCMS000 -) [
+      grup-verb/modnomatch/(es ser VSIP3S0 -) [
+        sadv/cc/(siempre siempre RG -)
+        sn/obj/(lástima lástima NCFS000 -) [
+          espec-fs/espec/(una uno DI0FS0 -)
+          s-a-fs/qual/(verdadera verdadero AQ0FS0 -)
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(camino camino NCMS000 -) [
+      s-a-ms/qual/(medio medio AQ0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(película película NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          s-a-fs/qual/(excelente excelente AQ0CS0 -)
+        ]
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(haber haber VMN0000 -) [
+      VMI*<poder>/modnomatch/(podría poder VMIC1S0 -)
+    ]
+  ]
+  parti-ser/modnomatch/(sido ser VSP00SM -)
+  Fc(,)/modnomatch/(, , Fc -)
+  relatiu/modnomatch/(cual cual PR0CS000 -) [
+    j-ms/modnorule/(lo el DA0NS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

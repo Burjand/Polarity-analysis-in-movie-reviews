@@ -1,0 +1,57 @@
+grup-verb/top/(disecciona diseccionar VMIP3S0 -) [
+  grup-sp/cc/(En en SPS00 -) [
+    sn/head/(Valle_de_Elah valle_de_elah NP00000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(obra obra NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    s-a-fs/qual/(nueva nuevo AQ0FS0 -)
+    s-a-fs/qual/(maestra maestro AQ0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Paul_Haggis paul_haggis NP00000 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(aplomo aplomo NCMS000 -) [
+      s-a-ms/qual/(gran gran AQ0CS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(mesura mesura NCFS000 -) [
+    coor-sp/modnomatch/(y y CC -) [
+      grup-sp/modnorule/(sin sin SPS00 -) [
+        sn/head/(gota gota NCFS000 -) [
+          espec-fs/espec/(una uno DI0FS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(cinismo cinismo NCMS000 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  sn/obj/(efectos efecto NCMP000 -) [
+    espec-mp/espec/(los el DA0MP0 -)
+    s-a-mp/qual/(devastadores devastador AQ0MP0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(tiene tener VMIP3S0 -)
+    ]
+  ]
+  sn/obj/(guerra guerra NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Iraq iraq NP00000 -) [
+        grup-sp/modnomatch/(en en SPS00 -) [
+          sn/head/(sociedad sociedad NCFS000 -) [
+            espec-fs/espec/(la el DA0FS0 -)
+            s-a-fs/qual/(estadounidense estadounidense AQ0CS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

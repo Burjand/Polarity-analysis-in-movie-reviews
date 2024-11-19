@@ -1,0 +1,49 @@
+grup-verb/top/(aventura aventurar VMM02S0 -) [
+  patons/modnomatch/(nos nos PP1CP000 -)
+  sn/subj/(propuesta propuesta NCFS000 -) [
+    espec-fs/espec/(Una uno DI0FS0 -)
+    s-a-fs/qual/(buena bueno AQ0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(cine_fantástico cine_fantástico NCMS000 -) [
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(España españa NP00000 -)
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    prel/modnomatch/(que que PR0CN000 -)
+    Fc(,)/modnomatch/(, , Fc -)
+    parti-flex/modnomatch/(venida venir VMP00SF -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  parti-flex/modnomatch/(personalizada personalizar VMP00SF -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(Elio_Quiroga elio_quiroga NP00000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  s-adj/modnomatch/(interesante interesante AQ0CS0 -) [
+    sadv/modnorule/(algo algo RG -)
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(pautas pauta NCFP000 -) [
+      espec-fp/espec/(unas uno DI0FP0 -)
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(marcar marcar VMN0000 -) [
+      patons/modnomatch/(se se PP3CN000 -)
+      VMI*<poder>/modnomatch/(podrían poder VMIC3P0 -)
+    ]
+  ]
+  coord/modnomatch/(o o CC -)
+  grup-verb-inf/modnomatch/(seguir seguir VMN0000 -) [
+    PP*/modnomatch/(se se PP3CN000 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(futuro futuro NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

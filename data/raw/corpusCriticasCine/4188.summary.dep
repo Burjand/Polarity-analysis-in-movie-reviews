@@ -1,0 +1,62 @@
+grup-verb/top/(aparece aparecer VMIP3S0 -) [
+  grup-sp/modnomatch/(Hasta hasta SPS00 -) [
+    sn/head/(hora hora NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(metraje metraje NCMS000 -) [
+          grup-verb/modnomatch/(vemos ver VMIP1P0 -) [
+            grup-sp/cc/(en en SPS00 -) [
+              sn/head/(acción acción NCFS000 -)
+            ]
+            grup-sp/iobj/(a a SPS00 -) [
+              sn/head/(crios crios NCMP000 -) [
+                numero-nopart/quant/(cuatro 4 Z -)
+              ]
+            ]
+            grup-sp/modnomatch/(con con SPS00 -) [
+              sn/head/(maquillaje maquillaje NCMS000 -)
+            ]
+            subord/modnomatch/(que que PR0CN000 -) [
+              grup-verb/modnorule/(parece parecer VMIP3S0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  neg/modneg/(no no RN -)
+  coor-n/obj/(ni ni CC -) [
+    sn/co-n/(uno uno PI0MS000 -)
+  ]
+  coord/modnomatch/(y y CC -)
+  subord/modnomatch/(cuando cuando CS -) [
+    grup-verb/modnorule/(deciden decidir VMIP3P0 -)
+  ]
+  grup-verb-inf/modnomatch/(entrar entrar VMN0000 -)
+  parti-flex/modnomatch/(hecho hacer VMP00SM -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(tiza tiza NCFS000 -) [
+      grup-verb/modnomatch/(parece parecer VMIP3S0 -) [
+        sn/subj/(ritmo ritmo NCMS000 -) [
+          s-a-ms/qual/(lento lento AQ0MS0 -)
+          subord/modnomatch/(donde donde PR000000 -) [
+            grup-verb/modnorule/(salvo salvar VMIP1S0 -)
+          ]
+        ]
+        grup-sp/modnomatch/(por por SPS00 -) [
+          sn/head/(parte parte NCFS000 -) [
+            espec-fs/espec/(la el DA0FS0 -)
+            s-a-fs/qual/(final final AQ0CS0 -)
+          ]
+        ]
+        sn/obj/(telefilme telefilme NCMS000 -) [
+          espec-ms/espec/(un uno DI0MS0 -)
+          s-a-ms/qual/(dramático dramático AQ0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(. . Fp -)
+]
+

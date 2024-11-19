@@ -1,0 +1,62 @@
+grup-verb/top/(interpretes interpretar VMSP2S0 -) [
+  sn/subj/(Sadomasoquismo sadomasoquismo NP00000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/modnomatch/(Sexo sexo NP00000 -) [
+      Fc(,)/modnomatch/(, , Fc -)
+    ]
+    sn/modnomatch/(Demencia demencia NP00000 -) [
+      Fc(,)/modnomatch/(, , Fc -)
+    ]
+    sn/modnomatch/(Fervor_Religioso fervor_religioso NP00000 -)
+    coord/modnomatch/(y y CC -)
+    subord/modnomatch/(si si CS -) [
+      grup-verb/modnorule/(apuran apurar VMIP3P0 -) [
+        patons/modnomatch/(me me PP1CS000 -)
+        sn/obj/(algo algo PI0CS000 -) [
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(zoofilia zoofilia NCFS000 -) [
+              s-a-fs/qual/(encubierta encubrir VMP00SF -)
+              grup-sp/modnomatch/(en en SPS00 -) [
+                sn/head/(obra obra NCFS000 -) [
+                  espec-fs/espec/(una uno DI0FS0 -)
+                  s-a-fs/qual/(rodada rodar VMP00SF -)
+                  grup-sp/modnomatch/(con con SPS00 -) [
+                    sn/head/(entrañas entraña NCFP000 -) [
+                      espec-fp/espec/(las el DA0FP0 -)
+                      sp-de/mod/(de de SPS00 -) [
+                        sn/gen/(locuras locura NCFP000 -) [
+                          espec-fp/espec/(las el DA0FP0 -)
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+    prep/modnomatch/(de de SPS00 -)
+    espec-mp/espec/(unos uno DI0MP0 -)
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(director director NCMS000 -)
+  ]
+  parti-flex/modnomatch/(entregados entregar VMP00PM -)
+  prep/modnomatch/(en en SPS00 -)
+  espec-fs/modnomatch/(una uno DI0FS0 -)
+  coord/modnomatch/(mas mas CC -)
+  s-adj/modnomatch/(e e CC -) [
+    s-a-fp/modnorule/(bellas bello AQ0FP0 -)
+    s-a-fp/modnorule/(inspiradoras inspirador AQ0FP0 -)
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(refleja reflejar VMIP3S0 -)
+  ]
+  sn/obj/(lecturas lectura NCFP000 -) [
+    s-a-fp/qual/(múltiples múltiple AQ0CP0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

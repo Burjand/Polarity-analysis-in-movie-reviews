@@ -1,0 +1,49 @@
+grup-verb/top/(reside residir VMIP3S0 -) [
+  sn/subj/(esencia esencia NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(maestría maestría NCFS000 -) [
+        espec-fs/espec/(su su DP3CS0 -)
+      ]
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(argumento argumento NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(original original AQ0CS0 -) [
+        s-a-ms/modnorule/(transmitido transmitir VMP00SM -)
+      ]
+    ]
+  ]
+  grup-sp/modnomatch/(a_través_de a_través_de SPS00 -) [
+    sn/head/(guión guión NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(buen bueno AQ0MS0 -)
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(algo algo PI0CS000 -) [
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(hace hacer VMIP3S0 -) [
+        patons/modnomatch/(le le PP3CSD00 -)
+      ]
+    ]
+    grup-verb/modnomatch/(basado basar VMP00SM -) [
+      vaux/aux/(está estar VAIP3S0 -)
+      neg/modneg/(no no RN -)
+      grup-sp/cc/(en en SPS00 -) [
+        sn/head/(novela novela NCFS000 -) [
+          espec-fs/espec/(ninguna ninguno DI0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  sadv/cc/(aún aun RG -)
+  s-adj/modnomatch/(meritorio meritorio AQ0MS0 -) [
+    sadv/modnorule/(más más RG -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(. . Fp -)
+]
+

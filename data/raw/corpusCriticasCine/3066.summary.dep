@@ -1,0 +1,78 @@
+grup-verb/top/(cree creer VMIP3S0 -) [
+  sn/subj/(Película película NCFS000 -) [
+    grup-sp/modnomatch/(sobre sobre SPS00 -) [
+      sn/head/(chaval chaval NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        grup-sp/modnomatch/(a a SPS00 -) [
+          sn/head/(vecinos vecino NCMP000 -) [
+            espec-mp/espec/(sus su DP3CP0 -)
+          ]
+        ]
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(espía espiar VMIP3S0 -)
+    ]
+    coord/modnomatch/(y y CC -)
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-sp-inf/modnomatch/(además_de además_de SPS00 -) [
+      grup-verb-inf/head/(descubrir descubrir VMN0000 -)
+    ]
+    espec-ms/espec/(lo el DA0NS0 -)
+    s-adj/qual/(maciza macizo AQ0FS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(está estar VAIP3S0 -)
+    ]
+  ]
+  sn/subj/(vecina vecino NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  grup-verb-inf/modnomatch/(descubrir descubrir VMN0000 -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(asesino asesino NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-n/top/(y y CC -) [
+  sn/co-n/(Pan pan NCMS000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(semillas semilla NCFP000 -)
+    ]
+  ]
+  sn/co-n/(miel miel NCFS000 -)
+  sadv/modnomatch/(recién recién RG -)
+  parti-flex/modnomatch/(hecho hacer VMP00SM -)
+  parti-flex/modnomatch/(tostadito tostar VMP00SM -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(relleno relleno NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(lechuga lechuga NCFS000 -) [
+          grup-sp/modnomatch/(sin sin SPS00 -) [
+            sn/head/(sal sal NCFS000 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+coor-n/top/(y y CC -) [
+  sn/co-n/(principio principio NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+  ]
+  sn/co-n/(final final NCFS000 -)
+  sadv/modnomatch/(bien bien RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/co-n/(resto resto NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    n-ms/modnomatch/(rollo rollo NCMS000 -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

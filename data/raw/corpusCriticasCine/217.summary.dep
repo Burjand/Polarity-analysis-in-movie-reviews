@@ -1,0 +1,27 @@
+grup-verb/top/(parecido parecer VMP00SM -) [
+  patons/modnomatch/(me me PP1CS000 -)
+  vaux/aux/(ha haber VAIP3S0 -)
+  sadv/cc/(Francamente Francamente RG -)
+  neg/modneg/(no no RN -)
+  s-adj/modnomatch/(horrorosa horroroso AQ0FS0 -) [
+    sadv/modnorule/(tan tan RG -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/modnomatch/(es ser VSIP3S0 -) [
+    sn/subj/(cierto cierto AQ0MS0 -) [
+      j-ms/modnomatch/(lo el DA0NS0 -)
+    ]
+    subord/modnomatch/(que que CS -) [
+      grup-verb/modnorule/(podia podia VMIP3S0 -) [
+        morfema-verbal/modnomatch/(se se P0000000 -)
+      ]
+    ]
+  ]
+  grup-verb-inf/modnomatch/(hecho hacer VMP00SM -) [
+    infaux/modnomatch/(haber haber VAN0000 -)
+  ]
+  s-adj/modnomatch/(mejor mejor AQ0CS0 -) [
+    sadv/modnorule/(mucho mucho RG -)
+  ]
+]
+

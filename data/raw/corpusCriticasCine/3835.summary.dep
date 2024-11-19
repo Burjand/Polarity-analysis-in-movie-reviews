@@ -1,0 +1,35 @@
+grup-verb/top/(deleitan deleitar VMIP3P0 -) [
+  sn/subj/(actores actor NCMP000 -) [
+    espec-mp/espec/(Los el DA0MP0 -)
+    s-a-mp/qual/(favoritos favorito AQ0MP0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(hermanos hermano NCMP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+      ]
+    ]
+  ]
+  sn/subj/(Scott scott NP00000 -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(interpretaciones interpretación NCFP000 -) [
+      espec-fp/espec/(sendas sendos DI0FP0 -)
+      s-a-fp/qual/(magistrales magistral AQ0CP0 -)
+    ]
+  ]
+  prep/modnomatch/(en en SPS00 -)
+  espec-fs/modnomatch/(la el DA0FS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(ser ser VSN0000 -) [
+      VMI*<poder>/modnomatch/(pude poder VMIS1S0 -)
+    ]
+  ]
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(año año NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

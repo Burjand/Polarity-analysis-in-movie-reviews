@@ -1,0 +1,37 @@
+grup-verb/top/(gustado gustar VMP00SM -) [
+  patons/modnomatch/(Me me PP1CS000 -)
+  vaux/aux/(ha haber VAIP3S0 -)
+  F-no-c/modnomatch/(( ( Fpa -)
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(entretenido entretenido NCMS000 -)
+  ]
+  F-no-c/modnomatch/() ) Fpt -)
+  sadv/cc/(bastante bastante RG -)
+  coor-sp/modnomatch/(pero pero CC -) [
+    Fc(,)/modnorule/(, , Fc -)
+    grup-sp/modnorule/(con con SPS00 -) [
+      sn/head/(reticencias reticencia NCFP000 -) [
+        s-a-fp/qual/(ciertas cierto AQ0FP0 -)
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(aceptar aceptar VMN0000 -) [
+      VMI*<deber>/modnomatch/(deberían deber VMIC3P0 -)
+      VMN0000(empezar)/modnomatch/(empezar empezar VMN0000 -)
+      SPS00(a)/modnomatch/(a a SPS00 -)
+      grup-sp/cc/(en en SPS00 -) [
+        sn/head/(USA usa NP00000 -)
+      ]
+      grup-sp/iobj/(para para SPS00 -) [
+        sadv/modnomatch/(así así RG -)
+      ]
+    ]
+  ]
+  grup-verb-inf/modnomatch/(exhorcitar exhorcitar VMN0000 -)
+  sn/obj/(fantasmas fantasma NCMP000 -) [
+    espec-mp/espec/(sus su DP3CP0 -)
+    F-no-c/modnomatch/(... ... Fs -)
+  ]
+]
+

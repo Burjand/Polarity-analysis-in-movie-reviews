@@ -1,0 +1,49 @@
+grup-verb/top/(da dar VMIP3S0 -) [
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+    grup-verb/modnomatch/(consigue conseguir VMIP3S0 -)
+  ]
+  neg/modneg/(no no RN -)
+  sn/obj/(tregua tregua NCFS000 -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(espectador espectador NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  neg/modneg/(no no RN -)
+  grup-verb-inf/modnomatch/(liar liar VMN0000 -) [
+    PP*/modnomatch/(lo lo PP3CNA00 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(exposición exposición NCFS000 -) [
+      espec-fs/espec/(su su DP3CS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(ni_que ni_que CS -) [
+    grup-verb/modnorule/(cirríe cirríe VMIP3S0 -) [
+      sn/obj/(investigación investigación NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        s-a-fs/qual/(policial policial AQ0CS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(Sentiremos sentir VMIF1P0 -) [
+  sn/obj/(sensación sensación NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(y y CC -) [
+      s-a-fs/modnorule/(agradable agradable AQ0CS0 -)
+      s-a-fs/modnorule/(adecuada adecuar VMP00SF -)
+    ]
+    grup-verb/modnomatch/(dèja dèja VMIP3S0 -) [
+      sn/obj/(vú vú NP00000 -)
+    ]
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  F-term/term/(. . Fp -)
+]
+

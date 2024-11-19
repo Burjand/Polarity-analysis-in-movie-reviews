@@ -1,0 +1,71 @@
+coor-vb/top/(y y CC -) [
+  sn/subj/(cinta cinta NCFS000 -) [
+    espec-fs/espec/(Una uno DI0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(suspense suspense NCMS000 -) [
+        grup-sp/modnomatch/(en en SPS00 -) [
+          sn/head/(recursos recurso NCMP000 -) [
+            espec-mp/espec/(los el DA0MP0 -)
+            grup-sp/modnomatch/(de de SPS00 -) [
+              sadv/modnomatch/(siempre siempre RG -)
+            ]
+          ]
+        ]
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(cae caer VMIP3S0 -)
+    ]
+    coord/modnomatch/(y y CC -)
+    prel-adv/modnomatch/(donde donde PR000000 -)
+  ]
+  sn/subj/(actores actor NCMP000 -) [
+    espec-mp/espec/(los el DA0MP0 -)
+  ]
+  grup-verb/co-v/(llevan llevar VMIP3P0 -) [
+    sadv/cc/(magistralmente magistralmente RG -)
+    sn/obj/(peso peso NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(interpretación interpretación NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  grup-verb/co-v/(trasmitir trasmitir VMN0000 -) [
+    VMI*<llegar>/modnomatch/(llegan llegar VMIP3P0 -)
+    SPS00(a)/modnomatch/(a a SPS00 -)
+    grup-sp/iobj/(a a SPS00 -) [
+      sn/head/(espectador espectador NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  grup-verb/co-v/(gustará gustar VMIF3S0 -) [
+    sadv/cc/(tanto tanto RG -)
+    sn/subj/(miedos miedo NCMP000 -) [
+      espec-mp/espec/(sus su DP3CP0 -)
+      grup-sp/modnomatch/(con con SPS00 -) [
+        sn/head/(inseguridades inseguridad NCFP000 -) [
+          espec-fp/espec/(sus su DP3CP0 -)
+        ]
+      ]
+      Fc(,)/modnomatch/(, , Fc -)
+    ]
+    grup-sp/iobj/(a a SPS00 -) [
+      sn/head/(amantes amante NCCP000 -) [
+        espec-mp/espec/(todos todo DI0MP0 -) [
+          j-mp/modnorule/(los el DA0MP0 -)
+        ]
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(género género NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

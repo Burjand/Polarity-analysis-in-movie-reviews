@@ -1,0 +1,59 @@
+grup-verb/top/(Pasen pasar VMM03P0 -) [
+  grup-sp/cc/(por por SPS00 -) [
+    sn/head/(caja caja NCFS000 -) [
+      grup-verb/modnomatch/(dejen dejar VMSP3P0 -) [
+        sn/obj/(euros euro NCMP000 -) [
+          espec-mp/espec/(sus su DP3CP0 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(si si CS -) [
+    grup-verb/modnorule/(tienen tener VMIP3P0 -) [
+      neg/modneg/(no no RN -)
+      sn/obj/(cosa cosa NCFS000 -) [
+        espec-fs/espec/(otra otro DI0FS0 -)
+      ]
+    ]
+  ]
+  prel/modnomatch/(que que PR0CN000 -)
+  grup-verb-inf/modnomatch/(hacer hacer VMN0000 -)
+  F-term/term/(. . Fp -)
+]
+
+subord/top/(Si si CS -) [
+  grup-verb/modnorule/(tienen tener VMIP3P0 -) [
+    patons/modnomatch/(la lo PP3FSA00 -)
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(hagan hacer VMM03P0 -) [
+    patons/modnomatch/(la lo PP3FSA00 -)
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+coor-vb/top/(Aunque aunque CC -) [
+  grup-verb/co-v/(cueste costar VMM03S0 -)
+  sadv/modnomatch/(más más RG -)
+  F-term/modnomatch/(. . Fp -)
+]
+
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(dinero dinero NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+  ]
+  neg/modneg/(no no RN -)
+  sn/obj/(importante importante AQ0CS0 -) [
+    j-ms/modnomatch/(lo el DA0NS0 -)
+    sadv/modnomatch/(más más RG -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(vida vida NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

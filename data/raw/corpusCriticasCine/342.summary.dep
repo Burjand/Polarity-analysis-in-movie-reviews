@@ -1,0 +1,56 @@
+grup-verb/top/(da dar VMIP3S0 -) [
+  sn/subj/(visión visión NCFS000 -) [
+    espec-fs/espec/(Esa ese DD0FS0 -)
+    s-a-fs/qual/(pura puro AQ0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(violencia violencia NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    parti-flex/modnomatch/(desmaquillada desmaquillar VMP00SF -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(film film NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  sn/obj/(inocencia inocencia NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(decir decir VMN0000 -) [
+  patons/modnomatch/(lo lo PP3CNA00 -)
+  VMI*<ir>/modnomatch/(iba ir VMII1S0 -)
+  SPS00(a)/modnomatch/(a a SPS00 -)
+  sn/subj/(Quién quién PT0CS000 -)
+  subord-ger/modnomatch/(tratando tratar VMG0000 -) [
+    PP*/modnorule/(se se PP3CN000 -)
+    sn/modnorule/(Cronenberg cronenberg NP00000 -)
+  ]
+  coor-sp/modnomatch/(y y CC -) [
+    grup-sp/modnorule/(con con SPS00 -) [
+      sn/head/(guión guión NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(asesinos asesino NCMP000 -) [
+            s-a-mp/qual/(natos nato AQ0MP0 -)
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(venganzas venganza NCFP000 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(rencillas rencilla NCFP000 -) [
+      s-a-fp/qual/(hiperbólicas hiperbólico AQ0FP0 -)
+    ]
+  ]
+]
+

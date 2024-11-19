@@ -1,0 +1,41 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Neil_Burger neil_burger NP00000 -)
+    ]
+  ]
+  sn/obj/(entretenimiento entretenimiento NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(calidad calidad NCFS000 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(interpretación interpretación NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(sobresaliente sobresaliente AQ0CS0 -)
+    ]
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(guión guión NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(correcto correcto AQ0MS0 -)
+    ]
+  ]
+  F-no-c/modnomatch/(( ( Fpa -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(giro giro NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(final final AQ0CS0 -) [
+        s-a-ms/modnorule/(brusco brusco AQ0MS0 -) [
+          sadv/modnorule/(demasiado demasiado RG -)
+        ]
+      ]
+    ]
+    F-no-c/modnomatch/() ) Fpt -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

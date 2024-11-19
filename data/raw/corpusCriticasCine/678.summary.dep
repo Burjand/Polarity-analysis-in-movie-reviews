@@ -1,0 +1,64 @@
+grup-verb/top/(vuelve volver VMIP3S0 -) [
+  sn/subj/(Allen allen NP00000 -)
+  grup-sp/cc/(a a SPS00 -) [
+    sn/head/(orígenes origen NCMP000 -) [
+      espec-mp/espec/(sus su DP3CP0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(sabe saber VMIP3S0 -) [
+  grup-sp/modnomatch/(A a SPS00 -) [
+    sn/head/(comedias comedia NCFP000 -) [
+      espec-fp/espec/(sus su DP3CP0 -)
+      s-a-fp/qual/(disparatadas disparatar VMP00PF -)
+      grup-sp/modnomatch/(con con SPS00 -) [
+        sn/head/(ése ese PD0MS000 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/head/(humor humor NCMS000 -) [
+      s-a-ms/qual/(universal universal AQ0CS0 -)
+    ]
+    prel/modnomatch/(que que PR0CN000 -)
+    sadv/modnomatch/(sólo sólo RG -)
+    espec-ms/modnomatch/(el el DA0MS0 -)
+  ]
+  grup-verb-inf/modnomatch/(transmitir transmitir VMN0000 -)
+  F-term/term/(. . Fp -)
+]
+
+vaux/top/(Estamos estar VAIP1P0 -) [
+  prep/modnorule/(ante ante SPS00 -)
+  espec-fs/modnorule/(una uno DI0FS0 -)
+  sp-de/modnorule/(de de SPS00 -) [
+    sn/gen/(películas película NCFP000 -) [
+      espec-fp/espec/(las el DA0FP0 -)
+      s-a-fp/qual/(características característico AQ0FP0 -) [
+        sadv/modnorule/(más más RG -)
+      ]
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(director director NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          s-a-ms/qual/(neoyorkino neoyorkino AQ0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+coor-n/top/(y y CC -) [
+  sn/co-n/(Risas risas NP00000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/co-n/(suspense suspense NCMS000 -) [
+    F-no-c/modnomatch/(... ... Fs -)
+  ]
+  sn/co-n/(risas risa NCFP000 -) [
+    espec-fp/espec/(más más RG -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

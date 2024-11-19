@@ -1,0 +1,66 @@
+grup-verb/top/(reduce reducir VMIP3S0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+  ]
+  coor-sp/modnomatch/(y y CC -) [
+    grup-sp/modnorule/(a a SPS00 -) [
+      sn/head/(interpretaciones interpretación NCFP000 -) [
+        numero-nopart/quant/(3 3 Z -)
+        s-a-fp/qual/(magistrales magistral AQ0CP0 -)
+      ]
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+    grup-sp/modnorule/(a a SPS00 -) [
+      sn/head/(Cesar_Borgia cesar_borgia NP00000 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  conj-subord/modnomatch/(porque porque CS -)
+  sadv/cc/(más más RG -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(es ser VSIP3S0 -) [
+      sn/subj/(historia historia NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(familia familia NCFS000 -) [
+            espec-fs/espec/(la el DA0FS0 -)
+          ]
+        ]
+        Fc(,)/modnomatch/(, , Fc -)
+      ]
+      sn/obj/(historia historia NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(personaje personaje NCMS000 -) [
+            espec-ms/espec/(este este DD0MS0 -)
+            s-a-ms/qual/(oscuro oscuro AQ0MS0 -)
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(inspiró inspirar VMIS3S0 -)
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(Maquiavelo maquiavelo NP00000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(mismísimo mismo AQSMS0 -)
+      grup-sp/modnomatch/(en en SPS00 -) [
+        sn/head/(obra obra NCFS000 -) [
+          espec-fs/espec/(su su DP3CS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(? ? Fit -)
+]
+
+sn/top/(Príncipe príncipe NP00000 -) [
+  espec-ms/espec/(El el DA0MS0 -)
+  F-term/term/(? ? Fit -)
+  F-term/term/(. . Fp -)
+]
+

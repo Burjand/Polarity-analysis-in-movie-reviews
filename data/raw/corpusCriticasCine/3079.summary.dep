@@ -1,0 +1,67 @@
+sn/top/(Pedazo pedazo NCMS000 -) [
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(tostón tostón NCMS000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/modnomatch/(amigos amigo NCMP000 -)
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(costad costar VMM02P0 -) [
+  patons/modnomatch/(os os PP2CP000 -)
+  sn/subj/(bodrio bodrio NCMS000 -) [
+    espec-ms/espec/(Un uno DI0MS0 -)
+  ]
+  grup-sp/modnomatch/(por por SPS00 -) [
+    sn/head/(cuatro 4 Z -) [
+      j-mp/modnomatch/(los el DA0MP0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(conocéis conocer VMIP2P0 -) [
+  sn/subj/(secuela secuela NCFS000 -) [
+    s-a-fs/qual/(Insufrible insufrible AQ0CS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(franquicia franquicia NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(tenido tener VMP00SM -) [
+        vaux/aux/(ha haber VAIP3S0 -)
+      ]
+    ]
+    sn/modnomatch/(repercusión repercusión NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(internacional internacional AQ0CS0 -)
+      grup-sp/modnomatch/(gracias_a gracias_a SPS00 -) [
+        sn/head/(similitud similitud NCFS000 -) [
+          espec-fs/espec/(su su DP3CS0 -)
+          s-a-fs/qual/(promocionada promocionar VMP00SF -)
+          s-a-fs/qual/(visual visual AQ0CS0 -)
+          grup-sp/modnomatch/(con con SPS00 -) [
+            sn/head/(trilogía trilogía NCFS000 -) [
+              espec-fs/espec/(una uno DI0FS0 -)
+            ]
+          ]
+        ]
+      ]
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(idearon idear VMIS3P0 -)
+      ]
+    ]
+    sn/modnomatch/(hermanos hermano NCMP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+    ]
+    sn/modnomatch/(Wachowski wachowski NP00000 -)
+    relatiu/modnomatch/(nombre nombre NCMS000 -) [
+      cuyo-ms/modnorule/(cuyo cuyo PR0MS000 -)
+      s-a-ms/modnorule/(original original AQ0CS0 -)
+    ]
+  ]
+  sadv/cc/(de_sobra de_sobra RG -)
+  F-term/term/(. . Fp -)
+]
+

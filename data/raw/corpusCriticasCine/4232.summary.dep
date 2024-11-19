@@ -1,0 +1,54 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(Meses meses NP00000 -) [
+    numero-nopart/quant/(4 4 Z -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(Semanas semanas NP00000 -) [
+    numero-nopart/quant/(3 3 Z -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(Días días NP00000 -) [
+    numero-nopart/quant/(2 2 Z -)
+  ]
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(buena bueno AQ0FS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(muestra mostrar VMIP3S0 -)
+    ]
+  ]
+  sn/obj/(agonía agonía NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(régimen régimen NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(Ceauçescu ceauçescu NP00000 -)
+        ]
+      ]
+    ]
+  ]
+  coord/modnomatch/(pero pero CC -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(está estar VAIP3S0 -)
+  ]
+  grup-sp-inf/modnomatch/(lejos_de lejos_de SPS00 -) [
+    grup-verb-inf/head/(ser ser VSN0000 -)
+    sn/modnomatch/(obra obra NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(gran gran AQ0CS0 -)
+      s-a-fs/qual/(maestra maestro AQ0FS0 -)
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(da dar VMIP3S0 -)
+      ]
+    ]
+  ]
+  grup-sp-inf/iobj/(a a SPS00 -) [
+    grup-verb-inf/head/(entender entender VMN0000 -)
+    sn/modnomatch/(palmarés palmarés NCMS000 -) [
+      espec-ms/espec/(su su DP3CS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

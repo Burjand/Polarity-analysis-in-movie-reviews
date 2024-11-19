@@ -1,0 +1,83 @@
+grup-verb/top/(configura configurar VMIP3S0 -) [
+  sn/subj/(Blake_Edwards blake_edwards NP00000 -)
+  sn/obj/(expresión expresión NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(digna digno AQ0FS0 -)
+  ]
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(incluida incluir VMP00SF -) [
+      infaux-ser/modnomatch/(ser ser VSN0000 -)
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(antología antología NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(cine cine NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(humor humor NCMS000 -) [
+              sp-de/mod/(de de SPS00 -) [
+                sn/gen/(potencial potencial NCMS000 -) [
+                  espec-ms/espec/(su su DP3CS0 -)
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/iobj/(para para SPS00 -) [
+    sn/head/(representación representación NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(concisa conciso AQ0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(vertiente vertiente NCCS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          s-a-fs/qual/(e e CC -) [
+            s-a-fs/modnorule/(patética patético AQ0FS0 -) [
+              sadv/modnorule/(más más RG -)
+            ]
+            s-a-fs/modnorule/(irrisoria irrisorio AQ0FS0 -)
+          ]
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(sociedad sociedad NCFS000 -) [
+              espec-fs/espec/(la el DA0FS0 -)
+              s-a-fs/qual/(humana humano AQ0FS0 -)
+              sp-de/mod/(de de SPS00 -) [
+                sn/gen/(capacidad capacidad NCFS000 -) [
+                  espec-fs/espec/(su su DP3CS0 -)
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(y y CC -)
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(provocar provocar VMN0000 -)
+    sn/modnomatch/(risas risa NCFP000 -) [
+      espec-fp/espec/(las el DA0FP0 -)
+    ]
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(utilización utilización NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(gesto gesto NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          s-a-ms/qual/(vulgar vulgar AQ0CS0 -) [
+            sadv/modnorule/(más más RG -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

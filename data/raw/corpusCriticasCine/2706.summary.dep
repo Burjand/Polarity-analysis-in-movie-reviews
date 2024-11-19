@@ -1,0 +1,65 @@
+prep/top/(a a SPS00 -) [
+  espec-ms/modnorule/(el el DA0MS0 -)
+  grup-verb-inf/modnorule/(definido definir VMP00SM -) [
+    infaux/modnomatch/(haber haber VAN0000 -)
+  ]
+  sadv/modnorule/(mejor mejor RG -)
+  sn/modnorule/(busca busca NCFS000 -) [
+    espec-fs/espec/(qué qué DE0CN0 -)
+  ]
+  sn/modnorule/(público público NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    grup-sp/modnomatch/(en en SPS00 -) [
+      sn/head/(cinta cinta NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(tipo tipo NCMS000 -) [
+            espec-ms/espec/(este este DD0MS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/modnorule/(? ? Fit -)
+  grup-verb-inf/modnorule/(distraer distraer VMN0000 -) [
+    PP*/modnomatch/(se se PP3CN000 -)
+  ]
+  sn/modnorule/(rato rato NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+  ]
+  F-term/modnorule/(? ? Fit -)
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(ceñido ceñir VMP00SM -) [
+    morfema-verbal/modnomatch/(se se P0000000 -)
+    vaux/aux/(ha haber VAIP3S0 -)
+    sn/subj/(producción producción NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+    sadv/cc/(más más RG -)
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(propuesta propuesta NCFS000 -) [
+        espec-fs/espec/(esta este DD0FS0 -)
+        grup-sp/modnomatch/(a a SPS00 -) [
+          sn/head/(objetivo objetivo NCMS000 -) [
+            espec-ms/espec/(un uno DI0MS0 -)
+            s-a-ms/qual/(lícito lícito AQ0MS0 -) [
+              sadv/modnorule/(tan tan RG -)
+            ]
+            grup-sp/modnomatch/(como como CS -) [
+              s-a-ms/modnomatch/(simple simple AQ0CS0 -)
+              F-no-c/modnomatch/(: : Fd -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  grup-verb-inf/modnorule/(entretener entretener VMN0000 -)
+  grup-sp/modnorule/(sin sin SPS00 -) [
+    sn/head/(pretensiones pretensión NCFP000 -) [
+      s-a-fp/qual/(grandes grande AQ0CP0 -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

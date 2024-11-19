@@ -1,0 +1,68 @@
+s-adj/top/(Musical musical AQ0CS0 -) [
+  s-a-ms/modnorule/(lacio lacio AQ0MS0 -)
+  Fc(,)/modnorule/(, , Fc -)
+  grup-sp/modnorule/(sin sin SPS00 -) [
+    sn/head/(vida vida NCFS000 -)
+  ]
+  coor-n/modnorule/(ni ni CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(cuerpo cuerpo NCMS000 -)
+    sn/co-n/(brillo brillo NCMS000 -)
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+grup-verb/top/(logra lograr VMIP3S0 -) [
+  neg/modneg/(No no RN -)
+  grup-verb-inf/modnomatch/(emitir emitir VMN0000 -)
+  sn/obj/(supuesto supuesto NCMS000 -) [
+    espec-ms/espec/(ese ese DD0MS0 -)
+    s-a-ms/qual/(buen bueno AQ0MS0 -)
+  ]
+  sn/obj/(rollo rollo NCMS000 -) [
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(pretende pretender VMIP3S0 -)
+    ]
+    grup-verb/modnomatch/(aborreciendo aborrecer VMG0000 -) [
+      VMI*<acabar>/modnomatch/(acabas acabar VMIP2S0 -)
+      sadv/cc/(bien bien RG -) [
+        cuantif/modnorule/(más más RG -)
+      ]
+    ]
+  ]
+  grup-verb-inf/modnomatch/(transmitir transmitir VMN0000 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  prep/modnomatch/(a a SPS00 -)
+  espec-mp/modnomatch/(todos todo DI0MP0 -)
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(uno uno PI0MS000 -) [
+      indef-ms/modnomatch/(cada cada DI0CS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(personajes personaje NCMP000 -) [
+          espec-mp/espec/(sus su DP3CP0 -)
+          grup-verb/modnomatch/(dejen dejar VMM03P0 -) [
+            sp-de/modnomatch/(de de SPS00 -) [
+              sn/gen/(vez vez NCFS000 -) [
+                espec-fs/espec/(una uno DI0FS0 -)
+              ]
+            ]
+            grup-sp-inf/modnomatch/(de de SPS00 -) [
+              grup-verb-inf/head/(hacer hacer VMN0000 -)
+              sn/modnomatch/(ridículo ridículo NCMS000 -) [
+                espec-ms/espec/(el el DA0MS0 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  forma-ger/modnomatch/(deseando desear VMG0000 -)
+  conj-subord/modnomatch/(que que CS -)
+  Fc(,)/modnomatch/(, , Fc -)
+  sadv/cc/(por_favor por_favor RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(. . Fp -)
+]
+

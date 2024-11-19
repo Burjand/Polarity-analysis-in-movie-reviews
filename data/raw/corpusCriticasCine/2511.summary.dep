@@ -1,0 +1,85 @@
+sn/top/(Película película NCFS000 -) [
+  grup-sp/modnomatch/(sobre sobre SPS00 -) [
+    sn/head/(tópicos tópico NCMP000 -) [
+      s-a-mp/qual/(casaderos casadero AQ0MP0 -)
+      grup-sp/modnomatch/(en en SPS00 -) [
+        sn/head/(India india NP00000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          grup-sp/modnomatch/(con con SPS00 -) [
+            sn/head/(mujer mujer NCFS000 -) [
+              espec-fs/espec/(una uno DI0FS0 -)
+              s-a-fs/qual/(moderna moderno AQ0FS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(quiere querer VMIP3S0 -) [
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  sn/modnomatch/(matrimonio matrimonio NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(conveniencia conveniencia NCFS000 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+subord/top/(Si si CS -) [
+  grup-verb/modnorule/(eres ser VSIP2S0 -)
+  prep/modnorule/(de de SPS00 -)
+  espec-mp/modnorule/(los el DA0MP0 -)
+  subord/modnorule/(que que PR0CN000 -) [
+    grup-verb/modnorule/(gustan gustar VMIP3P0 -) [
+      patons/modnomatch/(le le PP3CSD00 -)
+    ]
+  ]
+  subord/modnorule/(que que CS -) [
+    grup-verb/modnorule/(canten cantar VMSP3P0 -)
+  ]
+  coor-vb/modnorule/(y y CC -) [
+    grup-verb/co-v/(bailen bailar VMSP3P0 -)
+  ]
+  prep/modnorule/(en en SPS00 -)
+  espec-fs/modnorule/(la el DA0FS0 -)
+  grup-verb/modnorule/(es ser VSIP3S0 -) [
+    sn/subj/(películas película NCFP000 -) [
+      Fc(,)/modnomatch/(, , Fc -)
+      subord/modnomatch/(mientras mientras CS -) [
+        grup-verb/modnorule/(hablan hablar VMIP3P0 -)
+      ]
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(insustancialidades insustancialidad NCFP000 -)
+      ]
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(tapan tapar VMIP3P0 -)
+      ]
+    ]
+    sn/subj/(verdades verdad NCFP000 -) [
+      s-a-fp/qual/(sangrantes sangrante AQ0CP0 -)
+      Fc(,)/modnomatch/(, , Fc -)
+    ]
+    sn/obj/(película película NCFS000 -) [
+      espec-fs/espec/(tu tu DP2CSS -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+subord/top/(Si si CS -) [
+  neg/modnorule/(no no RN -)
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(haz hacer VMM02S0 -) [
+    patons/modnomatch/(lo lo PP3CNA00 -)
+    grup-sp/modnomatch/(por por SPS00 -) [
+      sn/head/(amor amor NCMS000 -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

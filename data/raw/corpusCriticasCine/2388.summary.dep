@@ -1,0 +1,75 @@
+grup-verb/top/(realiza realizar VMIP3S0 -) [
+  coor-n/subj/(Aunque aunque CC -) [
+    sn/co-n/(Eastwood eastwood NP00000 -)
+  ]
+  sn/obj/(labor labor NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(magnífica magnífico AQ0FS0 -)
+  ]
+  espec-ms/modnomatch/(lo el DA0NS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(hace hacer VMIP3S0 -)
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(pierda perder VMSP1S0 -) [
+      sn/subj/(cinta cinta NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        grup-verb/modnomatch/(es ser VSIP3S0 -) [
+          sn/obj/(guión guión NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+          ]
+        ]
+      ]
+      sn/obj/(empuje empuje NCMS000 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sadv/cc/(más más RG -)
+  conj-subord/modnomatch/(que que CS -)
+  sn/obj/(guión guión NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(historia historia NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(historia historia NCFS000 -) [
+  espec-fs/espec/(Una uno DI0FS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(tiene tener VMIP3S0 -) [
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  sn/modnomatch/(garra garra NCFS000 -)
+  coord/modnomatch/(y y CC -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(hace hacer VMIP3S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+    ]
+  ]
+  sn/modnomatch/(algo algo PI0CS000 -) [
+    s-adj/qual/(sosa soso AQ0FS0 -)
+    grup-sp/modnomatch/(para para SPS00 -) [
+      sn/head/(espectador espectador NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/modnomatch/(historia historia NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    grup-sp/modnomatch/(con con SPS00 -) [
+      sn/head/(emoción emoción NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        s-a-fs/qual/(misma mismo AQ0FS0 -)
+      ]
+    ]
+  ]
+  conj-subord/modnomatch/(que que CS -)
+  sn/modnomatch/(Eurovisión eurovisión NP00000 -)
+  F-term/term/(. . Fp -)
+]
+

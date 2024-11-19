@@ -1,0 +1,69 @@
+grup-verb/top/(parece parecer VMIP3S0 -) [
+  grup-sp/modnomatch/(a a SPS00 -) [
+    sn/head/(principio principio NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(Cocalero cocalero NP00000 -) [
+    Fe/modnomatch/(" " Fe -)
+    Fe/modnomatch/(" " Fe -)
+  ]
+  sn/obj/(documental documental NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+  ]
+  sadv/cc/(más más RG -)
+  F-no-c/modnomatch/(... ... Fs -)
+  coor-sp/modnomatch/(Pero pero CC -) [
+    grup-sp/modnorule/(con con SPS00 -) [
+      sn/head/(devenir devenir NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(derrotero derrotero NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+            grup-verb/modnomatch/(damos_cuenta dar_cuenta VMIP1P0 -) [
+              patons/modnomatch/(nos nos PP1CP000 -)
+              subord/modnomatch/(que que CS -) [
+                grup-verb/modnorule/(logró lograr VMIS3S0 -) [
+                  sn/subj/(Landes landes NP00000 -)
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  grup-verb-inf/modnomatch/(captar captar VMN0000 -)
+  sn/obj/(histórico histórico AQ0MS0 -) [
+    pindef-ms/modnomatch/(algo algo PI0CS000 -)
+    F-no-c/modnomatch/(: : Fd -)
+  ]
+  sn/obj/(llegada llegada NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    grup-sp/modnomatch/(a a SPS00 -) [
+      sn/head/(poder poder NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(sujeto sujeto NCMS000 -) [
+            espec-ms/espec/(un uno DI0MS0 -)
+            s-a-ms/qual/(común común AQ0CS0 -)
+            grup-sp/modnomatch/(fuera_de fuera_de SPS00 -) [
+              sn/head/(stablishment stablishment NP00000 -) [
+                espec-ms/espec/(el el DA0MS0 -)
+                s-a-ms/qual/(tradicional tradicional AQ0CS0 -) [
+                  s-a-ms/modnorule/(aristocrático aristocrático AQ0MS0 -) [
+                    s-a-ms/modnorule/(boliviano boliviano AQ0MS0 -)
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

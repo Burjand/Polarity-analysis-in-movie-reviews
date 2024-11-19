@@ -1,0 +1,53 @@
+coor-vb/top/(e e CC -) [
+  sn/subj/(tratado tratado NCMS000 -) [
+    espec-ms/espec/(Un uno DI0MS0 -)
+    grup-sp/modnomatch/(sobre sobre SPS00 -) [
+      sn/head/(obsesiones obsesión NCFP000 -)
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(mueven mover VMIP3P0 -)
+    ]
+  ]
+  grup-verb/co-v/(poner poner VMN0000 -) [
+    VMI*<poder>/modnomatch/(pueden poder VMIP3P0 -)
+    sadv/cc/(incluso incluso RG -)
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(peligro peligro NCMS000 -) [
+        n-fp/modnomatch/(vidas vida NCFP000 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(pero pero CC -)
+  sadv/modnomatch/(también también RG -)
+  coor-n/modnomatch/(y y CC -) [
+    sn/co-n/(incursión incursión NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(estupenda estupendo AQ0FS0 -)
+      grup-sp/modnomatch/(en en SPS00 -) [
+        sn/head/(mundo mundo NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(magia magia NCFS000 -) [
+              espec-fs/espec/(la el DA0FS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+    sn/co-n/(mecanismos mecanismo NCMP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  s-adj/modnomatch/(y y CC -) [
+    s-a-mp/modnorule/(psicológicos psicológico AQ0MP0 -)
+    s-a-mp/modnorule/(físicos físico AQ0MP0 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(maneja manejar VMIP3S0 -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

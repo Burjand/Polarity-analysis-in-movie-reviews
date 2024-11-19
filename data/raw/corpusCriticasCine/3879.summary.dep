@@ -1,0 +1,63 @@
+grup-verb/top/(Creo crear VMIP1S0 -) [
+  conj-subord/modnomatch/(que que CS -)
+  sadv/cc/(ya ya RG -)
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  prep/modnomatch/(a a SPS00 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(debió deber VMIS3S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+    ]
+  ]
+  coor-n/obj/(ni ni CC -) [
+    sn/co-n/(intento intento NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(suicidio suicidio NCMS000 -) [
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(Owen_Wilson owen_wilson NP00000 -)
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(nada nada PI0CS000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(drogas droga NCFP000 -)
+      ]
+    ]
+    sn/co-n/(roturas rotura NCFP000 -) [
+      s-a-fp/qual/(traumáticas traumático AQ0FP0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(corto cortar VMIP1S0 -) [
+  patons/modnomatch/(me me PP1CS000 -)
+  sn/subj/(Yo yo PP1CSN00 -) [
+    s-adj/qual/(mismo mismo AQ0MS0 -)
+  ]
+  sadv/cc/(casi casi RG -)
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(venas vena NCFP000 -) [
+      espec-fp/espec/(las el DA0FP0 -)
+    ]
+    sn/co-n/(eso ese PD0NS000 -)
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(obligado obligar VMP00SM -) [
+      vaux/aux/(estuve estar VAIS1S0 -)
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  grup-sp-inf/iobj/(a a SPS00 -) [
+    grup-verb-inf/head/(leer leer VMN0000 -) [
+      PP*/modnomatch/(me me PP1CS000 -)
+    ]
+    sn/modnomatch/(obra obra NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

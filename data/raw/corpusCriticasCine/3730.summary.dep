@@ -1,0 +1,46 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(problema problema NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+    s-a-ms/qual/(principal principal AQ0CS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(cinta cinta NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+  ]
+  espec-ms/modnomatch/(el el DA0MS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(tiene tener VMIP3S0 -)
+  ]
+  sn/obj/(películas película NCFP000 -) [
+    espec-fp/espec/(todas todo DI0FP0 -) [
+      j-fp/modnorule/(las el DA0FP0 -)
+    ]
+    s-a-fp/qual/(fragmentadas fragmentar VMP00PF -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sadv/top/(Igual igual RG -) [
+  subord/modnorule/(que que CS -) [
+    grup-verb/modnorule/(son ser VSIP3P0 -) [
+      sn/subj/(historias historia NCFP000 -) [
+        espec-fp/espec/(algunas alguno DI0FP0 -)
+      ]
+    ]
+  ]
+  s-adj/modnorule/(geniales genial AQ0CP0 -) [
+    sadv/modnorule/(simplemente simplemente RG -)
+  ]
+  coor-vb/modnorule/(y y CC -) [
+    sn/subj/(otras otro PI0FP000 -)
+    grup-verb/co-v/(pinchan pinchar VMIP3P0 -)
+    grup-verb/co-v/(aburren aburrir VMIP3P0 -) [
+      sn/obj/(poco poco PI0MS000 -) [
+        indef-ms/modnomatch/(un uno DI0MS0 -)
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

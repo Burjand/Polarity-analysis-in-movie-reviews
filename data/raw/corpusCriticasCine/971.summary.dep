@@ -1,0 +1,57 @@
+grup-verb/top/(creo crear VMIP1S0 -) [
+  neg/modneg/(No no RN -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(sea ser VSSP1S0 -)
+  ]
+  s-adj/modnomatch/(justo justo AQ0MS0 -)
+  grup-verb-inf/modnomatch/(juzgar juzgar VMN0000 -)
+  sn/obj/(algo algo PI0CS000 -) [
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(hacer hacer VMN0000 -) [
+        VMI*<poder>/modnomatch/(podría poder VMIC1S0 -)
+        sn/subj/(yo yo PP1CSN00 -)
+        neg/modneg/(no no RN -)
+      ]
+    ]
+    s-adj/qual/(mejor mejor AQ0CS0 -)
+    F-no-c/modnomatch/(( ( Fpa -)
+  ]
+  coord/modnomatch/(ni ni CC -)
+  s-adj/modnomatch/(peor peor AQ0CS0 -)
+  F-no-c/modnomatch/() ) Fpt -)
+  coor-sp/modnomatch/(pero pero CC -) [
+    grup-sp/modnorule/(en en SPS00 -) [
+      sn/head/(caso caso NCMS000 -) [
+        espec-ms/espec/(este este DD0MS0 -)
+        grup-verb/modnomatch/(veo ver VMIP1S0 -) [
+          patons/modnomatch/(me me PP1CS000 -)
+        ]
+      ]
+    ]
+  ]
+  parti-flex/modnomatch/(obligado obligar VMP00SM -)
+  grup-sp-inf/iobj/(a a SPS00 -) [
+    grup-verb-inf/head/(proponer proponer VMN0000 -)
+    sn/modnomatch/(suspenso suspenso NCMS000 -) [
+      espec-ms/espec/(mi mi DP1CSS -)
+      s-a-ms/qual/(primer 1 AO0MS0 -)
+    ]
+  ]
+  grup-sp/iobj/(para para SPS00 -) [
+    sn/head/(largometraje largometraje NCMS000 -) [
+      espec-ms/espec/(este este DD0MS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  s-adj/modnomatch/(olvidable olvidable AQ0CS0 -) [
+    sadv/modnorule/(tan tan RG -)
+  ]
+  grup-sp/modnomatch/(como como CS -) [
+    sn/head/(referente referente NCCS000 -) [
+      espec-ms/espec/(su su DP3CS0 -)
+      s-a-ms/qual/(literario literario AQ0MS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

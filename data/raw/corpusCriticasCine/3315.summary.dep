@@ -1,0 +1,55 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(Oviedo_Express oviedo_express NP00000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(películas película NCFP000 -) [
+        espec-fp/espec/(las el DA0FP0 -)
+        s-a-fp/qual/(frescas fresco AQ0FP0 -) [
+          sadv/modnorule/(más más RG -)
+        ]
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(cine cine NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+            s-a-ms/qual/(español español AQ0MS0 -)
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(2007 2007 Z -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  espec-fs/modnomatch/(una uno DI0FS0 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(aúna aunar VMIP3S0 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    ptonic/modnomatch/(sí sí PP3CNO00 -)
+  ]
+  sn/obj/(serie serie NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(elementos elemento NCMP000 -)
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(parecían parecer VMII3P0 -)
+    ]
+  ]
+  grup-verb-inf/modnomatch/(haber haber VAN0000 -) [
+    PP*/modnomatch/(se se PP3CN000 -)
+  ]
+  parti-flex/modnomatch/(perdido perder VMP00SM -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(como como CS -) [
+    sn/head/(realismo realismo NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(mágico mágico AQ0MS0 -)
+    ]
+  ]
+  coor-n/obj/(o o CC -) [
+    sn/co-n/(surrealismo surrealismo NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+]
+

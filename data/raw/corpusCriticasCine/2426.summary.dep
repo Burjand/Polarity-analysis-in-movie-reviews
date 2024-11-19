@@ -1,0 +1,37 @@
+sn/top/(Suspiros_de_el_Corazón suspiros_de_el_corazón NP00000 -) [
+  sn/modnomatch/(parte parte NCFS000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(premisa premisa NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        s-a-fs/qual/(buena bueno AQ0FS0 -)
+        grup-sp/modnomatch/(en en SPS00 -) [
+          sn/head/(película película NCFS000 -) [
+            espec-fs/espec/(la el DA0FS0 -)
+          ]
+        ]
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(sabido saber VMP00SM -) [
+        morfema-verbal/modnomatch/(se se P0000000 -)
+        vaux/aux/(ha haber VAIP3S0 -)
+        sadv/cc/(desgraciadamente desgraciadamente RG -)
+        neg/modneg/(no no RN -)
+      ]
+    ]
+  ]
+  grup-verb-inf/modnomatch/(plasmar plasmar VMN0000 -)
+  coord/modnomatch/(ni ni CC -)
+  grup-verb-inf/modnomatch/(desarrollar desarrollar VMN0000 -)
+  sadv/modnomatch/(adecuadamente adecuadamente RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  ger/modnomatch/(haciendo hacer VMG0000 -) [
+    PP*/modnorule/(la lo PP3FSA00 -)
+  ]
+  s-adj/qual/(previsible previsible AQ0CS0 -)
+  coord/modnomatch/(y y CC -)
+  sadv/modnomatch/(ligeramente ligeramente RG -)
+  parti-flex/modnomatch/(aburrida aburrir VMP00SF -)
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,69 @@
+grup-verb/top/(vemos ver VMIP1P0 -) [
+  grup-sp/modnomatch/(Por por SPS00 -) [
+    sn/head/(fin fin NCMS000 -)
+  ]
+  sn/obj/(Almodóvar almodóvar NP00000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(retrata retratar VMIP3S0 -)
+    ]
+  ]
+  sn/obj/(escenas escena NCFP000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(vida vida NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        s-a-fs/qual/(real real AQ0CS0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(sin sin SPS00 -) [
+    sn/head/(adornos adorno NCMP000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(sin sin SPS00 -) [
+    sn/head/(extrañezas extrañeza NCFP000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(pese pesar VMSP1S0 -) [
+  patons/modnomatch/(le le PP3CSD00 -)
+  sn/subj/(loa loa NCFS000 -) [
+    espec-fs/espec/(Una uno DI0FS0 -)
+    grup-sp/modnomatch/(a a SPS00 -) [
+      sn/head/(mujer mujer NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(casa casa NCFS000 -) [
+            espec-fs/espec/(su su DP3CS0 -)
+          ]
+        ]
+      ]
+    ]
+    subord/modnomatch/(que que CS -) [
+      grup-verb/modnorule/(son ser VSIP3P0 -) [
+        grup-sp/cc/(en en SPS00 -) [
+          sn/head/(fondo fondo NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+          ]
+        ]
+        sn/obj/(columna columna NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          s-a-fs/qual/(vertebral vertebral AQ0CS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(sociedad sociedad NCFS000 -) [
+              espec-fs/espec/(nuestra nuestro DP1FSP -)
+            ]
+          ]
+        ]
+      ]
+      Fc(,)/modnorule/(, , Fc -)
+    ]
+    patons/modnomatch/(le le PP3CSD00 -)
+    prep/modnomatch/(pese_a pese_a SPS00 -)
+    quien-s/modnomatch/(quien quien PR0CS000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,79 @@
+sn/top/(continuación continuación NCFS000 -) [
+  espec-fs/espec/(Una uno DI0FS0 -)
+  s-a-fs/qual/(excelente excelente AQ0CS0 -)
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(clásico clásico NCMS000 -) [
+      espec-ms/espec/(todo todo DI0MS0 -) [
+        indef-ms/modnorule/(un uno DI0MS0 -)
+      ]
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(comedia comedia NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(Kevin_Smith kevin_smith NP00000 -) [
+  espec-ms/espec/(lo el DA0NS0 -)
+  sn/modnomatch/(tenia tenia NCFS000 -) [
+    s-a-fs/qual/(difícil difícil AQ0CS0 -) [
+      sadv/modnorule/(bastante bastante RG -)
+    ]
+    grup-sp/modnomatch/(a a SPS00 -) [
+      sn/head/(altura altura NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(obra obra NCFS000 -) [
+            espec-fs/espec/(su su DP3CS0 -)
+            s-a-fs/qual/(gran gran AQ0CS0 -)
+            s-a-fs/qual/(maestra maestro AQ0FS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  grup-sp-inf/modnomatch/(para para SPS00 -) [
+    grup-verb-inf/head/(poner poner VMN0000 -) [
+      VMN0000(poder)/modnomatch/(poder poder VMN0000 -)
+      PP*/modnomatch/(se se PP3CN000 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(pero pero CC -)
+  grup-sp-inf/modnomatch/(sin sin SPS00 -) [
+    grup-verb-inf/head/(decir decir VMN0000 -) [
+      VMN0000(poder)/modnomatch/(poder poder VMN0000 -)
+    ]
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(supere superar VMSP1S0 -) [
+      patons/modnomatch/(la lo PP3FSA00 -)
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  conj-subord/modnomatch/(si si CS -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(mantiene mantener VMIP3S0 -) [
+      sadv/cc/(dignamente dignamente RG -)
+      sn/obj/(listón listón NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        s-a-ms/qual/(igual igual AQ0CS0 -)
+        grup-sp/modnomatch/(en en SPS00 -) [
+          sn/head/(parte parte NCFS000 -) [
+            espec-fs/espec/(la el DA0FS0 -)
+            s-a-fs/qual/(primera 1 AO0FS0 -)
+          ]
+        ]
+      ]
+      grup-sp/modnomatch/(de de SPS00 -) [
+        s-a-ms/modnomatch/(alto alto AQ0MS0 -)
+      ]
+    ]
+  ]
+  conj-subord/modnomatch/(que que CS -)
+  F-term/term/(. . Fp -)
+]
+

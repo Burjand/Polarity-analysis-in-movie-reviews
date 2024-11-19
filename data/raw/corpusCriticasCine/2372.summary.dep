@@ -1,0 +1,52 @@
+grup-verb/top/(afirman afirmar VMIP3P0 -) [
+  sn/subj/(trabajo trabajo NCMS000 -) [
+    espec-ms/espec/(Un uno DI0MS0 -)
+    s-a-ms/qual/(digno digno AQ0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(encomio encomio NCMS000 -) [
+        grup-sp/modnomatch/(por por SPS00 -) [
+          sn/head/(destreza destreza NCFS000 -) [
+            espec-fs/espec/(la el DA0FS0 -)
+            grup-sp/modnomatch/(en en SPS00 -) [
+              sn/head/(desarrollo desarrollo NCMS000 -) [
+                espec-ms/espec/(el el DA0MS0 -)
+                sp-de/mod/(de de SPS00 -) [
+                  sn/gen/(guión guión NCMS000 -) [
+                    espec-ms/espec/(un uno DI0MS0 -)
+                    sp-de/mod/(de de SPS00 -) [
+                      sn/gen/(altura altura NCFS000 -)
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(desmiente desmentir VMIP3S0 -)
+    ]
+    sadv/modnomatch/(tajantemente tajantemente RG -)
+    prep/modnomatch/(a a SPS00 -)
+    quien-p/modnomatch/(quienes quien PR0CP000 -)
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(son ser VSIP3P0 -) [
+      coor-n/subj/(y y CC -) [
+        sn/co-n/(ciencia ciencia NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          n-fs/modnomatch/(ficción ficción NCFS000 -)
+        ]
+        sn/co-n/(terror terror NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+      sn/obj/(géneros género NCMP000 -) [
+        s-a-mp/qual/(menores menor AQ0CP0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

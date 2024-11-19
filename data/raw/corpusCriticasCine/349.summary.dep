@@ -1,0 +1,48 @@
+grup-sp-inf/top/(Sin sin SPS00 -) [
+  grup-verb-inf/head/(ser ser VSN0000 -)
+  sn/modnomatch/(cosa cosa NCFS000 -) [
+    espec-fs/espec/(ninguna ninguno DI0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(mundo mundo NCMS000 -) [
+        espec-ms/espec/(otro otro DI0MS0 -) [
+          j-ms/modnorule/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/modnomatch/(entretener entretener VMN0000 -) [
+    VMI*<llegar>/modnomatch/(llega llegar VMIP3S0 -)
+    SPS00(a)/modnomatch/(a a SPS00 -)
+    sn/subj/(película película NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(pero pero CC -)
+  neg/modnomatch/(no no RN -)
+  grup-sp-inf/modnomatch/(a a SPS00 -) [
+    grup-verb-inf/head/(asustar asustar VMN0000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/modnomatch/(cual cual PI0CS000 -) [
+    j-ms/modnomatch/(lo el DA0NS0 -)
+  ]
+  forma-ger/modnomatch/(viniendo venir VMG0000 -)
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(cinta cinta NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(terror terror NCMS000 -)
+      ]
+    ]
+  ]
+  grup-verb/modnomatch/(es ser VSIP3S0 -) [
+    sn/obj/(pega pega NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(gran gran AQ0CS0 -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

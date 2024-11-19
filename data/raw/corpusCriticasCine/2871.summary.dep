@@ -1,0 +1,49 @@
+sn/top/(espectáculo espectáculo NCMS000 -) [
+  espec-ms/espec/(Un uno DI0MS0 -)
+  s-a-ms/qual/(verdadero verdadero AQ0MS0 -)
+  s-a-ms/qual/(y y CC -) [
+    s-a-ms/modnorule/(visual visual AQ0CS0 -)
+    s-a-ms/modnorule/(auditivo auditivo AQ0MS0 -)
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(considerado considerar VMP00SM -) [
+      VMI*<deber>/modnomatch/(debe deber VMIP3S0 -)
+      infaux-ser/modnomatch/(ser ser VSN0000 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sadv/modnomatch/(en_líneas_generales en_líneas_generales RG -)
+  coor-sp/modnomatch/(o o CC -) [
+    Fc(,)/modnorule/(, , Fc -)
+    grup-sp/modnorule/(como como CS -) [
+      sn/head/(buena bueno AQ0FS0 -) [
+        indef-fs/modnomatch/(una uno DI0FS0 -)
+      ]
+    ]
+    grup-sp/modnorule/(a a SPS00 -) [
+      sn/head/(eficaz eficaz AQ0CS0 -) [
+        j-ms/modnomatch/(el el DA0MS0 -)
+        sadv/modnomatch/(muy muy RG -) [
+          cuantif/modnorule/(menos menos RG -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/modnomatch/(película película NCFS000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(género género NCMS000 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb-inf/top/(Pedir pedir VMN0000 -) [
+  PP*/modnomatch/(le le PP3CSD00 -)
+  grup-verb/modnomatch/(sería ser VSIC1S0 -) [
+    sadv/cc/(más más RG -)
+  ]
+  s-adj/modnomatch/(injusto injusto AQ0MS0 -)
+  F-term/modnomatch/(. . Fp -)
+]
+

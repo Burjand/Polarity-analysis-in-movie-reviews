@@ -1,0 +1,53 @@
+grup-verb/top/(tó tó VMIS3S0 -) [
+  sn/subj/(Lynch lynch NP00000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/modnomatch/(SciFi scifi NP00000 -) [
+      F-no-c/modnomatch/(" " Fe -)
+    ]
+    prep/modnomatch/(de de SPS00 -)
+  ]
+  sn/obj/(vida vida NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  F-no-c/modnomatch/(" " Fe -)
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(hostia hostia NCFS000 -) [
+      espec-fs/espec/(mucha mucho DI0FS0 -)
+      s-a-fs/qual/(mala malo AQ0FS0 -)
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(peli peli NP00000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(maldita maldito AQ0FS0 -) [
+        sadv/modnorule/(lamentablemente lamentablemente RG -)
+      ]
+    ]
+  ]
+  grup-sp/modnomatch/(dentro_de dentro_de SPS00 -) [
+    sn/head/(cine cine NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(español español AQ0MS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(delirio delirio NCMS000 -) [
+  espec-ms/espec/(Un uno DI0MS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(necesita necesitar VMIP3S0 -)
+  ]
+  sn/modnomatch/(espectador espectador NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(dispuesto disponer VMP00SM -)
+  ]
+  grup-sp-inf/modnomatch/(a a SPS00 -) [
+    grup-verb-inf/head/(dejar dejar VMN0000 -) [
+      PP*/modnomatch/(se se PP3CN000 -)
+    ]
+  ]
+  grup-verb-inf/modnomatch/(llevar llevar VMN0000 -)
+  F-term/term/(. . Fp -)
+]
+

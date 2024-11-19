@@ -1,0 +1,74 @@
+grup-sp/top/(Como como CS -) [
+  sn/head/(cine cine NCMS000 -) [
+    espec-ms/espec/(todo todo DI0MS0 -) [
+      RG(casi)/modnorule/(casi casi RG -)
+      j-ms/modnorule/(el el DA0MS0 -)
+    ]
+    s-a-ms/qual/(anglosajón anglosajón AQ0MS0 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/modnomatch/(? ? Fit -)
+]
+
+grup-verb/top/(parte partir VMM02S0 -) [
+  sn/subj/(Hijos hijo NCMP000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(hombres hombre NCMP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+        grup-verb/modnomatch/(es ser VSIP3S0 -) [
+          sn/subj/(embarazada embarazada NCFS000 -) [
+            espec-fs/espec/(una uno DI0FS0 -)
+          ]
+          grup-sp/cc/(en en SPS00 -) [
+            sn/head/(mundo mundo NCMS000 -) [
+              espec-ms/espec/(un uno DI0MS0 -)
+              grup-sp/modnomatch/(sin sin SPS00 -) [
+                sn/head/(hijos hijo NCMP000 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+    F-term/term/(? ? Fit -)
+  ]
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(premisa premisa NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(apasionante apasionante AQ0CS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  s-adj/modnomatch/(suficiente suficiente AQ0CS0 -)
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(hacer hacer VMN0000 -)
+  ]
+  grup-verb-inf/modnomatch/(andar andar VMN0000 -)
+  sn/cc/(película película NCFS000 -) [
+    espec-fs/espec/(cualquier cualquiera DI0CS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(sirve servir VMIP3S0 -) [
+  patons/modnomatch/(le le PP3CSD00 -)
+  grup-sp/modnomatch/(A a SPS00 -) [
+    sn/head/(Cuarón cuarón NP00000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(fronteras frontera NCFP000 -)
+      ]
+    ]
+  ]
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(hablar hablar VMN0000 -)
+  ]
+  coor-n/obj/(e e CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(exclusión exclusión NCFS000 -)
+    sn/co-n/(inmigrantes inmigrante NCCP000 -) [
+      s-a-mp/qual/(ilegales ilegal AQ0CP0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,90 @@
+grup-verb/top/(parece parecer VMIP3S0 -) [
+  sn/subj/(Half_Nelson half_nelson NP00000 -)
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(profesor profesor NCMS000 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  conj-subord/modnomatch/(como como CS -)
+  espec-fs/modnomatch/(la el DA0FS0 -)
+  prep/modnomatch/(de de SPS00 -)
+  F-term/term/(? ? Fit -)
+]
+
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(Diarios diario NCMP000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(calle calle NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        coor-sp/modnomatch/(pero pero CC -) [
+          Fc(,)/modnorule/(, , Fc -)
+          grup-sp/modnorule/(en en SPS00 -) [
+            sn/head/(realidad realidad NCFS000 -)
+          ]
+        ]
+      ]
+    ]
+    F-term/term/(? ? Fit -)
+  ]
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(yonkis yonkis NP00000 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  conj-subord/modnomatch/(como como CS -)
+  F-term/term/(? ? Fit -)
+]
+
+sn/top/(Trainspotting trainspotting NP00000 -) [
+  F-term/term/(? ? Fit -)
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(? ? Fit -)
+]
+
+coor-n/top/(y y CC -) [
+  sn/co-n/(Días día NCMP000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(vino vino NCMS000 -)
+    ]
+  ]
+  sn/co-n/(rosas rosa NCFP000 -)
+  F-term/modnomatch/(? ? Fit -)
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/modnomatch/(? ? Fit -)
+]
+
+sadv/top/(Largo largo RG -) [
+  sn/modnorule/(viaje viaje NCMS000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(día día NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        grup-sp/modnomatch/(hacia hacia SPS00 -) [
+          sn/head/(noche noche NCFS000 -) [
+            espec-fs/espec/(la el DA0FS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/modnorule/(? ? Fit -)
+  Fc(,)/modnorule/(, , Fc -)
+  F-term/modnorule/(? ? Fit -)
+]
+
+sn/top/(Días día NCMP000 -) [
+  grup-sp/modnomatch/(sin sin SPS00 -) [
+    sn/head/(huella huella NCFS000 -)
+  ]
+  F-term/term/(? ? Fit -)
+  F-term/term/(. . Fp -)
+]
+
+s-adj/top/(subversiva subversivo AQ0FS0 -) [
+  sadv/modnorule/(Profundamente Profundamente RG -)
+  F-term/modnorule/(. . Fp -)
+]
+

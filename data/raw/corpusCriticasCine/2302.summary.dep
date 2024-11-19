@@ -1,0 +1,53 @@
+grup-verb/top/(parece parecer VMIP3S0 -) [
+  sn/subj/(prueba prueba NCFS000 -) [
+    s-a-fs/qual/(Nueva nuevo AQ0FS0 -)
+    grup-sp/modnomatch/(en en SPS00 -) [
+      sn/head/(dirección dirección NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(David_S._Goyer david_s._goyer NP00000 -) [
+            grup-sp/modnomatch/(tras tras SPS00 -) [
+              sn/head/(desastre desastre NCMS000 -) [
+                espec-ms/espec/(el el DA0MS0 -)
+                sp-de/mod/(de de SPS00 -) [
+                  sn/gen/(Blade_Trinity blade_trinity NP00000 -)
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+    conj-subord/modnomatch/(que que CS -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  grup-verb-inf/modnomatch/(mejorado mejorar VMP00SM -) [
+    infaux/modnomatch/(haber haber VAN0000 -)
+  ]
+  sn/obj/(poco poco PI0MS000 -) [
+    indef-ms/modnomatch/(un uno DI0MS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  coord/modnomatch/(pero pero CC -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(queda quedar VMIP3S0 -) [
+      patons/modnomatch/(le le PP3CSD00 -)
+      sadv/cc/(aun aun RG -)
+      sn/obj/(camino camino NCMS000 -) [
+        espec-ms/espec/(mucho mucho DI0MS0 -)
+      ]
+    ]
+  ]
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(hacer hacer VMN0000 -) [
+      VMN0000(llegar)/modnomatch/(llegar llegar VMN0000 -)
+      SPS00(a)/modnomatch/(a a SPS00 -)
+    ]
+    sn/modnomatch/(película película NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(buena bueno AQ0FS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

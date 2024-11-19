@@ -1,0 +1,39 @@
+coor-vb/top/(y y CC -) [
+  sn/subj/(Joon-ho_Bong joon-ho_bong NP00000 -)
+  grup-verb/co-v/(mezclar mezclar VMN0000 -) [
+    VMI*<volver>/modnomatch/(vuelve volver VMIP3S0 -)
+    SPS00(a)/modnomatch/(a a SPS00 -)
+    sn/obj/(géneros género NCMP000 -)
+    grup-sp/modnomatch/(con con SPS00 -) [
+      sn/head/(humor humor NCMS000 -) [
+        espec-ms/espec/(su su DP3CS0 -)
+        s-a-ms/qual/(característico característico AQ0MS0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(crea crear VMIP3S0 -) [
+    sn/obj/(película película NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+    ]
+    grup-sp/modnomatch/(con con SPS00 -) [
+      sn/head/(monstruo monstruo NCMS000 -)
+    ]
+  ]
+  sadv/modnomatch/(algo algo RG -)
+  parti-flex/modnomatch/(desequilibrada desequilibrar VMP00SF -)
+  grup-sp/modnomatch/(en en SPS00 -) [
+    sn/head/(mitad mitad NCFS000 -) [
+      espec-fs/espec/(su su DP3CS0 -)
+      s-a-fs/qual/(segunda 2 AO0FS0 -)
+    ]
+  ]
+  coord/modnomatch/(pero pero CC -)
+  s-adj/modnomatch/(disfrutable disfrutable AQ0CS0 -) [
+    sadv/modnorule/(muy muy RG -) [
+      cuantif/modnorule/(muy muy RG -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

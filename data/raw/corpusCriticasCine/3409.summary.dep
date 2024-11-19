@@ -1,0 +1,74 @@
+grup-verb/top/(entrega entregar VMIP3S0 -) [
+  sn/subj/(Tercera tercera NP00000 -)
+  subord/modnomatch/(donde donde PR000000 -) [
+    grup-verb/modnorule/(ido ir VMP00SM -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+      vaux/aux/(ha haber VAIP3S0 -)
+      sadv/cc/(ya ya RG -)
+      sn/subj/(todo todo PI0MS000 -) [
+        grup-verb/modnomatch/(vagan vagar VMIP3P0 -) [
+          grup-sp/cc/(sin sin SPS00 -) [
+            sn/head/(rumbo rumbo NCMS000 -) [
+              s-a-ms/qual/(fijo fijo AQ0MS0 -)
+            ]
+          ]
+        ]
+      ]
+      grup-sp/cc/(a a SPS00 -) [
+        sn/head/(mierda mierda NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+        ]
+      ]
+      coor-n/cc/(y y CC -) [
+        sn/co-n/(pocos poco PI0MP000 -) [
+          j-mp/modnomatch/(los el DA0MP0 -)
+        ]
+      ]
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(quedan quedar VMIP3P0 -)
+      ]
+    ]
+  ]
+  grup-sp-inf/modnomatch/(en_vez_de en_vez_de SPS00 -) [
+    grup-verb-inf/head/(suicidar suicidar VMN0000 -) [
+      PP*/modnomatch/(se se PP3CN000 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(aunque aunque CC -) [
+  grup-verb/co-v/(sabes saber VMIP2S0 -) [
+    grup-sp/modnomatch/(Como como CS -) [
+      sadv/modnomatch/(ya ya RG -)
+    ]
+    espec-ms/modnomatch/(lo el DA0NS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(encontrar encontrar VMN0000 -) [
+        patons/modnomatch/(te te PP2CS000 -)
+        VMI*<poder>/modnomatch/(puedes poder VMIP2S0 -)
+      ]
+      Fc(,)/modnorule/(, , Fc -)
+    ]
+    subord/modnomatch/(pues pues CS -) [
+      grup-verb/modnorule/(decepciona decepcionar VMIP3S0 -) [
+        neg/modneg/(no no RN -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(da dar VMIP3S0 -) [
+    sn/obj/(rabia rabia NCFS000 -) [
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(sacrifiquen sacrificar VMSP3P0 -)
+      ]
+    ]
+  ]
+  sadv/modnomatch/(innecesareamente innecesareamente RG -)
+  sn/modnomatch/(guión guión NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

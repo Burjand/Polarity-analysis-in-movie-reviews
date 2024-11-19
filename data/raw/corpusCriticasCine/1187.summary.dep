@@ -1,0 +1,49 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(Apocalypto apocalypto NP00000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(películas película NCFP000 -) [
+        espec-fp/espec/(las el DA0FP0 -)
+        s-a-fp/qual/(mejores mejor AQ0CP0 -)
+      ]
+    ]
+  ]
+  espec-fs/modnomatch/(una uno DI0FS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(dejado dejar VMP00SM -) [
+      vaux/aux/(ha haber VAIP3S0 -)
+    ]
+  ]
+  sn/obj/(2.006 2006 Z -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  coord/modnomatch/(y y CC -)
+  subord/modnomatch/(si si CS -) [
+    grup-verb/modnorule/(olvidáis olvidar VMIP2P0 -) [
+      sn/obj/(ánimo ánimo NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(polemizar polemizar VMN0000 -)
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(director director NCMS000 -) [
+      espec-ms/espec/(su su DP3CS0 -)
+      grup-verb/modnomatch/(disfrutar disfrutar VMN0000 -) [
+        patons/modnomatch/(la lo PP3FSA00 -)
+        VMI*<ir>/modnomatch/(vais ir VMIP2P0 -)
+        SPS00(a)/modnomatch/(a a SPS00 -)
+        subord/modnomatch/(como como CS -) [
+          grup-verb/modnorule/(merece merecer VMIP3S0 -) [
+            morfema-verbal/modnomatch/(se se P0000000 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(. . Fp -)
+]
+

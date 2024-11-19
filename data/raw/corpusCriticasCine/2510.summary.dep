@@ -1,0 +1,75 @@
+sn/top/(Película película NCFS000 -) [
+  grup-sp/modnomatch/(sobre sobre SPS00 -) [
+    sn/head/(uno uno PI0MS000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(ghettos ghetto NCMP000 -) [
+          espec-mp/espec/(los el DA0MP0 -)
+          s-a-mp/qual/(nazis nazi AQ0CP0 -)
+          grup-sp/modnomatch/(en en SPS00 -) [
+            sn/head/(Lituania lituania NP00000 -) [
+              grup-sp/modnomatch/(durante durante SPS00 -) [
+                sn/head/(ocupación ocupación NCFS000 -) [
+                  espec-fs/espec/(la el DA0FS0 -)
+                  sp-de/mod/(de de SPS00 -) [
+                    sn/gen/(Segunda_Guerra_mundial segunda_guerra_mundial NP00000 -) [
+                      espec-fs/espec/(la el DA0FS0 -)
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+s-adj/top/(interesante interesante AQ0CS0 -) [
+  sadv/modnorule/(Muy muy RG -)
+  grup-sp-inf/modnorule/(de de SPS00 -) [
+    grup-verb-inf/head/(ver ver VMN0000 -)
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  grup-sp/modnorule/(con con SPS00 -) [
+    sn/head/(punto punto NCMS000 -) [
+      espec-ms/espec/(su su DP3CS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(tensión tensión NCFS000 -)
+      ]
+    ]
+  ]
+  subord/modnorule/(que que PR0CN000 -) [
+    grup-verb/modnorule/(mantiene mantener VMIP3S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+    ]
+  ]
+  coord/modnorule/(y y CC -)
+  subord/modnorule/(que que PR0CN000 -) [
+    grup-verb/modnorule/(estallando estallar VMG0000 -) [
+      patons/modnomatch/(te te PP2CS000 -)
+      VMI*<terminar>/modnomatch/(termina terminar VMIP3S0 -)
+    ]
+  ]
+  grup-sp/modnorule/(en en SPS00 -) [
+    sn/head/(cara cara NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  prep/modnorule/(a a SPS00 -)
+  espec-ms/modnorule/(el el DA0MS0 -)
+  sn/modnorule/(final final NCFS000 -)
+  F-term/modnorule/(. . Fp -)
+]
+
+subord/top/(Que que CS -) [
+  grup-verb/modnorule/(sepas saber VMSP2S0 -)
+  subord/modnorule/(que que CS -) [
+    grup-verb/modnorule/(llorar llorar VMN0000 -) [
+      VMI*<poder>/modnomatch/(puedes poder VMIP2S0 -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

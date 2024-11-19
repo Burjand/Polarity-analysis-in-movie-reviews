@@ -1,0 +1,41 @@
+grup-sp/top/(En en SPS00 -) [
+  sn/head/(intento intento NCMS000 -) [
+    espec-ms/espec/(su su DP3CS0 -)
+  ]
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(entretener entretener VMN0000 -)
+  ]
+  coord/modnomatch/(y y CC -)
+  grup-verb-inf/modnomatch/(ser ser VSN0000 -)
+  s-adj/modnomatch/(y y CC -) [
+    s-a-ms/modnorule/(grande grande AQ0CS0 -) [
+      sadv/modnorule/(más más RG -)
+    ]
+    s-a-ms/modnorule/(espectacular espectacular AQ0CS0 -)
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(gana ganar VMIP3S0 -) [
+      sn/subj/(predecesora predecesor NCFS000 -) [
+        espec-fs/espec/(su su DP3CS0 -)
+        Fc(,)/modnomatch/(, , Fc -)
+        grup-sp/modnomatch/(en en SPS00 -) [
+          sn/head/(detrimento detrimento NCMS000 -) [
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(originalidad originalidad NCFS000 -) [
+                espec-fs/espec/(la el DA0FS0 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+      grup-sp/cc/(en en SPS00 -) [
+        sn/head/(visual visual AQ0CS0 -) [
+          j-ms/modnomatch/(lo el DA0NS0 -)
+        ]
+      ]
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

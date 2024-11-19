@@ -1,0 +1,50 @@
+grup-verb/top/(Soy ser VSIP1S0 -) [
+  sn/obj/(Leyenda leyenda NP00000 -) [
+    grup-verb/modnomatch/(es ser VSIP3S0 -) [
+      sn/obj/(producto-espectáculo producto-espectáculo NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        s-a-ms/qual/(nuevo nuevo AQ0MS0 -)
+        subord/modnomatch/(que que PR0CN000 -) [
+          grup-verb/modnorule/(ofrece ofrecer VMIP3S0 -)
+        ]
+      ]
+      sn/obj/(Hollywood hollywood NP00000 -)
+      grup-sp-inf/iobj/(para para SPS00 -) [
+        grup-verb-inf/head/(ganar ganar VMN0000 -)
+        sn/modnomatch/(batalla batalla NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  coor-sp/modnomatch/(pero pero CC -) [
+    grup-sp/modnorule/(en en SPS00 -) [
+      sn/head/(taquilla taquilla NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        s-a-fs/qual/(navideña navideño AQ0FS0 -)
+        grup-verb/modnomatch/(resulta resultar VMIP3S0 -)
+      ]
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+    grup-sp/modnorule/(a_pesar_de a_pesar_de SPS00 -) [
+      sn/head/(inicio inicio NCMS000 -) [
+        espec-ms/espec/(su su DP3CS0 -)
+        s-a-ms/qual/(buen bueno AQ0MS0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb-inf/modnomatch/(ser ser VSN0000 -)
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(previsible previsible AQ0CS0 -)
+  ]
+  coord/modnomatch/(y y CC -)
+  prep/modnomatch/(de de SPS00 -)
+  espec-ms/modnomatch/(lo el DA0NS0 -)
+  s-adj/att/(soporífera soporífero AQ0FS0 -) [
+    sadv/modnorule/(más más RG -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

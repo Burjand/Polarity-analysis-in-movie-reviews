@@ -1,0 +1,43 @@
+coor-vb/top/(y y CC -) [
+  grup-verb/co-v/(sería ser VSIC1S0 -) [
+    sn/subj/(parte parte NCFS000 -) [
+      espec-fs/espec/(Una uno DI0FS0 -)
+      s-a-fs/qual/(segunda 2 AO0FS0 -)
+      espec-ms/espec/(lo el DA0NS0 -)
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(conseguiría conseguir VMIC1S0 -)
+      ]
+    ]
+    grup-verb-inf/modnomatch/(perder perder VMN0000 -)
+    espec-fs/modnomatch/(toda todo DI0FS0 -)
+    sn/obj/(frescura frescura NCFS000 -) [
+      espec-fs/espec/(poca poco DI0FS0 -) [
+        j-fs/modnorule/(la el DA0FS0 -)
+      ]
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(tener tener VMN0000 -) [
+          VMS*<poder>/modnomatch/(pudiera poder VMSI1S0 -)
+        ]
+      ]
+    ]
+    sn/obj/(parte parte NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(primera 1 AO0FS0 -)
+      Fc(,)/modnomatch/(, , Fc -)
+    ]
+    prep/modnomatch/(a a SPS00 -)
+    espec-ms/modnomatch/(el el DA0MS0 -)
+    grup-verb-inf/modnomatch/(ser ser VSN0000 -)
+  ]
+  sn/subj/(comercial comercial AQ0CS0 -) [
+    pindef-ms/modnomatch/(muchísimo mucho PI0MS000 -)
+    sadv/modnomatch/(más más RG -)
+    F-no-c/modnomatch/(... ... Fs -)
+  ]
+  grup-verb/co-v/(sido ser VSP00SM -) [
+    vaux/aux/(ha haber VAIP3S0 -)
+    sadv/cc/(así así RG -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

@@ -1,0 +1,59 @@
+grup-verb/top/(dijo decir VMIS3S0 -) [
+  sn/subj/(Chaplin chaplin NP00000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+    s-a-ms/qual/(mismo mismo AQ0MS0 -)
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(gustaría gustar VMIC1S0 -) [
+      patons/modnomatch/(le le PP3CSD00 -)
+    ]
+  ]
+  grup-verb-inf/modnomatch/(recordado recordar VMP00SM -) [
+    infaux-ser/modnomatch/(ser ser VSN0000 -)
+  ]
+  grup-sp/modnomatch/(por por SPS00 -) [
+    sn/head/(película película NCFS000 -) [
+      espec-fs/espec/(esta este DD0FS0 -)
+      grup-verb/modnomatch/(fue ser VSIS3S0 -) [
+        sn/obj/(niña niño NCFS000 -) [
+          espec-fs/espec/(su su DP3CS0 -)
+          s-a-fs/qual/(mimada mimar VMP00SF -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  Fc(,)/modnomatch/(, , Fc -)
+  prep/modnomatch/(por por SPS00 -)
+  grup-sp/modnomatch/(encima_de encima_de SPS00 -) [
+    sn/head/(cintas cinta NCFP000 -) [
+      s-a-fp/qual/(y y CC -) [
+        s-a-fp/modnorule/(mejores mejor AQ0CP0 -) [
+          sadv/modnorule/(posiblemente posiblemente RG -)
+        ]
+        s-a-fp/modnorule/(revolucionarias revolucionario AQ0FP0 -) [
+          sadv/modnorule/(más más RG -)
+        ]
+      ]
+    ]
+  ]
+  conj-subord/modnomatch/(como como CS -)
+  F-term/term/(? ? Fit -)
+]
+
+sn/top/(Tiempos tiempos NP00000 -) [
+  s-a-mp/qual/(modernos moderno AQ0MP0 -)
+  F-term/term/(? ? Fit -)
+  coord/modnomatch/(o o CC -)
+  s-adj/qual/(emocionales emocional AQ0CP0 -) [
+    sadv/modnorule/(más más RG -)
+  ]
+  conj-subord/modnomatch/(como como CS -)
+  F-term/term/(? ? Fit -)
+]
+
+sn/top/(Candilejas candilejas NP00000 -) [
+  F-term/term/(? ? Fit -)
+  F-term/term/(. . Fp -)
+]
+

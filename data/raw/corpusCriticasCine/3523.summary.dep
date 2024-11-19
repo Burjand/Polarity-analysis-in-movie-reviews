@@ -1,0 +1,39 @@
+grup-verb/top/(presagio presagiar VMIP1S0 -) [
+  patons/modnomatch/(Le le PP3CSD00 -)
+  patons/modnomatch/(lo lo PP3CNA00 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(predecir predecir VMN0000 -) [
+      VMI*<poder>/modnomatch/(podría poder VMIC1S0 -)
+      sn/subj/(cartel cartel NCMS000 -) [
+        espec-ms/espec/(su su DP3CS0 -)
+      ]
+      sadv/cc/(nunca nunca RG -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sadv/cc/(mucho mucho RG -)
+  sn/obj/(Cruise cruise NP00000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(Streep streep NP00000 -) [
+    espec-fs/espec/(mucha mucho DI0FS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sadv/cc/(mucho mucho RG -)
+  coor-n/obj/(pero pero CC -) [
+    sn/co-n/(Redford redford NP00000 -)
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(carrera carrera NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(corta corto AQ0FS0 -)
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(cines cine NCMP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+      s-a-mp/qual/(españoles español AQ0MP0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,36 @@
+grup-verb/top/(cebado cebadar VMIP1S0 -) [
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(Una uno DI0FS0 -)
+    prep/modnomatch/(de de SPS00 -)
+    espec-fs/espec/(la el DA0FS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(esperaba esperar VMII1S0 -)
+    ]
+    sn/modnomatch/(algo algo PI0CS000 -) [
+      grup-sp/modnomatch/(en en SPS00 -) [
+        data/modnomatch/(sábado_por_la_tarde [S:??/??/??:??.??:pm] W -)
+        grup-sp/modnomatch/(en en SPS00 -) [
+          sn/head/(casa casa NCFS000 -) [
+            espec-fs/espec/(tu tu DP2CSS -)
+          ]
+        ]
+      ]
+    ]
+    sadv/modnomatch/(más más RG -)
+    Fc(,)/modnomatch/(, , Fc -)
+    s-adj/qual/(ideal ideal AQ0CS0 -)
+    grup-sp-inf/modnomatch/(para para SPS00 -) [
+      grup-verb-inf/head/(ver ver VMN0000 -)
+    ]
+    grup-sp-inf/modnomatch/(después_de después_de SPS00 -) [
+      grup-verb-inf/head/(reposar reposar VMN0000 -)
+      sn/modnomatch/(comida comida NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+    cual-s/modnomatch/(cual cual PR0CS000 -)
+  ]
+  sn/obj/(cerdo cerdo NCMS000 -)
+  F-term/term/(. . Fp -)
+]
+

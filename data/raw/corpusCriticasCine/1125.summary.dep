@@ -1,0 +1,37 @@
+grup-sp-inf/top/(Para para SPS00 -) [
+  grup-verb-inf/head/(concluir concluir VMN0000 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/modnomatch/(disfrutad disfrutar VMM02P0 -) [
+    sn/subj/(consejo consejo NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      F-no-c/modnomatch/(: : Fd -)
+    ]
+    sp-de/modnomatch/(de de SPS00 -) [
+      sn/gen/(cinta cinta NCFS000 -) [
+        espec-fs/espec/(esta este DD0FS0 -)
+      ]
+    ]
+    grup-sp/modnomatch/(con con SPS00 -) [
+      sn/head/(predisposición predisposición NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        s-a-fs/qual/(abierta abrir VMP00SF -)
+      ]
+    ]
+    grup-sp-inf/iobj/(a a SPS00 -) [
+      grup-verb-inf/head/(ignorar ignorar VMN0000 -)
+      sn/modnomatch/(truco truco NCMS000 -) [
+        espec-ms/espec/(su su DP3CS0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  conj-subord/modnomatch/(porque porque CS -)
+  s-adj/modnomatch/(seguro seguro AQ0MS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(sorprenderéis sorprender VMIF2P0 -) [
+      patons/modnomatch/(os os PP2CP000 -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

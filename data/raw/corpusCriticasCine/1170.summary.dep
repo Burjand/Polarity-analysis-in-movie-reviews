@@ -1,0 +1,56 @@
+grup-verb/top/(resolverán resolver VMIF3P0 -) [
+  sn/subj/(avezados avezar VMP00PM -) [
+    espec-mp/espec/(Los el DA0MP0 -)
+    espec-mp/espec/(más más RG -)
+  ]
+  sn/obj/(juego juego NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(engaños engaño NCMP000 -)
+    ]
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(anticipación anticipación NCFS000 -) [
+      s-a-fs/qual/(mayor mayor AQ0CS0 -)
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(creo crear VMIP1S0 -) [
+      coor-n/subj/(pero pero CC -) [
+        sn/co-n/(otros otro PI0MP000 -)
+        Fc(,)/modnomatch/(, , Fc -)
+        sn/co-n/(sensación sensación NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(todos todo PI0MP000 -)
+          ]
+        ]
+      ]
+      grup-sp/modnomatch/(a a SPS00 -) [
+        sn/head/(término término NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(función función NCFS000 -) [
+              espec-fs/espec/(la el DA0FS0 -)
+              s-a-fs/qual/(larga largo AQ0FS0 -)
+            ]
+          ]
+        ]
+      ]
+      subord/modnomatch/(que que CS -) [
+        grup-verb/modnorule/(equivale equivaler VMIP3S0 -)
+      ]
+    ]
+  ]
+  grup-sp-inf/iobj/(a a SPS00 -) [
+    grup-verb-inf/head/(completado completar VMP00SM -) [
+      infaux/modnomatch/(haber haber VAN0000 -)
+    ]
+    sn/modnomatch/(complejo complejo NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      w-ms/modnomatch/(sudoku sudoku NP00000 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

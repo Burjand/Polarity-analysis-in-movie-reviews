@@ -1,0 +1,72 @@
+grup-verb/top/(Imaginemos imaginar VMM01P0 -) [
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(chicos chico NCMP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(Superbad superbad NP00000 -)
+      ]
+    ]
+  ]
+  sn/obj/(años año NCMP000 -) [
+    espec-mp/espec/(unos uno DI0MP0 -)
+  ]
+  sadv/cc/(después después RG -)
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(aunque aunque CC -) [
+  grup-verb/co-v/(seguido seguir VMP00SM -) [
+    vaux/aux/(ha haber VAIP3S0 -)
+    sn/subj/(uno uno PI0MS000 -) [
+      indef-ms/modnomatch/(Cada cada DI0CS0 -)
+    ]
+    sn/obj/(camino camino NCMS000 -) [
+      espec-ms/espec/(su su DP3CS0 -)
+    ]
+    coord/modnomatch/(y y CC -)
+    sadv/cc/(más más RG -)
+    coord/modnomatch/(o o CC -)
+    sadv/cc/(menos menos RG -)
+  ]
+  grup-verb/co-v/(sobreviven sobrevivir VMIP3P0 -) [
+    subord/modnomatch/(como como CS -) [
+      grup-verb/modnorule/(pueden poder VMIP3P0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(sea ser VSSP1S0 -) [
+    grup-sp/modnomatch/(a_base_de a_base_de SPS00 -) [
+      sn/head/(indemnizaciones indemnización NCFP000 -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+grup-verb/top/(Tiene tener VMIP3S0 -) [
+  sn/obj/(todo todo PI0MS000 -) [
+    grup-verb/modnomatch/(sigue seguir VMIP3S0 -) [
+      grup-sp/cc/(en en SPS00 -) [
+        sn/head/(comedia comedia NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          s-a-fs/qual/(nueva nuevo AQ0FS0 -)
+          w-fs/modnomatch/(USA usa NP00000 -)
+        ]
+      ]
+      coor-n/subj/(y y CC -) [
+        sn/co-n/(fórmula fórmula NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  espec-ms/modnomatch/(lo el DA0NS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(siendo ser VSG0000 -) [
+      VMI*<venir>/modnomatch/(viene venir VMIP3S0 -)
+    ]
+  ]
+  s-adj/modnomatch/(habitual habitual AQ0CS0 -)
+  s-adj/modnomatch/(viva vivo AQ0FS0 -)
+  F-term/term/(. . Fp -)
+]
+

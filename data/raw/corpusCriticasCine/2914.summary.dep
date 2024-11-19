@@ -1,0 +1,39 @@
+grup-verb/top/(sería ser VSIC1S0 -) [
+  sn/subj/(Impresionante impresionante NP00000 -)
+  sn/obj/(palabra palabra NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  grup-sp/iobj/(para para SPS00 -) [
+    sn/head/(equipo equipo NCMS000 -) [
+      espec-ms/espec/(todo todo DI0MS0 -) [
+        j-ms/modnorule/(el el DA0MS0 -)
+      ]
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(pre-producción pre-producción NCFS000 -)
+      ]
+    ]
+  ]
+  coor-n/obj/(y y CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(producción producción NCFS000 -)
+    sn/co-n/(postproducción postproducción NCFS000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-sp/top/(Desde desde SPS00 -) [
+  sn/head/(dirección dirección NCFS000 -) [
+    espec-fs/espec/(esa ese DD0FS0 -)
+    s-a-fs/qual/(estupenda estupendo AQ0FS0 -)
+    s-a-fs/qual/(artística artístico AQ0FS0 -)
+    grup-sp/modnomatch/(a a SPS00 -) [
+      sn/head/(banda banda NCFS000 -) [
+        espec-fs/espec/(esa ese DD0FS0 -)
+        s-a-fs/qual/(magnífica magnífico AQ0FS0 -)
+        s-a-fs/qual/(sonora sonoro AQ0FS0 -)
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

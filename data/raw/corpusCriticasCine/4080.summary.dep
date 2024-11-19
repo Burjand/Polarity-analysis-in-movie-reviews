@@ -1,0 +1,74 @@
+grup-verb/top/(oído oír VMP00SM -) [
+  vaux/aux/(he haber VAIP1S0 -)
+  grup-sp/modnomatch/(Desde desde SPS00 -) [
+    s-a-ms/modnomatch/(pequeño pequeño AQ0MS0 -)
+  ]
+  grup-verb-inf/modnomatch/(escuchar escuchar VMN0000 -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(padre padre NCMS000 -) [
+      espec-ms/espec/(mi mi DP1CSS -)
+      pdem-ms/modnomatch/(eso ese PD0NS000 -)
+      grup-verb/modnomatch/(gana ganar VMIP3S0 -) [
+        grup-sp/cc/(en en SPS00 -) [
+          sn/head/(guerras guerra NCFP000 -) [
+            espec-fp/espec/(las el DA0FP0 -)
+          ]
+        ]
+        sn/subj/(nadie nadie PI0CS000 -)
+        F-no-c/modnomatch/(" " Fe -)
+        coor-n/obj/(y y CC -) [
+          sn/co-n/(vez vez NCFS000 -) [
+            espec-fs/espec/(una uno DI0FS0 -)
+          ]
+        ]
+        sadv/cc/(más más RG -)
+      ]
+    ]
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  F-no-c/modnomatch/(" " Fe -)
+  coor-sp/modnomatch/(y y CC -) [
+    grup-sp/modnorule/(a a SPS00 -) [
+      sn/head/(vista vista NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(película película NCFS000 -) [
+            espec-fs/espec/(esta este DD0FS0 -)
+            grup-verb/modnomatch/(estar estar VAN0000 -) [
+              VMI*<poder>/modnomatch/(puedo poder VMIP1S0 -)
+              neg/modneg/(no no RN -)
+              sadv/cc/(más más RG -) [
+                SPS00(de)/modnorule/(de de SPS00 -)
+                sn/modnorule/(acuerdo acuerdo NCMS000 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(puesto puesto NCMS000 -) [
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(hay haber VMIP3S0 -) [
+        neg/modneg/(no no RN -)
+      ]
+    ]
+  ]
+  coord/modnomatch/(ni ni CC -)
+  s-adj/modnomatch/(ni ni CC -) [
+    s-a-mp/modnorule/(vencedores vencedor AQ0MP0 -)
+    s-a-mp/modnorule/(vencidos vencer VMP00PM -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  s-adj/modnomatch/(solo solo AQ0MS0 -)
+  sn/obj/(familias familia NCFP000 -) [
+    s-a-fp/qual/(destrozadas destrozar VMP00PF -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(personas persona NCFP000 -) [
+    s-a-fp/qual/(humilladas humillar VMP00PF -)
+    F-no-c/modnomatch/(... ... Fs -)
+  ]
+]
+

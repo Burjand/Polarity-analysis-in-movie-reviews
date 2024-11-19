@@ -1,0 +1,72 @@
+grup-verb/top/(maneja manejar VMIP3S0 -) [
+  sn/subj/(Alex_de_la_Iglesia alex_de_la_iglesia NP00000 -) [
+    grup-verb/modnomatch/(cuenta contar VMIP3S0 -) [
+      grup-sp/modnomatch/(con con SPS00 -) [
+        sn/head/(par par NCMS000 -) [
+          espec-ms/espec/(un uno DI0MS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(planos plano NCMP000 -) [
+              n-fs/modnomatch/(secuencia secuencia NCFS000 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  sn/obj/(puesta puesta NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(escena escena NCFS000 -)
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(película película NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  s-adj/modnomatch/(memorables memorable AQ0CP0 -) [
+    sadv/modnorule/(bastante bastante RG -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-n/top/(y y CC -) [
+  sn/co-n/(Lástima lástima NP00000 -) [
+    subord/modnomatch/(que que CS -) [
+      grup-verb/modnorule/(resulte resultar VMSP1S0 -) [
+        sn/subj/(todo todo PI0MS000 -) [
+          grup-sp/modnomatch/(en en SPS00 -) [
+            sn/head/(tono tono NCMS000 -) [
+              espec-ms/espec/(un uno DI0MS0 -)
+              s-a-ms/qual/(dramático dramático AQ0MS0 -) [
+                s-a-ms/modnorule/(indefinido indefinido AQ0MS0 -)
+              ]
+            ]
+          ]
+        ]
+        grup-sp/cc/(en en SPS00 -) [
+          sn/head/(juego juego NCMS000 -) [
+            espec-ms/espec/(un uno DI0MS0 -)
+            s-a-ms/qual/(caprichoso caprichoso AQ0MS0 -)
+          ]
+        ]
+        coor-n/obj/(y y CC -) [
+          sn/co-n/(autocomplaciente autocomplaciente NP00000 -)
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/co-n/(discurso discurso NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(filosófico filosófico AQ0MS0 -) [
+      s-a-ms/modnorule/(inconcluso inconcluso AQ0MS0 -)
+    ]
+  ]
+  conj-subord/modnomatch/(cuando cuando CS -)
+  neg/modnomatch/(no no RN -)
+  s-adj/modnomatch/(incoherente incoherente AQ0CS0 -)
+  F-term/modnomatch/(. . Fp -)
+]
+

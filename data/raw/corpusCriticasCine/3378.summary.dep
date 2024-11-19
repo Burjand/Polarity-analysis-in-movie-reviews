@@ -1,0 +1,73 @@
+grup-verb/top/(parece parecer VMIP3S0 -) [
+  sn/subj/(Todo todo PI0MS000 -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(Resident_Evil resident_evil NP00000 -) [
+      espec-ms/espec/(este este DD0MS0 -)
+    ]
+  ]
+  parti-flex/modnomatch/(escrito escribir VMP00SM -)
+  grup-sp/modnomatch/(por por SPS00 -) [
+    sn/head/(niño niño NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(años año NCMP000 -) [
+          numero-nopart/quant/(12 12 Z -)
+        ]
+      ]
+    ]
+  ]
+  parti-flex/modnomatch/(enganchado enganchar VMP00SM -)
+  coor-sp/modnomatch/(y y CC -) [
+    grup-sp/modnorule/(a a SPS00 -) [
+      sn/head/(playstation playstation NP00000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        grup-verb/modnomatch/(es ser VSIP3S0 -) [
+          grup-sp-inf/modnomatch/(de de SPS00 -) [
+            grup-verb-inf/head/(suponer suponer VMN0000 -)
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+    grup-sp/modnorule/(por por SPS00 -) [
+      sn/head/(ello él PP3NS000 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  conj-subord/modnomatch/(que que CS -)
+  sn/obj/(éste este PD0MS000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(potencial potencial NCMS000 -) [
+    espec-ms/espec/(su su DP3CS0 -)
+    s-a-ms/qual/(público público AQ0MS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(disfrute disfrute NCMS000 -)
+  sadv/cc/(mucho mucho RG -)
+  sadv/cc/(más más RG -) [
+    SPS00(de)/modnorule/(de de SPS00 -)
+    sn/modnorule/(gracietas gracia NCFP00D -) [
+      espec-fp/espec/(las el DA0FP0 -)
+      s-a-fp/qual/(ocasionales ocasional AQ0CP0 -)
+    ]
+  ]
+  grup-sp/modnomatch/(sin sin SPS00 -) [
+    sn/head/(gracia gracia NCFS000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(imaginativo imaginativo AQ0MS0 -) [
+          j-ms/modnomatch/(lo el DA0NS0 -)
+          sadv/modnomatch/(poco poco RG -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(guión guión NCMS000 -) [
+              espec-ms/espec/(su su DP3CS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  F-term/term/(. . Fp -)
+]
+

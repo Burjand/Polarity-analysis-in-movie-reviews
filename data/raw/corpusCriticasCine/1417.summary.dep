@@ -1,0 +1,78 @@
+sn/top/(Peliculón película NCMS00A -) [
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(mayúsculas mayúscula NCFP000 -) [
+      grup-sp/modnomatch/(a a SPS00 -) [
+        sn/head/(público público NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          grup-sp/modnomatch/(a a SPS00 -) [
+            sn/head/(clásicos clásico NCMP000 -) [
+              espec-mp/espec/(los el DA0MP0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  prep/modnomatch/(de de SPS00 -)
+  espec-fp/espec/(esas ese DD0FP0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(acercar acercar VMN0000 -) [
+      VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+    ]
+  ]
+  sadv/modnomatch/(actúal actúal RG -)
+  F-term/term/(. . Fp -)
+]
+
+subord/top/(Si si CS -) [
+  grup-verb/modnorule/(aderezamos aderezar VMIP1P0 -) [
+    patons/modnomatch/(la lo PP3FSA00 -)
+    sadv/cc/(además además RG -)
+  ]
+  coor-sp/modnorule/(y y CC -) [
+    grup-sp/modnorule/(con con SPS00 -) [
+      sn/head/(polémica polémica NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(director director NCMS000 -) [
+            espec-ms/espec/(su su DP3CS0 -)
+            w-ms/modnomatch/(Elia_Kazan elia_kazan NP00000 -)
+          ]
+        ]
+      ]
+    ]
+    grup-sp/modnorule/(durante durante SPS00 -) [
+      sn/head/(caza caza NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(brujas brujo NCFP000 -)
+        ]
+      ]
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+    grup-sp/modnorule/(con con SPS00 -) [
+      sn/head/(Marlon_Brando marlon_brando NP00000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        s-a-ms/qual/(guapo guapo AQ0MS0 -) [
+          sadv/modnorule/(más más RG -)
+        ]
+      ]
+    ]
+  ]
+  subord/modnorule/(que que PR0CN000 -) [
+    grup-verb/modnorule/(haber haber VMN0000 -) [
+      VMI*<poder>/modnomatch/(pudo poder VMIS3S0 -)
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  subord/modnorule/(pues pues CS -) [
+    grup-verb/modnorule/(tenemos tener VMIP1P0 -) [
+      patons/modnomatch/(lo lo PP3CNA00 -)
+      sadv/cc/(ya ya RG -)
+      sn/obj/(todo todo PI0MS000 -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

@@ -1,0 +1,68 @@
+sn/top/(película película NCFS000 -) [
+  s-a-fs/qual/(Dura duro AQ0FS0 -)
+  grup-sp/modnomatch/(sobre sobre SPS00 -) [
+    sn/head/(profesor profesor NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      grup-sp/modnomatch/(con con SPS00 -) [
+        sn/head/(ideales ideal NCMP000 -) [
+          s-a-mp/qual/(fuertes fuerte AQ0CP0 -)
+          s-a-mp/qual/(didácticos didáctico AQ0MP0 -)
+          grup-sp/modnomatch/(a a SPS00 -) [
+            sn/head/(estudiantes estudiante NCCP000 -) [
+              espec-mp/espec/(unos uno DI0MP0 -)
+              sp-de/mod/(de de SPS00 -) [
+                sn/gen/(instituto instituto NCMS000 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(encauzar encauzar VMN0000 -) [
+      VMI*<tener>/modnomatch/(tiene tener VMIP3S0 -)
+      CS(que)/modnomatch/(que que CS -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+s-adj/top/(, , Fc -) [
+  s-a-fs/modnorule/(tensa tenso AQ0FS0 -) [
+    sadv/modnorule/(Bastante bastante RG -)
+  ]
+  s-a-fs/modnorule/(dura duro AQ0FS0 -)
+  coord/modnorule/(y y CC -)
+  prep/modnorule/(con con SPS00 -)
+  espec-ms/modnorule/(un uno DI0MS0 -)
+  coor-vb/modnorule/(aunque aunque CC -) [
+    sn/subj/(final final NCFS000 -) [
+      s-adj/qual/(emotivo emotivo AQ0MS0 -) [
+        sadv/modnorule/(muy muy RG -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-verb/co-v/(hace hacer VMIP3S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+    ]
+  ]
+  espec-ms/modnorule/(un uno DI0MS0 -)
+  sadv/modnorule/(poco poco RG -)
+  parti-flex/modnorule/(pesada pesar VMP00SF -)
+  F-term/modnorule/(. . Fp -)
+]
+
+grup-sp-inf/top/(Para para SPS00 -) [
+  grup-verb-inf/head/(ver ver VMN0000 -) [
+    PP*/modnomatch/(la lo PP3FSA00 -)
+  ]
+  sn/modnomatch/(vez vez NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+  ]
+  coord/modnomatch/(y y CC -)
+  neg/modnomatch/(no no RN -)
+  sadv/modnomatch/(más más RG -)
+  F-term/modnomatch/(. . Fp -)
+]
+

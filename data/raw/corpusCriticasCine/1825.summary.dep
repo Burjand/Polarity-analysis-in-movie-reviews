@@ -1,0 +1,67 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(pastor pastor NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+    s-a-ms/qual/(buen bueno AQ0MS0 -)
+  ]
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(honrada honrar VMP00SF -)
+  ]
+  coord/modnomatch/(y y CC -)
+  sadv/cc/(serenamente serenamente RG -)
+  parti-flex/modnomatch/(rodada rodar VMP00SF -)
+  F-no-c/modnomatch/(( ( Fpa -)
+  grup-sp-inf/modnomatch/(hasta hasta SPS00 -) [
+    grup-verb-inf/head/(exceder exceder VMN0000 -) [
+      PP*/modnomatch/(se se PP3CN000 -)
+    ]
+  ]
+  grup-sp/modnomatch/(sin sin SPS00 -) [
+    sn/head/(pudor pudor NCMS000 -) [
+      grup-sp/modnomatch/(en en SPS00 -) [
+        sn/head/(metraje metraje NCMS000 -) [
+          espec-ms/espec/(su su DP3CS0 -)
+        ]
+        F-no-c/modnomatch/() ) Fpt -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(torna tornar VMIP3S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+      grup-sp/modnomatch/(a_diferencia_de a_diferencia_de SPS00 -) [
+        sn/head/(Munich munich NP00000 -)
+      ]
+    ]
+  ]
+  s-adj/att/(y y CC -) [
+    s-a-fs/modnorule/(amarga amargo AQ0FS0 -)
+    s-a-fs/modnorule/(dolorosa doloroso AQ0FS0 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(resolución resolución NCFS000 -) [
+      espec-fs/espec/(su su DP3CS0 -)
+      s-a-fs/qual/(final final AQ0CS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp-inf/modnomatch/(sin sin SPS00 -) [
+    grup-verb-inf/head/(dejar dejar VMN0000 -)
+    sn/modnomatch/(resquicio resquicio NCMS000 -)
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(esperanza esperanza NCFS000 -)
+  ]
+  espec-fs/modnomatch/(alguna alguno DI0FS0 -)
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(empleados empleado NCMP000 -) [
+  espec-mp/espec/(Los el DA0MP0 -)
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(Dios dios NP00000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

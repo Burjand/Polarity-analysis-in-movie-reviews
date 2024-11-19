@@ -1,0 +1,35 @@
+grup-verb/top/(va ir VMIP3S0 -) [
+  sn/subj/(director director NCMS000 -) [
+    espec-ms/espec/(Este este DD0MS0 -)
+    s-a-ms/qual/(particular particular AQ0CS0 -)
+  ]
+  sn/cc/(camino camino NCMS000 -)
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(convertir convertir VMN0000 -)
+    sn/modnomatch/(filmes filme NCMP000 -) [
+      espec-mp/espec/(sus su DP3CP0 -)
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(obras obra NCFP000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(culto culto NCMS000 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/cc/(a_juzgar_por a_juzgar_por SPS00 -) [
+    sn/head/(expectación expectación NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(generada generar VMP00SF -)
+      grup-sp/modnomatch/(por por SPS00 -) [
+        sn/head/(estreno estreno NCMS000 -) [
+          espec-ms/espec/(cada cada DI0CS0 -)
+          s-a-ms/qual/(nuevo nuevo AQ0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

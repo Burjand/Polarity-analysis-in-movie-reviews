@@ -1,0 +1,73 @@
+coor-vb/top/(y y CC -) [
+  sn/subj/(historia historia NCFS000 -) [
+    espec-fs/espec/(Una uno DI0FS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(hace hacer VMIP3S0 -) [
+        patons/modnomatch/(nos nos PP1CP000 -)
+      ]
+    ]
+    grup-verb-inf/modnomatch/(reflexionar reflexionar VMN0000 -)
+    grup-sp/modnomatch/(sobre sobre SPS00 -) [
+      sn/head/(casualidades casualidad NCFP000 -) [
+        espec-fp/espec/(las el DA0FP0 -)
+        grup-sp/modnomatch/(sobre sobre SPS00 -) [
+          sn/head/(suerte suerte NCFS000 -) [
+            espec-fs/espec/(la el DA0FS0 -)
+            s-a-fs/qual/(mala malo AQ0FS0 -)
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(cambiar cambiar VMN0000 -) [
+    patons/modnomatch/(te te PP2CS000 -)
+    VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+    grup-sp/modnomatch/(sobre sobre SPS00 -) [
+      sadv/modnomatch/(cómo cómo PT000000 -)
+    ]
+    sn/obj/(vida vida NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(noche noche NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        s-a-fs/qual/(sola solo AQ0FS0 -)
+      ]
+    ]
+  ]
+  grup-verb/co-v/(cambiar cambiar VMN0000 -) [
+    VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+    sadv/cc/(cómo cómo PT000000 -)
+    sn/subj/(vida vida NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(personas persona NCFP000 -) [
+          espec-fp/espec/(muchas mucho DI0FP0 -)
+        ]
+      ]
+    ]
+  ]
+  coor-sp/modnomatch/(o o CC -) [
+    grup-sp/modnorule/(a_raíz_de a_raíz_de SPS00 -) [
+      sn/head/(circunstancia circunstancia NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        s-a-fs/qual/(sola solo AQ0FS0 -)
+      ]
+    ]
+    grup-sp/modnorule/(a_raíz_de a_raíz_de SPS00 -) [
+      sn/head/(actuación actuación NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+  ]
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(persona persona NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(sola solo AQ0FS0 -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

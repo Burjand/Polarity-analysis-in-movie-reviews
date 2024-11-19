@@ -1,0 +1,60 @@
+grup-verb/top/(realiza realizar VMIP3S0 -) [
+  sn/subj/(Sarah_Polley sarah_polley NP00000 -)
+  sn/obj/(lectura lectura NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(sentimientos sentimiento NCMP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(pareja pareja NCFS000 -) [
+            espec-fs/espec/(una uno DI0FS0 -)
+          ]
+        ]
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(lleva llevar VMIP3S0 -)
+    ]
+  ]
+  sn/obj/(vida vida NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+  ]
+  forma-ger/modnomatch/(compartiendo compartir VMG0000 -)
+  sn/obj/(existencias existencia NCFP000 -) [
+    espec-fp/espec/(sus su DP3CP0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+    subord/modnomatch/(cuando cuando CS -) [
+      grup-verb/modnorule/(ven ver VMIP3P0 -) [
+        morfema-verbal/modnomatch/(se se P0000000 -)
+      ]
+    ]
+  ]
+  parti-flex/modnomatch/(obligados obligar VMP00PM -)
+  grup-sp-inf/iobj/(a a SPS00 -) [
+    grup-verb-inf/head/(tomar tomar VMN0000 -)
+    sn/modnomatch/(decisión decisión NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(drástica drástico AQ0FS0 -)
+    ]
+  ]
+  subord/modnomatch/(cuando cuando CS -) [
+    grup-verb/modnorule/(hacer hacer VMN0000 -) [
+      VMI*<empezar>/modnomatch/(empieza empezar VMIP3S0 -)
+      SPS00(a)/modnomatch/(a a SPS00 -)
+      sn/subj/(Alzheimer alzheimer NP00000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+      sn/obj/(estragos estrago NCMP000 -)
+      grup-sp/cc/(en en SPS00 -) [
+        sn/head/(recuerdos recuerdo NCMP000 -) [
+          espec-mp/espec/(los el DA0MP0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(ella él PP3FS000 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

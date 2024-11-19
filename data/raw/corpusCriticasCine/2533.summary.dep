@@ -1,0 +1,42 @@
+grup-verb/top/(hará hacer VMIF3S0 -) [
+  sn/subj/(secuela secuela NCFS000 -) [
+    espec-fs/espec/(Esta este DD0FS0 -)
+  ]
+  sn/obj/(delicias delicia NCFP000 -) [
+    espec-fp/espec/(las el DA0FP0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(aficionados aficionado NCMP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+      ]
+    ]
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(género género NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  prep/modnomatch/(de de SPS00 -)
+  espec-mp/modnomatch/(todos todo DI0MP0 -) [
+    dem-mp/modnorule/(aquellos aquel DD0MP0 -)
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(ver ver VMN0000 -) [
+      VMS*<querer>/modnomatch/(quieran querer VMSP3P0 -)
+    ]
+  ]
+  sn/obj/(propuesta propuesta NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(y y CC -) [
+      s-a-fs/modnorule/(interesante interesante AQ0CS0 -)
+      s-a-fs/modnorule/(consecuente consecuente AQ0CS0 -)
+    ]
+  ]
+  prep/modnomatch/(con con SPS00 -)
+  espec-ms/modnomatch/(lo el DA0NS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(pretende pretender VMIP3S0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

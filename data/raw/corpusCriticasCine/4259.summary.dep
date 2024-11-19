@@ -1,0 +1,52 @@
+subord/top/(Cuando cuando CS -) [
+  grup-verb/modnorule/(entra entrar VMIP3S0 -)
+  grup-verb/modnorule/(encontrar encontrar VMN0000 -) [
+    VMI*<terminar>/modnomatch/(termina terminar VMIP3S0 -)
+    SPS00(de)/modnomatch/(de de SPS00 -)
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(materia materia NCFS000 -)
+    ]
+    neg/modneg/(no no RN -)
+    sn/obj/(camino camino NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(angustia angustia NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(parece parecer VMIP3S0 -) [
+    subord/modnomatch/(que que CS -) [
+      grup-verb/modnorule/(sacado sacar VMP00SM -) [
+        morfema-verbal/modnomatch/(se se P0000000 -)
+        patons/modnomatch/(le le PP3CSD00 -)
+        VMI*<poder>/modnomatch/(podría poder VMIC1S0 -)
+        infaux/modnomatch/(haber haber VAN0000 -)
+      ]
+    ]
+    sadv/cc/(mucho mucho RG -)
+    sn/obj/(jugo jugo NCMS000 -) [
+      espec-ms/espec/(más más RG -)
+    ]
+    grup-sp/iobj/(a a SPS00 -) [
+      sn/head/(guión guión NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+    subord/modnomatch/(pues pues CS -) [
+      grup-verb/modnorule/(deja dejar VMIP3S0 -)
+    ]
+  ]
+  espec-ms/modnorule/(un uno DI0MS0 -)
+  grup-verb/modnorule/(vació vaciar VMIS3S0 -) [
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(espectador espectador NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

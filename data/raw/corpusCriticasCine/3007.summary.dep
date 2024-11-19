@@ -1,0 +1,74 @@
+grup-verb/top/(sabe saber VMIP3S0 -) [
+  sn/subj/(film film NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(ocasiones ocasión NCFP000 -) [
+      s-a-fp/qual/(numerosas numeroso AQ0FP0 -)
+    ]
+  ]
+  grup-verb-inf/modnomatch/(hacer hacer VMN0000 -)
+  sn/obj/(homenaje homenaje NCMS000 -) [
+    coor-sp/modnomatch/(y y CC -) [
+      grup-sp/modnorule/(a a SPS00 -) [
+        sn/head/(film film NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(John_Carpenter john_carpenter NP00000 -)
+          ]
+        ]
+      ]
+      grup-sp/modnorule/(a a SPS00 -) [
+        sn/head/(guión guión NCMS000 -) [
+          espec-ms/espec/(su su DP3CS0 -)
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  subord-ger/modnomatch/(haciendo hacer VMG0000 -) [
+    PP*/modnorule/(le le PP3CSD00 -)
+    sn/modnorule/(guiños guiño NCMP000 -) [
+      s-a-mp/qual/(numerosos numeroso AQ0MP0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(e e CC -)
+  sadv/cc/(incluso incluso RG -)
+  forma-ger/modnomatch/(adaptando adaptar VMG0000 -)
+  sn/obj/(trama trama NCFS000 -) [
+    espec-fs/espec/(su su DP3CS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(forma forma NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+      ]
+    ]
+  ]
+  sadv/cc/(muy muy RG -)
+  s-adj/modnomatch/(y y CC -) [
+    s-a-fs/modnorule/(parecida parecer VMP00SF -)
+    s-a-fs/modnorule/(fidedigna fidedigno AQ0FS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(quito quitar VMIP1S0 -) [
+  patons/modnomatch/(Me me PP1CS000 -)
+  sn/obj/(sombrero sombrero NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+  ]
+  grup-sp/modnomatch/(ante ante SPS00 -) [
+    sn/head/(trabajo trabajo NCMS000 -) [
+      espec-ms/espec/(este este DD0MS0 -)
+      s-a-ms/qual/(e e CC -) [
+        s-a-ms/modnorule/(fenomenal fenomenal AQ0CS0 -)
+        s-a-ms/modnorule/(intenso intenso AQ0MS0 -)
+      ]
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(Rob_Zombie rob_zombie NP00000 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

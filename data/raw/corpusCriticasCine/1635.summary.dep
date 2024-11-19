@@ -1,0 +1,74 @@
+subord/top/(Cuando cuando CS -) [
+  grup-verb/modnorule/(estrenó estrenar VMIS3S0 -) [
+    morfema-verbal/modnomatch/(se se P0000000 -)
+    sn/obj/(Cartas cartas NP00000 -)
+  ]
+  grup-verb/modnorule/(defraudó defraudar VMIS3S0 -) [
+    grup-sp/modnomatch/(desde desde SPS00 -) [
+      sn/head/(Iwo_Jima iwo_jima NP00000 -)
+    ]
+    neg/modneg/(no no RN -)
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+prep/top/(A a SPS00 -) [
+  espec-mp/modnorule/(unos uno DI0MP0 -)
+  grup-verb/modnorule/(gustó gustar VMIS3S0 -) [
+    patons/modnomatch/(les les PP3CPD00 -)
+    sn/obj/(película película NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  coor-sp/modnorule/(y y CC -) [
+    grup-sp/modnorule/(a a SPS00 -) [
+      sn/head/(otros otro PI0MP000 -)
+    ]
+  ]
+  coor-vb/modnorule/(sino_que sino_que CC -) [
+    grup-verb/co-v/(gustó gustar VMIS3S0 -) [
+      patons/modnomatch/(les les PP3CPD00 -)
+      subord/modnomatch/(porque porque CS -) [
+        grup-verb/modnorule/(era ser VSII1S0 -) [
+          neg/modneg/(no no RN -)
+          sn/obj/(parte parte NCFS000 -) [
+            espec-fs/espec/(la el DA0FS0 -)
+            s-a-fs/qual/(segunda 2 AO0FS0 -)
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(Banderas banderas NP00000 -) [
+                sp-de/mod/(de de SPS00 -) [
+                  sn/gen/(padres padre NCMP000 -) [
+                    espec-mp/espec/(nuestros nuestro DP1MPP -)
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+    grup-verb/co-v/(era ser VSII1S0 -)
+  ]
+  s-adj/modnorule/(y y CC -) [
+    s-a-ms/modnorule/(diferente diferente AQ0CS0 -)
+    s-a-ms/modnorule/(superior superior AQ0CS0 -) [
+      sadv/modnorule/(claramente claramente RG -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+sn/top/(diptico diptico AQ0MS0 -) [
+  indef-ms/modnomatch/(Un uno DI0MS0 -)
+  grup-sp/modnomatch/(a a SPS00 -) [
+    sn/head/(gusto gusto NCMS000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(espectador espectador NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,83 @@
+grup-verb/top/(sorprendido sorprender VMP00SM -) [
+  patons/modnomatch/(me me PP1CS000 -)
+  vaux/aux/(ha haber VAIP3S0 -)
+  coor-n/subj/(y y CC -) [
+    sn/co-n/(película película NCFS000 -) [
+      espec-fs/espec/(Una uno DI0FS0 -)
+      s-a-fs/qual/(buena bueno AQ0FS0 -)
+      Fc(,)/modnomatch/(, , Fc -)
+      subord/modnomatch/(que que CS -) [
+        grup-verb/modnorule/(mantiene mantener VMIP3S0 -) [
+          patons/modnomatch/(te te PP2CS000 -)
+        ]
+      ]
+      parti-flex/modnomatch/(conectado conectar VMP00SM -)
+      grup-sp/modnomatch/(a a SPS00 -) [
+        sn/head/(ella él PP3FS000 -) [
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(principio principio NCMS000 -) [
+              grup-sp/modnomatch/(a a SPS00 -) [
+                sn/head/(fin fin NCMS000 -) [
+                  grup-sp/modnomatch/(con con SPS00 -) [
+                    sn/head/(actores actor NCMP000 -) [
+                      s-a-mp/qual/(grandes grande AQ0CP0 -)
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+      Fc(,)/modnomatch/(, , Fc -)
+    ]
+    sn/co-n/(manejo manejo NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(gran gran AQ0CS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(cámara cámara NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+        ]
+      ]
+    ]
+    grup-sp/modnomatch/(por por SPS00 -) [
+      sn/head/(parte parte NCFS000 -) [
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(director director NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(aspecto aspecto NCMS000 -) [
+      espec-ms/espec/(ese ese DD0MS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(Y y CC -) [
+  grup-verb/co-v/(está estar VAIP3S0 -) [
+    sadv/cc/(ya ya RG -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(haría hacer VMIC1S0 -) [
+    sn/subj/(solo solo AQ0MS0 -) [
+      pindef-ms/modnomatch/(algo algo PI0CS000 -)
+      sadv/modnomatch/(más más RG -)
+    ]
+    subord/modnomatch/(que que CS -) [
+      grup-verb/modnorule/(destripara destripar VMSI1S0 -) [
+        patons/modnomatch/(os os PP2CP000 -)
+        sn/obj/(película película NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

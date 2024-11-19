@@ -1,0 +1,49 @@
+grup-verb/top/(falta faltar VMIP3S0 -) [
+  patons/modnomatch/(Le le PP3CSD00 -)
+  sn/obj/(pasión pasión NCFS000 -) [
+    s-a-fs/qual/(cinematográfica cinematográfico AQ0FS0 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb-inf/modnomatch/(estar estar VAN0000 -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(altura altura NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(héroes héroe NCMP000 -) [
+          espec-mp/espec/(estos este DD0MP0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(es ser VSIP3S0 -) [
+  grup-sp/modnomatch/(A_pesar_de a_pesar_de SPS00 -) [
+    sn/head/(bromas broma NCFP000 -) [
+      espec-fp/espec/(algunas alguno DI0FP0 -)
+      grup-sp/modnomatch/(en en SPS00 -) [
+        sn/head/(película película NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+        ]
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(hay haber VMIP3S0 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(momentos momento NCMP000 -) [
+    s-a-mp/qual/(y y CC -) [
+      s-a-mp/modnorule/(amables amable AQ0CP0 -)
+      s-a-mp/modnorule/(emocionantes emocionante AQ0CP0 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(film film NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+  ]
+  s-adj/att/(soso soso AQ0MS0 -)
+  F-term/term/(. . Fp -)
+]
+

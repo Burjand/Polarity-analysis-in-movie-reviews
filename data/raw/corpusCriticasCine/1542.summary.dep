@@ -1,0 +1,32 @@
+grup-verb/top/(inspire inspirar VMSP1S0 -) [
+  morfema-verbal/modnomatch/(Se se P0000000 -)
+  prep/modnomatch/(en en SPS00 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(inspire inspirar VMSP1S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  grup-verb/modnomatch/(conseguido conseguir VMP00SM -) [
+    vaux/aux/(ha haber VAIP3S0 -)
+    sn/subj/(Todd_Field todd_field NP00000 -)
+    sn/obj/(película película NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(, , Fc -) [
+        s-a-fs/modnorule/(única único AQ0FS0 -)
+        s-a-fs/modnorule/(, , Fc -) [
+          s-a-fs/modnorule/(especial especial AQ0CS0 -)
+          s-a-fs/modnorule/(, , Fc -) [
+            s-a-fs/modnorule/(cuativadora cuativadora AQ0FS0 -)
+            s-a-fs/modnorule/(y y CC -) [
+              s-a-fs/modnorule/(sensible sensible AQ0CS0 -)
+              s-a-fs/modnorule/(atrapadora atrapadora AQ0FS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,53 @@
+grup-verb/top/(difiere diferir VMIP3S0 -) [
+  neg/modneg/(No no RN -)
+  sadv/cc/(mucho mucho RG -)
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(maldición maldición NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(perla perla NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          s-a-fs/qual/(negra negro AQ0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sadv/cc/(así así RG -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(encontramos encontrar VMIP1P0 -) [
+      patons/modnomatch/(nos nos PP1CP000 -)
+    ]
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(mecanismos mecanismo NCMP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+      s-a-mp/qual/(mismos mismo AQ0MP0 -)
+      grup-verb/modnomatch/(hacer hacer VMN0000 -) [
+        patons/modnomatch/(lo lo PP3CNA00 -)
+        VMI*<volver>/modnomatch/(volverán volver VMIF3P0 -)
+        SPS00(a)/modnomatch/(a a SPS00 -)
+        grup-sp/modnomatch/(con con SPS00 -) [
+          sn/head/(aventuras aventura NCFP000 -) [
+            espec-fp/espec/(sus su DP3CP0 -)
+          ]
+        ]
+        grup-sp/cc/(en en SPS00 -) [
+          sn/head/(ocasión ocasión NCFS000 -) [
+            espec-fs/espec/(esta este DD0FS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  prep/modnomatch/(por por SPS00 -)
+  espec-ms/modnomatch/(lo el DA0NS0 -)
+  prel/modnomatch/(que que PR0CN000 -)
+  espec-mp/modnomatch/(los el DA0MP0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(disfrutaron disfrutar VMIS3P0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

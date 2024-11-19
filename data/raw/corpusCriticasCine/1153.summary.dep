@@ -1,0 +1,51 @@
+grup-verb/top/(sabe saber VMIP3S0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  sn/subj/(comedieta comedia NCFS00D -) [
+    espec-fs/espec/(Una uno DI0FS0 -)
+    s-a-fs/qual/(simple simple AQ0CS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(consumo consumo NCMS000 -) [
+        s-a-ms/qual/(, , Fc -) [
+          s-a-ms/modnorule/(rápido rápido AQ0MS0 -)
+          s-a-ms/modnorule/(lineal lineal AQ0CS0 -)
+        ]
+        grup-sp/modnomatch/(hasta hasta SPS00 -) [
+          sn/head/(saciedad saciedad NCFS000 -) [
+            espec-fs/espec/(la el DA0FS0 -)
+          ]
+        ]
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(aporta aportar VMIP3S0 -) [
+        neg/modneg/(no no RN -)
+      ]
+    ]
+    sn/modnomatch/(nada nada PI0CS000 -) [
+      Fc(,)/modnomatch/(, , Fc -)
+    ]
+    coord/modnomatch/(pero pero CC -)
+    conj-subord/modnomatch/(que que CS -)
+    prep/modnomatch/(a a SPS00 -)
+    espec-mp/espec/(los el DA0MP0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(vemos ver VMIP1P0 -) [
+        patons/modnomatch/(nos nos PP1CP000 -)
+      ]
+    ]
+    parti-flex/modnomatch/(empujados empujar VMP00PM -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  neg/modneg/(no no RN -)
+  sadv/cc/(bien bien RG -) [
+    cuantif/modnorule/(muy muy RG -)
+  ]
+  sn/obj/(porqué porqué NCMS000 -)
+  sn/obj/(fuerza fuerza NCFS000 -) [
+    s-a-fs/qual/(extraña extraño AQ0FS0 -)
+    s-a-fs/qual/(interior interior AQ0CS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

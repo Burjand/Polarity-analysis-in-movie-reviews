@@ -1,0 +1,67 @@
+grup-verb/top/(esperaba esperar VMII1S0 -) [
+  patons/modnomatch/(Me me PP1CS000 -)
+  sadv/cc/(mucho mucho RG -)
+  grup-sp/iobj/(para para SPS00 -) [
+    sn/head/(poco poco PI0MS000 -) [
+      j-ms/modnomatch/(lo el DA0NS0 -)
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(encontrado encontrar VMP00SM -) [
+      patons/modnomatch/(me me PP1CS000 -)
+      vaux/aux/(he haber VAIP1S0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(verás ver VMIF2S0 -) [
+  sadv/cc/(Posiblemente Posiblemente RG -) [
+    Fc(,)/modnorule/(, , Fc -)
+    subord/modnorule/(si si CS -) [
+      grup-verb/modnorule/(vas ir VMIP2S0 -)
+    ]
+    grup-sp/modnorule/(con con SPS00 -) [
+      sn/head/(expectativas expectativa NCFP000 -) [
+        s-a-fp/qual/(moderadas moderar VMP00PF -)
+      ]
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  sn/obj/(peliculón película NCMS00A -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+  ]
+  F-no-c/modnomatch/(( ( Fpa -)
+  grup-sp/modnomatch/(como como CS -) [
+    sn/head/(kiwi kiwi NCMS000 -) [
+      espec-ms/espec/(mi mi DP1CSS -)
+      s-a-ms/qual/(medio medio AQ0MS0 -)
+    ]
+  ]
+  F-no-c/modnomatch/() ) Fpt -)
+  coord/modnomatch/(pero pero CC -)
+  subord/modnomatch/(si si CS -) [
+    grup-verb/modnorule/(vas ir VMIP2S0 -)
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(ilusiones ilusión NCFP000 -) [
+      s-a-fp/qual/(grandes grande AQ0CP0 -)
+      grup-verb/modnomatch/(saldrás salir VMIF2S0 -) [
+        sadv/cc/(ligeramente ligeramente RG -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  parti-flex/modnomatch/(chafado chafar VMP00SM -)
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(hecho hacer VMP00SM -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  patons/modnomatch/(me me PP1CS000 -)
+  vaux/aux/(ha haber VAIP3S0 -)
+  sadv/cc/(Además además RG -)
+  s-adj/modnomatch/(corta corto AQ0FS0 -)
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,49 @@
+grup-verb/top/(regala regalar VMIP3S0 -) [
+  patons/modnomatch/(nos nos PP1CP000 -)
+  sn/subj/(Christopher_Nolan christopher_nolan NP00000 -)
+  sn/obj/(historia historia NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+  ]
+  sadv/cc/(perfectamente perfectamente RG -)
+  parti-flex/modnomatch/(ambientada ambientar VMP00SF -)
+  coor-sp/modnomatch/(y y CC -) [
+    grup-sp/modnorule/(con con SPS00 -) [
+      sn/head/(vueltas vuelta NCFP000 -) [
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(tuerca tuerca NCFS000 -) [
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(guión guión NCMS000 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  s-adj/modnomatch/(sorprendentes sorprendente AQ0CP0 -)
+  prep/modnomatch/(en en SPS00 -)
+  espec-fs/modnomatch/(la el DA0FS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(pone_de_manifiesto poner_de_manifiesto VMIP3S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+    ]
+  ]
+  sn/obj/(peligro peligro NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(obsesiones obsesión NCFP000 -) [
+        espec-fp/espec/(las el DA0FP0 -)
+        grup-sp/modnomatch/(en en SPS00 -) [
+          sn/head/(tragedia tragedia NCFS000 -)
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(acabar acabar VMN0000 -) [
+        VMI*<poder>/modnomatch/(pueden poder VMIP3P0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

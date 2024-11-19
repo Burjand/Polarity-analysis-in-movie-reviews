@@ -1,0 +1,31 @@
+grup-verb/top/(Tengo tener VMIP1S0 -) [
+  sn/obj/(sensación sensación NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  conj-subord/modnomatch/(que que CS -)
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(si si CS -) [
+    grup-verb/modnorule/(supera superar VMIP3S0 -) [
+      sn/obj/(errores error NCMP000 -) [
+        espec-mp/espec/(esos ese DD0MP0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(principiante principiante NCCS000 -) [
+            grup-verb/modnomatch/(hacer hacer VMN0000 -) [
+              VMI*<poder>/modnomatch/(podría poder VMIC1S0 -)
+              sn/subj/(hombre hombre NCMS000 -) [
+                espec-ms/espec/(este este DD0MS0 -)
+              ]
+              sn/obj/(películas película NCFP000 -) [
+                espec-fp/espec/(muy muy RG -)
+                s-a-fp/qual/(buenas bueno AQ0FP0 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+]
+

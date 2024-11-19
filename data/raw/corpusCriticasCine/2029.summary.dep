@@ -1,0 +1,50 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(Una uno DI0FS0 -)
+    s-a-fs/qual/(, , Fc -) [
+      s-a-fs/modnorule/(irregular irregular AQ0CS0 -)
+      s-a-fs/modnorule/(concebida concebir VMP00SF -)
+    ]
+    grup-sp-inf/modnomatch/(para para SPS00 -) [
+      grup-verb-inf/head/(ser ser VSN0000 -)
+      sn/modnomatch/(puente puente NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+      ]
+    ]
+  ]
+  grup-sp/modnomatch/(hacia hacia SPS00 -) [
+    sn/head/(episodio episodio NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(siguiente siguiente AQ0CS0 -)
+    ]
+  ]
+  coor-n/subj/(y y CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(eso ese PD0NS000 -)
+  ]
+  sn/obj/(rémora rémora NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(condena condenar VMIP3S0 -)
+    ]
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(proyecto proyecto NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  grup-sp-inf/iobj/(a a SPS00 -) [
+    grup-verb-inf/head/(ser ser VSN0000 -)
+    sn/modnomatch/(transición transición NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(mera mero AQ0FS0 -)
+    ]
+  ]
+  grup-sp/modnomatch/(sin sin SPS00 -) [
+    sn/head/(fuelle fuelle NCMS000 -) [
+      s-a-ms/qual/(mayor mayor AQ0CS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

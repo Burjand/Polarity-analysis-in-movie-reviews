@@ -1,0 +1,43 @@
+grup-verb/top/(logra lograr VMIP3S0 -) [
+  grup-sp/modnomatch/(Sin_contar_con sin_contar_con SPS00 -) [
+    sn/head/(base base NCCS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(argumental argumental AQ0CS0 -) [
+        s-a-fs/modnorule/(sólida sólido AQ0FS0 -)
+      ]
+      grup-sp/modnomatch/(con con SPS00 -) [
+        sn/head/(guión guión NCMS000 -) [
+          espec-ms/espec/(un uno DI0MS0 -)
+          s-a-ms/qual/(brillante brillante AQ0CS0 -)
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    coord/modnomatch/(ni ni CC -)
+    sadv/modnomatch/(tan_siquiera tan_siquiera RG -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  grup-verb-inf/modnomatch/(hilvanar hilvanar VMN0000 -)
+  sn/obj/(estructura estructura NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(narrativa narrativo AQ0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(coherencia coherencia NCFS000 -) [
+        s-a-fs/qual/(impecable impecable AQ0CS0 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(confiere conferir VMIP3S0 -)
+    ]
+  ]
+  sn/obj/(maestría maestría NCFS000 -) [
+    grup-sp/modnomatch/(a a SPS00 -) [
+      sn/head/(resultado resultado NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

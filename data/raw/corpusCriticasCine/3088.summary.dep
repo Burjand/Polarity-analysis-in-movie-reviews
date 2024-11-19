@@ -1,0 +1,64 @@
+grup-verb/top/(argumento argumentar VMIP1S0 -) [
+  sn/subj/(Peligroso peligroso NP00000 -)
+  conj-subord/modnomatch/(que que CS -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(por por SPS00 -) [
+    sn/head/(desarrollo desarrollo NCMS000 -) [
+      espec-ms/espec/(su su DP3CS0 -)
+      s-a-ms/qual/(manipulador manipulador AQ0MS0 -)
+      grup-verb/modnomatch/(convenciendo convencer VMG0000 -) [
+        VMI*<terminar>/modnomatch/(termina terminar VMIP3S0 -)
+        sadv/cc/(sólo sólo RG -)
+      ]
+      grup-verb/modnomatch/(entendieron entender VMIS3P0 -) [
+        neg/modneg/(no no RN -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  prep/modnomatch/(a a SPS00 -)
+  quien-p/modnomatch/(quienes quien PR0CP000 -)
+  conj-subord/modnomatch/(que que CS -)
+  F-term/term/(? ? Fit -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(ojo ojo NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      grup-sp/modnomatch/(por por SPS00 -) [
+        sn/head/(ojo ojo NCMS000 -) [
+          grup-verb/modnomatch/(quedaría quedar VMIC1S0 -) [
+            morfema-verbal/modnomatch/(se se P0000000 -)
+            sn/subj/(mundo mundo NCMS000 -) [
+              espec-ms/espec/(el el DA0MS0 -)
+            ]
+            sn/obj/(ciego ciego NCMS000 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(? ? Fit -)
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(enfrentamos enfrentar VMIP1P0 -) [
+  patons/modnomatch/(Nos nos PP1CP000 -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(tipo tipo NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(nuevo nuevo AQ0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(cine cine NCMS000 -) [
+          grup-verb/modnomatch/(aterroriza aterrorizar VMIP3S0 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  conj-subord/modnomatch/(que que CS -)
+  Fc(,)/modnomatch/(, , Fc -)
+  sadv/cc/(sinceramente sinceramente RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,82 @@
+grup-verb/top/(narra narrar VMIP3S0 -) [
+  sn/subj/(pisito piso NCMS00D -) [
+    espec-ms/espec/(El el DA0MS0 -)
+  ]
+  sn/obj/(historia historia NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(real real AQ0CS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(hombre hombre NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(consintió consentir VMIS3S0 -)
+    ]
+  ]
+  grup-verb-inf/modnomatch/(casar casar VMN0000 -) [
+    PP*/modnomatch/(se se PP3CN000 -)
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(vieja viejo AQ0FS0 -) [
+      j-fs/modnomatch/(la el DA0FS0 -)
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(realquilaba realquilar VMII1S0 -) [
+      patons/modnomatch/(le le PP3CSD00 -)
+    ]
+  ]
+  sn/obj/(cuarto cuarto NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+  ]
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(heredar heredar VMN0000 -) [
+      VMN0000(poder)/modnomatch/(poder poder VMN0000 -)
+    ]
+    sn/modnomatch/(piso piso NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  sadv/cc/(así así RG -)
+  grup-verb-inf/modnomatch/(cumplir cumplir VMN0000 -)
+  sn/obj/(sueño sueño NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    s-a-ms/qual/(dorado dorar VMP00SM -)
+    s-adj/qual/(institucional institucional AQ0CS0 -) [
+      Fpa/modnorule/(( ( Fpa -)
+      Fpt/modnorule/() ) Fpt -)
+    ]
+  ]
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(casar casar VMN0000 -) [
+      PP*/modnomatch/(se se PP3CN000 -)
+    ]
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(novia novio NCFS000 -) [
+      espec-fs/espec/(su su DP3CS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(vida vida NCFS000 -) [
+          espec-fs/espec/(toda todo DI0FS0 -) [
+            j-fs/modnorule/(la el DA0FS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(Cinematografía cinematografía NCFS000 -) [
+  s-a-fs/qual/(, , Fc -) [
+    s-a-fs/modnorule/(adulta adulto AQ0FS0 -)
+    s-a-fs/modnorule/(exenta exento AQ0FS0 -)
+  ]
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(clichés cliché NCMP000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

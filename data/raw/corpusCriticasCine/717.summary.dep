@@ -1,0 +1,68 @@
+grup-verb/top/(Atrapa atrapar VMIP3S0 -) [
+  grup-sp/modnomatch/(desde desde SPS00 -) [
+    sn/head/(minuto minuto NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(primer 1 AO0MS0 -)
+      grup-verb/modnomatch/(fluye fluir VMIP3S0 -) [
+        grup-sp/modnomatch/(como como CS -) [
+          sn/head/(ninguna ninguno PI0FS000 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(dirección dirección NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+    ]
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(montaje montaje NCMS000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(tiempos tiempo NCMP000 -) [
+          s-a-mp/qual/(muertos morir VMP00PM -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(escenas escena NCFP000 -) [
+              s-a-fp/qual/(innecesarias innecesario AQ0FP0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  s-adj/modnomatch/(y y CC -) [
+    s-a-mp/modnorule/(enérgicos enérgico AQ0MP0 -)
+    s-a-mp/modnorule/(eficaces eficaz AQ0CP0 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(huyen huir VMIP3P0 -)
+  ]
+  coord/modnomatch/(y y CC -)
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(demostrar demostrar VMN0000 -) [
+  VMI*<volver>/modnomatch/(vuelve volver VMIP3S0 -)
+  SPS00(a)/modnomatch/(a a SPS00 -)
+  sn/subj/(Martin martin NP00000 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(ver ver VMN0000 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+      VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+      sadv/cc/(hoy hoy RG -)
+      grup-sp/cc/(en en SPS00 -) [
+        sn/head/(día día NCMS000 -)
+      ]
+      sn/obj/(cine cine NCMS000 -) [
+        s-a-ms/qual/(buen bueno AQ0MS0 -)
+      ]
+      grup-sp/cc/(en en SPS00 -) [
+        sn/head/(Hollywood hollywood NP00000 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

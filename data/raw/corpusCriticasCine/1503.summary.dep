@@ -1,0 +1,38 @@
+grup-verb/top/(deja dejar VMIP3S0 -) [
+  grup-sp/cc/(Con con SPS00 -) [
+    sn/head/(Motorista_Fantasma motorista_fantasma NP00000 -) [
+      espec-ms/espec/(este este DD0MS0 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(Johnson johnson NP00000 -)
+  sadv/cc/(claro claro RG -)
+  conj-subord/modnomatch/(que que CS -)
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(por_mucho_que por_mucho_que CS -) [
+    grup-verb/modnorule/(gusten gustar VMSP3P0 -) [
+      patons/modnomatch/(le le PP3CSD00 -)
+      sn/obj/(superhéroes superhéroes NCMP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+        grup-verb/modnomatch/(decir decir VMN0000 -) [
+          VMI*<querer>/modnomatch/(quiere querer VMIP3S0 -)
+          sn/subj/(eso ese PD0NS000 -)
+          neg/modneg/(no no RN -)
+          subord/modnomatch/(que que CS -) [
+            grup-verb/modnorule/(sepa saber VMSP1S0 -)
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  grup-verb-inf/modnomatch/(hacer hacer VMN0000 -)
+  sn/obj/(películas película NCFP000 -) [
+    s-a-fp/qual/(buenas bueno AQ0FP0 -)
+    grup-sp/modnomatch/(sobre sobre SPS00 -) [
+      sn/head/(ellos ellos PP3MP000 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

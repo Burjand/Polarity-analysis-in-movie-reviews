@@ -1,0 +1,75 @@
+grup-verb/top/(gore gore VMSP3S0 -) [
+  sn/subj/(Sexo sexo NP00000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-verb/modnomatch/(trama tramar VMIP3S0 -) [
+      sn/subj/(disparos disparo NCMP000 -) [
+        Fc(,)/modnomatch/(, , Fc -)
+      ]
+      sn/subj/(armas arma NCFP000 -) [
+        Fc(,)/modnomatch/(, , Fc -)
+      ]
+      sn/subj/(reptiles reptil NCMP000 -) [
+        s-a-mp/qual/(venenosos venenoso AQ0MP0 -)
+        Fc(,)/modnomatch/(, , Fc -)
+      ]
+      sn/subj/(actaciones actaciones NCFP000 -) [
+        s-a-fp/qual/(penosas penoso AQ0FP0 -)
+        Fc(,)/modnomatch/(, , Fc -)
+      ]
+      sn/obj/(requetevista requetevista NCFS000 -)
+    ]
+  ]
+  sn/subj/(drogas droga NCFP000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(violencia violencia NCFS000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  Fc(,)/modnomatch/(, , Fc -)
+  sadv/cc/(mal mal RG -)
+  sn/obj/(CGI cgi NP00000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(infracciones infracción NCFP000 -) [
+    grup-sp/modnomatch/(a a SPS00 -) [
+      sn/head/(física física NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        s-a-fs/qual/(elemental elemental AQ0CS0 -)
+        grup-sp/modnomatch/(en en SPS00 -) [
+          s-a-fs/modnomatch/(definitiva definitivo AQ0FS0 -)
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(todo todo PI0MS000 -)
+  espec-ms/modnomatch/(lo el DA0NS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(necesita necesitar VMIP3S0 -)
+  ]
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(mala malo AQ0FS0 -) [
+      s-a-fs/modnorule/(mala malo AQ0FS0 -)
+    ]
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(verdad verdad NCFS000 -)
+    ]
+  ]
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(terminar terminar VMN0000 -)
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(diviertiéndote diviertiéndote NCMS000 -)
+    sn/co-n/(hora hora NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+    ]
+    sn/co-n/(minutos minuto NCMP000 -) [
+      numero-nopart/quant/(cuarenta 40 Z -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

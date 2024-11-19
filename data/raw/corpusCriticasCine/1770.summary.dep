@@ -1,0 +1,42 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(The_River_King the_river_king NP00000 -) [
+    grup-verb/modnomatch/(es ser VSIP3S0 -) [
+      sn/obj/(película película NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+      ]
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(echar echar VMN0000 -) [
+          VMI*<poder>/modnomatch/(podrían poder VMIC3P0 -)
+          sadv/cc/(perfectamente perfectamente RG -)
+          sn/obj/(tarde tarde NCFS000 -) [
+            espec-fs/espec/(una uno DI0FS0 -)
+          ]
+          grup-sp/cc/(de de SPS00 -) [
+            data/modnomatch/(sábado [S:??/??/??:??.??:??] W -)
+          ]
+          grup-sp/cc/(en en SPS00 -) [
+            sn/head/(verano verano NCMS000 -)
+          ]
+          grup-sp/cc/(en en SPS00 -) [
+            numero/modnomatch/(Antena3 Antena3 Z -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  neg/modneg/(no no RN -)
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(terror terror NCMS000 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(pero pero CC -)
+  verb-pass/modnomatch/(entretenida entretener VMP00SF -) [
+    vser/modnomatch/(es ser VSIP3S0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

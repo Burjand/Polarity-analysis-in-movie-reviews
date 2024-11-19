@@ -1,0 +1,40 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(Camarera camarera NP00000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(realismo realismo NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        s-a-ms/qual/(mágico mágico AQ0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(Como_Agua_Para_Chocolate como_agua_para_chocolate NP00000 -)
+        ]
+      ]
+    ]
+  ]
+  sn/obj/(comedia comedia NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(romántica romántico AQ0FS0 -) [
+      s-a-fs/modnorule/(blanda blando AQ0FS0 -) [
+        sadv/modnorule/(excesivamente excesivamente RG -)
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(encuentra encontrar VMIP3S0 -) [
+        morfema-verbal/modnomatch/(se se P0000000 -)
+      ]
+    ]
+  ]
+  sadv/cc/(cerca cerca RG -) [
+    cuantif/modnorule/(más más RG -)
+    SPS00(de)/modnorule/(de de SPS00 -)
+    sn/modnorule/(ñoñería ñoñería NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(Chocolat chocolat NP00000 -)
+      ]
+    ]
+  ]
+  conj-subord/modnomatch/(que que CS -)
+  F-term/term/(. . Fp -)
+]
+

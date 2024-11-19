@@ -1,0 +1,50 @@
+prep/top/(Por por SPS00 -) [
+  grup-sp/modnorule/(encima_de encima_de SPS00 -) [
+    sn/head/(todo todo PI0MS000 -)
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  sn/modnorule/(relato relato NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(lírico lírico AQ0MS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/modnorule/(atosigador atosigador NCMS000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(conciencias conciencia NCFP000 -) [
+        espec-fp/espec/(nuestras nuestro DP1FPP -)
+        coor-sp/modnomatch/(y y CC -) [
+          grup-sp/modnorule/(a a SPS00 -) [
+            sn/head/(menudo menudo NCMS000 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  sn/modnorule/(elegía elegía NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(divertida divertir VMP00SF -)
+    grup-sp/modnomatch/(a a SPS00 -) [
+      sn/head/(alma alma NCFS000 -) [
+        espec-fs/espec/(cualquier cualquiera DI0CS0 -)
+        s-a-fs/qual/(perdida perder VMP00SF -)
+        grup-sp/modnomatch/(a_pesar_de a_pesar_de SPS00 -) [
+          sn/head/(lastre lastre NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(conjunto conjunto NCMS000 -) [
+                espec-ms/espec/(un uno DI0MS0 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/modnorule/(irregular irregular AQ0CS0 -) [
+    indef-ms/modnomatch/(un uno DI0MS0 -)
+    sadv/modnomatch/(tanto tanto RG -)
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

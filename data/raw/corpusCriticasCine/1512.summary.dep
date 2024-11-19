@@ -1,0 +1,57 @@
+grup-verb/top/(son ser VSIP3P0 -) [
+  sn/subj/(bosques bosque NCMP000 -) [
+    espec-mp/espec/(Los el DA0MP0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Euskadi euskadi NP00000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        s-a-fs/qual/(profunda profundo AQ0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(70 70 Z -) [
+            j-mp/modnomatch/(los el DA0MP0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(escenario escenario NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(claustrofóbico claustrofóbico AQ0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(western western NCMS000 -) [
+          espec-ms/espec/(un uno DI0MS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(forajidos forajido NCMP000 -)
+          ]
+        ]
+      ]
+    ]
+    sn/co-n/(Patxis patxis NP00000 -)
+    sn/co-n/(Smith smith NP00000 -) [
+      s-a-mp/qual/(forasteros forastero AQ0MP0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(Una uno DI0FS0 -)
+    s-a-fs/qual/(buena bueno AQ0FS0 -)
+    s-a-fs/qual/(española español AQ0FS0 -)
+    conj-subord/modnomatch/(que que CS -)
+    conj-subord/modnomatch/(si si CS -)
+    sadv/modnomatch/(bien bien RG -)
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-verb/modnomatch/(es ser VSIP3S0 -) [
+      sadv/cc/(más más RG -)
+    ]
+  ]
+  neg/modneg/(no no RN -)
+  s-adj/att/(redonda redondo AQ0FS0 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  conj-subord/modnomatch/(que que CS -)
+  s-adj/att/(decente decente AQ0CS0 -)
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,73 @@
+grup-verb/top/(mete meter VMIP3S0 -) [
+  sn/subj/(Zodiac zodiac NP00000 -)
+  grup-sp/cc/(a a SPS00 -) [
+    sn/head/(espectador espectador NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(piel piel NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(investigadores investigador NCMP000 -) [
+          espec-mp/espec/(los el DA0MP0 -)
+        ]
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(trabajaron trabajar VMIS3P0 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(caso caso NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(asesino asesino NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          s-a-ms/qual/(múltiple múltiple AQ0CS0 -)
+        ]
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(actuó actuar VMIS3S0 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(San_Francisco san_francisco NP00000 -)
+  ]
+  grup-sp/cc/(a a SPS00 -) [
+    sn/head/(finales final NCFP000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(década década NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(sesenta 60 Z -) [
+              j-mp/modnomatch/(los el DA0MP0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(Y y CC -) [
+  grup-verb/co-v/(hace hacer VMIP3S0 -) [
+    patons/modnomatch/(lo lo PP3CNA00 -)
+    grup-sp/modnomatch/(con con SPS00 -) [
+      sn/head/(lujo lujo NCMS000 -) [
+        espec-ms/espec/(tal tal DD0CS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(detalles detalle NCMP000 -)
+        ]
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(resulta resultar VMIP3S0 -)
+    ]
+  ]
+  s-adj/modnomatch/(abrumador abrumador AQ0MS0 -)
+  F-term/modnomatch/(. . Fp -)
+]
+

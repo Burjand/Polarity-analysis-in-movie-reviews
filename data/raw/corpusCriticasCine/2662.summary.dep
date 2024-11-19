@@ -1,0 +1,58 @@
+grup-verb/top/(decir decir VMN0000 -) [
+  VAI*<haber>/modnomatch/(He haber VAIP1S0 -)
+  SPS00(de)/modnomatch/(de de SPS00 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(recuerda recordar VMIP3S0 -) [
+      patons/modnomatch/(me me PP1CS000 -)
+      sadv/cc/(curiosamente curiosamente RG -)
+      sn/subj/(película película NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+      sn/obj/(evolución evolución NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        s-a-fs/qual/(propia propio AQ0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(serie serie NCFS000 -) [
+            espec-fs/espec/(la el DA0FS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(y y CC -) [
+  grup-verb/co-v/(Comienza comenzar VMIP3S0 -) [
+    sp-de/modnomatch/(de de SPS00 -) [
+      sn/gen/(forma forma NCFS000 -) [
+        s-a-fs/qual/(espectacular espectacular AQ0CS0 -)
+      ]
+    ]
+  ]
+  grup-verb/co-v/(tiene tener VMIP3S0 -) [
+    sn/obj/(parte parte NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(primera 1 AO0FS0 -)
+      s-a-fs/qual/(brillante brillante AQ0CS0 -) [
+        sadv/modnorule/(muy muy RG -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp-inf/modnomatch/(para para SPS00 -) [
+    grup-verb-inf/head/(decayendo decaer VMG0000 -) [
+      VMN0000(ir)/modnomatch/(ir ir VMN0000 -)
+    ]
+  ]
+  subord/modnomatch/(conforme conforme CS -) [
+    grup-verb/modnorule/(acerca acercar VMIP3S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+    ]
+  ]
+  prep/modnomatch/(a a SPS00 -)
+  espec-ms/modnomatch/(el el DA0MS0 -)
+  sn/modnomatch/(final final NCFS000 -)
+  F-term/modnomatch/(. . Fp -)
+]
+

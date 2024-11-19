@@ -1,0 +1,57 @@
+grup-verb/top/(ser ser VSN0000 -) [
+  VMI*<empezar>/modnomatch/(empieza empezar VMIP3S0 -)
+  SPS00(a)/modnomatch/(a a SPS00 -)
+  sn/subj/(saga saga NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Harry_Potter harry_potter NP00000 -)
+    ]
+  ]
+  s-adj/att/(sólida sólido AQ0FS0 -) [
+    sadv/modnorule/(cinematográficamente cinematográficamente RG -)
+  ]
+  conj-subord/modnomatch/(cuando cuando CS -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(y y CC -) [
+      j-ms/modnomatch/(lo el DA0NS0 -)
+      s-a-ms/qual/(encantador encantador AQ0MS0 -)
+      s-a-ms/qual/(lúdico lúdico AQ0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(diseños diseño NCMP000 -) [
+          espec-mp/espec/(sus su DP3CP0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(particulares particular NCCP000 -) [
+              espec-mp/espec/(sus su DP3CP0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  F-term/term/(? ? Fit -)
+  sn/obj/(tics tic NCMP000 -) [
+    grup-verb/modnomatch/(une unir VMIP3S0 -) [
+      patons/modnomatch/(se se PP3CN000 -)
+      patons/modnomatch/(le le PP3CSD00 -)
+      sn/obj/(contenido contenido NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        s-a-ms/qual/(expuesto exponer VMP00SM -)
+      ]
+      grup-sp/modnomatch/(con con SPS00 -) [
+        sn/head/(claridad claridad NCFS000 -)
+      ]
+    ]
+  ]
+  F-term/term/(? ? Fit -)
+  Fc(,)/modnomatch/(, , Fc -)
+  Fc(,)/modnomatch/(, , Fc -)
+  forma-ger/modnomatch/(ganando ganar VMG0000 -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(fuerza fuerza NCFS000 -) [
+      s-a-fs/qual/(dramática dramático AQ0FS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

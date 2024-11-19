@@ -1,0 +1,41 @@
+coor-vb/top/(aunque aunque CC -) [
+  sn/subj/(Amigo_Verbinski amigo_verbinski NP00000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    prel/modnomatch/(que que PR0CN000 -)
+  ]
+  grup-verb/co-v/(pasado pasar VMP00SM -) [
+    patons/modnomatch/(me me PP1CS000 -)
+    patons/modnomatch/(lo lo PP3CNA00 -)
+    vaux/aux/(he haber VAIP1S0 -)
+    sn/obj/(teta teta NCFS000 -)
+  ]
+  forma-ger/modnomatch/(viendo ver VMG0000 -)
+  grup-verb/co-v/(creo crear VMIP1S0 -) [
+    sn/subj/(peli peli NP00000 -) [
+      espec-ms/espec/(tu tu DP2CSS -)
+      Fc(,)/modnomatch/(, , Fc -)
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(arriesgado arriesgar VMP00SM -) [
+        VMI*<poder>/modnomatch/(podrías poder VMIC2S0 -)
+        infaux/modnomatch/(haber haber VAN0000 -)
+      ]
+    ]
+    sn/obj/(poquito poquito AQ0MS0 -) [
+      indef-ms/modnomatch/(un uno DI0MS0 -)
+    ]
+    sadv/cc/(más más RG -)
+  ]
+  coord/modnomatch/(y y CC -)
+  grup-verb-inf/modnomatch/(hecho hacer VMP00SM -) [
+    infaux/modnomatch/(haber haber VAN0000 -)
+  ]
+  sn/modnomatch/(cosas cosa NCFP000 -) [
+    espec-fp/espec/(las el DA0FP0 -)
+    grup-sp/modnomatch/(en en SPS00 -) [
+      sn/head/(condiciones condición NCFP000 -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

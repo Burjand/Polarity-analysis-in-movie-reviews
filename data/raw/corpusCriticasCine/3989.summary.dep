@@ -1,0 +1,38 @@
+coor-vb/top/(y y CC -) [
+  sn/subj/(filme filme NCMS000 -) [
+    espec-ms/espec/(Un uno DI0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(calidad calidad NCFS000 -) [
+        s-a-fs/qual/(gran gran AQ0CS0 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(denota denotar VMIP3S0 -)
+    ]
+  ]
+  sn/subj/(firma firma NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    s-a-fs/qual/(sabia sabio AQ0FS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(hay haber VMIP3S0 -)
+    ]
+    grup-sp/modnomatch/(tras tras SPS00 -) [
+      sn/head/(ella él PP3FS000 -)
+    ]
+  ]
+  grup-verb/co-v/(reconcilia reconciliar VMIP3S0 -) [
+    grup-sp/iobj/(a a SPS00 -) [
+      sn/head/(Scott scott NP00000 -)
+    ]
+    grup-sp/modnomatch/(con con SPS00 -) [
+      sn/head/(público público NCMS000 -) [
+        espec-ms/espec/(su su DP3CS0 -)
+        s-a-ms/qual/(exigente exigente AQ0CS0 -) [
+          sadv/modnorule/(más más RG -)
+        ]
+      ]
+    ]
+  ]
+]
+

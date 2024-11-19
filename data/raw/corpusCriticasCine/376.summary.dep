@@ -1,0 +1,33 @@
+sn/top/(película película NCFS000 -) [
+  espec-fs/espec/(Una uno DI0FS0 -)
+  prep/modnomatch/(en en SPS00 -)
+  espec-fs/espec/(la el DA0FS0 -)
+  prel/modnomatch/(que que PR0CN000 -)
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  vaux/modnomatch/(hayan haber VASP3P0 -)
+  parti-flex/modnomatch/(depositadas depositar VMP00PF -)
+  sn/modnomatch/(esperanzas esperanza NCFP000 -) [
+    espec-fp/espec/(muchas mucho DI0FP0 -)
+  ]
+  coord/modnomatch/(y y CC -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(marcar marcar VMN0000 -) [
+      VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+    ]
+  ]
+  sn/modnomatch/(punto punto NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(inflexión inflexión NCFS000 -) [
+        grup-sp/modnomatch/(en en SPS00 -) [
+          sn/head/(cine cine NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+            s-a-ms/qual/(español español AQ0MS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

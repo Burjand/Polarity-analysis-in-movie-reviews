@@ -1,0 +1,41 @@
+grup-verb/top/(siendo ser VSG0000 -) [
+  VMI*<seguir>/modnomatch/(sigue seguir VMIP3S0 -)
+  grup-sp/modnomatch/(A_pesar_de a_pesar_de SPS00 -) [
+    sn/head/(fallos fallo NCMP000 -) [
+      espec-mp/espec/(sus su DP3CP0 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(Cartas_Desde_Iwo_Jima cartas_desde_iwo_jima NP00000 -)
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(buena bueno AQ0FS0 -) [
+      sadv/modnorule/(muy muy RG -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  prep/modnomatch/(en en SPS00 -)
+  espec-fs/modnomatch/(la el DA0FS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(demostrar demostrar VMN0000 -) [
+      VMI*<volver>/modnomatch/(vuelve volver VMIP3S0 -)
+      SPS00(a)/modnomatch/(a a SPS00 -)
+      sn/subj/(Clint_Eastwood clint_eastwood NP00000 -)
+      subord/modnomatch/(que que CS -) [
+        grup-verb/modnorule/(sabe saber VMIP3S0 -)
+      ]
+    ]
+  ]
+  grup-verb-inf/modnomatch/(rodar rodar VMN0000 -)
+  grup-sp/modnomatch/(como como CS -) [
+    sn/head/(cineastas cineasta NCCP000 -) [
+      espec-mp/espec/(pocos poco DI0MP0 -)
+    ]
+  ]
+  sadv/cc/(hoy hoy RG -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(día día NCMS000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

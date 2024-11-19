@@ -1,0 +1,50 @@
+s-adj/top/(Llena lleno AQ0FS0 -) [
+  sp-de/modnorule/(de de SPS00 -) [
+    sn/gen/(incongruencias incongruencia NCFP000 -)
+  ]
+  coor-n/modnorule/(y y CC -) [
+    sn/co-n/(elementos elemento NCMP000 -) [
+      s-a-mp/qual/(absurdos absurdo AQ0MP0 -)
+    ]
+  ]
+  grup-sp/modnorule/(en en SPS00 -) [
+    sn/head/(guión guión NCMS000 -) [
+      espec-ms/espec/(su su DP3CS0 -)
+      s-a-ms/qual/(ridículo ridículo AQ0MS0 -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+grup-verb/top/(tiene tener VMIP3S0 -) [
+  coor-n/subj/(y y CC -) [
+    sn/co-n/(film film NCMS000 -) [
+      espec-ms/espec/(El el DA0MS0 -)
+      s-adj/qual/(tarda tardo AQ0FS0 -)
+      sadv/modnomatch/(demasiado demasiado RG -)
+      grup-sp-inf/modnomatch/(en en SPS00 -) [
+        grup-verb-inf/head/(arrancar arrancar VMN0000 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(todo todo PI0MS000 -)
+    espec-ms/modnomatch/(lo el DA0NS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(muestra mostrar VMIP3S0 -) [
+        morfema-verbal/modnomatch/(se se P0000000 -)
+        patons/modnomatch/(nos nos PP1CP000 -)
+      ]
+    ]
+  ]
+  neg/modneg/(no no RN -)
+  coor-n/obj/(ni ni CC -) [
+    sn/co-n/(interés interés NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(mínimo mínimo AQ0MS0 -) [
+        sadv/modnorule/(más más RG -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

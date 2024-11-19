@@ -1,0 +1,37 @@
+coor-vb/top/(pero pero CC -) [
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+  ]
+  grup-verb/co-v/(pasará pasar VMIF3S0 -) [
+    neg/modneg/(no no RN -)
+    grup-sp/cc/(a a SPS00 -) [
+      sn/head/(anales anal NCMP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(arte arte NCCS000 -) [
+            espec-ms/espec/(7º 7º Z -) [
+              j-ms/modnorule/(el el DA0MS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(hay haber VMIP3S0 -)
+  conj-subord/modnomatch/(que que CS -)
+  grup-verb-inf/modnomatch/(ver ver VMN0000 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(pasado pasar VMP00SM -) [
+      patons/modnomatch/(me me PP1CS000 -)
+      patons/modnomatch/(lo lo PP3CNA00 -)
+      vaux/aux/(he haber VAIP1S0 -)
+      sadv/cc/(bien bien RG -)
+    ]
+  ]
+  ger/modnomatch/(viendo ver VMG0000 -) [
+    PP*/modnorule/(la lo PP3FSA00 -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

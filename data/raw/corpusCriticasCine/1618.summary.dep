@@ -1,0 +1,74 @@
+grup-verb/top/(muestra mostrar VMIP3S0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  patons/modnomatch/(nos nos PP1CP000 -)
+  grup-sp/cc/(En en SPS00 -) [
+    sn/head/(Paris paris NP00000 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(Je_T´aime je_t´aime NP00000 -)
+  sn/obj/(amor amor NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(maneras manera NCFP000 -) [
+        s-a-fp/qual/(, , Fc -) [
+          s-a-fp/modnorule/(distintas distinto AQ0FP0 -)
+          s-a-fp/modnorule/(y y CC -) [
+            s-a-fp/modnorule/(protagonizadas protagonizar VMP00PF -)
+            s-a-fp/modnorule/(encarnadas encarnar VMP00PF -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  grup-sp/modnomatch/(por por SPS00 -) [
+    sn/head/(personajes personaje NCMP000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(nacionalidades nacionalidad NCFP000 -) [
+          s-a-fp/qual/(diferentes diferente AQ0CP0 -)
+        ]
+      ]
+    ]
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(etnias etnia NCFP000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(presenta presentar VMIP3S0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  grup-sp/cc/(En en SPS00 -) [
+    s-a-fs/modnomatch/(definitiva definitivo AQ0FS0 -)
+  ]
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(esta este DD0FS0 -)
+  ]
+  grup-sp/modnomatch/(como como CS -) [
+    sn/head/(opción opción NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(interesante interesante AQ0CS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(satisfará satisfacer VMIF3S0 -)
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(enamorados enamorado NCMP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(París parís NP00000 -) [
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(historias historia NCFP000 -) [
+              espec-fp/espec/(las el DA0FP0 -)
+              s-a-fp/qual/(múltiples múltiple AQ0CP0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  F-term/term/(. . Fp -)
+]
+

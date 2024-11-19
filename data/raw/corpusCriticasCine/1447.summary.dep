@@ -1,0 +1,66 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(Buena buena NP00000 -)
+  sn/obj/(impresión impresión NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  grup-sp/modnomatch/(tras tras SPS00 -) [
+    sn/head/(primer 1 AO0MS0 -) [
+      indef-ms/modnomatch/(un uno DI0MS0 -)
+      s-a-ms/qual/(visionado visionar VMP00SM -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(sumerge sumergir VMIP3S0 -) [
+  patons/modnomatch/(nos nos PP1CP000 -)
+  sn/subj/(calidad calidad NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+    s-a-fs/qual/(estética estético AQ0FS0 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(atmósfera atmósfera NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(opresiva opresivo AQ0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(arte arte NCCS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(Miller miller NP00000 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-n/top/(y y CC -) [
+  sn/co-n/(Nubes nubes NP00000 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/co-n/(luces luz NCFP000 -) [
+    s-a-fp/qual/(crepusculares crepuscular AQ0CP0 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/co-n/(tierra tierra NCFS000 -) [
+    s-a-fs/qual/(polvorienta polvoriento AQ0FS0 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/co-n/(contrastes contraste NCMP000 -) [
+    s-a-mp/qual/(fuertes fuerte AQ0CP0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(luz luz NCFS000 -)
+    ]
+  ]
+  sn/co-n/(texturas textura NCFP000 -) [
+    s-a-fp/qual/(logradísimas logrado AQSFP0 -)
+  ]
+  grup-sp/modnomatch/(en en SPS00 -) [
+    sn/head/(planos plano NCMP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+      s-a-mp/qual/(primeros 1 AO0MP0 -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

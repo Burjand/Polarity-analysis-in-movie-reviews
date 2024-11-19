@@ -1,0 +1,52 @@
+coor-vb/top/(y y CC -) [
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Forman forman NP00000 -)
+    ]
+  ]
+  grup-verb/co-v/(condede condede VMIP3S0 -) [
+    sn/obj/(alegrías alegría NCFP000 -) [
+      espec-fp/espec/(pocas poco DI0FP0 -)
+    ]
+  ]
+  grup-verb/co-v/(tendrá tener VMIF3S0 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(sospecho sospechar VMIP1S0 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/modnomatch/(audiencia audiencia NCFS000 -) [
+    espec-fs/espec/(poca poco DI0FS0 -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+grup-verb/top/(faltan faltar VMIP3P0 -) [
+  patons/modnomatch/(Le le PP3CSD00 -)
+  sn/obj/(héroes héroe NCMP000 -)
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(hay haber VMIP3S0 -) [
+  sadv/cc/(Sólo sólo RG -)
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(víctimas víctima NCFP000 -)
+    sn/co-n/(verdugos verdugo NCCP000 -)
+  ]
+  coor-n/obj/(y y CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(pintor pintor NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(observa observar VMIP3S0 -)
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(ojo ojo NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(insobornable insobornable AQ0CS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,55 @@
+grup-verb/top/(tiene tener VMIP3S0 -) [
+  sn/subj/(Ciencia_de_el_Sueño ciencia_de_el_sueño NP00000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+    grup-verb/modnomatch/(parece parecer VMIP3S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+      neg/modneg/(no no RN -)
+      grup-sp/iobj/(a a SPS00 -) [
+        sn/head/(cosa cosa NCFS000 -) [
+          espec-fs/espec/(ninguna ninguno DI0FS0 -) [
+            indef-fs/modnorule/(otra otro DI0FS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  sn/obj/(magia magia NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(personal personal AQ0CS0 -) [
+      sadv/modnorule/(muy muy RG -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(Seduce seducir VMIP3S0 -) [
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(peculiaridades peculiaridad NCFP000 -) [
+      espec-fp/espec/(sus su DP3CP0 -)
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(son ser VSIP3P0 -) [
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  s-adj/modnomatch/(perfectas perfecto AQ0FP0 -)
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(experimentos experimento NCMP000 -) [
+      espec-mp/espec/(sus su DP3CP0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(narrativa narrativa NCFS000 -) [
+          espec-fs/espec/(una uno DI0FS0 -)
+          s-a-fs/qual/(emocional emocional AQ0CS0 -) [
+            sadv/modnorule/(bien bien RG -) [
+              cuantif/modnorule/(más más RG -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

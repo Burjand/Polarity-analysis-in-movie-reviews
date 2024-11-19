@@ -1,0 +1,63 @@
+espec-fs/top/(Una uno DI0FS0 -) [
+  sp-de/modnorule/(de de SPS00 -) [
+    sn/gen/(películas película NCFP000 -) [
+      espec-fp/espec/(cinco 5 Z -) [
+        pos-fp/modnorule/(mis mi DP1CPS -)
+      ]
+      s-a-fp/qual/(preferidas preferir VMP00PF -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+grup-verb/top/(tiene tener VMIP3S0 -) [
+  sadv/cc/(Desde_luego desde_luego RG -) [
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  sn/obj/(palabra palabra NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(gritar gritar VMN0000 -) [
+      vaux/aux/(habré haber VAIF1S0 -)
+      VMP00SM(podido)/modnomatch/(podido poder VMP00SM -)
+      sn/subj/(veces vez NCFP000 -) [
+        espec-fp/espec/(más más RG -)
+      ]
+      subord/modnomatch/(cuando cuando CS -) [
+        grup-verb/modnorule/(emociono emocionar VMIP1S0 -) [
+          patons/modnomatch/(me me PP1CS000 -)
+          sn/obj/(Libeeeertaaaad libeeeertaaaad NP00000 -) [
+            Fe/modnomatch/(" " Fe -)
+            Fe/modnomatch/(" " Fe -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+F-no-c/top/(¡ ¡ Faa -) [
+  coor-vb/modnorule/(pero pero CC -) [
+    grup-verb/co-v/(quitar quitar VMN0000 -) [
+      patons/modnomatch/(Nos nos PP1CP000 -)
+      VMI*<poder>/modnomatch/(podrán poder VMIF3P0 -)
+      sn/obj/(vida vida NCFS000 -) [
+        espec-fs/espec/(nuestra nuestro DP1FSP -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-verb/co-v/(podran podran VMIP3P0 -) [
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  grup-verb-inf/modnorule/(robar robar VMN0000 -) [
+    PP*/modnomatch/(os os PP2CP000 -)
+  ]
+  sn/modnorule/(libertad libertad NCFS000 -) [
+    espec-fs/espec/(nuestra nuestro DP1FSP -)
+  ]
+  F-term/modnorule/(! ! Fat -)
+]
+

@@ -1,0 +1,70 @@
+sn/top/(Remake remake NCMS000 -) [
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(noruega noruego NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(peli peli AQ0CN0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(ochenta 80 Z -) [
+          j-mp/modnomatch/(los el DA0MP0 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(cuenta contar VMIP3S0 -) [
+      patons/modnomatch/(nos nos PP1CP000 -)
+      sn/obj/(historia historia NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(joven joven NCCS000 -) [
+            espec-ms/espec/(un uno DI0MS0 -)
+            s-a-ms/qual/(vikingo vikingo AQ0MS0 -) [
+              s-a-ms/modnorule/(expulsado expulsar VMP00SM -)
+            ]
+            grup-sp/modnomatch/(por por SPS00 -) [
+              sn/head/(pueblo pueblo NCMS000 -) [
+                espec-ms/espec/(su su DP3CS0 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(acción acción NCFS000 -) [
+  espec-fs/espec/(Mucha mucho DI0FS0 -)
+  n-ms/modnomatch/(tipo tipo NCMS000 -)
+  sn/modnomatch/(Conan conan NP00000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-sp/modnomatch/(en en SPS00 -) [
+      sn/head/(oscuridad oscuridad NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        coor-sp/modnomatch/(y y CC -) [
+          Fc(,)/modnorule/(, , Fc -)
+          grup-sp/modnorule/(con con SPS00 -) [
+            sn/head/(argumento argumento NCMS000 -) [
+              espec-ms/espec/(un uno DI0MS0 -)
+              s-a-ms/qual/(previsible previsible AQ0CS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(comprendo comprender VMIP1S0 -) [
+        neg/modneg/(no no RN -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sp-de/top/(De de SPS00 -) [
+  sn/gen/(palomitas palomita NCFP000 -)
+  F-term/modnomatch/(. . Fp -)
+]
+

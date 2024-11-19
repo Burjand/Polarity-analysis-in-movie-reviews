@@ -1,0 +1,59 @@
+grup-verb/top/(Llega llegar VMIP3S0 -) [
+  sn/cc/(momento momento NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+  ]
+  sn/cc/(clave clave NCFS000 -) [
+    Fe/modnomatch/(" " Fe -)
+    Fe/modnomatch/(" " Fe -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(historia historia NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  sadv/cc/(ya ya RG -)
+  sadv/cc/(de_por_sí de_por_sí RG -)
+  parti-flex/modnomatch/(forzada forzar VMP00SF -)
+  Fc(,)/modnomatch/(, , Fc -)
+  conj-subord/modnomatch/(que que CS -)
+  sn/cc/(fuerza fuerza NCFS000 -)
+  espec-ms/modnomatch/(lo el DA0NS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(forzado forzar VMP00SM -) [
+      vaux/aux/(está estar VAIP3S0 -)
+      sadv/cc/(ya ya RG -)
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  ger/modnomatch/(justificando justificar VMG0000 -) [
+    PP*/modnorule/(lo lo PP3CNA00 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(guión guión NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      grup-sp/modnomatch/(con con SPS00 -) [
+        sn/head/(frase frase NCFS000 -) [
+          espec-fs/espec/(una uno DI0FS0 -)
+          s-a-fs/qual/(sola solo AQ0FS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(personaje personaje NCMS000 -) [
+              espec-ms/espec/(un uno DI0MS0 -)
+              grup-sp/modnomatch/(con con SPS00 -) [
+                sn/head/(profundidad profundidad NCFS000 -) [
+                  espec-fs/espec/(menos menos RG -)
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  coor-n/cc/(e e CC -) [
+    sn/co-n/(inteligencia inteligencia NCFS000 -)
+  ]
+  conj-subord/modnomatch/(que que CS -)
+  sn/cc/(Peter_Griffin peter_griffin NP00000 -)
+  F-term/term/(. . Fp -)
+]
+

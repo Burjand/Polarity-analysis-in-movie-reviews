@@ -1,0 +1,36 @@
+sn/top/(Alfred_Hitchcock alfred_hitchcock NP00000 -) [
+  ger/modnomatch/(adentrando adentrar VMG0000 -) [
+    PP*/modnorule/(se se PP3CN000 -)
+  ]
+  prep/modnomatch/(en en SPS00 -)
+  F-term/term/(? ? Fit -)
+]
+
+sn/top/(dimensión dimensión NCFS000 -) [
+  espec-fs/espec/(La el DA0FS0 -)
+  s-a-fs/qual/(desconocida desconocer VMP00SF -)
+  F-term/term/(? ? Fit -)
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(definir definir VMN0000 -) [
+  patons/modnomatch/(se se PP3CN000 -)
+  VMI*<poder>/modnomatch/(podría poder VMIC1S0 -)
+  sadv/cc/(Así así RG -)
+  sn/obj/(propuesta propuesta NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    s-a-fs/qual/(nueva nuevo AQ0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(excrítico excrítico NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(cine cine NCMS000 -) [
+            w-ms/modnomatch/(Daniel_Monzón daniel_monzón NP00000 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

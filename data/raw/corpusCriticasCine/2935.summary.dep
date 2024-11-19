@@ -1,0 +1,81 @@
+grup-verb/top/(sea ser VSSP1S0 -) [
+  sadv/cc/(Quizá quizá RG -) [
+    coor-vb/modnorule/(y y CC -) [
+      sn/subj/(problema problema NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        s-a-ms/qual/(mayor mayor AQ0CS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(película película NCFS000 -) [
+            espec-fs/espec/(esta este DD0FS0 -)
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(protagonista protagonista NCCS000 -) [
+                espec-ms/espec/(el el DA0MS0 -)
+              ]
+            ]
+          ]
+        ]
+        F-no-c/modnomatch/(- - Fg -)
+      ]
+      grup-verb/co-v/(será ser VSIF3S0 -) [
+        grup-sp/modnomatch/(por por SPS00 -) [
+          sn/head/(eso ese PD0NS000 -)
+        ]
+        subord/modnomatch/(que que CS -) [
+          grup-verb/modnorule/(estar estar VAN0000 -) [
+            VMI*<llegar>/modnomatch/(llega llegar VMIP3S0 -)
+            SPS00(a)/modnomatch/(a a SPS00 -)
+            neg/modneg/(no no RN -)
+          ]
+        ]
+        grup-sp/iobj/(a a SPS00 -) [
+          sn/head/(altura altura NCFS000 -) [
+            espec-fs/espec/(la el DA0FS0 -)
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(grandes grande AQ0CP0 -) [
+                j-fp/modnomatch/(las el DA0FP0 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+    F-no-c/modnorule/(- - Fg -)
+  ]
+  sn/obj/(conexión conexión NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    s-a-fs/qual/(pretendida pretender VMP00SF -)
+  ]
+  grup-sp/modnomatch/(entre entre SPS00 -) [
+    sn/head/(vida_profesional vida_profesional NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  s-adj/att/(y y CC -) [
+    s-a-fs/modnorule/(íntima íntimo AQ0FS0 -)
+    s-a-fs/modnorule/(amorosa amoroso AQ0FS0 -)
+  ]
+  prep/modnomatch/(con con SPS00 -)
+  espec-ms/modnomatch/(su su DP3CS0 -)
+  F-term/term/(? ? Fit -)
+  sn/obj/(vida vida NCFS000 -) [
+    espec-fs/espec/(otra otro DI0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(enfrentamiento enfrentamiento NCMS000 -) [
+        s-a-ms/qual/(perpetuo perpetuo AQ0MS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(? ? Fit -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(personaje personaje NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(representado representar VMP00SM -)
+      grup-sp/modnomatch/(por por SPS00 -) [
+        sn/head/(Harvey_Keitel harvey_keitel NP00000 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

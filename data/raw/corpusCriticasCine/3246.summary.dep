@@ -1,0 +1,50 @@
+grup-verb/top/(abre abrir VMIP3S0 -) [
+  sn/subj/(Película película NCFS000 -)
+  grup-sp/modnomatch/(sobre sobre SPS00 -) [
+    sn/head/(búsqueda búsqueda NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(alcohol alcohol NCMS000 -)
+      ]
+    ]
+    F-no-c/modnomatch/(" " Fe -)
+  ]
+  sn/obj/(chochitos chocho NCMP00D -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(adolescentes adolescente NCCP000 -) [
+        numero-nopart/quant/(tres 3 Z -)
+        s-a-mp/qual/(descerebrados descerebrado AQ0MP0 -)
+        s-a-mp/qual/(norteamericanos norteamericano AQ0MP0 -)
+      ]
+    ]
+  ]
+  F-no-c/modnomatch/(" " Fe -)
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(comienzo comienzo NCMS000 -) [
+  espec-ms/espec/(Muy muy RG -)
+  s-a-ms/qual/(buen bueno AQ0MS0 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/modnomatch/(letras letra NCFP000 -) [
+    espec-fp/espec/(muy muy RG -)
+    s-a-fp/qual/(buenas bueno AQ0FP0 -)
+    s-a-fp/qual/(finales final AQ0CP0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/modnomatch/(resultado resultado NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(pesado pesar VMP00SM -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(deja dejar VMIP3S0 -)
+    ]
+  ]
+  sn/modnomatch/(regusto regusto NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+  ]
+  sadv/modnomatch/(más más RG -)
+  conj-subord/modnomatch/(que que CS -)
+  s-adj/qual/(amargo amargo AQ0MS0 -)
+  F-term/term/(. . Fp -)
+]
+

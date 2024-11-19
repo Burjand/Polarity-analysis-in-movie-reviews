@@ -1,0 +1,68 @@
+grup-verb/top/(está estar VAIP3S0 -) [
+  sn/subj/(fórmula fórmula NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+  ]
+  parti-flex/modnomatch/(servida servir VMP00SF -)
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(es ser VSIP3S0 -) [
+  sadv/cc/(Ahora ahora RG -)
+  sadv/cc/(ya ya RG -)
+  sn/obj/(cuestión cuestión NCFS000 -)
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(disfrutar disfrutar VMN0000 -) [
+      PP*/modnomatch/(la lo PP3FSA00 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(aunque aunque CC -) [
+  grup-verb/co-v/(vale valer VMIP3S0 -) [
+    sadv/cc/(Bien bien RG -)
+    sn/obj/(pena pena NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(sea ser VSSP1S0 -) [
+    sadv/cc/(sólo sólo RG -)
+  ]
+  coor-sp/modnomatch/(y y CC -) [
+    grup-sp/modnorule/(por por SPS00 -) [
+      sn/head/(falta falta NCFS000 -) [
+        espec-fs/espec/(su su DP3CS0 -)
+        s-a-fs/qual/(total total AQ0CS0 -) [
+          sadv/modnorule/(casi casi RG -)
+        ]
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(pretensiones pretensión NCFP000 -)
+        ]
+      ]
+    ]
+    grup-sp/modnorule/(por por SPS00 -) [
+      sn/head/(rostro rostro NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        s-a-ms/qual/(bello bello AQ0MS0 -)
+      ]
+    ]
+  ]
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(Sarah_Roemer sarah_roemer NP00000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/modnomatch/(chica chico NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(casa casa NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        grup-sp/modnomatch/(de de SPS00 -) [
+          sadv/modnomatch/(enfrente enfrente RG -)
+        ]
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

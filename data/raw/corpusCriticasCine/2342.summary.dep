@@ -1,0 +1,74 @@
+grup-verb/top/(ver ver VMN0000 -) [
+  VMI*<poder>/modnomatch/(podemos poder VMIP1P0 -)
+  grup-sp/modnomatch/(a a SPS00 -) [
+    sn/head/(estilo estilo NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(puro puro AQ0MS0 -) [
+        sadv/modnorule/(más más RG -)
+      ]
+    ]
+  ]
+  sn/subj/(Torrente torrente NCMS000 -) [
+    Fe/modnomatch/(" " Fe -)
+    Fe/modnomatch/(" " Fe -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(película película NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(entre entre SPS00 -) [
+    sn/head/(otros otro PI0MP000 -) [
+      grup-sp/modnomatch/(a a SPS00 -) [
+        sn/head/(Danny_DeVitto danny_devitto NP00000 -)
+        F-no-c/modnomatch/(( ( Fpa -)
+      ]
+    ]
+  ]
+  sn/obj/(productor productor NCMS000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(serie serie NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        s-a-fs/qual/(original original AQ0CS0 -)
+        coor-sp/modnomatch/(y y CC -) [
+          grup-sp/modnorule/(a a SPS00 -) [
+            sn/head/(The_Rock the_rock NP00000 -) [
+              grup-sp/modnomatch/(en en SPS00 -) [
+                sn/head/(papel papel NCMS000 -) [
+                  espec-ms/espec/(un uno DI0MS0 -)
+                  s-a-ms/qual/(curioso curioso AQ0MS0 -) [
+                    sadv/modnorule/(muy muy RG -)
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+    F-no-c/modnomatch/() ) Fpt -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+espec-fs/top/(Una uno DI0FS0 -) [
+  sp-de/modnorule/(de de SPS00 -) [
+    sn/gen/(cintas cinta NCFP000 -) [
+      espec-fp/espec/(esas ese DD0FP0 -)
+    ]
+  ]
+  subord/modnorule/(que que PR0CN000 -) [
+    grup-verb/modnorule/(afirmar afirmar VMN0000 -) [
+      VMI*<poder>/modnomatch/(podréis poder VMIF2P0 -)
+      sadv/cc/(siempre siempre RG -)
+    ]
+  ]
+  neg/modnorule/(no no RN -)
+  grup-verb-inf/modnorule/(visto ver VMP00SM -) [
+    infaux/modnomatch/(haber haber VAN0000 -)
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

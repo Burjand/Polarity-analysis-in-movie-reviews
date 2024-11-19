@@ -1,0 +1,50 @@
+grup-verb/top/(Echo echar VMIP1S0 -) [
+  grup-sp/cc/(de de SPS00 -) [
+    sadv/modnomatch/(más más RG -) [
+      cuantif/modnorule/(menos menos RG -)
+    ]
+  ]
+  sn/obj/(capacidad capacidad NCFS000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(perturbación perturbación NCFS000 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(garra garra NCFS000 -) [
+    espec-fs/espec/(más más RG -)
+    s-a-fs/qual/(cinematográfica cinematográfico AQ0FS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(Pero pero CC -) [
+  grup-verb/co-v/(trata tratar VMIP3S0 -) [
+    morfema-verbal/modnomatch/(se se P0000000 -)
+    neg/modneg/(no no RN -)
+  ]
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(pedir pedir VMN0000 -)
+    sn/modnomatch/(peras pera NCFP000 -)
+  ]
+  grup-sp/modnomatch/(a a SPS00 -) [
+    sn/head/(olmo olmo NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(y y CC -)
+  sadv/modnomatch/(sí sí RG -)
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(hacer hacer VMN0000 -) [
+      PP*/modnomatch/(nos nos PP1CP000 -)
+    ]
+  ]
+  grup-verb-inf/modnomatch/(pasar pasar VMN0000 -)
+  sadv/modnomatch/(casi casi RG -)
+  sn/modnomatch/(horas hora NCFP000 -) [
+    numero-nopart/quant/(dos 2 Z -)
+    s-a-fp/qual/(entretenidas entretener VMP00PF -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

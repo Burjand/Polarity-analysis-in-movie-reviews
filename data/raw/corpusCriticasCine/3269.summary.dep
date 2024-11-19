@@ -1,0 +1,93 @@
+sn/top/(maldición maldición NCFS000 -) [
+  espec-fs/espec/(La el DA0FS0 -)
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(23 23 Z -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-sp/top/(Hacia hacia SPS00 -) [
+  sn/head/(tiempo tiempo NCMS000 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(oía oír VMII1S0 -) [
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  sn/head/(estúpido estúpido AQ0MS0 -) [
+    pindef-ms/modnomatch/(nada nada PI0CS000 -)
+    sadv/modnomatch/(tan tan RG -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+subord/top/(Porque porque CS -) [
+  sadv/modnorule/(claro claro RG -)
+  Fc(,)/modnorule/(, , Fc -)
+  subord/modnorule/(si si CS -) [
+    grup-verb/modnorule/(coges coger VMIP2S0 -) [
+      sn/obj/(fecha fecha NCFS000 -) [
+        espec-fs/espec/(tu tu DP2CSS -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(nacimiento nacimiento NCMS000 -)
+        ]
+      ]
+    ]
+  ]
+  coor-vb/modnorule/(y y CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-verb/co-v/(divides dividir VMIP2S0 -) [
+      patons/modnomatch/(la lo PP3FSA00 -)
+      grup-sp/modnomatch/(por por SPS00 -) [
+        numero/modnomatch/(23 23 Z -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-verb/co-v/(sumas sumar VMIP2S0 -) [
+      patons/modnomatch/(le le PP3CSD00 -)
+      sn/obj/(multiplicado multiplicar VMP00SM -) [
+        espec-ms/espec/(23 23 Z -)
+      ]
+      grup-sp/modnomatch/(por por SPS00 -) [
+        sn/head/(x x NCFS000 -)
+      ]
+    ]
+    grup-verb/co-v/(restas restar VMIP2S0 -) [
+      patons/modnomatch/(le le PP3CSD00 -)
+      sn/obj/(23.000 23000 Z -)
+    ]
+  ]
+  coor-vb/modnorule/(y y CC -) [
+    grup-verb/co-v/(metes meter VMIP2S0 -) [
+      patons/modnomatch/(le le PP3CSD00 -)
+      sn/obj/(4 4 Z -)
+    ]
+  ]
+  sadv/modnorule/(más más RG -)
+  prep/modnorule/(para para SPS00 -)
+  subord/modnorule/(que que CS -) [
+    grup-verb/modnorule/(cuadre cuadrar VMSP1S0 -)
+    F-no-c/modnorule/(... ... Fs -)
+  ]
+  grup-verb/modnorule/(sale salir VMIP3S0 -) [
+    patons/modnomatch/(te te PP2CS000 -)
+    sn/cc/(23 23 Z -)
+  ]
+  F-term/modnorule/(! ! Fat -)
+  F-term/modnorule/(! ! Fat -)
+  F-term/modnorule/(! ! Fat -)
+]
+
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(Tío tío NP00000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(cagar cagar VMN0000 -) [
+      PP*/modnomatch/(se se PP3CN000 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,70 @@
+grup-verb/top/(sincera sincerar VMM02S0 -) [
+  sn/subj/(Película película NCFS000 -) [
+    s-a-fs/qual/(limpia limpio AQ0FS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sadv/cc/(a_más_no_poder a_más_no_poder RG -)
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(y y CC -) [
+  sn/subj/(cine cine NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Vega vega NP00000 -)
+    ]
+  ]
+  grup-verb/co-v/(va ir VMIP3S0 -) [
+    grup-sp/cc/(a a SPS00 -) [
+      sn/head/(caballo caballo NCMS000 -)
+    ]
+    grup-sp/cc/(entre entre SPS00 -) [
+      sn/head/(cotidiano cotidiano AQ0MS0 -) [
+        j-ms/modnomatch/(lo el DA0NS0 -)
+      ]
+      CC(y)/modnomatch/(y y CC -)
+      sn/head/(maravilloso maravilloso AQ0MS0 -) [
+        j-ms/modnomatch/(lo el DA0NS0 -)
+      ]
+    ]
+  ]
+  grup-verb/co-v/(da dar VMIP3S0 -) [
+    morfema-verbal/modnomatch/(se se P0000000 -)
+    neg/modneg/(no no RN -)
+    grup-sp/iobj/(a a SPS00 -) [
+      sn/head/(personajes personaje NCMP000 -) [
+        espec-mp/espec/(sus su DP3CP0 -)
+      ]
+    ]
+    sn/obj/(halo halo NCMS000 -) [
+      espec-ms/espec/(su su DP3CS0 -)
+      s-a-ms/qual/(personal personal AQ0CS0 -)
+    ]
+  ]
+  F-no-c/modnomatch/(: : Fd -)
+  espec-mp/modnomatch/(los el DA0MP0 -)
+  grup-verb/co-v/(deja dejar VMIP3S0 -)
+  grup-verb-inf/modnomatch/(volar volar VMN0000 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  s-adj/modnomatch/(libres libre AQ0CP0 -)
+  F-no-c/modnomatch/(; ; Fx -)
+  espec-mp/modnomatch/(los el DA0MP0 -)
+  grup-verb/co-v/(filma filmar VMIP3S0 -) [
+    grup-sp/modnomatch/(con con SPS00 -) [
+      sn/head/(asepsia asepsia NCFS000 -) [
+        s-a-fs/qual/(enorme enorme AQ0CS0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  ger/modnomatch/(dejando dejar VMG0000 -) [
+    PP*/modnorule/(les les PP3CPD00 -)
+  ]
+  grup-verb-inf/modnomatch/(triunfar triunfar VMN0000 -)
+  coord/modnomatch/(y y CC -)
+  grup-verb-inf/modnomatch/(equivocar equivocar VMN0000 -) [
+    PP*/modnomatch/(se se PP3CN000 -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

@@ -1,0 +1,60 @@
+grup-verb/top/(Es ser VSIP3S0 -) [
+  sn/obj/(filme filme NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(episódico episódico AQ0MS0 -)
+    subord/modnomatch/(pues pues CS -) [
+      grup-verb/modnorule/(resume resumir VMIP3S0 -)
+    ]
+  ]
+  sadv/cc/(más más RG -) [
+    SPS00(de)/modnorule/(de de SPS00 -)
+    sn/modnorule/(años año NCMP000 -) [
+      numero-nopart/quant/(cuarenta 40 Z -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(vida vida NCFS000 -)
+      ]
+    ]
+  ]
+  grup-sp/modnomatch/(en_menos_de en_menos_de SPS00 -) [
+    sn/head/(horas hora NCFP000 -) [
+      numero-nopart/quant/(dos 2 Z -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(metraje metraje NCMS000 -) [
+          grup-verb/modnomatch/(dulcifica dulcificar VMIP3S0 -) [
+            grup-sp/iobj/(a a SPS00 -) [
+              sn/head/(personaje personaje NCMS000 -) [
+                espec-ms/espec/(el el DA0MS0 -)
+                grup-verb/modnomatch/(apiada apiadar VMIP3S0 -) [
+                  morfema-verbal/modnomatch/(se se P0000000 -)
+                  sp-de/modnomatch/(de de SPS00 -) [
+                    sn/gen/(él él PP3MS000 -) [
+                      sp-de/mod/(de de SPS00 -) [
+                        sn/gen/(manera manera NCFS000 -)
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  Fc(,)/modnomatch/(, , Fc -)
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(parece parecer VMIP3S0 -)
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(hicera hicera VMIP3S0 -) [
+      sadv/cc/(nunca nunca RG -)
+      sn/obj/(malo malo AQ0MS0 -) [
+        pindef-ms/modnomatch/(nada nada PI0CS000 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

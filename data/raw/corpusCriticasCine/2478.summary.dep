@@ -1,0 +1,96 @@
+coor-vb/top/(ni ni CC -) [
+  grup-verb/co-v/(sobra sobrar VMIP3S0 -) [
+    neg/modneg/(No no RN -)
+  ]
+  grup-verb/co-v/(falta faltar VMIP3S0 -) [
+    sn/obj/(nada nada PI0CS000 -)
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(transcurso transcurso NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(narración narración NCFS000 -) [
+            espec-fs/espec/(la el DA0FS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+coor-vb/top/(y y CC -) [
+  grup-verb/co-v/(lograron lograr VMIS3P0 -) [
+    sadv/cc/(Incluso incluso RG -)
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(escenas escena NCFP000 -) [
+        espec-fp/espec/(las el DA0FP0 -)
+        grup-sp/modnomatch/(sobre sobre SPS00 -) [
+          sn/head/(enseñanzas enseñanza NCFP000 -) [
+            s-a-fp/qual/(mágicas mágico AQ0FP0 -)
+          ]
+        ]
+      ]
+    ]
+    coor-n/subj/(y y CC -) [
+      Fc(,)/modnomatch/(, , Fc -)
+      sn/co-n/(guionista guionista NCCS000 -)
+      sn/co-n/(director director NCMS000 -)
+    ]
+    grup-verb-inf/modnomatch/(impedir impedir VMN0000 -)
+    subord/modnomatch/(que que CS -) [
+      grup-verb/modnorule/(fueran ser VSSI3P0 -) [
+        sn/obj/(piezas pieza NCFP000 -) [
+          s-a-fp/qual/(sueltas suelto AQ0FP0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(relleno relleno NCMS000 -)
+          ]
+        ]
+      ]
+      F-no-c/modnorule/(- - Fg -)
+    ]
+  ]
+  sn/subj/(defecto defecto NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(común común AQ0CS0 -)
+    grup-sp/modnomatch/(a a SPS00 -) [
+      sn/head/(entregas entrega NCFP000 -) [
+        espec-fp/espec/(dos 2 Z -) [
+          j-fp/modnorule/(las el DA0FP0 -)
+        ]
+        s-a-fp/qual/(precedentes precedente AQ0CP0 -)
+      ]
+      F-no-c/modnomatch/(- - Fg -)
+    ]
+  ]
+  grup-verb/co-v/(funcionan funcionar VMIP3P0 -) [
+    sadv/cc/(aquí aquí RG -)
+  ]
+  parti-flex/modnomatch/(integradas integrar VMP00PF -)
+  grup-sp/modnomatch/(en en SPS00 -) [
+    sn/head/(motivos motivo NCMP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+      s-a-mp/qual/(principales principal AQ0CP0 -)
+    ]
+    F-no-c/modnomatch/(: : Fd -)
+  ]
+  coor-n/modnomatch/(y y CC -) [
+    sn/co-n/(misterio misterio NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(Sirius_Black sirius_black NP00000 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(dementores dementores NCMP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+    ]
+    sn/co-n/(miedos miedo NCMP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(Harry_Potter harry_potter NP00000 -)
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

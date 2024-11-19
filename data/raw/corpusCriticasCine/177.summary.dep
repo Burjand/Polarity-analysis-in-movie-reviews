@@ -1,0 +1,34 @@
+grup-verb/top/(lleva llevar VMIP3S0 -) [
+  patons/modnomatch/(me me PP1CS000 -)
+  sn/subj/(Hitchcock hitchcock NP00000 -) [
+    grup-verb/modnomatch/(quiere querer VMIP3S0 -)
+    grup-verb/modnomatch/(autentica autenticar VMIP3S0 -) [
+      sn/subj/(una uno PI0FS000 -) [
+        grup-verb/modnomatch/(magnifica magnificar VMIP3S0 -) [
+          sn/subj/(una uno PI0FS000 -)
+          sn/obj/(película película NCFS000 -) [
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(terror terror NCMS000 -)
+            ]
+          ]
+        ]
+      ]
+      sn/obj/(lección lección NCFS000 -)
+      grup-sp/modnomatch/(de de SPS00 -) [
+        sadv/modnomatch/(cómo cómo PT000000 -)
+      ]
+    ]
+  ]
+  sadv/cc/(a_donde a_donde RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(como como CS -) [
+    grup-verb/modnorule/(quiere querer VMIP3S0 -)
+  ]
+  coord/modnomatch/(y y CC -)
+  subord/modnomatch/(cuando cuando CS -) [
+    grup-verb/modnorule/(quiere querer VMIP3S0 -)
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  grup-verb-inf/modnomatch/(crear crear VMN0000 -)
+]
+

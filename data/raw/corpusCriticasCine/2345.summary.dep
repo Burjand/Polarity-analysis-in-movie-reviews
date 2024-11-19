@@ -1,0 +1,38 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(Shrek_Tercero shrek_tercero NP00000 -)
+  sn/obj/(film film NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(, , Fc -) [
+      s-a-ms/modnorule/(innecesario innecesario AQ0MS0 -)
+      s-a-ms/modnorule/(realizado realizar VMP00SM -)
+    ]
+  ]
+  grup-sp/modnomatch/(por por SPS00 -) [
+    sn/head/(hecho hecho NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(simple simple AQ0CS0 -)
+    ]
+  ]
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(ganar ganar VMN0000 -)
+    sn/modnomatch/(dinero dinero NCMS000 -)
+  ]
+  F-no-c/modnomatch/(; ; Fx -)
+  sn/obj/(fórmula fórmula NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    grup-verb/modnomatch/(está estar VAIP3S0 -)
+  ]
+  parti-flex/modnomatch/(agotada agotar VMP00SF -)
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(personajes personaje NCMP000 -) [
+    espec-mp/espec/(los el DA0MP0 -)
+    s-a-mp/qual/(gastados gastar VMP00PM -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(guionistas guionista NCCP000 -) [
+    espec-mp/espec/(los el DA0MP0 -)
+    s-a-mp/qual/(cansados cansar VMP00PM -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

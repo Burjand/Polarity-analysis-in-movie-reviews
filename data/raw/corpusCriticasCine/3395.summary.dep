@@ -1,0 +1,68 @@
+grup-verb/top/(parece parecer VMIP3S0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  sn/subj/(thriller thriller NCMS000 -) [
+    espec-ms/espec/(Un uno DI0MS0 -)
+    s-a-ms/qual/(dramático dramático AQ0MS0 -)
+    prel/modnomatch/(que que PR0CN000 -)
+    coor-sp/modnomatch/(o o CC -) [
+      grup-sp/modnorule/(por por SPS00 -) [
+        sn/head/(suerte suerte NCFS000 -)
+      ]
+      grup-sp/modnorule/(por por SPS00 -) [
+        sn/head/(desgracia desgracia NCFS000 -)
+      ]
+    ]
+  ]
+  neg/modneg/(no no RN -)
+  sadv/cc/(demasiado demasiado RG -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(ninguno ninguno PI0MS000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(referentes referente NCCP000 -) [
+          espec-mp/espec/(los el DA0MP0 -)
+        ]
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(vendrían venir VMIC3P0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+      patons/modnomatch/(te te PP2CS000 -)
+    ]
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(cabeza cabeza NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(como como CS -) [
+    sn/head/(Fincher fincher NP00000 -)
+  ]
+  coor-n/obj/(o o CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(Hitchcock hitchcock NP00000 -)
+    sn/co-n/(Haneke haneke NP00000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(habrá haber VMIF3S0 -) [
+  sn/subj/(propuesta propuesta NCFS000 -) [
+    s-a-fs/qual/(Interesante interesante AQ0CS0 -)
+  ]
+  sn/subj/(de de SPS00 -) [
+    j-fs/modnomatch/(la el DA0FS0 -)
+    sn/modnomatch/(Rodrigo_Plá rodrigo_plá NP00000 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  conj-subord/modnomatch/(que que CS -)
+  grup-verb-inf/modnomatch/(seguir seguir VMN0000 -) [
+    PP*/modnomatch/(le le PP3CSD00 -)
+  ]
+  sn/obj/(pista pista NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

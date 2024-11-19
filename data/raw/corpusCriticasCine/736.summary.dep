@@ -1,0 +1,47 @@
+grup-verb/top/(fue ser VSIS3S0 -) [
+  sn/subj/(año año NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+    s-a-ms/qual/(pasado pasar VMP00SM -)
+  ]
+  sn/subj/(Match_Point match_point NP00000 -)
+  sn/obj/(cumbre cumbre NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(maestría maestría NCFS000 -) [
+        espec-fs/espec/(su su DP3CS0 -)
+      ]
+    ]
+  ]
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(hacer hacer VMN0000 -)
+    sn/modnomatch/(cine cine NCMS000 -)
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(mensaje mensaje NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(resonante resonante AQ0CS0 -)
+      s-a-ms/qual/(filosófico filosófico AQ0MS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(cambió cambiar VMIS3S0 -) [
+  sn/subj/(Scoop scoop NCMS000 -) [
+    prep/modnomatch/(en en SPS00 -)
+    grup-verb/modnomatch/(es ser VSIP3S0 -) [
+      sn/obj/(comedia comedia NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        s-a-fs/qual/(entretenida entretener VMP00SF -)
+        subord/modnomatch/(que que PR0CN000 -) [
+          grup-verb/modnorule/(trasciende trascender VMIP3S0 -) [
+            neg/modneg/(no no RN -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(. . Fp -)
+]
+

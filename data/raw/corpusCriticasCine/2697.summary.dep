@@ -1,0 +1,54 @@
+grup-verb/top/(ganar ganar VMN0000 -) [
+  VMI*<volver>/modnomatch/(vuelve volver VMIP3S0 -)
+  SPS00(a)/modnomatch/(a a SPS00 -)
+  grup-sp/modnomatch/(Con con SPS00 -) [
+    sn/head/(intención intención NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      grup-sp/modnomatch/(a a SPS00 -) [
+        sn/head/(productos producto NCMP000 -) [
+          espec-mp/espec/(estos este DD0MP0 -)
+        ]
+      ]
+    ]
+    F-term/modnomatch/(? ? Fit -)
+    s-adj/modnomatch/(limpérrima limpérrima AQ0FS0 -)
+    F-term/modnomatch/(? ? Fit -)
+    s-adj/modnomatch/(inherente inherente AQ0CS0 -)
+    coor-n/head/(y y CC -) [
+      Fc(,)/modnomatch/(, , Fc -)
+      sn/co-n/(humor humor NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        s-a-ms/qual/(inteligente inteligente AQ0CS0 -)
+        subord/modnomatch/(que que PR0CN000 -) [
+          grup-verb/modnorule/(caracteriza caracterizar VMIP3S0 -)
+        ]
+        grup-sp/modnomatch/(a a SPS00 -) [
+          sn/head/(guionistas guionista NCCP000 -) [
+            espec-mp/espec/(sus su DP3CP0 -)
+            grup-sp/modnomatch/(a a SPS00 -) [
+              sn/head/(clásicos clásico NCMP000 -) [
+                espec-mp/espec/(los el DA0MP0 -)
+                sp-de/mod/(de de SPS00 -) [
+                  sn/gen/(animación animación NCFS000 -)
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+      sn/co-n/(guiños guiño NCMP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+        s-a-mp/qual/(continuos continuo AQ0MP0 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(Pixar pixar NP00000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  sn/obj/(partida partida NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,50 @@
+grup-verb/top/(entrega entregar VMIP3S0 -) [
+  sn/subj/(Segunda segunda NP00000 -)
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(creadores creador NCMP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(Zombis_Party zombis_party NP00000 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sadv/cc/(sólo sólo RG -)
+  conj-subord/modnomatch/(que que CS -)
+  forma-ger/modnomatch/(parodiando parodiar VMG0000 -)
+  sn/obj/(películas película NCFP000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(intriga intriga NCFS000 -) [
+        s-a-fs/qual/(policiaca policiaco AQ0FS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+s-adj/top/(buena bueno AQ0FS0 -) [
+  sadv/modnorule/(Muy muy RG -)
+  Fc(,)/modnorule/(, , Fc -)
+  grup-sp/modnorule/(con con SPS00 -) [
+    sn/head/(momentos momento NCMP000 -) [
+      s-a-mp/qual/(hilarantes hilarante AQ0CP0 -)
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  coord/modnorule/(pero pero CC -)
+  parti-flex/modnorule/(lastrada lastrar VMP00SF -)
+  grup-sp/modnorule/(por por SPS00 -) [
+    sn/head/(entrega entrega NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(magistral magistral AQ0CS0 -)
+      s-a-fs/qual/(primera 1 AO0FS0 -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+s-adj/top/(recomendable recomendable AQ0CS0 -) [
+  sadv/modnorule/(Altamente Altamente RG -)
+  F-term/modnorule/(. . Fp -)
+]
+

@@ -1,0 +1,72 @@
+grup-verb/top/(resume resumir VMIP3S0 -) [
+  patons/modnomatch/(nos nos PP1CP000 -)
+  sn/subj/(documental documental NCMS000 -) [
+    espec-ms/espec/(Este este DD0MS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(narrador narrador NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(excepción excepción NCFS000 -)
+      ]
+    ]
+  ]
+  sadv/cc/(brevemente brevemente RG -)
+  sn/obj/(partidos partido NCMP000 -) [
+    espec-mp/espec/(los el DA0MP0 -)
+    s-a-mp/qual/(mejores mejor AQ0CP0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(selecciones selección NCFP000 -) [
+        espec-fp/espec/(todas todo DI0FP0 -) [
+          j-fp/modnorule/(las el DA0FP0 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(interés interés NCMS000 -) [
+      s-a-ms/qual/(especial especial AQ0CS0 -)
+      grup-sp/modnomatch/(en en SPS00 -) [
+        sn/head/(fase fase NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          s-a-fs/qual/(final final AQ0CS0 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(donde donde PR000000 -) [
+    grup-verb/modnorule/(une unir VMIP3S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+      sn/subj/(dramatismo dramatismo NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(semifinales semifinal NCFP000 -) [
+            espec-fp/espec/(las el DA0FP0 -)
+          ]
+        ]
+      ]
+      grup-sp/iobj/(a a SPS00 -) [
+        sn/head/(lotería lotería NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(penalties penalties NCCP000 -) [
+              espec-mp/espec/(los el DA0MP0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(tutti-plen tutti-plen VMIP3P0 -) [
+  sn/subj/(Fútbol fútbol NCMS000 -) [
+    prep/modnomatch/(a a SPS00 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

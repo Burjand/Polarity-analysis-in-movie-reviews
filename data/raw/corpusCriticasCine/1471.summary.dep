@@ -1,0 +1,56 @@
+grup-sp/top/(En en SPS00 -) [
+  sn/head/(fin fin NCMS000 -)
+  F-term/modnomatch/(. . Fp -)
+]
+
+grup-verb/top/(hay haber VMIP3S0 -) [
+  sn/subj/(Cine cine NCMS000 -) [
+    s-a-ms/qual/(entretenido entretener VMP00SM -)
+    F-no-c/modnomatch/(( ( Fpa -)
+  ]
+  sadv/cc/(ahí ahí RG -)
+  neg/modneg/(no no RN -)
+  sn/obj/(discusión discusión NCFS000 -)
+  F-no-c/modnomatch/() ) Fpt -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(olvida olvidar VMIP3S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+    ]
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(presteza presteza NCFS000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sp-de/top/(De de SPS00 -) [
+  sn/gen/(todo todo PI0MS000 -)
+  grup-verb/modnomatch/(haber haber VMN0000 -) [
+    VMI*<tener>/modnomatch/(tiene tener VMIP3S0 -)
+    CS(que)/modnomatch/(que que CS -)
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(viña viña NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(Señor señor NP00000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+subord/top/(Si si CS -) [
+  grup-verb/modnorule/(fuese ser VSSI1S0 -) [
+    neg/modneg/(no no RN -)
+  ]
+  grup-sp/modnorule/(por por SPS00 -) [
+    sn/head/(palomitas palomita NCFP000 -) [
+      espec-fp/espec/(las el DA0FP0 -)
+    ]
+    F-no-c/modnomatch/(...... ...... Fz -)
+  ]
+]
+

@@ -1,0 +1,32 @@
+grup-verb/top/(trata tratar VMIP3S0 -) [
+  sn/subj/(Capote capote NCMS000 -)
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(sensación sensación NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(maloliente maloliente AQ0CS0 -)
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(tiene tener VMIP3S0 -) [
+      sn/subj/(uno uno PI0MS000 -) [
+        grup-verb/modnomatch/(dar dar VMN0000 -) [
+          patons/modnomatch/(le le PP3CSD00 -)
+          VMI*<tener>/modnomatch/(tienes tener VMIP2S0 -)
+          CS(que)/modnomatch/(que que CS -)
+          sn/obj/(carnaza carnaza NCFS000 -)
+          grup-sp/iobj/(a a SPS00 -) [
+            sn/head/(ricos rico NCMP000 -) [
+              espec-mp/espec/(los el DA0MP0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  conj-subord/modnomatch/(que que CS -)
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(sobrevivir sobrevivir VMN0000 -)
+  ]
+]
+

@@ -1,0 +1,64 @@
+sn/top/(ejemplo ejemplo NCMS000 -) [
+  s-a-ms/qual/(Nuevo nuevo AQ0MS0 -)
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(promoción promoción NCFS000 -) [
+      s-a-fs/qual/(mediática mediático AQ0FS0 -) [
+        s-a-fs/modnorule/(engañosa engañoso AQ0FS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+  F-term/term/(? ? Fit -)
+]
+
+grup-verb/top/(es ser VSIP3S0 -) [
+  grup-sp/modnomatch/(Sin sin SPS00 -) [
+    sn/head/(Reservas reservas NP00000 -)
+    F-term/modnomatch/(? ? Fit -)
+  ]
+  sn/obj/(dramón dramón NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+  ]
+  prep/modnomatch/(en en SPS00 -)
+  espec-mp/modnomatch/(sus su DP3CP0 -)
+  s-adj/att/(primeros 1 AO0MP0 -)
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(minutos minuto NCMP000 -) [
+      numero-nopart/quant/(45 45 Z -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(género género NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(inclasificable inclasificable AQ0CS0 -)
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(resto resto NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+subord/top/(Si si CS -) [
+  grup-verb/modnorule/(queréis querer VMIP2P0 -) [
+    sn/obj/(reiros reiros NCMP000 -)
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  coord/modnorule/(o o CC -)
+  prep/modnorule/(a a SPS00 -)
+  espec-ms/modnorule/(el el DA0MS0 -)
+  sadv/modnorule/(menos menos RG -)
+  grup-verb-inf/modnorule/(sonreir sonreir VMN0000 -)
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(es ser VSIP3S0 -) [
+    sn/subj/(ésta este PD0FS000 -)
+    neg/modneg/(no no RN -)
+  ]
+  espec-fs/modnorule/(la el DA0FS0 -)
+  subord/modnorule/(que que PR0CN000 -) [
+    grup-verb/modnorule/(buscáis buscar VMIP2P0 -)
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

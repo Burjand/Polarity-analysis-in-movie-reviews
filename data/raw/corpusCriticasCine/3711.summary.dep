@@ -1,0 +1,70 @@
+coor-vb/top/(Aunque aunque CC -) [
+  grup-verb/co-v/(sea ser VSSP1S0 -) [
+    neg/modneg/(no no RN -)
+    sn/obj/(estilo estilo NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(película película NCFS000 -)
+      ]
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(ver ver VMN0000 -) [
+          morfema-verbal/modnomatch/(se se P0000000 -)
+          VMI*<soler>/modnomatch/(suele soler VMIP3S0 -)
+        ]
+      ]
+    ]
+    grup-sp/modnomatch/(por por SPS00 -) [
+      sn/head/(lares lar NCMP000 -) [
+        espec-mp/espec/(estos este DD0MP0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(decir decir VMN0000 -) [
+    VMI*<tener>/modnomatch/(tengo tener VMIP1S0 -)
+    CS(que)/modnomatch/(que que CS -)
+    subord/modnomatch/(que que CS -) [
+      grup-verb/modnorule/(es ser VSIP3S0 -) [
+        sn/obj/(película película NCFS000 -) [
+          espec-fs/espec/(una uno DI0FS0 -)
+          s-a-fs/qual/(buena bueno AQ0FS0 -) [
+            sadv/modnorule/(muy muy RG -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(gustan gustar VMIP3P0 -) [
+      patons/modnomatch/(me me PP1CS000 -)
+      sn/subj/(vez vez NCFS000 -) [
+        espec-fs/espec/(cada cada DI0CS0 -)
+      ]
+      sadv/cc/(más más RG -)
+      sn/obj/(de de SPS00 -) [
+        j-fp/modnomatch/(las el DA0FP0 -)
+        sn/modnomatch/(animación animación NCFS000 -)
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+s-adj/top/(recomendable recomendable AQ0CS0 -) [
+  sadv/modnorule/(Muy muy RG -)
+  coor-sp/modnorule/(aunque aunque CC -) [
+    Fc(,)/modnorule/(, , Fc -)
+    grup-sp/modnorule/(para para SPS00 -) [
+      sn/head/(niños niño NCMP000 -)
+    ]
+  ]
+  grup-verb/modnorule/(sea ser VSSP1S0 -) [
+    sadv/cc/(quizá quizá RG -)
+  ]
+  s-adj/modnorule/(dura duro AQ0FS0 -) [
+    sadv/modnorule/(algo algo RG -)
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

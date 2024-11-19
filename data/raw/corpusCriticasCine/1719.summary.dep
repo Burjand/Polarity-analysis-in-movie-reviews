@@ -1,0 +1,49 @@
+prep/top/(Para para SPS00 -) [
+  quien-p/modnorule/(quienes quien PR0CP000 -)
+  Fc(,)/modnorule/(, , Fc -)
+  grup-sp/modnorule/(como como CS -) [
+    sn/head/(yo yo PP1CSN00 -)
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(creéis creer VMIP2P0 -) [
+    subord/modnomatch/(que que CS -) [
+      grup-verb/modnorule/(está estar VAIP3S0 -) [
+        morfema-verbal/modnomatch/(se se P0000000 -)
+        patons/modnomatch/(les les PP3CPD00 -)
+        sadv/cc/(últimamente últimamente RG -)
+        grup-sp/modnomatch/(a a SPS00 -) [
+          sn/head/(orientales oriental NCCP000 -) [
+            espec-mp/espec/(los el DA0MP0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  forma-ger/modnorule/(yendo ir VMG0000 -)
+  sn/modnorule/(pinza pinza NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  sadv/modnorule/(en_demasía en_demasía RG -)
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(hará hacer VMIF3S0 -) [
+    sn/subj/(película película NCFS000 -) [
+      espec-fs/espec/(esta este DD0FS0 -)
+    ]
+    neg/modneg/(no no RN -)
+  ]
+  coord/modnorule/(sino sino CC -)
+  grup-verb-inf/modnorule/(confirmar confirmar VMN0000 -) [
+    PP*/modnomatch/(os os PP2CP000 -)
+  ]
+  sn/modnorule/(hipótesis hipótesis NCFN000 -) [
+    espec-fs/espec/(esa ese DD0FS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  conj-subord/modnorule/(cuando cuando CS -)
+  neg/modnorule/(no no RN -)
+  grup-verb-inf/modnorule/(agravar agravar VMN0000 -) [
+    PP*/modnomatch/(la lo PP3FSA00 -)
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

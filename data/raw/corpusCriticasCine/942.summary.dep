@@ -1,0 +1,55 @@
+sn/top/(Película película NCFS000 -) [
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(acción acción NCFS000 -) [
+      s-a-fs/qual/(y y CC -) [
+        s-a-fs/modnorule/(pseudocientífica pseudocientífico AQ0FS0 -)
+        s-a-fs/modnorule/(criminal criminal AQ0CS0 -)
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(hace hacer VMIP3S0 -)
+  ]
+  s-adj/qual/(imprescindible imprescindible AQ0CS0 -)
+  grup-verb-inf/modnomatch/(dejar dejar VMN0000 -) [
+    PP*/modnomatch/(se se PP3CN000 -)
+  ]
+  sn/modnomatch/(cerebro cerebro NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    grup-sp/modnomatch/(en en SPS00 -) [
+      sn/head/(casa casa NCFS000 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+subord/top/(Como como CS -) [
+  grup-verb/modnorule/(hagas hacer VMSP2S0 -)
+  grup-sp/modnorule/(como como CS -) [
+    sn/head/(yo yo PP1CSN00 -)
+  ]
+  coor-vb/modnorule/(y y CC -) [
+    grup-verb/co-v/(cuestiones cuestionar VMSP2S0 -) [
+      patons/modnomatch/(te te PP2CS000 -)
+      sn/obj/(todo todo PI0MS000 -)
+    ]
+  ]
+  espec-ms/modnorule/(lo el DA0NS0 -)
+  subord/modnorule/(que que PR0CN000 -) [
+    grup-verb/modnorule/(pasa pasar VMIP3S0 -)
+  ]
+  coor-vb/modnorule/(y y CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-verb/co-v/(terminará terminar VMIF3S0 -)
+    grup-verb/co-v/(diciendo decir VMG0000 -) [
+      VMI*<seguir>/modnomatch/(seguirás seguir VMIF2S0 -)
+      sn/obj/(amos amo NCMP000 -) [
+        Fe/modnomatch/(" " Fe -)
+        Fe/modnomatch/(" " Fe -)
+        n-ms/modnomatch/(hombre hombre NCMS000 -)
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

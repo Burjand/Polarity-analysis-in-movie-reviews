@@ -1,0 +1,83 @@
+grup-verb/top/(va ir VMIP3S0 -) [
+  sn/subj/(Precuela precuela NP00000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(cubo cubo NCMS000 -) [
+        Fe/modnomatch/(" " Fe -)
+        Fe/modnomatch/(" " Fe -)
+        espec-ms/espec/(El el DA0MS0 -)
+      ]
+    ]
+    subord/modnomatch/(que que CS -) [
+      grup-verb/modnorule/(explica explicar VMIP3S0 -) [
+        patons/modnomatch/(nos nos PP1CP000 -)
+        sn/obj/(poquito poquito AQ0MS0 -) [
+          indef-ms/modnomatch/(un uno DI0MS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(qué qué PT0CN000 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  espec-fs/modnomatch/(aquella aquel DD0FS0 -)
+  F-term/term/(. . Fp -)
+]
+
+subord/top/(Si si CS -) [
+  grup-verb/modnorule/(visto ver VMP00SM -) [
+    vaux/aux/(has haber VAIP2S0 -)
+    neg/modneg/(no no RN -)
+    sn/obj/(primera 1 AO0FS0 -) [
+      j-fs/modnomatch/(la el DA0FS0 -)
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  neg/modnorule/(no no RN -)
+  morfema-verbal/modnorule/(se se P0000000 -)
+  grup-verb/modnorule/(esperas esperar VMIP2S0 -) [
+    grup-sp/modnomatch/(a a SPS00 -) [
+      sn/head/(qué qué PT0CN000 -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+subord/top/(Si si CS -) [
+  grup-verb/modnorule/(visto ver VMP00SM -) [
+    patons/modnomatch/(la lo PP3FSA00 -)
+    vaux/aux/(has haber VAIP2S0 -)
+  ]
+  coor-vb/modnorule/(y y CC -) [
+    grup-verb/co-v/(gustó gustar VMIS3S0 -) [
+      patons/modnomatch/(te te PP2CS000 -)
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(ve ver VMIP3S0 -) [
+    sadv/cc/(también también RG -)
+  ]
+  espec-fs/modnorule/(esta este DD0FS0 -)
+  Fc(,)/modnorule/(, , Fc -)
+  sadv/modnorule/(más más RG -)
+  prep/modnorule/(de de SPS00 -)
+  espec-mp/modnorule/(los el DA0MP0 -)
+  s-adj/modnorule/(mismo mismo AQ0MS0 -)
+  F-term/modnorule/(. . Fp -)
+]
+
+coor-vb/top/(Y y CC -) [
+  subord/modnomatch/(si si CS -) [
+    grup-verb/modnorule/(gustó gustar VMIS3S0 -) [
+      patons/modnomatch/(te te PP2CS000 -)
+      neg/modneg/(no no RN -)
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  grup-verb/co-v/(pasa pasar VMIP3S0 -) [
+    grup-sp/cc/(de de SPS00 -) [
+      sadv/modnomatch/(largo largo RG -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

@@ -1,0 +1,65 @@
+grup-verb/top/(convence convencer VMIP3S0 -) [
+  neg/modneg/(No no RN -)
+  sn/obj/(noveleta novela NCFS00D -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    s-a-fs/qual/(edulcorada edulcorar VMP00SF -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(mafias mafia NCFP000 -) [
+        s-a-fp/qual/(rusas ruso AQ0FP0 -) [
+          s-a-fp/modnorule/(afincadas afincar VMP00PF -)
+        ]
+      ]
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(Londres londres NP00000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(tipo tipo NCMS000 -) [
+          espec-ms/espec/(todo todo DI0MS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(documentación documentación NCFS000 -) [
+              s-a-fs/qual/(veraz veraz AQ0CS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  conj-subord/modnomatch/(que que CS -)
+  Fc(,)/modnomatch/(, , Fc -)
+  forma-ger/modnomatch/(prescindiendo prescindir VMG0000 -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(respecto respecto NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      grup-verb/modnomatch/(limita limitar VMIP3S0 -) [
+        morfema-verbal/modnomatch/(se se P0000000 -)
+        grup-sp-inf/iobj/(a a SPS00 -) [
+          grup-verb-inf/head/(recopilar recopilar VMN0000 -)
+          sn/modnomatch/(tópicos tópico NCMP000 -)
+        ]
+        grup-sp-inf/iobj/(para para SPS00 -) [
+          grup-verb-inf/head/(desbarrar desbarrar VMN0000 -)
+        ]
+        grup-sp/cc/(en en SPS00 -) [
+          sn/head/(historia historia NCFS000 -) [
+            espec-fs/espec/(una uno DI0FS0 -)
+            s-a-fs/qual/(incapaz incapaz AQ0CS0 -)
+          ]
+        ]
+        grup-sp-inf/modnomatch/(de de SPS00 -) [
+          grup-verb-inf/head/(provocar provocar VMN0000 -)
+          sn/modnomatch/(interés interés NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+            s-a-ms/qual/(mínimo mínimo AQ0MS0 -) [
+              sadv/modnorule/(más más RG -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(. . Fp -)
+]
+

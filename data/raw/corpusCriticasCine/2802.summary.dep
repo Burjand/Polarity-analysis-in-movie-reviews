@@ -1,0 +1,63 @@
+grup-verb/top/(nació nacer VMIS3S0 -) [
+  sn/subj/(Disturbia disturbia NP00000 -)
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(aderezada aderezar VMP00SF -) [
+      infaux-ser/modnomatch/(ser ser VSN0000 -)
+    ]
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(palomitas palomita NCFP000 -)
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(jarabe jarabe NCMS000 -) [
+      s-a-ms/qual/(yanqui yanqui AQ0CS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(Intriga intrigar VMM02S0 -) [
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/modnomatch/(encontraremos encontrar VMIF1P0 -) [
+    sn/subj/(ninguna ninguno PI0FS000 -) [
+      Fc(,)/modnomatch/(, , Fc -)
+    ]
+    neg/modneg/(no no RN -)
+    sn/obj/(nada nada PI0CS000 -)
+    sadv/cc/(más más RG -)
+  ]
+  conj-subord/modnomatch/(que que CS -)
+  sn/obj/(sustos susto NCMP000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(telefilm telefilm NCMS000 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(Ni ni CC -) [
+  grup-verb/co-v/(prometen prometer VMIP3P0 -) [
+    sadv/cc/(siquiera siquiera RG -)
+    sn/subj/(escenas escena NCFP000 -) [
+      espec-fp/espec/(las el DA0FP0 -)
+      s-a-fp/qual/(sexuales sexual AQ0CP0 -)
+    ]
+    sn/obj/(climax climax NCMN000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(supere superar VMSP1S0 -)
+      ]
+    ]
+    grup-sp/iobj/(a a SPS00 -) [
+      sn/head/(de de SPS00 -) [
+        j-ms/modnomatch/(el el DA0MS0 -)
+        sn/modnomatch/(anuncio anuncio NCMS000 -) [
+          espec-ms/espec/(un uno DI0MS0 -)
+          s-a-ms/qual/(publicitario publicitario AQ0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

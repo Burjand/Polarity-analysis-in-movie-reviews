@@ -1,0 +1,56 @@
+grup-verb/top/(Tengo tener VMIP1S0 -) [
+  sn/obj/(impresión impresión NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(película película NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        s-a-fs/qual/(gran gran AQ0CS0 -)
+      ]
+    ]
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(trata tratar VMIP3S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(Fui ser VSIS1S0 -) [
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(cine cine NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  grup-sp-inf/iobj/(a a SPS00 -) [
+    grup-verb-inf/head/(ver ver VMN0000 -)
+    sn/modnomatch/(conocido conocer VMP00SM -) [
+      pindef-ms/modnomatch/(algo algo PI0CS000 -)
+      Fe/modnomatch/(" " Fe -)
+      Fe/modnomatch/(" " Fe -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+subord/top/(Cuando cuando CS -) [
+  grup-verb/modnorule/(salí salir VMIS1S0 -)
+  sp-de/modnorule/(de de SPS00 -) [
+    sn/gen/(cine cine NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(ver ver VMN0000 -) [
+    VMI*<acabar>/modnomatch/(acababa acabar VMII1S0 -)
+    SPS00(de)/modnomatch/(de de SPS00 -)
+    sn/obj/(nuevo nuevo AQ0MS0 -) [
+      pindef-ms/modnomatch/(algo algo PI0CS000 -)
+      Fe/modnomatch/(" " Fe -)
+      Fe/modnomatch/(" " Fe -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

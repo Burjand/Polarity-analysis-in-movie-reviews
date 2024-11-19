@@ -1,0 +1,68 @@
+prep/top/(Con_tal_de con_tal_de SPS00 -) [
+  subord/modnorule/(que que CS -) [
+    grup-verb/modnorule/(hable hablar VMSP1S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+    ]
+  ]
+  sp-de/modnorule/(de de SPS00 -) [
+    sn/gen/(producto producto NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  F-no-c/modnorule/(¡ ¡ Faa -)
+  espec-ms/modnorule/(qué qué DE0CN0 -)
+  grup-verb/modnorule/(da dar VMIP3S0 -) [
+    sadv/cc/(más más RG -)
+    subord/modnomatch/(que que CS -) [
+      grup-verb/modnorule/(tiren tirar VMSP3P0 -) [
+        morfema-verbal/modnomatch/(se se P0000000 -)
+        patons/modnomatch/(le le PP3CSD00 -)
+        sn/obj/(rosas rosa NCFP000 -)
+      ]
+    ]
+  ]
+  conj-subord/modnorule/(que que CS -)
+  sn/modnorule/(tomates tomate NCMP000 -)
+  F-term/modnorule/(! ! Fat -)
+]
+
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(esencia esencia NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(cool cool NCMS000 -) [
+        espec-ms/espec/(lo el DA0NS0 -)
+      ]
+    ]
+  ]
+  neg/modneg/(no no RN -)
+  coor-n/obj/(sino sino CC -) [
+    sn/co-n/(belleza belleza NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(publicidad publicidad NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(Enhorabuena enhorabuena NP00000 -) [
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/modnomatch/(Abrams abrams NP00000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  coord/modnomatch/(y y CC -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(diviertas divertir VMSP2S0 -) [
+      patons/modnomatch/(te te PP2CS000 -)
+    ]
+  ]
+  subord/modnomatch/(mientras mientras CS -) [
+    grup-verb/modnorule/(dure durar VMSP1S0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,73 @@
+grup-verb/top/(propone proponer VMIP3S0 -) [
+  sn/subj/(director director NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(espectador espectador NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  grup-verb-inf/modnomatch/(vivir vivir VMN0000 -)
+  sn/obj/(vida vida NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Rubén rubén NP00000 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb-inf/top/(Estar estar VAN0000 -) [
+  s-adj/modnomatch/(presentes presente AQ0CP0 -)
+  grup-sp/modnomatch/(en en SPS00 -) [
+    sn/head/(tiempos tiempo NCMP000 -) [
+      espec-mp/espec/(sus su DP3CP0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(espera espera NCFS000 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(en en SPS00 -) [
+    sn/head/(silencios silencio NCMP000 -) [
+      espec-mp/espec/(sus su DP3CP0 -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+grup-verb-inf/top/(Ser ser VSN0000 -) [
+  sn/obj/(testigos testigo NCCP000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(proceso proceso NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        grup-sp/modnomatch/(en en SPS00 -) [
+          sn/head/(interior interior NCMS000 -) [
+            espec-ms/espec/(su su DP3CS0 -)
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(silencio silencio NCMS000 -) [
+                espec-ms/espec/(el el DA0MS0 -)
+                grup-sp/modnomatch/(a a SPS00 -) [
+                  sn/head/(ruido ruido NCMS000 -) [
+                    espec-ms/espec/(el el DA0MS0 -)
+                    sp-de/mod/(de de SPS00 -) [
+                      sn/gen/(olas ola NCFP000 -) [
+                        espec-fp/espec/(las el DA0FP0 -)
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ]
+          F-no-c/modnomatch/(: : Fd -)
+        ]
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(despierta despertar VMIP3S0 -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

@@ -1,0 +1,49 @@
+grup-verb/top/(basa basar VMIP3S0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  sn/subj/(desarrollo desarrollo NCMS000 -) [
+    espec-ms/espec/(Todo todo DI0MS0 -) [
+      j-ms/modnorule/(el el DA0MS0 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-sp/modnomatch/(como como CS -) [
+      sn/head/(vida vida NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        s-a-fs/qual/(misma mismo AQ0FS0 -)
+        grup-verb/modnomatch/(ocurren ocurrir VMIP3P0 -) [
+          patons/modnomatch/(les les PP3CPD00 -)
+          grup-sp/iobj/(a a SPS00 -) [
+            sn/head/(personajes personaje NCMP000 -) [
+              espec-mp/espec/(los el DA0MP0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(casualidad casualidad NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  F-no-c/modnomatch/(: : Fd -)
+  sn/obj/(cosas cosa NCFP000 -) [
+    espec-fp/espec/(las el DA0FP0 -)
+  ]
+  conj-subord/modnomatch/(porque porque CS -)
+  Fc(,)/modnomatch/(, , Fc -)
+  sadv/cc/(precisamente precisamente RG -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(momento momento NCMS000 -) [
+      espec-ms/espec/(ese ese DD0MS0 -)
+      grup-verb/modnomatch/(pasaban pasar VMII3P0 -) [
+        grup-sp/cc/(por por SPS00 -) [
+          sadv/modnomatch/(allí allí RG -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,47 @@
+grup-sp-inf/top/(A_pesar_de a_pesar_de SPS00 -) [
+  grup-verb-inf/head/(ser ser VSN0000 -)
+  sn/modnomatch/(homenaje homenaje NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(explícito explícito AQ0MS0 -)
+  ]
+  grup-sp/modnomatch/(a a SPS00 -) [
+    sn/head/(clásicos clásico NCMP000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(género género NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/modnomatch/(resulta resultar VMIP3S0 -) [
+    grup-sp/modnomatch/(a a SPS00 -) [
+      sn/head/(veces vez NCFP000 -)
+    ]
+  ]
+  s-adj/modnomatch/(interesante interesante AQ0CS0 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(cocine cocinar VMSP1S0 -) [
+      sn/subj/(cineasta cineasta NCCS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+      ]
+      sn/obj/(plato plato NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+      ]
+      grup-sp/modnomatch/(con con SPS00 -) [
+        sn/head/(ingredientes ingrediente NCMP000 -) [
+          espec-mp/espec/(los el DA0MP0 -)
+          s-a-mp/qual/(mismos mismo AQ0MP0 -)
+        ]
+      ]
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  forma-ger/modnomatch/(empleando emplear VMG0000 -)
+  sn/modnomatch/(receta receta NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(misma mismo AQ0FS0 -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

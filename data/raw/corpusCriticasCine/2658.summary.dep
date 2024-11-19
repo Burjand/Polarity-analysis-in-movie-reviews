@@ -1,0 +1,39 @@
+grup-verb/top/(revolucionó revolucionar VMIS3S0 -) [
+  sn/subj/(Noche_de_los_Muertos_Vivientes noche_de_los_muertos_vivientes NP00000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(cine_fantástico cine_fantástico NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+  ]
+  coord/modnomatch/(y y CC -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(concreto concreto NCMS000 -) [
+      grup-verb/modnomatch/(abrió abrir VMIS3S0 -) [
+        sn/obj/(pautas pauta NCFP000 -) [
+          espec-fp/espec/(las el DA0FP0 -)
+        ]
+        grup-sp/iobj/(para para SPS00 -) [
+          sn/head/(subgénero subgénero NCMS000 -) [
+            espec-ms/espec/(un uno DI0MS0 -)
+            s-a-ms/qual/(popular popular AQ0CS0 -) [
+              sadv/modnorule/(tan tan RG -)
+            ]
+          ]
+        ]
+        grup-sp/modnomatch/(como como CS -) [
+          sn/head/(de de SPS00 -) [
+            j-ms/modnomatch/(el el DA0MS0 -)
+            sn/modnomatch/(zombis zombi NCMP000 -) [
+              espec-mp/espec/(los el DA0MP0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(. . Fp -)
+]
+

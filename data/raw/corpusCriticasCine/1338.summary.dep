@@ -1,0 +1,66 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(error error NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+    s-a-ms/qual/(garrafal garrafal AQ0CS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(guión guión NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(Inés_París inés_parís NP00000 -)
+        ]
+      ]
+    ]
+  ]
+  grup-verb-inf/modnomatch/(poner poner VMN0000 -)
+  sn/obj/(foco foco NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    grup-sp/modnomatch/(en en SPS00 -) [
+      sn/head/(Leonor leonor NP00000 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(protagonista protagonista NCCS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    s-a-fs/qual/(verdadera verdadero AQ0FS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  coord/modnomatch/(y y CC -)
+  grup-verb-inf/modnomatch/(olvidar olvidar VMN0000 -)
+  grup-sp/modnomatch/(durante durante SPS00 -) [
+    sn/head/(minutos minuto NCMP000 -) [
+      espec-mp/espec/(demasiados demasiado DI0MP0 -)
+      grup-sp/modnomatch/(a a SPS00 -) [
+        sn/head/(autores autor NCMP000 -) [
+          espec-mp/espec/(dos 2 Z -) [
+            j-mp/modnorule/(los el DA0MP0 -)
+          ]
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(secundarios secundario NCMP000 -) [
+              s-a-mp/qual/(cómicos cómico AQ0MP0 -)
+              sp-de/mod/(de de SPS00 -) [
+                sn/gen/(comparsas comparsa NCFP000 -) [
+                  sp-de/mod/(de de SPS00 -) [
+                    sn/gen/(entremés entremés NCMS000 -) [
+                      espec-ms/espec/(un uno DI0MS0 -)
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(ejercen ejercer VMIP3P0 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  forma-ger/modnomatch/(tirando tirar VMG0000 -)
+  grup-sp/iobj/(a a SPS00 -) [
+    s-a-ms/modnomatch/(vulgar vulgar AQ0CS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

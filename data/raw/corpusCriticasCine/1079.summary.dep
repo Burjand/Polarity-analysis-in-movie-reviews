@@ -1,0 +1,62 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(mensaje mensaje NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+    s-a-ms/qual/(final final AQ0CS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Babel babel NP00000 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(llamamiento llamamiento NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(compresión compresión NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-sp/top/(A a SPS00 -) [
+  sn/head/(importancia importancia NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(prestar prestar VMN0000 -)
+    sn/modnomatch/(atención atención NCFS000 -)
+  ]
+  prep/modnomatch/(a a SPS00 -)
+  espec-ms/modnomatch/(lo el DA0NS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(decir decir VMN0000 -) [
+      patons/modnomatch/(nos nos PP1CP000 -)
+      VMI*<tener>/modnomatch/(tienen tener VMIP3P0 -)
+      CS(que)/modnomatch/(que que CS -)
+      sn/subj/(demás demás PI0CP000 -) [
+        j-mp/modnomatch/(los el DA0MP0 -)
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+coor-n/top/(y y CC -) [
+  sn/co-n/(film film NCMS000 -) [
+    espec-ms/espec/(Un uno DI0MS0 -)
+    s-a-ms/qual/(recomendable recomendable AQ0CS0 -) [
+      sadv/modnorule/(altamente altamente RG -)
+    ]
+  ]
+  sn/co-n/(despedida despedida NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(fantástica fantástico AQ0FS0 -)
+  ]
+  grup-sp/modnomatch/(para para SPS00 -) [
+    sn/head/(2006 2006 Z -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

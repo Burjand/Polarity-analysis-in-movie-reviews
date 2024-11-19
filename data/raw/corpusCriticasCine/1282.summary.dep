@@ -1,0 +1,44 @@
+grup-verb/top/(diré decir VMIF1S0 -) [
+  patons/modnomatch/(les les PP3CPD00 -)
+  grup-sp/cc/(En en SPS00 -) [
+    sn/head/(fin fin NCMS000 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(tiene tener VMIP3S0 -) [
+      sn/subj/(historia historia NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+      neg/modneg/(no no RN -)
+      sn/obj/(nada nada PI0CS000 -)
+      grup-sp/modnomatch/(de de SPS00 -) [
+        s-a-fs/modnomatch/(novedosa novedoso AQ0FS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sp-de/top/(De de SPS00 -) [
+  sn/gen/(películas película NCFP000 -) [
+    espec-fp/espec/(todas todo DI0FP0 -) [
+      j-fp/modnorule/(las el DA0FP0 -)
+    ]
+    s-a-fp/qual/(animadas animar VMP00PF -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(2006 2006 Z -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/modnomatch/(quedo quedar VMIP1S0 -) [
+    patons/modnomatch/(me me PP1CS000 -)
+    sadv/cc/(definitivamente definitivamente RG -)
+    grup-sp/modnomatch/(con con SPS00 -) [
+      sn/head/(Cars cars NP00000 -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

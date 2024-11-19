@@ -1,0 +1,47 @@
+grup-verb/top/(quedado quedar VMP00SM -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  vaux/aux/(ha haber VAIP3S0 -)
+  sn/subj/(Sofia_Coppola sofia_coppola NP00000 -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(cantinela cantinela NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(ser ser VSN0000 -) [
+      VMI*<poder>/modnomatch/(pueden poder VMIP3P0 -)
+      sn/subj/(historias historia NCFP000 -) [
+        espec-fp/espec/(las el DA0FP0 -)
+        s-a-fp/qual/(mínimas mínimo AQ0FP0 -)
+        grup-verb/modnomatch/(quedado quedar VMP00SM -) [
+          morfema-verbal/modnomatch/(se se P0000000 -)
+          vaux/aux/(ha haber VAIP3S0 -)
+          grup-sp/cc/(en en SPS00 -) [
+            sn/head/(relato relato NCMS000 -) [
+              espec-ms/espec/(un uno DI0MS0 -)
+              s-a-ms/qual/(mínimo mínimo AQ0MS0 -)
+            ]
+          ]
+        ]
+      ]
+      sn/obj/(relatos relato NCMP000 -) [
+        s-a-mp/qual/(grandes grande AQ0CP0 -)
+      ]
+      coor-n/obj/(pero pero CC -) [
+        Fc(,)/modnomatch/(, , Fc -)
+        sn/co-n/(suyo suyo PX3MS0C0 -) [
+          DA0MS0/modnomatch/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  espec-fs/modnomatch/(una uno DI0FS0 -)
+  sn/obj/(potencial potencial NCMS000 -) [
+    s-a-ms/qual/(gran gran AQ0CS0 -)
+  ]
+  sn/obj/(historia historia NCFS000 -)
+  F-term/term/(. . Fp -)
+]
+

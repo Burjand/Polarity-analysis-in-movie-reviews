@@ -1,0 +1,46 @@
+grup-sp/top/(Con con SPS00 -) [
+  sn/head/(permiso permiso NCMS000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Jason_Bourne jason_bourne NP00000 -)
+    ]
+  ]
+  coor-n/head/(y y CC -) [
+    sn/co-n/(ciudad ciudad NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(Tánger tánger NP00000 -)
+      ]
+    ]
+  ]
+  coor-n/head/(y y CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(secuencia secuencia NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(mejor mejor AQ0CS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(acción acción NCFS000 -) [
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(2007 2007 Z -)
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(chute chute NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(adrenalina adrenalina NCFS000 -)
+      ]
+    ]
+    sn/co-n/(poco poco PI0MS000 -) [
+      indef-ms/modnomatch/(un uno DI0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(ligereza ligereza NCFS000 -) [
+          s-a-fs/qual/(moral moral AQ0CS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

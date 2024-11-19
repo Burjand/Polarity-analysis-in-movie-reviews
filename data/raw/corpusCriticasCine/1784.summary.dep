@@ -1,0 +1,55 @@
+sp-de/top/(De de SPS00 -) [
+  sn/gen/(factura factura NCFS000 -) [
+    s-a-fs/qual/(bella bello AQ0FS0 -)
+  ]
+  coor-n/gen/(y y CC -) [
+    sn/co-n/(realización realización NCFS000 -) [
+      s-a-fs/qual/(eficaz eficaz AQ0CS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/modnomatch/(flojea flojear VMIP3S0 -) [
+    sn/subj/(cinta cinta NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(partes parte NCFP000 -) [
+        espec-fp/espec/(muchas mucho DI0FP0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(metraje metraje NCMS000 -) [
+            espec-ms/espec/(su su DP3CS0 -)
+            s-a-ms/qual/(largo largo AQ0MS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(por por SPS00 -) [
+    sn/head/(momentos momento NCMP000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/modnomatch/(bordea bordear VMIP3S0 -) [
+    sn/obj/(soporífero soporífero NCMS000 -) [
+      espec-ms/espec/(lo el DA0NS0 -)
+    ]
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(relato relato NCMS000 -) [
+        espec-ms/espec/(su su DP3CS0 -)
+      ]
+    ]
+    grup-sp/cc/(sobre sobre SPS00 -) [
+      sn/head/(origen origen NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(CIA. cia. NP00000 -) [
+            espec-fs/espec/(la el DA0FS0 -)
+            s-a-fs/qual/(poderosa poderoso AQ0FS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+]
+

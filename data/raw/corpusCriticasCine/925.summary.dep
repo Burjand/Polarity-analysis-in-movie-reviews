@@ -1,0 +1,80 @@
+grup-verb/top/(siendo ser VSG0000 -) [
+  VMI*<empezar>/modnomatch/(empieza empezar VMIP3S0 -)
+  sn/subj/(Mumble_Happy_Feet mumble_happy_feet NP00000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(patito pato NCMS00D -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    s-a-ms/qual/(feo feo AQ0MS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(sabe saber VMIP3S0 -) [
+  grup-sp/cc/(En en SPS00 -) [
+    sn/head/(mundo mundo NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(pingüinos pingüino NCMP000 -) [
+          s-a-mp/qual/(cantores cantor AQ0MP0 -)
+          grup-verb/modnomatch/(sabe saber VMIP3S0 -)
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(él él PP3MS000 -)
+  neg/modneg/(no no RN -)
+  grup-verb-inf/modnomatch/(cantar cantar VMN0000 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb-inf/modnomatch/(mover mover VMN0000 -)
+  sn/obj/(pies pie NCMP000 -) [
+    espec-mp/espec/(sus su DP3CP0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+F-no-c/top/(¿ ¿ Fia -) [
+  coor-vb/modnorule/(y y CC -) [
+    grup-verb/co-v/(Aprenderá aprender VMIF3S0 -) [
+      grup-sp-inf/iobj/(a a SPS00 -) [
+        grup-verb-inf/head/(cantar cantar VMN0000 -)
+      ]
+    ]
+    grup-verb/co-v/(será ser VSIF3S0 -) [
+      sn/obj/(pingüino pingüino NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+      ]
+    ]
+  ]
+  sadv/modnorule/(más más RG -)
+  coor-vb/modnorule/(o o CC -) [
+    grup-verb/co-v/(demostrará demostrar VMIF3S0 -) [
+      sn/obj/(valía valía NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(arte arte NCCS000 -) [
+            espec-ms/espec/(su su DP3CS0 -)
+            s-a-ms/qual/(individual individual AQ0CS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/modnorule/(? ? Fit -)
+]
+
+grup-verb/top/(Vale valer VMIP3S0 -) [
+  Fc(,)/modnomatch/(, , Fc -)
+  s-adj/modnomatch/(acepto acepto AQ0MS0 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(cantado cantar VMP00SM -) [
+      vaux/aux/(estaba estar VAII1S0 -)
+      sn/subj/(desenlace desenlace NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

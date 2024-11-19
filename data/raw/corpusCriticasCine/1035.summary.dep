@@ -1,0 +1,49 @@
+grup-verb/top/(van ir VMIP3P0 -) [
+  sn/subj/(pieza pieza NCFS000 -) [
+    espec-fs/espec/(Una uno DI0FS0 -)
+    s-a-fs/qual/(maestra maestro AQ0FS0 -)
+    F-no-c/modnomatch/(( ( Fpa -)
+    F-no-c/modnomatch/(¿ ¿ Fia -)
+  ]
+  sn/subj/(cuántas cuánto PT0FP000 -)
+  sadv/cc/(ya ya RG -)
+  F-term/term/(? ? Fit -)
+  F-no-c/modnomatch/() ) Fpt -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(quedará quedar VMIF3S0 -) [
+      grup-sp/modnomatch/(sin sin SPS00 -) [
+        sn/head/(duda duda NCFS000 -) [
+          grup-verb/modnomatch/(pasado pasar VMP00SM -) [
+            patons/modnomatch/(me me PP1CS000 -)
+            vaux/aux/(he haber VAIP1S0 -)
+            sn/subj/(película película NCFS000 -) [
+              espec-fs/espec/(la el DA0FS0 -)
+              s-a-fs/qual/(mejor mejor AQ0CS0 -)
+              sp-de/mod/(de de SPS00 -) [
+                sn/gen/(Martin_Scorsese martin_scorsese NP00000 -)
+              ]
+              F-no-c/modnomatch/(( ( Fpa -)
+              F-no-c/modnomatch/(¿ ¿ Fia -)
+            ]
+          ]
+        ]
+      ]
+      grup-sp/iobj/(para para SPS00 -) [
+        sadv/modnomatch/(siempre siempre RG -)
+      ]
+      grup-sp/modnomatch/(como como CS -) [
+        sn/head/(clásico clásico AQ0MS0 -) [
+          indef-ms/modnomatch/(un uno DI0MS0 -)
+        ]
+      ]
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  coord/modnomatch/(y y CC -)
+  sadv/cc/(además además RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(? ? Fit -)
+  F-no-c/modnomatch/() ) Fpt -)
+  F-term/term/(. . Fp -)
+]
+

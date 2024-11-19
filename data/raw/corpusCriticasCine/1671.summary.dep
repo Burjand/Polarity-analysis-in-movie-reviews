@@ -1,0 +1,69 @@
+grup-verb/top/(escribe escribir VMIP3S0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  sn/subj/(verdad verdad NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+  ]
+  sadv/cc/(siempre siempre RG -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(plural plural NCMS000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(soy ser VSIP1S0 -) [
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(Una uno DI0FS0 -)
+    s-a-fs/qual/(necesaria necesario AQ0FS0 -)
+    F-term/term/(? ? Fit -)
+    s-adj/qual/(impensable impensable AQ0CS0 -)
+    grup-sp/modnomatch/(en en SPS00 -) [
+      sn/head/(América_de_Bush américa_de_bush NP00000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+      F-no-c/modnomatch/(- - Fg -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(animar animar VMN0000 -) [
+        VMI*<poder>/modnomatch/(podría poder VMIC1S0 -)
+        sadv/cc/(bien bien RG -)
+        sn/obj/(espíritu espíritu NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          s-a-ms/qual/(conciliador conciliador AQ0MS0 -)
+        ]
+        grup-sp/cc/(en en SPS00 -) [
+          sn/head/(España españa NP00000 -) [
+            espec-fs/espec/(esta este DD0FS0 -)
+            grup-sp/modnomatch/(con con SPS00 -) [
+              sn/head/(historia historia NCFS000 -) [
+                espec-fs/espec/(su su DP3CS0 -)
+                grup-verb/modnomatch/(soy ser VSIP1S0 -) [
+                  sn/subj/(yo yo PP1CSN00 -)
+                  sp-de/modnomatch/(de de SPS00 -) [
+                    sn/gen/(Juan juan NP00000 -)
+                  ]
+                  F-no-c/modnomatch/(... ... Fs -)
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+    espec-fs/espec/(nuestra nuestro DP1FSP -)
+    sadv/modnomatch/(tan tan RG -)
+    parti-flex/modnomatch/(desmemoriada desmemoriar VMP00SF -)
+    coord/modnomatch/(y y CC -)
+    s-adj/qual/(susceptible susceptible AQ0CS0 -) [
+      sadv/modnorule/(tan tan RG -)
+    ]
+    prep/modnomatch/(a a SPS00 -)
+    espec-ms/espec/(el el DA0MS0 -)
+  ]
+  sn/subj/(yo yo PP1CSN00 -)
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(Pedro pedro NP00000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+]
+

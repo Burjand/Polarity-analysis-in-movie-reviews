@@ -1,0 +1,46 @@
+grup-verb/top/(reñido reñir VMP00SM -) [
+  VMI*<soler>/modnomatch/(suele soler VMIP3S0 -)
+  infaux/modnomatch/(estar estar VAN0000 -)
+  sn/subj/(entretenimiento entretenimiento NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(perfección perfección NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(cinematográfica cinematográfico AQ0FS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(Es ser VSIP3S0 -) [
+  espec-ms/modnomatch/(lo el DA0NS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(ocurre ocurrir VMIP3S0 -)
+  ]
+  prep/modnomatch/(con con SPS00 -)
+  espec-fs/modnomatch/(la el DA0FS0 -)
+  sn/obj/(muesca muesca NCFS000 -) [
+    espec-fs/espec/(esta este DD0FS0 -)
+    s-a-fs/qual/(nueva nuevo AQ0FS0 -)
+    grup-sp/modnomatch/(en en SPS00 -) [
+      sn/head/(carrera carrera NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(Luna luna NP00000 -)
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(cineasta cineasta NCCS000 -) [
+    s-a-fs/qual/(atípica atípico AQ0FS0 -) [
+      sadv/modnorule/(tan tan RG -)
+    ]
+    grup-sp/modnomatch/(como como CS -) [
+      s-a-fs/modnomatch/(criticada criticar VMP00SF -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

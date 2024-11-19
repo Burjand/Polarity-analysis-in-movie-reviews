@@ -1,0 +1,39 @@
+grup-verb/top/(juega jugar VMIP3S0 -) [
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(desasosiego desasosiego NCMS000 -)
+    ]
+  ]
+  neg/modneg/(no no RN -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(desenlaces desenlace NCMP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+      s-a-mp/qual/(posibles posible AQ0CP0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(pero pero CC -)
+  s-adj/modnomatch/(llena lleno AQ0FS0 -)
+  subord/modnomatch/(cuando cuando CS -) [
+    grup-verb/modnorule/(narra narrar VMIP3S0 -) [
+      sn/obj/(cantidad cantidad NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(incidentes incidente NCMP000 -)
+        ]
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(abortado abortar VMP00SM -) [
+      VMI*<poder>/modnomatch/(podrían poder VMIC3P0 -)
+      infaux/modnomatch/(haber haber VAN0000 -)
+    ]
+  ]
+  sn/obj/(complot complot NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

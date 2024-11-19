@@ -1,0 +1,46 @@
+espec-fs/top/(Una uno DI0FS0 -) [
+  sp-de/modnorule/(de de SPS00 -) [
+    sn/gen/(películas película NCFP000 -) [
+      espec-fp/espec/(las el DA0FP0 -)
+      s-a-fp/qual/(grandes grande AQ0CP0 -)
+    ]
+  ]
+  grup-sp/modnorule/(de de SPS00 -) [
+    data/modnomatch/(año_2007 [??:??/??/2007:??.??:??] W -) [
+      espec-ms/modnorule/(este este DD0MS0 -)
+    ]
+  ]
+  sn/modnorule/(resultado resultado NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(sobresaliente sobresaliente AQ0CS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(conseguir conseguir VMN0000 -) [
+        VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+        sadv/cc/(solo solo RG -)
+        sn/obj/(director director NCMS000 -) [
+          espec-ms/espec/(un uno DI0MS0 -)
+          s-a-ms/qual/(y y CC -) [
+            s-a-ms/modnorule/(visionario visionario AQ0MS0 -)
+            s-a-ms/modnorule/(sobresaliente sobresaliente AQ0CS0 -)
+          ]
+        ]
+        grup-sp/modnomatch/(como como CS -) [
+          sn/head/(Mel mel NP00000 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+grup-verb/top/(rendimos rendir VMIP1P0 -) [
+  patons/modnomatch/(Nos nos PP1CP000 -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(pies pie NCMP000 -) [
+      espec-mp/espec/(tus tu DP2CPS -)
+    ]
+  ]
+  s-adj/modnomatch/(maestro maestro AQ0MS0 -)
+  F-term/term/(. . Fp -)
+]
+

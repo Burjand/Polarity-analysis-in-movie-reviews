@@ -1,0 +1,49 @@
+coor-vb/top/(pero pero CC -) [
+  sn/subj/(filme filme NCMS000 -) [
+    espec-ms/espec/(Un uno DI0MS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(ser ser VSN0000 -) [
+        VMI*<poder>/modnomatch/(pudo poder VMIS3S0 -)
+      ]
+    ]
+  ]
+  sn/subj/(obra obra NCFS000 -) [
+    s-a-fs/qual/(maestra maestro AQ0FS0 -)
+  ]
+  grup-verb/co-v/(falta faltar VMIP3S0 -) [
+    patons/modnomatch/(le le PP3CSD00 -)
+    sn/obj/(par par NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(revoluciones revolución NCFP000 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(brilla brillar VMIP3S0 -) [
+    sn/subj/(nervio nervio NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      grup-sp/modnomatch/(en en SPS00 -) [
+        sn/head/(realización realización NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+        ]
+      ]
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(consigue conseguir VMIP3S0 -) [
+          neg/modneg/(no no RN -)
+        ]
+        Fc(,)/modnorule/(, , Fc -)
+      ]
+    ]
+    sn/subj/(emoción emoción NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+    grup-sp/modnomatch/(por por SPS00 -) [
+      sn/head/(ausencia ausencia NCFS000 -) [
+        espec-fs/espec/(su su DP3CS0 -)
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

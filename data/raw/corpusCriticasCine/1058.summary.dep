@@ -1,0 +1,57 @@
+grup-verb/top/(esconde esconder VMIP3S0 -) [
+  grup-sp/modnomatch/(Detrás_de detrás_de SPS00 -) [
+    sn/head/(drama drama NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(historia historia NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  sn/obj/(halo halo NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(optimismo optimismo NCMS000 -)
+    ]
+  ]
+  conj-subord/modnomatch/(porque porque CS -)
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(tal_y_como tal_y_como CS -) [
+    grup-verb/modnorule/(reza rezar VMIP3S0 -) [
+      sn/obj/(cartel cartel NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(película película NCFS000 -) [
+            espec-fs/espec/(la el DA0FS0 -)
+          ]
+        ]
+      ]
+    ]
+    F-no-c/modnorule/(: : Fd -)
+  ]
+  subord/modnomatch/(si si CS -) [
+    grup-verb/modnorule/(gusta gustar VMIP3S0 -) [
+      patons/modnomatch/(te te PP2CS000 -)
+      neg/modneg/(no no RN -)
+      sn/obj/(color color NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(vida vida NCFS000 -) [
+            espec-fs/espec/(tu tu DP2CSS -)
+            grup-verb/modnomatch/(ser ser VSN0000 -) [
+              VMI*<poder>/modnomatch/(puedes poder VMIP2S0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  s-adj/modnomatch/(capaz capaz AQ0CS0 -)
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(cambiar cambiar VMN0000 -) [
+      PP*/modnomatch/(lo lo PP3CNA00 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

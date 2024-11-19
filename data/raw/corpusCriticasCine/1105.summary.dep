@@ -1,0 +1,47 @@
+prep/top/(a a SPS00 -) [
+  espec-ms/modnorule/(el el DA0MS0 -)
+  sn/modnorule/(final final NCFS000 -)
+  quien-s/modnorule/(quien quien PR0CS000 -)
+  grup-verb/modnorule/(sabe saber VMIP3S0 -) [
+    grup-verb/modnomatch/(sea ser VSSP1S0 -) [
+      sadv/cc/(demasiado demasiado RG -)
+      sn/obj/(truco truco NCMS000 -)
+    ]
+  ]
+  coor-sp/modnorule/(y y CC -) [
+    grup-sp/modnorule/(sin sin SPS00 -) [
+      sn/head/(reverencia reverencia NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        s-a-fs/qual/(suficiente suficiente AQ0CS0 -)
+      ]
+    ]
+  ]
+  grup-sp/modnorule/(por por SPS00 -) [
+    sn/head/(magia magia NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+coor-vb/top/(Pero pero CC -) [
+  grup-verb/co-v/(balancea balancear VMIP3S0 -) [
+    morfema-verbal/modnomatch/(se se P0000000 -)
+    sn/obj/(experiencia experiencia NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  coor-vb/modnomatch/(y y CC -) [
+    grup-verb/co-v/(ser ser VSN0000 -) [
+      VMI*<dejar>/modnomatch/(deja dejar VMIP3S0 -)
+      SPS00(de)/modnomatch/(de de SPS00 -)
+      neg/modneg/(no no RN -)
+      sn/obj/(espectáculo espectáculo NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        s-a-ms/qual/(recomendable recomendable AQ0CS0 -)
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

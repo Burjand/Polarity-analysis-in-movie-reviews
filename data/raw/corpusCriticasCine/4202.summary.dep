@@ -1,0 +1,60 @@
+sn/top/(Panfleto panfleto NCMS000 -) [
+  s-a-ms/qual/(anti anti AQ0CN0 -)
+  sn/modnomatch/(mili mili NCFS000 -)
+  prep/modnomatch/(con con SPS00 -)
+  espec-ms/espec/(el el DA0MS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(encaja encajar VMIP3S0 -)
+  ]
+  sadv/modnomatch/(a_la_perfección a_la_perfección RG -)
+  sn/modnomatch/(palabra palabra NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    n-ms/modnomatch/(truño truño NCMS000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(Tiene tener VMIP3S0 -) [
+  sn/obj/(expresiones expresión NCFP000 -) [
+    numero-nopart/quant/(tres 3 Z -)
+    s-a-fp/qual/(graciosas gracioso AQ0FP0 -)
+  ]
+  coor-n/obj/(y y CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(tipo tipo NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(parece parecer VMIP3S0 -) [
+          morfema-verbal/modnomatch/(se se P0000000 -)
+        ]
+      ]
+      grup-sp/modnomatch/(a a SPS00 -) [
+        sn/head/(Eugenio eugenio NP00000 -)
+      ]
+    ]
+    sn/co-n/(moza mozo NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(pelotas pelota NCFP000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(Y y CC -) [
+  sadv/modnomatch/(aún_así aún_así RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(repugnado repugnar VMP00SM -) [
+    patons/modnomatch/(me me PP1CS000 -)
+    vaux/aux/(ha haber VAIP3S0 -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+interjeccio/top/(Joder joder I -) [
+  conj-subord/modnorule/(que que CS -)
+  s-adj/modnorule/(mala malo AQ0FS0 -)
+  F-term/modnorule/(. . Fp -)
+]
+

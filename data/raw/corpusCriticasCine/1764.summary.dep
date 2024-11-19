@@ -1,0 +1,49 @@
+coor-vb/top/(pero pero CC -) [
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+  ]
+  grup-verb/co-v/(ciñe ceñir VMIP3S0 -) [
+    morfema-verbal/modnomatch/(se se P0000000 -)
+    sadv/cc/(bien bien RG -)
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(parte parte NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        s-a-fs/qual/(bélica bélico AQ0FS0 -)
+      ]
+    ]
+  ]
+  grup-verb/co-v/(da dar VMIP3S0 -) [
+    sn/obj/(risa risa NCFS000 -)
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(o o CC -) [
+        j-fs/modnomatch/(la el DA0FS0 -)
+        s-a-fs/qual/(diplomática diplomático AQ0FS0 -)
+        s-a-fs/qual/(política político AQ0FS0 -)
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+espec-mp/top/(Los el DA0MP0 -) [
+  sn/modnorule/(300 300 Z -) [
+    Fe/modnomatch/(" " Fe -)
+    Fe/modnomatch/(" " Fe -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/modnorule/(proeza proeza NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(técnica técnico AQ0FS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/modnorule/(verguenza verguenza NCCS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(pelicula pelicula NCFS000 -) [
+        s-a-fs/qual/(pro-americana pro-americana AQ0FS0 -)
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

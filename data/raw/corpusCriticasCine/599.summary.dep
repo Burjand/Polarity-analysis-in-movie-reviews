@@ -1,0 +1,38 @@
+grup-verb/top/(estrenó estrenar VMIS3S0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(Esta este DD0FS0 -)
+  ]
+  neg/modneg/(no no RN -)
+  s-adj/modnomatch/(completa completo AQ0FS0 -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(país país NCMS000 -) [
+      espec-ms/espec/(ningún ninguno DI0MS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(pues pues CS -) [
+    grup-verb/modnorule/(era ser VSII1S0 -) [
+      sn/subj/(trabajo trabajo NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        subord/modnomatch/(que que PR0CN000 -) [
+          grup-verb/modnorule/(ofrecía ofrecer VMII1S0 -)
+        ]
+      ]
+      grup-sp/modnomatch/(a a SPS00 -) [
+        sn/head/(censores censor NCMP000 -) [
+          espec-mp/espec/(los el DA0MP0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(época época NCFS000 -) [
+              espec-fs/espec/(la el DA0FS0 -)
+            ]
+          ]
+        ]
+      ]
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  s-adj/modnomatch/(baladí baladí AQ0CS0 -)
+  F-no-c/modnomatch/(... ... Fs -)
+]
+

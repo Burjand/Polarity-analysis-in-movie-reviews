@@ -1,0 +1,56 @@
+grup-verb/top/(traslada trasladar VMIP3S0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  coor-n/subj/(y y CC -) [
+    sn/co-n/(juego juego NCMS000 -) [
+      espec-ms/espec/(El el DA0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(gato gato NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+    sn/co-n/(ratón ratón NCMS000 -)
+  ]
+  grup-sp/cc/(a a SPS00 -) [
+    sn/head/(parking parking NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(es ser VSIP3S0 -) [
+      grup-sp/modnomatch/(sin sin SPS00 -) [
+        sn/head/(duda duda NCFS000 -)
+      ]
+      sn/obj/(lugar lugar NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        s-a-ms/qual/(atractivo atractivo AQ0MS0 -)
+      ]
+    ]
+  ]
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(desarrollar desarrollar VMN0000 -)
+  ]
+  coor-n/obj/(pero pero CC -) [
+    sn/co-n/(acción acción NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      grup-verb/modnomatch/(saca sacar VMIP3S0 -) [
+        patons/modnomatch/(le le PP3CSD00 -)
+        neg/modneg/(no no RN -)
+        sn/obj/(partido partido NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          s-a-ms/qual/(mínimo mínimo AQ0MS0 -)
+        ]
+      ]
+    ]
+    sn/co-n/(ineficacia ineficacia NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(director director NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

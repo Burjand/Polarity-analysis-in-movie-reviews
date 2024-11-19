@@ -1,0 +1,62 @@
+grup-verb/top/(hay haber VMIP3S0 -) [
+  neg/modneg/(No no RN -)
+  sn/obj/(término término NCMS000 -) [
+    s-a-ms/qual/(posible posible AQ0CS0 -) [
+      sadv/modnorule/(medio medio RG -)
+    ]
+    grup-verb/modnomatch/(hay haber VMIP3S0 -) [
+      neg/modneg/(no no RN -)
+      sn/obj/(bondado bondado NCMS000 -) [
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(películas película NCFP000 -) [
+            espec-fp/espec/(las el DA0FP0 -)
+          ]
+        ]
+      ]
+      F-no-c/modnomatch/(; ; Fx -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  espec-fs/modnomatch/(una uno DI0FS0 -)
+  sadv/cc/(demoledoramente demoledoramente RG -) [
+    cuantif/modnorule/(más más RG -)
+  ]
+  s-adj/modnomatch/(malas malo AQ0FP0 -) [
+    Fe/modnorule/(" " Fe -)
+    Fe/modnorule/(" " Fe -)
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(ver ver VMN0000 -) [
+      vaux/aux/(ha haber VAIP3S0 -)
+      VMP00SM(podido)/modnomatch/(podido poder VMP00SM -)
+      sn/subj/(cronista cronista NCCS000 -) [
+        espec-ms/espec/(este este DD0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(vicios vicio NCMP000 -) [
+            espec-mp/espec/(sus su DP3CP0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  prep/modnomatch/(en en SPS00 -)
+  espec-mp/modnomatch/(sus su DP3CP0 -)
+  sadv/cc/(ya ya RG -)
+  sn/obj/(años año NCMP000 -) [
+    espec-mp/espec/(algunos alguno DI0MP0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(experiencia experiencia NCFS000 -) [
+        s-a-fs/qual/(cinematográfica cinematográfico AQ0FS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+F-no-c/top/(¿ ¿ Fia -) [
+  grup-verb/modnorule/(Está estar VAIP3S0 -) [
+    sadv/cc/(claro claro RG -)
+  ]
+  F-term/modnorule/(? ? Fit -)
+]
+

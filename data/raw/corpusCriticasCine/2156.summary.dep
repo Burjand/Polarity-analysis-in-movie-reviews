@@ -1,0 +1,46 @@
+prep/top/(a a SPS00 -) [
+  espec-ms/modnorule/(el el DA0MS0 -)
+  grup-verb-inf/modnorule/(ver ver VMN0000 -) [
+    PP*/modnomatch/(la lo PP3FSA00 -)
+  ]
+  grup-verb/modnorule/(siente sentir VMIP3S0 -) [
+    morfema-verbal/modnomatch/(se se P0000000 -)
+    sn/subj/(espectador espectador NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+    grup-sp/modnomatch/(como como CS -) [
+      sn/head/(uno uno PI0MS000 -)
+    ]
+    sadv/cc/(más más RG -) [
+      SPS00(de)/modnorule/(de de SPS00 -)
+      sn/modnorule/(hombres hombre NCMP000 -) [
+        espec-mp/espec/(doce 12 Z -) [
+          dem-mp/modnorule/(esos ese DD0MP0 -)
+        ]
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(tienen tener VMIP3P0 -)
+    ]
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(manos mano NCFP000 -) [
+        espec-fp/espec/(sus su DP3CP0 -)
+      ]
+    ]
+    sn/obj/(vida vida NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(chaval chaval NCMS000 -) [
+          espec-ms/espec/(un uno DI0MS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(años año NCMP000 -) [
+              numero-nopart/quant/(18 18 Z -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

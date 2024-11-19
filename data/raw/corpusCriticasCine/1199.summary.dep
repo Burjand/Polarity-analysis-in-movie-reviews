@@ -1,0 +1,59 @@
+grup-verb/top/(está estar VAIP3S0 -) [
+  neg/modneg/(No no RN -)
+  sadv/cc/(mal mal RG -)
+  conj-subord/modnomatch/(que que CS -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(tiempos tiempo NCMP000 -) [
+      espec-mp/espec/(estos este DD0MP0 -)
+      s-a-mp/qual/(nefastos nefasto AQ0MP0 -)
+    ]
+  ]
+  subord/modnomatch/(donde donde PR000000 -) [
+    grup-verb/modnorule/(cree creer VMIP3S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+    ]
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(solucionar solucionar VMN0000 -) [
+      patons/modnomatch/(se se PP3CN000 -)
+      VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+      sn/subj/(todo todo PI0MS000 -) [
+        grup-verb/modnomatch/(recordemos recordar VMM01P0 -) [
+          subord/modnomatch/(que que CS -) [
+            grup-verb/modnorule/(sido ser VSP00SM -) [
+              vaux/aux/(ha haber VAIP3S0 -)
+              sn/subj/(hombre hombre NCMS000 -) [
+                espec-ms/espec/(el el DA0MS0 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  forma-ger/modnomatch/(dialogando dialogar VMG0000 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  s-adj/modnomatch/(y y CC -) [
+    s-a-ms/modnorule/(cazador cazador AQ0MS0 -) [
+      sadv/modnorule/(siempre siempre RG -)
+    ]
+    s-a-ms/modnorule/(guerrero guerrero AQ0MS0 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(y y CC -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(hay haber VMIP3S0 -) [
+      grup-sp/modnomatch/(a a SPS00 -) [
+        sn/head/(veces vez NCFP000 -)
+      ]
+      neg/modneg/(no no RN -)
+      sn/obj/(remedio remedio NCMS000 -) [
+        espec-ms/espec/(más más RG -)
+      ]
+    ]
+  ]
+  conj-subord/modnomatch/(que que CS -)
+  grup-verb-inf/modnomatch/(luchar luchar VMN0000 -)
+  F-no-c/modnomatch/(... ... Fs -)
+]
+

@@ -1,0 +1,74 @@
+sn/top/(Película película NCFS000 -) [
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(serie serie NCFS000 -) [
+      w-fs/modnomatch/(B b NP00000 -)
+    ]
+  ]
+  subord/modnomatch/(donde donde PR000000 -) [
+    grup-verb/modnorule/(hacen hacer VMIP3P0 -) [
+      sn/subj/(payasos payaso NCMP000 -) [
+        espec-mp/espec/(unos uno DI0MP0 -)
+        s-a-mp/qual/(asesinos asesino AQ0MP0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(espacio espacio NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+            s-a-ms/qual/(exterior exterior AQ0CS0 -)
+          ]
+        ]
+      ]
+      sn/obj/(parada parada NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+      ]
+      grup-sp/cc/(en en SPS00 -) [
+        sn/head/(Tierra tierra NP00000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  grup-sp-inf/modnomatch/(para para SPS00 -) [
+    grup-verb-inf/head/(tomar tomar VMN0000 -) [
+      PP*/modnomatch/(se se PP3CN000 -)
+    ]
+    sn/modnomatch/(tentempié tentempié NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sadv/top/(Francamente Francamente RG -) [
+  patons/modnorule/(la lo PP3FSA00 -)
+  forma-ger/modnorule/(recomiendo recomer VMG0000 -)
+  grup-verb-inf/modnorule/(ver ver VMN0000 -)
+  Fc(,)/modnorule/(, , Fc -)
+  grup-sp/modnorule/(sin sin SPS00 -) [
+    sn/head/(pretensiones pretensión NCFP000 -)
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  sadv/modnorule/(sólo sólo RG -)
+  grup-sp/modnorule/(con con SPS00 -) [
+    sn/head/(ganas gana NCFP000 -)
+  ]
+  grup-sp-inf/modnorule/(de de SPS00 -) [
+    grup-verb-inf/head/(tomar tomar VMN0000 -) [
+      PP*/modnomatch/(te te PP2CS000 -)
+    ]
+    sn/modnomatch/(cerveza cerveza NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+    ]
+  ]
+  coord/modnorule/(y y CC -)
+  grup-verb-inf/modnorule/(echar echar VMN0000 -) [
+    PP*/modnomatch/(te te PP2CS000 -)
+  ]
+  sn/modnorule/(risas risa NCFP000 -) [
+    espec-fp/espec/(unas uno DI0FP0 -)
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+parti-flex/top/(Aseguradas asegurar VMP00PF -) [
+  F-term/modnorule/(. . Fp -)
+]
+

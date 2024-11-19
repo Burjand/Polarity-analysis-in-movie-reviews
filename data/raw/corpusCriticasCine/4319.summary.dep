@@ -1,0 +1,53 @@
+grup-verb/top/(encadena encadenar VMIP3S0 -) [
+  sn/subj/(director director NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+  ]
+  sn/obj/(travelling travelling NCMN000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(maravilloso maravilloso AQ0MS0 -)
+  ]
+  sadv/cc/(de_ida_y_vuelta de_ida_y_vuelta RG -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(número número NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(impresionante impresionante AQ0CS0 -)
+    ]
+  ]
+  F-term/term/(? ? Fit -)
+]
+
+coor-vb/top/(y y CC -) [
+  sn/subj/(The_Man_That_Got_Away the_man_that_got_away NP00000 -) [
+    F-term/term/(? ? Fit -)
+    Fc(,)/modnomatch/(, , Fc -)
+    prel-adv/modnomatch/(donde donde PR000000 -)
+  ]
+  sn/subj/(Judy_Garland judy_garland NP00000 -)
+  grup-verb/co-v/(canta cantar VMIP3S0 -) [
+    grup-sp/modnomatch/(con con SPS00 -) [
+      sn/head/(torrente torrente NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(voz voz NCFS000 -)
+        ]
+      ]
+    ]
+  ]
+  grup-verb/co-v/(consigue conseguir VMIP3S0 -)
+  grup-verb-inf/modnomatch/(llegar llegar VMN0000 -)
+  grup-sp/modnomatch/(a a SPS00 -) [
+    sn/head/(punto punto NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(alto alto AQ0MS0 -) [
+        sadv/modnorule/(más más RG -)
+      ]
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(carrera carrera NCFS000 -) [
+          espec-fs/espec/(su su DP3CS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

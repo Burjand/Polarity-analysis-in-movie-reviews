@@ -1,0 +1,44 @@
+grup-verb/top/(apaña apañar VMIP3S0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  patons/modnomatch/(las los PP3FPA00 -)
+  sn/subj/(Ray_Harryhausen ray_harryhausen NP00000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(magia magia NCFS000 -)
+    ]
+  ]
+  prep/modnomatch/(para para SPS00 -)
+  F-no-c/modnomatch/(" " Fe -)
+  grup-verb-inf/modnomatch/(preñar preñar VMN0000 -)
+  F-no-c/modnomatch/(" " Fe -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(película película NCFS000 -) [
+      espec-fs/espec/(esta este DD0FS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(cosa cosa NCFS000 -)
+  prel/modnomatch/(que que PR0CN000 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(si si CS -) [
+    grup-verb/modnorule/(llevado_a_cabo llevar_a_cabo VMP00SM -) [
+      vaux/aux/(hubiesen haber VASI3P0 -)
+      sn/obj/(ordenadores ordenador NCMP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+        grup-verb/modnomatch/(tendría tener VMIC1S0 -) [
+          neg/modneg/(no no RN -)
+          coor-n/obj/(ni ni CC -) [
+            sn/co-n/(mitad mitad NCFS000 -) [
+              espec-fs/espec/(la el DA0FS0 -)
+              sp-de/mod/(de de SPS00 -) [
+                sn/gen/(encanto encanto NCMS000 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

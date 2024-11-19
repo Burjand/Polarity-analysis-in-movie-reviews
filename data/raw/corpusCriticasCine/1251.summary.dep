@@ -1,0 +1,36 @@
+grup-verb/top/(aplicar aplicar VMN0000 -) [
+  patons/modnomatch/(se se PP3CN000 -)
+  VMI*<poder>/modnomatch/(podría poder VMIC1S0 -)
+  sn/subj/(pena pena NCFS000 -) [
+    espec-fs/espec/(Una uno DI0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(película película NCFS000 -)
+    ]
+    prep/modnomatch/(para para SPS00 -)
+    espec-mp/espec/(aquellos aquel DD0MP0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(esperábamos esperar VMII1P0 -)
+    ]
+    sn/modnomatch/(fábula fábula NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      grup-sp/modnomatch/(por por SPS00 -) [
+        sn/head/(libertad libertad NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          grup-sp/modnomatch/(por por SPS00 -) [
+            s-a-ms/modnomatch/(cierto cierto AQ0MS0 -)
+          ]
+        ]
+      ]
+      Fc(,)/modnomatch/(, , Fc -)
+    ]
+    conj-subord/modnomatch/(que que CS -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(país país NCMS000 -) [
+      espec-ms/espec/(nuestro nuestro DP1MSP -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,70 @@
+coor-n/top/(y y CC -) [
+  sn/co-n/(Película película NCFS000 -) [
+    s-a-fs/qual/(floja flojo AQ0FS0 -) [
+      sadv/modnorule/(bastante bastante RG -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-sp/modnomatch/(con con SPS00 -) [
+      sn/head/(efectos_especiales efecto_especial NCMP000 -) [
+        s-a-mp/qual/(grandes grande AQ0CP0 -)
+      ]
+    ]
+  ]
+  sn/co-n/(cosilla cosa NCFS00D -) [
+    espec-fs/espec/(alguna alguno DI0FS0 -)
+  ]
+  sadv/modnomatch/(más más RG -)
+  F-term/modnomatch/(. . Fp -)
+]
+
+coor-sp/top/(Pero pero CC -) [
+  grup-sp/modnorule/(con con SPS00 -) [
+    sn/head/(argumento argumento NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(enrevesado enrevesado AQ0MS0 -)
+    ]
+  ]
+  grup-sp/modnorule/(con con SPS00 -) [
+    sn/head/(personajes personaje NCMP000 -)
+  ]
+  subord/modnorule/(que que PR0CN000 -) [
+    grup-verb/modnorule/(tratan tratar VMIP3P0 -)
+  ]
+  grup-sp-inf/modnorule/(de de SPS00 -) [
+    grup-verb-inf/head/(ser ser VSN0000 -)
+  ]
+  s-adj/modnorule/(complejos complejo AQ0MP0 -)
+  coor-vb/modnorule/(pero pero CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-verb/co-v/(tornan tornar VMIP3P0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+    ]
+  ]
+  s-adj/modnorule/(ridículos ridículo AQ0MP0 -)
+  F-term/modnorule/(. . Fp -)
+]
+
+F-no-c/top/(¿ ¿ Fia -) [
+  grup-verb/modnorule/(hacen hacer VMIP3P0 -) [
+    grup-sp/modnomatch/(Por por SPS00 -) [
+      sn/head/(qué qué PT0CN000 -)
+    ]
+    neg/modneg/(no no RN -)
+    sn/obj/(esto este PD0NS000 -)
+  ]
+  F-term/modnorule/(? ? Fit -)
+]
+
+grup-verb/top/(comer comer VMN0000 -) [
+  VMI*<querer>/modnomatch/(Queremos querer VMIP1P0 -)
+  sn/obj/(palomitas palomita NCFP000 -) [
+    grup-verb/modnomatch/(mientas mentar VMIP2S0 -)
+    grup-verb/modnomatch/(desenganchamos desenganchar VMIP1P0 -) [
+      sn/obj/(cerebro cerebro NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

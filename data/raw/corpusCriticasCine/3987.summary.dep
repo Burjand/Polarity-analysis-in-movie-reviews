@@ -1,0 +1,59 @@
+grup-verb/top/(aborda abordar VMIP3S0 -) [
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+  ]
+  sn/obj/(temática temática NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(desconocida desconocer VMP00SF -)
+  ]
+  grup-sp/iobj/(para para SPS00 -) [
+    sn/head/(parte parte NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(mayor mayor AQ0CS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(público público NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(radica radicar VMIP3S0 -) [
+  sadv/cc/(Ahí ahí RG -)
+  sn/obj/(valentía valentía NCFS000 -) [
+    espec-fs/espec/(su su DP3CS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(Pero pero CC -) [
+  grup-verb/co-v/(va ir VMIP3S0 -) [
+    neg/modneg/(no no RN -)
+  ]
+  sadv/modnomatch/(allá allá RG -) [
+    cuantif/modnorule/(más más RG -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+grup-verb/top/(profundiza profundizar VMIP3S0 -) [
+  neg/modneg/(No no RN -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/modnomatch/(queda quedar VMIP3S0 -) [
+    morfema-verbal/modnomatch/(se se P0000000 -)
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(superficie superficie NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(relaciones relación NCFP000 -) [
+            espec-fp/espec/(las el DA0FP0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

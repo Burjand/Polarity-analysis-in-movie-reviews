@@ -1,0 +1,41 @@
+sn/top/(Drama drama NCMS000 -) [
+  s-a-ms/qual/(urbano urbano AQ0MS0 -)
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(generación generación NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(jóvenes joven NCCP000 -)
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(andan andar VMIP3P0 -)
+  ]
+  sn/modnomatch/(perdidos perder VMP00PM -) [
+    espec-mp/espec/(muy muy RG -)
+    grup-sp/modnomatch/(en en SPS00 -) [
+      sn/head/(vida vida NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(pero pero CC -) [
+  grup-verb/co-v/(parecido parecer VMP00SM -) [
+    patons/modnomatch/(me me PP1CS000 -)
+    vaux/aux/(ha haber VAIP3S0 -)
+    neg/modneg/(No no RN -)
+    sn/obj/(maravilla maravilla NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(gustado gustar VMP00SM -) [
+    patons/modnomatch/(me me PP1CS000 -)
+    vaux/aux/(ha haber VAIP3S0 -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

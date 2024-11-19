@@ -1,0 +1,57 @@
+vaux/top/(Estamos estar VAIP1P0 -) [
+  grup-sp/modnorule/(ante ante SPS00 -) [
+    sn/head/(cruce cruce NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+    ]
+  ]
+  prep/modnorule/(de de SPS00 -)
+  F-term/modnorule/(? ? Fit -)
+]
+
+sn/top/(C.S.I. c.s.i. NP00000 -) [
+  F-term/term/(? ? Fit -)
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(? ? Fit -)
+]
+
+sn/top/(Enemigo_Público enemigo_público NP00000 -) [
+  F-term/term/(? ? Fit -)
+  coord/modnomatch/(y y CC -)
+  F-term/term/(? ? Fit -)
+]
+
+grup-verb/top/(Regreso regresar VMIP1S0 -) [
+  grup-sp/cc/(a a SPS00 -) [
+    sn/head/(futuro futuro NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+  F-term/term/(? ? Fit -)
+]
+
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(Déjà_Vu déjà_vu NP00000 -) [
+    F-term/term/(? ? Fit -)
+  ]
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(veraniega veraniego AQ0FS0 -) [
+      sadv/modnorule/(puramente puramente RG -)
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(colado colar VMP00SM -) [
+        morfema-verbal/modnomatch/(se se P0000000 -)
+        vaux/aux/(ha haber VAIP3S0 -)
+      ]
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(calendario calendario NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(navideño navideño AQ0MS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

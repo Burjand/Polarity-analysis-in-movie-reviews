@@ -1,0 +1,75 @@
+grup-verb/top/(está estar VAIP3S0 -) [
+  sn/subj/(argumento argumento NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+    grup-verb/modnomatch/(secuestran secuestrar VMIP3P0 -) [
+      sn/subj/(malos malo NCMP000 -) [
+        espec-mp/espec/(unos uno DI0MP0 -)
+        s-a-mp/qual/(malos malo AQ0MP0 -) [
+          sadv/modnorule/(muy muy RG -)
+        ]
+      ]
+      sn/obj/(niños niño NCMP000 -)
+      grup-sp-inf/iobj/(para para SPS00 -) [
+        grup-verb-inf/head/(quitar quitar VMN0000 -) [
+          PP*/modnomatch/(les les PP3CPD00 -)
+        ]
+      ]
+      coor-n/obj/(y y CC -) [
+        sn/co-n/(mascotas mascota NCFP000 -) [
+          espec-fp/espec/(sus su DP3CP0 -)
+          grup-verb/modnomatch/(liberan liberar VMIP3P0 -) [
+            patons/modnomatch/(los los PP3MPA00 -)
+            grup-sp/modnomatch/(con con SPS00 -) [
+              sn/head/(buenos bueno AQ0MP0 -) [
+                indef-mp/modnomatch/(unos uno DI0MP0 -)
+                s-a-mp/qual/(buenos bueno AQ0MP0 -) [
+                  sadv/modnorule/(muy muy RG -)
+                ]
+              ]
+            ]
+          ]
+        ]
+        sn/co-n/(niña niño NCFS000 -) [
+          espec-fs/espec/(una uno DI0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  sadv/cc/(tan tan RG -)
+  parti-flex/modnomatch/(recortado recortar VMP00SM -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(resumir resumir VMN0000 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+      VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+    ]
+  ]
+  prep/modnomatch/(en en SPS00 -)
+  F-no-c/modnomatch/(: : Fd -)
+  F-term/term/(. . Fp -)
+]
+
+interjeccio/top/(Ah ah I -) [
+  F-term/modnorule/(! ! Fat -)
+  coor-vb/modnorule/(y y CC -) [
+    grup-verb/co-v/(hay haber VMIP3S0 -) [
+      sn/obj/(osos oso NCMP000 -) [
+        espec-mp/espec/(unos uno DI0MP0 -)
+        subord/modnomatch/(que que PR0CN000 -) [
+          grup-verb/modnorule/(pelean pelear VMIP3P0 -)
+        ]
+      ]
+    ]
+  ]
+  coord/modnorule/(y y CC -)
+  prep/modnorule/(a a SPS00 -)
+  espec-ms/modnorule/(el el DA0MS0 -)
+  grup-verb/modnorule/(gana ganar VMIP3S0 -) [
+    sn/subj/(final final NCFS000 -)
+    sn/obj/(oso oso NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(bueno bueno AQ0MS0 -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

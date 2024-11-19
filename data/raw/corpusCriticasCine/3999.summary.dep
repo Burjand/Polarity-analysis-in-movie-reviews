@@ -1,0 +1,30 @@
+grup-verb/top/(basa basar VMIP3S0 -) [
+  sn/subj/(obra obra NCFS000 -) [
+    espec-fs/espec/(Una uno DI0FS0 -)
+    s-a-fs/qual/(sublime sublime AQ0CS0 -)
+    s-a-fs/qual/(maestra maestro AQ0FS0 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(hechos hecho NCMP000 -) [
+      s-a-mp/qual/(reales real AQ0CP0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(camino camino NCMS000 -) [
+      s-a-ms/qual/(medio medio AQ0MS0 -)
+      grup-sp/modnomatch/(entre entre SPS00 -) [
+        sn/head/(ficción ficción NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+        ]
+        CC(y)/modnomatch/(y y CC -)
+        sn/head/(género género NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          s-a-ms/qual/(documental documental AQ0CS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

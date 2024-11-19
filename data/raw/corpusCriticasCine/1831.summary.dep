@@ -1,0 +1,64 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(Película película NCFS000 -) [
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(narra narrar VMIP3S0 -)
+    ]
+    sn/modnomatch/(historias historia NCFP000 -) [
+      numero-nopart/quant/(tres 3 Z -)
+    ]
+    relatiu/modnomatch/(nexo nexo NCMS000 -) [
+      cuyo-ms/modnorule/(cuyo cuyo PR0MS000 -)
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    s-a-ms/modnomatch/(común común AQ0CS0 -)
+  ]
+  sn/obj/(bicicleta bicicleta NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-sp-inf/top/(Para para SPS00 -) [
+  grup-verb-inf/head/(ver ver VMN0000 -)
+  data/modnomatch/(domingo_por_la_mañana [G:??/??/??:??.??:am] W -) [
+    espec-ms/modnorule/(un uno DI0MS0 -)
+  ]
+  subord/modnomatch/(mientras mientras CS -) [
+    grup-verb/modnorule/(juegas jugar VMIP2S0 -)
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(bebé bebé NCMS000 -) [
+      espec-ms/espec/(tu tu DP2CSS -)
+    ]
+  ]
+  coor-vb/modnomatch/(y y CC -) [
+    grup-verb/co-v/(es ser VSIP3S0 -)
+  ]
+  sadv/modnomatch/(demasiado demasiado RG -)
+  sadv/modnomatch/(pronto pronto RG -)
+  conj-subord/modnomatch/(como como CS -)
+  prep/modnomatch/(para para SPS00 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(haya haber VMSP3S0 -) [
+      sn/obj/(tipo tipo NCMS000 -) [
+        espec-ms/espec/(cualquier cualquiera DI0CS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(programación programación NCFS000 -)
+        ]
+      ]
+    ]
+  ]
+  grup-sp/modnomatch/(en en SPS00 -) [
+    sn/head/(tele tele NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+sn/top/(rollo rollo NCMS000 -) [
+  espec-ms/espec/(Bastante bastante DI0CS0 -)
+  F-term/term/(. . Fp -)
+]
+

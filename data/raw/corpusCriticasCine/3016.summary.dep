@@ -1,0 +1,42 @@
+grup-sp-inf/top/(Para para SPS00 -) [
+  grup-verb-inf/head/(pasar pasar VMN0000 -)
+  sn/modnomatch/(rato rato NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+  ]
+  sadv/modnomatch/(quizás quizás RG -)
+  vaux/modnomatch/(esté estar VASP1S0 -)
+  sadv/modnomatch/(bien bien RG -)
+  coor-n/modnomatch/(pero pero CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(nada nada PI0CS000 -)
+  ]
+  sadv/modnomatch/(más más RG -)
+  F-term/modnomatch/(. . Fp -)
+]
+
+parti-flex/top/(Recomendada recomendar VMP00SF -) [
+  grup-sp/modnorule/(a a SPS00 -) [
+    sn/head/(fans fan NCCP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(comedias comedia NCFP000 -) [
+          s-a-fp/qual/(románticas romántico AQ0FP0 -) [
+            s-a-fp/modnorule/(americanas americano AQ0FP0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  prel/modnorule/(que que PR0CN000 -)
+  neg/modnorule/(no no RN -)
+  vaux/modnorule/(estén estar VASP3P0 -)
+  grup-sp/modnorule/(en_contra_de en_contra_de SPS00 -) [
+    sn/head/(matrimonio matrimonio NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(homosexual homosexual AQ0CS0 -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

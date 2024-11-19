@@ -1,0 +1,42 @@
+grup-verb/top/(negado negar VMP00SM -) [
+  patons/modnomatch/(me me PP1CS000 -)
+  vaux/aux/(he haber VAIP1S0 -)
+  sadv/cc/(Siempre siempre RG -)
+  grup-sp-inf/iobj/(a a SPS00 -) [
+    grup-verb-inf/head/(aceptar aceptar VMN0000 -)
+    sn/modnomatch/(ecuación ecuación NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      grup-verb/modnomatch/(es ser VSIP3S0 -) [
+        sn/subj/(cine cine NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          s-a-ms/qual/(buen bueno AQ0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sadv/cc/(universalmente universalmente RG -)
+  parti-flex/modnomatch/(aceptada aceptar VMP00SF -)
+  Fc(,)/modnomatch/(, , Fc -)
+  relatiu/modnomatch/(según según SPS00 -) [
+    j-fs/modnorule/(la el DA0FS0 -)
+    cual-s/modnorule/(cual cual PR0CS000 -)
+  ]
+  s-adj/modnomatch/(igual igual AQ0CS0 -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(suma suma NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(recitales recital NCMP000 -) [
+          espec-mp/espec/(los el DA0MP0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(protagonistas protagonista NCCP000 -) [
+              espec-mp/espec/(los el DA0MP0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+]
+

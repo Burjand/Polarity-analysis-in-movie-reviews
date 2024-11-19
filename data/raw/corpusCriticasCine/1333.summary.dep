@@ -1,0 +1,30 @@
+grup-verb/top/(vadis vadis VMIP2P0 -) [
+  sn/subj/(Quo quo NP00000 -)
+  sn/obj/(baby baby NCMS000 -)
+  F-term/term/(? ? Fit -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(a_pesar_de a_pesar_de SPS00 -) [
+    sn/head/(limitaciones limitación NCFP000 -) [
+      espec-fp/espec/(sus su DP3CP0 -)
+      grup-verb/modnomatch/(ser ser VSN0000 -) [
+        VMI*<dejar>/modnomatch/(deja dejar VMIP3S0 -)
+        SPS00(de)/modnomatch/(de de SPS00 -)
+        neg/modneg/(no no RN -)
+        sn/obj/(una uno PI0FS000 -)
+        sadv/cc/(más más RG -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  conj-subord/modnomatch/(que que CS -)
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(película película NCFS000 -) [
+      s-a-fs/qual/(digna digno AQ0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(intriga intriga NCFS000 -)
+      ]
+    ]
+    sn/co-n/(misterio misterio NCMS000 -)
+  ]
+]
+

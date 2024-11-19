@@ -1,0 +1,61 @@
+grup-verb/top/(Creo crear VMIP1S0 -) [
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(sorprende sorprender VMIP3S0 -) [
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  grup-verb-inf/modnomatch/(afirmar afirmar VMN0000 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(realiza realizar VMIP3S0 -) [
+      sn/subj/(Neil_Jordan neil_jordan NP00000 -)
+      sn/obj/(trabajo trabajo NCMS000 -) [
+        espec-ms/espec/(su su DP3CS0 -)
+      ]
+      grup-sp/modnomatch/(con con SPS00 -) [
+        sn/head/(oficio oficio NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          s-a-ms/qual/(gran gran AQ0CS0 -)
+        ]
+      ]
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(presupone presuponer VMIP3S0 -) [
+          morfema-verbal/modnomatch/(se se P0000000 -)
+          patons/modnomatch/(le le PP3CSD00 -)
+        ]
+      ]
+      coor-n/obj/(aunque aunque CC -) [
+        sn/co-n/(poco poco PI0MS000 -)
+      ]
+      sadv/cc/(más más RG -)
+      coor-n/obj/(y y CC -) [
+        Fc(,)/modnomatch/(, , Fc -)
+        sn/co-n/(fotografía fotografía NCFS000 -) [
+          s-a-fs/qual/(buena bueno AQ0FS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(guión guión NCMS000 -) [
+              espec-ms/espec/(un uno DI0MS0 -)
+              s-a-ms/qual/(creíble creíble AQ0CS0 -) [
+                sadv/modnorule/(poco poco RG -) [
+                  cuantif/modnorule/(muy muy RG -)
+                ]
+              ]
+            ]
+          ]
+        ]
+        sn/co-n/(filme filme NCMS000 -) [
+          espec-ms/espec/(un uno DI0MS0 -)
+          s-a-ms/qual/(inmaculado inmaculado AQ0MS0 -) [
+            sadv/modnorule/(técnicamente técnicamente RG -)
+          ]
+        ]
+      ]
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(resiente resentir VMIP3S0 -) [
+          morfema-verbal/modnomatch/(se se P0000000 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

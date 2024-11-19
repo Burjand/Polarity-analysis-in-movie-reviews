@@ -1,0 +1,40 @@
+grup-verb/top/(parecido parecer VMP00SM -) [
+  patons/modnomatch/(me me PP1CS000 -)
+  vaux/aux/(ha haber VAIP3S0 -)
+  sn/subj/(Alatriste alatriste NP00000 -)
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(y y CC -) [
+      s-a-fs/modnorule/(lenta lento AQ0FS0 -) [
+        sadv/modnorule/(bastante bastante RG -)
+      ]
+      s-a-fs/modnorule/(previsible previsible AQ0CS0 -)
+    ]
+  ]
+  coor-sp/modnomatch/(pero pero CC -) [
+    Fc(,)/modnorule/(, , Fc -)
+    grup-sp/modnorule/(ante ante SPS00 -) [
+      sn/head/(todo todo PI0MS000 -) [
+        grup-verb/modnomatch/(reconocer reconocer VMN0000 -) [
+          morfema-verbal/modnomatch/(se se P0000000 -)
+          VAI*<haber>/modnomatch/(ha haber VAIP3S0 -)
+          SPS00(de)/modnomatch/(de de SPS00 -)
+          subord/modnomatch/(que que PR0CN000 -) [
+            grup-verb/modnorule/(está estar VAIP3S0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  parti-flex/modnomatch/(trabajada trabajar VMP00SF -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(nivel nivel NCMS000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(producción producción NCFS000 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

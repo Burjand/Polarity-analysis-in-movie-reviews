@@ -1,0 +1,67 @@
+grup-verb/top/(parece parecer VMIP3S0 -) [
+  sn/subj/(señor señor NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+    w-ms/modnomatch/(Kevin_Smith kevin_smith NP00000 -)
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(vuelve volver VMIP3S0 -)
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(cine cine NCMS000 -) [
+      espec-ms/espec/(su su DP3CS0 -)
+      s-a-ms/qual/(mejor mejor AQ0CS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(altura altura NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(película película NCFS000 -) [
+          espec-fs/espec/(su su DP3CS0 -)
+          s-a-fs/qual/(mejor mejor AQ0CS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(y y CC -) [
+  grup-verb/co-v/(Mantiene mantener VMIP3S0 -) [
+    sn/obj/(mejor mejor AQ0CS0 -) [
+      j-ms/modnomatch/(lo el DA0NS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(Clerks clerks NP00000 -)
+      ]
+    ]
+  ]
+  grup-verb/co-v/(añade añadir VMIP3S0 -) [
+    sadv/cc/(además además RG -)
+    sn/obj/(trama trama NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(dramática dramático AQ0FS0 -)
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(dota dotar VMIP3S0 -)
+      ]
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(profundidad profundidad NCFS000 -) [
+          espec-fs/espec/(más más RG -)
+        ]
+      ]
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  parti-flex/modnomatch/(significado significar VMP00SM -)
+  espec-ms/modnomatch/(todo todo DI0MS0 -) [
+    j-ms/modnorule/(lo el DA0NS0 -)
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(rodea rodear VMIP3S0 -)
+  ]
+  grup-sp/modnomatch/(a a SPS00 -) [
+    sn/head/(Clerks clerks NP00000 -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

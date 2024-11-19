@@ -1,0 +1,71 @@
+grup-verb/top/(presenta presentar VMIP3S0 -) [
+  morfema-verbal/modnomatch/(Se se P0000000 -)
+  grup-sp/modnomatch/(como como CS -) [
+    sn/head/(película película NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(destacable destacable AQ0CS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  conj-subord/modnomatch/(que que CS -)
+  sn/obj/(parte parte NCFS000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(punto punto NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        s-a-ms/qual/(interesante interesante AQ0CS0 -) [
+          sadv/modnorule/(muy muy RG -)
+        ]
+        coor-sp/modnomatch/(y y CC -) [
+          Fc(,)/modnorule/(, , Fc -)
+          grup-sp/modnorule/(con con SPS00 -) [
+            sn/head/(intérpretes intérprete NCCP000 -) [
+              s-a-mp/qual/(buenos bueno AQ0MP0 -)
+              sp-de/mod/(de de SPS00 -) [
+                sn/gen/(cine cine NCMS000 -) [
+                  s-a-ms/qual/(gran gran AQ0CS0 -)
+                ]
+              ]
+            ]
+          ]
+          grup-sp/modnorule/(con con SPS00 -) [
+            sn/head/(dosis dosis NCFN000 -)
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(harán hacer VMIF3P0 -)
+    ]
+  ]
+  sn/obj/(delicias delicia NCFP000 -) [
+    espec-fp/espec/(las el DA0FP0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(amantes amante NCCP000 -) [
+        espec-mp/espec/(todos todo DI0MP0 -) [
+          j-mp/modnorule/(los el DA0MP0 -)
+        ]
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(suspense suspense NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(thrillers thriller NCMP000 -) [
+                espec-mp/espec/(los el DA0MP0 -)
+                sp-de/mod/(de de SPS00 -) [
+                  sn/gen/(Jim_Carrey jim_carrey NP00000 -) [
+                    espec-ms/espec/(el el DA0MS0 -)
+                    s-a-ms/qual/(gran gran AQ0CS0 -)
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  coord/modnomatch/(y y CC -)
+  F-term/term/(. . Fp -)
+]
+

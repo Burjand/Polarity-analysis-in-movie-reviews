@@ -1,0 +1,36 @@
+coor-vb/top/(pero pero CC -) [
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(Una uno DI0FS0 -)
+    s-a-fs/qual/(buena bueno AQ0FS0 -)
+    grup-sp/modnomatch/(a_pesar_de a_pesar_de SPS00 -) [
+      sn/head/(referentes referente NCCP000 -) [
+        espec-mp/espec/(muchos mucho DI0MP0 -) [
+          pos-mp/modnorule/(sus su DP3CP0 -)
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  grup-verb/co-v/(es ser VSIP3S0 -) [
+    sadv/cc/(ni_mucho_menos ni_mucho_menos RG -)
+    sn/obj/(maravilla maravilla NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(pretendido pretender VMP00SM -) [
+          vaux/aux/(han haber VAIP3P0 -)
+        ]
+      ]
+    ]
+  ]
+  grup-verb-inf/modnomatch/(vender vender VMN0000 -) [
+    PP*/modnomatch/(nos nos PP1CP000 -)
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(bombardeo bombardeo NCMS000 -) [
+      espec-ms/espec/(su su DP3CS0 -)
+      s-a-ms/qual/(promocional promocional AQ0CS0 -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

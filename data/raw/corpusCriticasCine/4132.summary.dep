@@ -1,0 +1,67 @@
+sn/top/(Película película NCFS000 -) [
+  grup-sp/modnomatch/(sobre sobre SPS00 -) [
+    sn/head/(estafadores estafador NCMP000 -) [
+      espec-mp/espec/(unos uno DI0MP0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(enterradores enterrador NCMP000 -) [
+          espec-mp/espec/(unos uno DI0MP0 -)
+          s-a-mp/qual/(novatos novato AQ0MP0 -)
+        ]
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(valer valer VMN0000 -) [
+      patons/modnomatch/(se se PP3CN000 -)
+      VMI*<querer>/modnomatch/(quieren querer VMIP3P0 -)
+    ]
+  ]
+  grup-sp-inf/modnomatch/(para para SPS00 -) [
+    grup-verb-inf/head/(perpetrar perpetrar VMN0000 -)
+    sn/modnomatch/(estafa estafa NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(Ópera ópera NCFS000 -) [
+  s-a-fs/qual/(prima primo AQ0FS0 -)
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(Mariano_Ozores mariano_ozores NP00000 -) [
+      grup-sp/modnomatch/(con con SPS00 -) [
+        sn/head/(comedia comedia NCFS000 -) [
+          espec-fs/espec/(una uno DI0FS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(enredo enredo NCMS000 -) [
+              coor-sp/modnomatch/(y y CC -) [
+                grup-sp/modnorule/(con con SPS00 -) [
+                  sn/head/(momentos momento NCMP000 -) [
+                    s-a-mp/qual/(hilarantes hilarante AQ0CP0 -) [
+                      sadv/modnorule/(realmente realmente RG -)
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(sorprende sorprender VMIP3S0 -) [
+      patons/modnomatch/(nos nos PP1CP000 -)
+    ]
+  ]
+  s-adj/qual/(simpática simpático AQ0FS0 -) [
+    sadv/modnorule/(muy muy RG -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+s-adj/top/(recomendable recomendable AQ0CS0 -) [
+  sadv/modnorule/(Muy muy RG -)
+]
+

@@ -1,0 +1,72 @@
+grup-verb/top/(teen teen VMIP3P0 -) [
+  sn/subj/(sorpresa sorpresa NCFS000 -) [
+    espec-fs/espec/(Una uno DI0FS0 -)
+    s-a-fs/qual/(recomendable recomendable AQ0CS0 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(forma forma NCFS000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(comedia comedia NCFS000 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(actores actor NCMP000 -) [
+      espec-mp/espec/(unos uno DI0MP0 -)
+      grup-sp/modnomatch/(en en SPS00 -) [
+        sn/head/(estado estado NCMS000 -) [
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(gracia gracia NCFS000 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(diálogos diálogo NCMP000 -) [
+    espec-mp/espec/(unos uno DI0MP0 -)
+    s-a-mp/qual/(divertidos divertir VMP00PM -)
+    grup-sp/modnomatch/(hasta hasta SPS00 -) [
+      sn/head/(extremo extremo NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  grup-sp-inf/modnomatch/(pese_a pese_a SPS00 -) [
+    grup-verb-inf/head/(basar basar VMN0000 -) [
+      PP*/modnomatch/(se se PP3CN000 -)
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(temas tema NCMP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+      grup-sp/modnomatch/(de de SPS00 -) [
+        sadv/modnomatch/(siempre siempre RG -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(referencias referencia NCFP000 -) [
+      s-a-fp/qual/(múltiples múltiple AQ0CP0 -)
+      grup-sp/modnomatch/(a a SPS00 -) [
+        sn/head/(comedias comedia NCFP000 -) [
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(estilo estilo NCMS000 -) [
+              espec-ms/espec/(este este DD0MS0 -)
+              sp-de/mod/(de de SPS00 -) [
+                sn/gen/(años año NCMP000 -) [
+                  espec-mp/espec/(los el DA0MP0 -)
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  sn/obj/(80 80 Z -)
+  F-term/term/(. . Fp -)
+]
+

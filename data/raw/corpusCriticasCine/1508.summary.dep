@@ -1,0 +1,62 @@
+sn/top/(M_de_Monstruo m_de_monstruo NP00000 -) [
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/modnomatch/(M_de_Macguffin m_de_macguffin NP00000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/modnomatch/(M_de_Mentira m_de_mentira NP00000 -)
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(entender entender VMN0000 -) [
+  VMI*<terminar>/modnomatch/(termino terminar VMIP1S0 -)
+  SPS00(de)/modnomatch/(de de SPS00 -)
+  neg/modneg/(No no RN -)
+  sadv/cc/(bien bien RG -) [
+    cuantif/modnorule/(muy muy RG -)
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(impacto impacto NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(crítica crítica NCFS000 -)
+      ]
+    ]
+    sn/co-n/(público público NCMS000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(film film NCMS000 -) [
+          espec-ms/espec/(un uno DI0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(llega llegar VMIP3S0 -) [
+      patons/modnomatch/(le le PP3CSD00 -)
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(altura altura NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(zapatos zapato NCMP000 -) [
+          espec-mp/espec/(los el DA0MP0 -)
+          grup-sp/modnomatch/(a a SPS00 -) [
+            sn/head/(muestras muestra NCFP000 -) [
+              espec-fp/espec/(las el DA0FP0 -)
+              s-a-fp/qual/(mejores mejor AQ0CP0 -)
+              sp-de/mod/(de de SPS00 -) [
+                sn/gen/(género género NCMS000 -) [
+                  espec-ms/espec/(el el DA0MS0 -)
+                  s-a-ms/qual/(fantástico fantástico AQ0MS0 -)
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

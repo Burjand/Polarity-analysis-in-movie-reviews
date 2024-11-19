@@ -1,0 +1,58 @@
+grup-verb/top/(Hará hacer VMIF3S0 -) [
+  sn/obj/(delicias delicia NCFP000 -) [
+    espec-fp/espec/(las el DA0FP0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(amantes amante NCCP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+        s-a-mp/qual/(buenos bueno AQ0MP0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(conversaciones conversación NCFP000 -) [
+            espec-fp/espec/(las el DA0FP0 -)
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(historias historia NCFP000 -) [
+                espec-fp/espec/(las el DA0FP0 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(algo algo PI0CS000 -)
+  sn/obj/(frikis frikis NP00000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(cine cine NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        s-a-ms/qual/(buen bueno AQ0MS0 -)
+      ]
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  Fc(,)/modnomatch/(, , Fc -)
+  conj-subord/modnomatch/(ya_que ya_que CS -)
+  subord/modnomatch/(si si CS -) [
+    grup-verb/modnorule/(sabe saber VMIP3S0 -) [
+      sn/subj/(algo algo PI0CS000 -) [
+        grup-verb/modnomatch/(es ser VSIP3S0 -) [
+          sn/subj/(Tarantino tarantino NP00000 -) [
+            F-no-c/modnomatch/(( ( Fpa -)
+            grup-sp/modnomatch/(hasta hasta SPS00 -) [
+              sn/head/(momento momento NCMS000 -) [
+                espec-ms/espec/(el el DA0MS0 -)
+              ]
+              F-no-c/modnomatch/() ) Fpt -)
+            ]
+            Fc(,)/modnomatch/(, , Fc -)
+          ]
+          sn/obj/(cine cine NCMS000 -) [
+            s-a-ms/qual/(buen bueno AQ0MS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  grup-verb-inf/modnomatch/(hacer hacer VMN0000 -)
+  F-term/term/(. . Fp -)
+]
+

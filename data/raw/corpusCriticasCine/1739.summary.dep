@@ -1,0 +1,45 @@
+s-adj/top/(Directa directo AQ0FS0 -) [
+  grup-sp/modnorule/(a a SPS00 -) [
+    sn/head/(DVD dvd NP00000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+grup-verb/top/(hay haber VMIP3S0 -) [
+  neg/modneg/(No no RN -)
+  sadv/cc/(más más RG -)
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(Y y CC -) [
+  grup-verb/co-v/(arrasará arrasar VMIF3S0 -) [
+    sadv/cc/(ahí ahí RG -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+grup-verb/top/(tiene tener VMIP3S0 -) [
+  sn/subj/(Disney disney NP00000 -)
+  sn/obj/(requiebros requiebro NCMP000 -) [
+    espec-mp/espec/(estos este DD0MP0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(destino destino NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(filón filón NCMS000 -) [
+    espec-ms/espec/(su su DP3CS0 -)
+  ]
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(continuar continuar VMN0000 -)
+    sn/modnomatch/(leyenda leyenda NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

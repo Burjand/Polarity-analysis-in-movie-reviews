@@ -1,0 +1,84 @@
+coor-vb/top/(o o CC -) [
+  grup-verb/co-v/(son ser VSIP3P0 -) [
+    sn/subj/(crisis crisis NCFN000 -) [
+      espec-fp/espec/(Las el DA0FP0 -)
+      s-a-fp/qual/(existenciales existencial AQ0CP0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(madurez madurez NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+        ]
+      ]
+    ]
+    s-adj/att/(llevaderas llevadero AQ0FP0 -) [
+      sadv/modnorule/(más más RG -)
+    ]
+    subord/modnomatch/(cuando cuando CS -) [
+      grup-verb/modnorule/(narra narrar VMIP3S0 -) [
+        patons/modnomatch/(las los PP3FPA00 -)
+        sn/obj/(Kevin_Spacey kevin_spacey NP00000 -) [
+          espec-ms/espec/(un uno DI0MS0 -)
+        ]
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(vive vivir VMIP3S0 -)
+    ]
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(urbanización urbanización NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        s-a-fs/qual/(americana americano AQ0FS0 -)
+      ]
+    ]
+  ]
+  grup-verb/co-v/(viajan viajar VMIP3P0 -) [
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(furgoneta furgoneta NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        s-a-fs/qual/(amarilla amarillo AQ0FS0 -)
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+conj-subord/top/(Cuando cuando CS -) [
+  coor-vb/modnorule/(y y CC -) [
+    sn/subj/(atrezzo atrezzo NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+    grup-verb/co-v/(son ser VSIP3P0 -) [
+      coor-n/obj/(y y CC -) [
+        sn/co-n/(platos plato NCMP000 -) [
+          espec-mp/espec/(los el DA0MP0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(Duralex duralex NP00000 -)
+          ]
+        ]
+        sn/co-n/(escenario escenario NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+      sn/obj/(barrio barrio NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+      ]
+      sn/obj/(parecido parecer VMP00SM -) [
+        espec-ms/espec/(muy muy RG -)
+      ]
+      grup-sp/iobj/(a a SPS00 -) [
+        sn/head/(nuestro nuestro PX1MS0P0 -) [
+          DA0MS0/modnomatch/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-verb/co-v/(resultan resultar VMIP3P0 -) [
+      patons/modnomatch/(nos nos PP1CP000 -)
+      sadv/cc/(demasiado demasiado RG -)
+      sn/obj/(familiares familiar NCMP000 -)
+    ]
+    grup-verb/co-v/(escuecen escocer VMIP3P0 -)
+  ]
+  sadv/modnorule/(más más RG -)
+  F-term/modnorule/(. . Fp -)
+]
+

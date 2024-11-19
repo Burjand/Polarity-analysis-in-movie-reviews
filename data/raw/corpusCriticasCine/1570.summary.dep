@@ -1,0 +1,65 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(problema problema NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(película película NCFS000 -) [
+        espec-fs/espec/(esta este DD0FS0 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(son ser VSIP3P0 -) [
+      sn/subj/(resto resto NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(actores actor NCMP000 -)
+        ]
+      ]
+    ]
+  ]
+  s-adj/att/(, , Fc -) [
+    s-a-mp/modnorule/(malos malo AQ0MP0 -)
+    s-a-mp/modnorule/(malos malo AQ0MP0 -) [
+      sadv/modnorule/(muy muy RG -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  forma-ger/modnomatch/(sobreactuando sobreactuando VMG0000 -)
+  grup-sp/modnomatch/(hasta hasta SPS00 -) [
+    sn/head/(saciedad saciedad NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  forma-ger/modnomatch/(dejando dejar VMG0000 -)
+  coor-n/obj/(o o CC -) [
+    sn/co-n/(película película NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      grup-sp/modnomatch/(en en SPS00 -) [
+        sn/head/(telefilm telefilm NCMS000 -) [
+          espec-ms/espec/(un uno DI0MS0 -)
+          s-a-ms/qual/(mero mero AQ0MS0 -)
+        ]
+      ]
+    ]
+    sn/co-n/(episodio episodio NCMS000 -) [
+      s-a-ms/qual/(piloto piloto AQ0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(teleserie teleserie NCFS000 -) [
+          espec-fs/espec/(una uno DI0FS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(duración duración NCFS000 -) [
+              s-a-fs/qual/(baja bajo AQ0FS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(antena antena NCFS000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

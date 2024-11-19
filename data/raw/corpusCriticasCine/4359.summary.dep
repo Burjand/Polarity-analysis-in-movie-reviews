@@ -1,0 +1,55 @@
+grup-verb/top/(naufraga naufragar VMIP3S0 -) [
+  sn/subj/(decepción decepción NCFS000 -) [
+    espec-fs/espec/(Una uno DI0FS0 -)
+    prel/modnomatch/(que que PR0CN000 -)
+    grup-sp-inf/modnomatch/(pese_a pese_a SPS00 -) [
+      grup-verb-inf/head/(contar contar VMN0000 -)
+    ]
+    grup-sp/modnomatch/(con con SPS00 -) [
+      sn/head/(bazas baza NCFP000 -) [
+        espec-fp/espec/(unas uno DI0FP0 -)
+        s-a-fp/qual/(infalibles infalible AQ0CP0 -) [
+          sadv/modnorule/(casi casi RG -)
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  grup-sp/modnomatch/(a_causa_de a_causa_de SPS00 -) [
+    sn/head/(directora director NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(empeñada empeñar VMP00SF -)
+    ]
+  ]
+  grup-sp-inf/modnomatch/(en en SPS00 -) [
+    grup-verb-inf/head/(sobresalir sobresalir VMN0000 -)
+  ]
+  prep/modnomatch/(por por SPS00 -)
+  grup-sp/modnomatch/(encima_de encima_de SPS00 -) [
+    sn/head/(película película NCFS000 -) [
+      espec-fs/espec/(su su DP3CS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(queda quedar VMIP3S0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  sn/subj/(orgasmo orgasmo NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(supuesto suponer VMP00SM -) [
+        VMI*<poder>/modnomatch/(podía poder VMII1S0 -)
+        infaux/modnomatch/(haber haber VAN0000 -)
+      ]
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(coitus coitus NCMN000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      n-ms/modnomatch/(interruptus interruptus NCMN000 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

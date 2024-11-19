@@ -1,0 +1,56 @@
+coor-n/top/(y y CC -) [
+  sn/co-n/(Efectivista efectivista NP00000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    parti-flex/modnomatch/(resuelta resolver VMP00SF -)
+    grup-sp/modnomatch/(a a SPS00 -) [
+      sn/head/(medias media NCFP000 -)
+    ]
+  ]
+  sn/co-n/(vacia vacia NCFS000 -)
+  grup-sp/modnomatch/(en en SPS00 -) [
+    sn/head/(contenido contenido NCMS000 -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+grup-verb/top/(es ser VSIP3S0 -) [
+  sadv/cc/(Así así RG -)
+  subord/modnomatch/(como como CS -) [
+    grup-verb/modnorule/(resumir resumir VMN0000 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+      VMI*<poder>/modnomatch/(podría poder VMIC1S0 -)
+    ]
+  ]
+  sadv/cc/(globalmente globalmente RG -)
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(esta este DD0FS0 -)
+    grup-verb/modnomatch/(haría hacer VMIC1S0 -) [
+      grup-sp/modnomatch/(por por SPS00 -) [
+        sn/head/(actuaciones actuación NCFP000 -) [
+          espec-fp/espec/(unas uno DI0FP0 -)
+          s-a-fp/qual/(excelentes excelente AQ0CP0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(Foster foster NP00000 -)
+          ]
+        ]
+      ]
+      sn/subj/(i i NCFS000 -) [
+        w-fs/modnomatch/(Howard howard NP00000 -)
+        Fc(,)/modnomatch/(, , Fc -)
+      ]
+      sn/obj/(aguas agua NCFP000 -)
+      grup-sp/modnomatch/(por por SPS00 -) [
+        sn/head/(lados lado NCMP000 -) [
+          espec-mp/espec/(todos todo DI0MP0 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  conj-subord/modnomatch/(que que CS -)
+  prep/modnomatch/(de de SPS00 -)
+  neg/modneg/(no no RN -)
+  grup-verb-inf/modnomatch/(ser ser VSN0000 -)
+  F-term/term/(. . Fp -)
+]
+

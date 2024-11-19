@@ -1,0 +1,40 @@
+sn/top/(historia historia NCFS000 -) [
+  espec-fs/espec/(Una uno DI0FS0 -)
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(amor amor NCMS000 -)
+  ]
+  s-adj/qual/(, , Fc -) [
+    s-a-fs/modnorule/(tardía tardío AQ0FS0 -)
+    s-a-fs/modnorule/(y y CC -) [
+      s-a-fs/modnorule/(accidental accidental AQ0CS0 -)
+      s-a-fs/modnorule/(prohibida prohibir VMP00SF -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sadv/top/(Mejor mejor RG -) [
+  parti-flex/modnorule/(dicho decir VMP00SM -)
+  Fc(,)/modnorule/(, , Fc -)
+  parti-flex/modnorule/(autoprohibida autoprohibida VMP00SF -)
+  Fc(,)/modnorule/(, , Fc -)
+  subord/modnorule/(que que PR0CN000 -) [
+    grup-verb/modnorule/(ser ser VSN0000 -) [
+      VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+    ]
+  ]
+  sn/modnorule/(dificultad dificultad NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    s-a-fs/qual/(mayor mayor AQ0CS0 -)
+  ]
+  prep/modnorule/(a a SPS00 -)
+  espec-fs/modnorule/(la el DA0FS0 -)
+  subord/modnorule/(que que PR0CN000 -) [
+    grup-verb/modnorule/(encontrar encontrar VMN0000 -) [
+      patons/modnomatch/(te te PP2CS000 -)
+      VMI*<poder>/modnomatch/(puedes poder VMIP2S0 -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

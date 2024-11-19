@@ -1,0 +1,66 @@
+grup-sp-inf/top/(Para para SPS00 -) [
+  grup-verb-inf/head/(ver ver VMN0000 -)
+  grup-sp/modnomatch/(a a SPS00 -) [
+    sn/head/(cantante cantante NCCS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      grup-sp/modnomatch/(en en SPS00 -) [
+        sn/head/(pantalla pantalla NCFS000 -) [
+          espec-fs/espec/(una uno DI0FS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(cine cine NCMS000 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(o o CC -)
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(televisión televisión NCFS000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  F-no-c/modnomatch/(¿ ¿ Fia -)
+  grup-verb/modnomatch/(compraríamos comprar VMIC1P0 -) [
+    sn/obj/(DVD dvd NP00000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(conciertos concierto NCMP000 -)
+      ]
+    ]
+  ]
+  F-term/modnomatch/(? ? Fit -)
+]
+
+grup-verb/top/(es ser VSIP3S0 -) [
+  sadv/cc/(Por_supuesto por_supuesto RG -) [
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  sn/obj/(posibilidad posibilidad NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    s-a-fs/qual/(lógica lógico AQ0FS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-sp/top/(Pero pero CC -) [
+  Fc(,)/modnorule/(, , Fc -)
+  F-no-c/modnorule/(¿ ¿ Fia -)
+  coord/modnorule/(y y CC -)
+  subord/modnorule/(si si CS -) [
+    grup-verb/modnorule/(ver ver VMN0000 -) [
+      VMI*<querer>/modnomatch/(quiero querer VMIP1S0 -)
+    ]
+  ]
+  grup-sp/modnorule/(a a SPS00 -) [
+    sn/head/(hombre hombre NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      grup-sp/modnomatch/(detrás_de detrás_de SPS00 -) [
+        sn/head/(cantante cantante NCCS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/modnorule/(? ? Fit -)
+]
+

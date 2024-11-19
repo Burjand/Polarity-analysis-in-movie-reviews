@@ -1,0 +1,51 @@
+grup-verb/top/(engancha enganchar VMIP3S0 -) [
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(Una uno DI0FS0 -)
+    grup-sp/modnomatch/(con con SPS00 -) [
+      sn/head/(encanto encanto NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        s-a-ms/qual/(especial especial AQ0CS0 -)
+        grup-sp/modnomatch/(a_pesar_de a_pesar_de SPS00 -) [
+          sn/head/(metraje metraje NCMS000 -) [
+            espec-ms/espec/(su su DP3CS0 -)
+          ]
+        ]
+      ]
+    ]
+    prel/modnomatch/(que que PR0CN000 -)
+    Fc(,)/modnomatch/(, , Fc -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(extenso extenso AQ0MS0 -) [
+    indef-ms/modnomatch/(un uno DI0MS0 -)
+    sadv/modnomatch/(poco poco RG -)
+    grup-sp/modnomatch/(para para SPS00 -) [
+      sn/head/(historia historia NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(cuenta contar VMIP3S0 -) [
+        morfema-verbal/modnomatch/(se se P0000000 -)
+      ]
+      Fc(,)/modnorule/(, , Fc -)
+    ]
+  ]
+  coor-sp/modnomatch/(y y CC -) [
+    grup-sp/modnorule/(por por SPS00 -) [
+      sn/head/(fuerza fuerza NCFS000 -) [
+        espec-fs/espec/(su su DP3CS0 -)
+        s-a-fs/qual/(visual visual AQ0CS0 -)
+      ]
+    ]
+    grup-sp/modnorule/(por por SPS00 -) [
+      sn/head/(puesta puesta NCFS000 -) [
+        espec-fs/espec/(su su DP3CS0 -)
+      ]
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(escena escena NCFS000 -)
+  ]
+]
+

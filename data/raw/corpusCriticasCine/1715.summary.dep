@@ -1,0 +1,51 @@
+sn/top/(biopic biopic NP00000 -) [
+  espec-ms/espec/(Un uno DI0MS0 -)
+  sadv/modnomatch/(en_toda_regla en_toda_regla RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(destaca destacar VMIP3S0 -)
+  ]
+  sadv/modnomatch/(principalmente principalmente RG -)
+  coor-sp/modnomatch/(y y CC -) [
+    grup-sp/modnorule/(por por SPS00 -) [
+      sn/head/(ambientación ambientación NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+    grup-sp/modnorule/(por por SPS00 -) [
+      sn/head/(actores actor NCMP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+        s-a-mp/qual/(grandes grande AQ0CP0 -)
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(forman formar VMIP3P0 -)
+  ]
+  sn/modnomatch/(reparto reparto NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(gustado gustar VMP00SM -) [
+  patons/modnomatch/(Me me PP1CS000 -)
+  vaux/aux/(ha haber VAIP3S0 -)
+  coor-n/obj/(y y CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(Gala_Évora gala_évora NP00000 -) [
+      grup-verb/modnomatch/(es ser VSIP3S0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(responsables responsable NCCP000 -) [
+          espec-fp/espec/(las el DA0FP0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(ello él PP3NS000 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  espec-fs/modnomatch/(una uno DI0FS0 -)
+  F-term/term/(. . Fp -)
+]
+

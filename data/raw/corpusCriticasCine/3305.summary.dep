@@ -1,0 +1,54 @@
+subord/top/(Si si CS -) [
+  grup-verb/modnorule/(albergaba albergar VMII1S0 -) [
+    sadv/cc/(bien bien RG -)
+    neg/modneg/(no no RN -)
+    sn/obj/(esperanzas esperanza NCFP000 -)
+  ]
+  prep/modnorule/(de de SPS00 -)
+  subord/modnorule/(que que CS -) [
+    grup-verb/modnorule/(enganchara enganchar VMSI1S0 -) [
+      patons/modnomatch/(me me PP1CS000 -)
+      sn/subj/(trama trama NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  sadv/modnorule/(sí sí RG -)
+  prep/modnorule/(a a SPS00 -)
+  espec-ms/modnorule/(el el DA0MS0 -)
+  grup-verb/modnorule/(esperaba esperar VMII1S0 -) [
+    sadv/cc/(menos menos RG -)
+  ]
+  grup-verb-inf/modnorule/(encontrar encontrar VMN0000 -)
+  sn/modnorule/(ración ración NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(buena bueno AQ0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(torturas tortura NCFP000 -) [
+        s-a-fp/qual/(sofisticadas sofisticar VMP00PF -)
+        s-a-fp/qual/(dispuestas disponer VMP00PF -)
+      ]
+    ]
+  ]
+  grup-sp-inf/modnorule/(para para SPS00 -) [
+    grup-verb-inf/head/(degustadas degustar VMP00PF -) [
+      infaux-ser/modnomatch/(ser ser VSN0000 -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+sadv/top/(Desgraciadamente Desgraciadamente RG -) [
+  Fc(,)/modnorule/(, , Fc -)
+  sn/modnorule/(vez vez NCFS000 -) [
+    espec-fs/espec/(esta este DD0FS0 -)
+  ]
+  sn/modnorule/(ni ni CC -) [
+    sn/modnomatch/(una uno PI0FS000 -)
+    CC(ni)/modnomatch/(ni ni CC -)
+    sn/modnomatch/(otra otro PI0FS000 -)
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

@@ -1,0 +1,31 @@
+grup-verb/top/(destroza destrozar VMIP3S0 -) [
+  sn/subj/(X-Men x-men NP00000 -)
+  sn/subj/(3 3 Z -)
+  sn/obj/(nada nada PI0CS000 -)
+  sadv/cc/(menos menos RG -)
+  conj-subord/modnomatch/(que que CS -)
+  sn/obj/(Golden_Gate golden_gate NP00000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    grup-sp/modnomatch/(en en SPS00 -) [
+      sn/head/(prodigio prodigio NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(ingeniería ingeniería NCFS000 -) [
+            s-a-fs/qual/(mutante mutante AQ0CS0 -)
+          ]
+        ]
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(firmar firmar VMN0000 -) [
+        VMS*<querer>/modnomatch/(quisieran querer VMSI3P0 -)
+        sadv/cc/(ya ya RG -)
+        sn/obj/(arquitectos arquitecto NCMP000 -) [
+          espec-mp/espec/(muchos mucho DI0MP0 -)
+          s-a-mp/qual/(humanos humano AQ0MP0 -)
+        ]
+      ]
+    ]
+  ]
+]
+

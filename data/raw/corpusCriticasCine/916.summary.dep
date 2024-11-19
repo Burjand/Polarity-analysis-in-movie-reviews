@@ -1,0 +1,59 @@
+grup-verb/top/(entrar entrar VMN0000 -) [
+  VMI*<tener>/modnomatch/(Tienes tener VMIP2S0 -)
+  CS(que)/modnomatch/(que que CS -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(juego juego NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+subord/top/(Si si CS -) [
+  grup-verb/modnorule/(consigues conseguir VMIP2S0 -) [
+    patons/modnomatch/(lo lo PP3CNA00 -)
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(disfrutarás disfrutar VMIF2S0 -) [
+    subord/modnomatch/(como como CS -) [
+      grup-verb/modnorule/(hacía hacer VMII1S0 -) [
+        sn/obj/(tiempo tiempo NCMS000 -) [
+          espec-ms/espec/(mucho mucho DI0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+s-adj/top/(pero pero CC -) [
+  s-a-fs/modnorule/(Divertida divertir VMP00SF -)
+  s-a-fs/modnorule/(, , Fc -) [
+    s-a-fs/modnorule/(densa denso AQ0FS0 -)
+    s-a-fs/modnorule/(pero pero CC -) [
+      s-a-fs/modnorule/(lenta lento AQ0FS0 -)
+      s-a-fs/modnorule/(, , Fc -) [
+        s-a-fs/modnorule/(rápida rápido AQ0FS0 -)
+        s-a-fs/modnorule/(original original AQ0CS0 -)
+      ]
+    ]
+  ]
+  coor-n/modnorule/(pero pero CC -) [
+    sn/co-n/(fotocopia fotocopia NCFS000 -)
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+sn/top/(cine cine NCMS000 -) [
+  espec-ms/espec/(Muy muy RG -)
+  s-a-ms/qual/(buen bueno AQ0MS0 -)
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(hoy hoy NCMS000 -) [
+      grup-sp/modnomatch/(en en SPS00 -) [
+        sn/head/(día día NCMS000 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

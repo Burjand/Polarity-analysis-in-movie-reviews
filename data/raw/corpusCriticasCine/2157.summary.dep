@@ -1,0 +1,46 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(ópera ópera NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+    s-a-fs/qual/(prima primo AQ0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Jonathan_Kasdan jonathan_kasdan NP00000 -)
+    ]
+  ]
+  neg/modneg/(no no RN -)
+  sn/obj/(derroche derroche NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(imaginación imaginación NCFS000 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(sino sino CC -)
+  sadv/cc/(bien bien RG -) [
+    cuantif/modnorule/(más más RG -)
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(contrario contrario NCMS000 -) [
+      espec-ms/espec/(lo el DA0NS0 -)
+      Fc(,)/modnomatch/(, , Fc -)
+      subord/modnomatch/(ya_que ya_que CS -) [
+        grup-verb/modnorule/(trata tratar VMIP3S0 -) [
+          morfema-verbal/modnomatch/(se se P0000000 -)
+        ]
+      ]
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(historia historia NCFS000 -) [
+          espec-fs/espec/(una uno DI0FS0 -)
+          s-a-fs/qual/(repleta repleto AQ0FS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(tópicos tópico NCMP000 -)
+          ]
+        ]
+      ]
+    ]
+    sn/co-n/(clichés cliché NCMP000 -) [
+      s-a-mp/qual/(gastados gastar VMP00PM -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

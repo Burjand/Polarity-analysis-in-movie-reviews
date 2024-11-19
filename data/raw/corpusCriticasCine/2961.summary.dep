@@ -1,0 +1,46 @@
+grup-verb-inf/top/(Subrayar subrayar VMN0000 -) [
+  Fc(,)/modnomatch/(, , Fc -)
+  sadv/modnomatch/(por_supuesto por_supuesto RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(en en SPS00 -) [
+    sn/head/(rosa rosa NCFS000 -)
+  ]
+  s-adj/modnomatch/(, , Fc -) [
+    s-a-ms/modnorule/(fosforito fosforito AQ0MS0 -)
+    s-a-ms/modnorule/(acorde acorde AQ0CS0 -)
+  ]
+  grup-sp/modnomatch/(para para SPS00 -) [
+    sn/head/(ocasión ocasión NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  prep/modnomatch/(de de SPS00 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(es ser VSIP3S0 -) [
+      sn/subj/(María_Antonieta maría_antonieta NP00000 -) [
+        Fe/modnomatch/(' ' Fe -)
+        Fe/modnomatch/(' ' Fe -)
+      ]
+      neg/modneg/(no no RN -)
+      sn/obj/(película película NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+      ]
+      grup-sp/iobj/(para para SPS00 -) [
+        sn/head/(paladares paladar NCMP000 -) [
+          espec-mp/espec/(todos todo DI0MP0 -) [
+            j-mp/modnorule/(los el DA0MP0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+grup-verb/top/(da dar VMIP3S0 -) [
+  sn/subj/(Cannes cannes NP00000 -)
+  sn/obj/(fe fe NCFS000 -)
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,62 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+  ]
+  sn/obj/(maravilla maravilla NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(auténtica auténtico AQ0FS0 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(musical musical NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(, , Fc -) [
+      s-a-ms/modnorule/(vibrante vibrante AQ0CS0 -)
+      s-a-ms/modnorule/(apasionante apasionante AQ0CS0 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-sp/modnomatch/(con con SPS00 -) [
+      sn/head/(aroma aroma NCMS000 -) [
+        grup-sp/modnomatch/(a a SPS00 -) [
+          sn/head/(musical musical NCMS000 -) [
+            s-a-ms/qual/(clásico clásico AQ0MS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  sadv/cc/(también también RG -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(película película NCFS000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(terror terror NCMS000 -)
+      ]
+    ]
+  ]
+  s-adj/att/(antigua antiguo AQ0FS0 -)
+  coor-n/obj/(y y CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(mezcla mezcla NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(música música NCFS000 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(sangre sangre NCFS000 -)
+    sn/co-n/(humor humor NCMS000 -) [
+      s-a-ms/qual/(negro negro AQ0MS0 -)
+    ]
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(toque toque NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(retorcido retorcer VMP00SM -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(Tim_Burton tim_burton NP00000 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

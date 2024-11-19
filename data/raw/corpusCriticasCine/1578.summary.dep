@@ -1,0 +1,41 @@
+grup-verb/top/(juega jugar VMIP3S0 -) [
+  grup-sp/modnomatch/(Con con SPS00 -) [
+    sn/head/(El_Buen_Alemán el_buen_alemán NP00000 -) [
+      grup-verb/modnomatch/(está estar VAIP3S0 -) [
+        sadv/cc/(cerca cerca RG -) [
+          cuantif/modnorule/(más más RG -)
+          SPS00(de)/modnorule/(de de SPS00 -)
+          sn/modnorule/(experimento experimento NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(obra obra NCFS000 -) [
+                espec-fs/espec/(la el DA0FS0 -)
+                s-a-fs/qual/(maestra maestro AQ0FS0 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(Soderbergh soderbergh NP00000 -)
+  grup-sp-inf/iobj/(a a SPS00 -) [
+    grup-verb-inf/head/(rodar rodar VMN0000 -)
+  ]
+  grup-sp/modnomatch/(como como CS -) [
+    sn/head/(hace hacer VMIP3S0 -) [
+      sn-tmp/modnomatch/(años año NCMP000 -) [
+        quant-mp/modnorule/(cincuenta 50 Z -)
+      ]
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(aunque aunque CC -)
+  s-adj/modnomatch/(interesante interesante AQ0CS0 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  prel/modnomatch/(que que PR0CN000 -)
+  F-term/term/(. . Fp -)
+]
+

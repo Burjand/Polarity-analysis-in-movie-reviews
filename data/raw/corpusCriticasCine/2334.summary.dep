@@ -1,0 +1,40 @@
+grup-verb/top/(resulta resultar VMIP3S0 -) [
+  grup-sp/modnomatch/(Pese_a pese_a SPS00 -) [
+    sn/head/(todo todo PI0MS000 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(producto producto NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(y y CC -) [
+  sn/subj/(gags gag NCMP000 -) [
+    espec-mp/espec/(Los el DA0MP0 -)
+    s-a-mp/qual/(clásicos clásico AQ0MP0 -)
+  ]
+  grup-verb/co-v/(teniendo tener VMG0000 -) [
+    VMI*<seguir>/modnomatch/(siguen seguir VMIP3P0 -)
+    sn/obj/(gracia gracia NCFS000 -) [
+      espec-fs/espec/(su su DP3CS0 -)
+    ]
+  ]
+  grup-verb/co-v/(hay haber VMIP3S0 -)
+  espec-ms/modnomatch/(algún alguno DI0MS0 -)
+  conj-subord/modnomatch/(que que CS -)
+  sn/modnomatch/(nuevo nuevo AQ0MS0 -) [
+    indef-ms/modnomatch/(otro otro DI0MS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(merece merecer VMIP3S0 -)
+    ]
+  ]
+  sn/modnomatch/(pena pena NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  grup-verb-inf/modnomatch/(repetido repetir VMP00SM -) [
+    infaux-ser/modnomatch/(ser ser VSN0000 -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

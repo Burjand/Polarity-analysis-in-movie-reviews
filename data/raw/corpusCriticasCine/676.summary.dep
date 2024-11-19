@@ -1,0 +1,44 @@
+grup-verb/top/(ver ver VMN0000 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+  sn/subj/(cine cine NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Woody_Allen woody_allen NP00000 -)
+    ]
+  ]
+  coor-sp/modnomatch/(o o CC -) [
+    grup-sp/modnorule/(como como CS -) [
+      sn/head/(invención invención NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(vida vida NCFS000 -) [
+            espec-fs/espec/(su su DP3CS0 -)
+            s-a-fs/qual/(propia propio AQ0FS0 -)
+            s-a-fs/qual/(privada privar VMP00SF -)
+          ]
+        ]
+      ]
+    ]
+    grup-sp/modnorule/(como como CS -) [
+      sn/head/(transcripción transcripción NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(son ser VSIP3P0 -) [
+  sn/subj/(opciones opción NCFP000 -) [
+    espec-fp/espec/(dos 2 Z -) [
+      j-fp/modnorule/(Las el DA0FP0 -)
+    ]
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(entretenidas entretenida NCFP000 -)
+    ]
+  ]
+  s-adj/att/(igual igual AQ0CS0 -)
+  F-term/term/(. . Fp -)
+]
+

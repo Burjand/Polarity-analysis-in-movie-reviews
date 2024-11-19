@@ -1,0 +1,46 @@
+grup-verb/top/(coloca colocar VMIP3S0 -) [
+  sn/subj/(Mike_Nichols mike_nichols NP00000 -)
+  grup-sp/cc/(a a SPS00 -) [
+    sn/head/(actores actor NCMP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+    ]
+  ]
+  coor-n/obj/(y y CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(guión guión NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+    sn/co-n/(trama trama NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(excelente excelente AQ0CS0 -)
+    ]
+  ]
+  coor-sp/modnomatch/(y y CC -) [
+    grup-sp/modnorule/(sin sin SPS00 -) [
+      sn/head/(fuegos fuego NCMP000 -) [
+        espec-mp/espec/(demasiados demasiado DI0MP0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(artificio artificio NCMS000 -) [
+            grup-verb/modnomatch/(compone componer VMIP3S0 -) [
+              sn/obj/(película película NCFS000 -) [
+                espec-fs/espec/(una uno DI0FS0 -)
+                s-a-fs/qual/(excelente excelente AQ0CS0 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  espec-fp/modnomatch/(esas ese DD0FP0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(consiguen conseguir VMIP3P0 -)
+  ]
+  grup-verb-inf/modnomatch/(emocionar emocionar VMN0000 -)
+  coord/modnomatch/(y y CC -)
+  grup-verb-inf/modnomatch/(hacer hacer VMN0000 -)
+  grup-verb-inf/modnomatch/(pensar pensar VMN0000 -)
+  sadv/cc/(a_la_vez a_la_vez RG -)
+]
+

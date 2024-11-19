@@ -1,0 +1,71 @@
+coor-vb/top/(y y CC -) [
+  grup-verb/co-v/(une unir VMIP3S0 -) [
+    morfema-verbal/modnomatch/(se se P0000000 -)
+    sn/subj/(Gibson gibson NP00000 -)
+    grup-sp/modnomatch/(con con SPS00 -) [
+      sn/head/(dignidad dignidad NCFS000 -)
+    ]
+    prep/modnomatch/(a a SPS00 -)
+    espec-fs/modnomatch/(esta este DD0FS0 -)
+    s-adj/modnomatch/(lista listo AQ0FS0 -)
+  ]
+  grup-verb/co-v/(firma firmar VMM02S0 -) [
+    sn/obj/(película película NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(, , Fc -) [
+        s-a-fs/modnorule/(fresca fresco AQ0FS0 -)
+        s-a-fs/modnorule/(directa directo AQ0FS0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(sin sin SPS00 -) [
+    sn/head/(pudor pudor NCMS000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(divierte divertir VMIP3S0 -)
+  ]
+  sadv/modnomatch/(igual igual RG -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(hace hacer VMIP3S0 -)
+  ]
+  grup-verb-inf/modnomatch/(pensar pensar VMN0000 -)
+  F-term/modnomatch/(. . Fp -)
+]
+
+sp-de/top/(De de SPS00 -) [
+  sn/gen/(poco poco PI0MS000 -)
+  grup-verb/modnomatch/(sirven servir VMIP3P0 -) [
+    sn/obj/(críticas crítica NCFP000 -) [
+      espec-fp/espec/(las el DA0FP0 -)
+      s-a-fp/qual/(académicas académico AQ0FP0 -)
+    ]
+    grup-sp/modnomatch/(sobre sobre SPS00 -) [
+      sn/head/(historicidad historicidad NCFS000 -) [
+        espec-fs/espec/(su su DP3CS0 -)
+      ]
+    ]
+    coor-n/obj/(ni ni CC -) [
+      Fc(,)/modnomatch/(, , Fc -)
+      sn/co-n/(ataques ataque NCMP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(pudor pudor NCMS000 -)
+        ]
+      ]
+    ]
+    grup-sp/modnomatch/(contra contra SPS00 -) [
+      sn/head/(escenas escena NCFP000 -) [
+        espec-fp/espec/(sus su DP3CP0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(violencia violencia NCFS000 -) [
+            s-a-fs/qual/(explícita explícito AQ0FS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

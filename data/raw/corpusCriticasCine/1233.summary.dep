@@ -1,0 +1,30 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(Weitz weitz NP00000 -)
+  sn/obj/(ejemplo ejemplo NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(perfecto perfecto AQ0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(alguien alguien PI0CS000 -)
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(triunfa triunfar VMIP3S0 -)
+    ]
+  ]
+  grup-sp/modnomatch/(gracias_a gracias_a SPS00 -) [
+    sn/head/(sueño sueño NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(americano americano AQ0MS0 -)
+    ]
+  ]
+  subord/modnomatch/(ya_que ya_que CS -) [
+    grup-verb/modnorule/(hacer hacer VMN0000 -) [
+      vaux/aux/(ha haber VAIP3S0 -)
+      VMP00SM(podido)/modnomatch/(podido poder VMP00SM -)
+      sn/obj/(película película NCFS000 -) [
+        espec-fs/espec/(esta este DD0FS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

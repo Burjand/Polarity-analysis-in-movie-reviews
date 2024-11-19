@@ -1,0 +1,56 @@
+grup-verb/top/(encontramos encontrar VMIP1P0 -) [
+  sn/subj/(veces vez NCFP000 -) [
+    espec-fp/espec/(Pocas poco DI0FP0 -)
+  ]
+  sn/obj/(debut debut NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(cinematográfico cinematográfico AQ0MS0 -)
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(vida vida NCFS000 -) [
+      espec-fs/espec/(tanta tanto DI0FS0 -)
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  s-adj/modnomatch/(adulto adulto AQ0MS0 -) [
+    sadv/modnorule/(tan tan RG -)
+  ]
+  grup-sp/modnomatch/(como como CS -) [
+    sn/head/(Lejos_de_Ella lejos_de_ella NP00000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(Sarah_Polley sarah_polley NP00000 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(Este este PD0MS000 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(sin sin SPS00 -) [
+    sn/head/(duda duda NCFS000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(film film NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    s-a-ms/qual/(y y CC -) [
+      s-a-ms/modnorule/(bonito bonito AQ0MS0 -) [
+        sadv/modnorule/(más más RG -)
+      ]
+      s-a-ms/modnorule/(sincero sincero AQ0MS0 -)
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(visto ver VMP00SM -) [
+        morfema-verbal/modnomatch/(se se P0000000 -)
+        vaux/aux/(ha haber VAIP3S0 -)
+      ]
+    ]
+    grup-sp/modnomatch/(en en SPS00 -) [
+      sn/head/(años año NCMP000 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

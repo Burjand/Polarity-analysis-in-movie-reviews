@@ -1,0 +1,46 @@
+grup-verb/top/(sirve servir VMIP3S0 -) [
+  sn/subj/(Crímenes_de_Oxford crímenes_de_oxford NP00000 -) [
+    Fe/modnomatch/(' ' Fe -)
+    Fe/modnomatch/(' ' Fe -)
+    espec-mp/espec/(Los el DA0MP0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Iglesia iglesia NP00000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+  ]
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(mostrar mostrar VMN0000 -) [
+      PP*/modnomatch/(nos nos PP1CP000 -)
+    ]
+  ]
+  prep/modnomatch/(a a SPS00 -)
+  espec-ms/modnomatch/(un uno DI0MS0 -)
+  sadv/cc/(menos menos RG -)
+  s-adj/modnomatch/(y y CC -) [
+    s-a-ms/modnorule/(crispado crispar VMP00SM -)
+    s-a-ms/modnorule/(espectacular espectacular AQ0CS0 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(pero pero CC -)
+  s-adj/modnomatch/(capaz capaz AQ0CS0 -)
+  sadv/cc/(siempre siempre RG -)
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(sacar sacar VMN0000 -)
+    sn/modnomatch/(leche leche NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(mala malo AQ0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(historia historia NCFS000 -) [
+          espec-fs/espec/(una uno DI0FS0 -)
+          s-a-fs/qual/(convencional convencional AQ0CS0 -) [
+            sadv/modnorule/(tan tan RG -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  prep/modnomatch/(hasta hasta SPS00 -)
+  F-term/term/(. . Fp -)
+]
+

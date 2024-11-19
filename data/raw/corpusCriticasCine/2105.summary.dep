@@ -1,0 +1,46 @@
+grup-verb/top/(supone suponer VMIP3S0 -) [
+  sn/subj/(Premonition premonition NP00000 -)
+  sn/obj/(vuelta vuelta NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(y y CC -) [
+      s-a-fs/modnorule/(nueva nuevo AQ0FS0 -)
+      s-a-fs/modnorule/(eficaz eficaz AQ0CS0 -)
+    ]
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(tuerca tuerca NCFS000 -)
+    ]
+  ]
+  grup-sp/modnomatch/(sobre sobre SPS00 -) [
+    sn/head/(tema tema NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(recurrente recurrente AQ0CS0 -) [
+        sadv/modnorule/(bastante bastante RG -)
+      ]
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(cine_fantástico cine_fantástico NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(actual actual AQ0CS0 -)
+    ]
+  ]
+  F-no-c/modnomatch/(: : Fd -)
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(de de SPS00 -) [
+      j-ms/modnomatch/(el el DA0MS0 -)
+      sn/modnomatch/(bucles bucle NCMP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(agujeros agujero NCMP000 -)
+    sn/co-n/(saltos salto NCMP000 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(tiempo tiempo NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

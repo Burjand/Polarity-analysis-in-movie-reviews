@@ -1,0 +1,63 @@
+grup-verb/top/(posee poseer VMIP3S0 -) [
+  sn/subj/(sensación sensación NCFS000 -) [
+    espec-fs/espec/(Esta este DD0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(gazpacho gazpacho NCMS000 -) [
+        s-a-ms/qual/(audiovisual audiovisual AQ0CS0 -)
+      ]
+    ]
+  ]
+  sadv/cc/(tan tan RG -)
+  sadv/cc/(sólo sólo RG -)
+  sn/obj/(motivación motivación NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(crematística crematístico AQ0FS0 -)
+  ]
+  coor-sp/modnomatch/(y y CC -) [
+    grup-sp/modnorule/(en en SPS00 -) [
+      sn/head/(nada nada PI0CS000 -)
+    ]
+  ]
+  s-adj/modnomatch/(artística artístico AQ0FS0 -)
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(hecho hacer VMP00SM -) [
+  vaux/aux/(ha haber VAIP3S0 -)
+  sn/subj/(Verbinski verbinski NP00000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-sp/modnomatch/(bajo bajo SPS00 -) [
+      sn/head/(tutela tutela NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        s-a-fs/qual/(empresarial empresarial AQ0CS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(financiero financiero NCMS000 -) [
+            espec-ms/espec/(un uno DI0MS0 -)
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(divertimento divertimento NCMS000 -) [
+                espec-ms/espec/(el el DA0MS0 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+    subord/modnomatch/(como como CS -) [
+      grup-verb/modnorule/(es ser VSIP3S0 -) [
+        sn/obj/(Bruckheimer bruckheimer NP00000 -)
+      ]
+      Fc(,)/modnorule/(, , Fc -)
+    ]
+  ]
+  sn/obj/(deberes deber NCMP000 -) [
+    espec-mp/espec/(los el DA0MP0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(mandado mandar VMP00SM -) [
+        patons/modnomatch/(le le PP3CSD00 -)
+        vaux/aux/(han haber VAIP3P0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,50 @@
+grup-verb/top/(muestra mostrar VMIP3S0 -) [
+  patons/modnomatch/(Nos nos PP1CP000 -)
+  sn/obj/(razones razón NCFP000 -) [
+    espec-fp/espec/(las el DA0FP0 -)
+  ]
+  prep/modnomatch/(por por SPS00 -)
+  espec-fp/modnomatch/(las el DA0FP0 -)
+  prel/modnomatch/(que que PR0CN000 -)
+  verb-pass/modnomatch/(acusado acusar VMP00SM -) [
+    vser/modnomatch/(fue ser VSIS3S0 -)
+    sn/subj-pac/(Nixon nixon NP00000 -)
+    grup-sp/modnomatch/(en en SPS00 -) [
+      sn/head/(escándalo escándalo NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(? ? Fit -)
+]
+
+sn/top/(Watergate watergate NP00000 -) [
+  F-term/term/(? ? Fit -)
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(documental documental NCMS000 -) [
+  espec-ms/espec/(Un uno DI0MS0 -)
+  s-a-ms/qual/(interesante interesante AQ0CS0 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(ver ver VMN0000 -) [
+      VMI*<tener>/modnomatch/(tiene tener VMIP3S0 -)
+      CS(que)/modnomatch/(que que CS -)
+      sn/subj/(nada nada PI0CS000 -)
+      grup-sp/modnomatch/(con con SPS00 -) [
+        sn/head/(películas película NCFP000 -) [
+          espec-fp/espec/(las el DA0FP0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(Moore moore NP00000 -) [
+              espec-ms/espec/(el el DA0MS0 -)
+              s-a-ms/qual/(gordo gordo AQ0MS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

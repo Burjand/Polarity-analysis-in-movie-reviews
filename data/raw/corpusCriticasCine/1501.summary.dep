@@ -1,0 +1,65 @@
+sn/top/(película película NCFS000 -) [
+  s-a-fs/qual/(Grandísima grande AQSFS0 -)
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(intriga intriga NCFS000 -) [
+      grup-sp/modnomatch/(en en SPS00 -) [
+        sn/head/(calles calle NCFP000 -) [
+          espec-fp/espec/(las el DA0FP0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(Viena viena NP00000 -) [
+              espec-fs/espec/(una uno DI0FS0 -)
+              s-a-fs/qual/(derruida derruir VMP00SF -)
+              grup-sp/modnomatch/(por por SPS00 -) [
+                sn/head/(Segunda_Guerra_Mundial segunda_guerra_mundial NP00000 -) [
+                  espec-fs/espec/(la el DA0FS0 -)
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+espec-fs/top/(Una uno DI0FS0 -) [
+  sp-de/modnorule/(de de SPS00 -) [
+    sn/gen/(películas película NCFP000 -) [
+      espec-fp/espec/(las el DA0FP0 -)
+      s-a-fp/qual/(mejores mejor AQ0CP0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(historia historia NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(cine cine NCMS000 -) [
+              espec-ms/espec/(el el DA0MS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  subord/modnorule/(que que CS -) [
+    grup-verb/modnorule/(sorprendiendo sorprender VMG0000 -) [
+      VMI*<seguir>/modnomatch/(sigue seguir VMIP3S0 -)
+    ]
+  ]
+  grup-sp/modnorule/(con con SPS00 -) [
+    sn/head/(argumento argumento NCMS000 -) [
+      espec-ms/espec/(su su DP3CS0 -)
+      s-a-ms/qual/(inteligente inteligente AQ0CS0 -)
+    ]
+  ]
+  coord/modnorule/(y y CC -)
+  sadv/modnorule/(bien bien RG -)
+  parti-flex/modnorule/(hilado hilar VMP00SM -)
+  F-term/modnorule/(. . Fp -)
+]
+
+s-adj/top/(recomendable recomendable AQ0CS0 -) [
+  sadv/modnorule/(Altamente Altamente RG -)
+  F-term/modnorule/(. . Fp -)
+]
+

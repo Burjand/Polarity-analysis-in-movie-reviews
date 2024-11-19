@@ -1,0 +1,53 @@
+grup-sp/top/(En en SPS00 -) [
+  sn/head/(resumen resumen NCMS000 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/head/(perdida perdido NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(tiempo tiempo NCMS000 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/head/(dinero dinero NCMS000 -)
+  coord/modnomatch/(y y CC -)
+  sadv/modnomatch/(encima encima RG -)
+  sn/head/(sensación sensación NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(estafa estafa NCFS000 -) [
+        grup-sp/modnomatch/(como como CS -) [
+          sn/head/(personas persona NCFP000 -) [
+            espec-fp/espec/(las el DA0FP0 -)
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(anuncio anuncio NCMS000 -) [
+                espec-ms/espec/(el el DA0MS0 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  grup-sp-inf/modnomatch/(por por SPS00 -) [
+    grup-verb-inf/head/(querido querer VMP00SM -) [
+      infaux/modnomatch/(haber haber VAN0000 -)
+    ]
+  ]
+  grup-verb-inf/modnomatch/(ser ser VSN0000 -)
+  subord/modnomatch/(cuando cuando CS -) [
+    grup-verb/modnorule/(aburrido aburrir VMP00SM -) [
+      patons/modnomatch/(me me PP1CS000 -)
+      vaux/aux/(he haber VAIP1S0 -)
+      grup-sp/cc/(en en SPS00 -) [
+        sn/head/(realidad realidad NCFS000 -)
+      ]
+      grup-sp/modnomatch/(como como CS -) [
+        sn/head/(ostra ostra NCFS000 -) [
+          espec-fs/espec/(una uno DI0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

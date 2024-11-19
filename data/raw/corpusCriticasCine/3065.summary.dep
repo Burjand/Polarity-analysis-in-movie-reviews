@@ -1,0 +1,62 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(ópera ópera NCFS000 -) [
+    espec-fs/espec/(Una uno DI0FS0 -)
+    s-a-fs/qual/(, , Fc -) [
+      s-a-fs/modnorule/(prima primo AQ0FS0 -) [
+        s-a-fs/modnorule/(cercana cercano AQ0FS0 -)
+      ]
+      s-a-fs/modnorule/(e e CC -) [
+        s-a-fs/modnorule/(concreta concreto AQ0FS0 -)
+        s-a-fs/modnorule/(inteligente inteligente AQ0CS0 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sadv/cc/(así así RG -)
+  sn/obj/(debut debut NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(dirección dirección NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(actor actor NCMS000 -) [
+          espec-ms/espec/(un uno DI0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(convive convivir VMIP3S0 -)
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(necesidad necesidad NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(contar contar VMN0000 -)
+    sn/modnomatch/(historias historia NCFP000 -)
+  ]
+  prel/modnomatch/(que que PR0CN000 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(desde desde SPS00 -) [
+    sn/head/(sencillez sencillez NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      grup-verb/modnomatch/(atrapan atrapar VMIP3P0 -) [
+        sadv/cc/(incluso incluso RG -)
+        grup-sp/iobj/(a a SPS00 -) [
+          sn/head/(espectador espectador NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+            s-a-ms/qual/(elitista elitista AQ0CS0 -) [
+              sadv/modnorule/(más más RG -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(. . Fp -)
+]
+

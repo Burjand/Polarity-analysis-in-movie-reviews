@@ -1,0 +1,54 @@
+grup-verb/top/(chungo chungo VMIP1S0 -) [
+  patons/modnomatch/(lo lo PP3CNA00 -)
+  sadv/cc/(Aquí aquí RG -) [
+    Fc(,)/modnorule/(, , Fc -)
+    conj-subord/modnorule/(como como CS -)
+    grup-sp/modnorule/(en en SPS00 -) [
+      sn/head/(Dogville dogville NP00000 -)
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  grup-verb/modnomatch/(es ser VSIP3S0 -)
+  grup-verb-inf/modnomatch/(comprender comprender VMN0000 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(haber haber VAN0000 -) [
+      patons/modnomatch/(te te PP2CS000 -)
+      VMI*<poder>/modnomatch/(podría poder VMIC1S0 -)
+    ]
+  ]
+  parti-flex/modnomatch/(pasado pasar VMP00SM -)
+  grup-sp/iobj/(a a SPS00 -) [
+    ptonic/modnomatch/(ti ti PP2CSO00 -)
+  ]
+  coord/modnomatch/(o o CC -)
+  patons/modnomatch/(lo lo PP3CNA00 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(es ser VSIP3S0 -)
+  ]
+  s-adj/modnomatch/(peor peor AQ0CS0 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(puede poder VMIP3S0 -)
+  ]
+  conj-subord/modnomatch/(que que CS -)
+  subord/modnomatch/(según_que según_que CS -) [
+    grup-verb/modnorule/(reacciones reaccionar VMSP2S0 -) [
+      sn/subj/(circunstancias circunstancia NCFP000 -)
+      sn/subj/(tú tú PP2CSN00 -)
+      sp-de/modnomatch/(de de SPS00 -) [
+        sn/gen/(forma forma NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          s-a-fs/qual/(misma mismo AQ0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(llaman llamar VMIP3P0 -) [
+  patons/modnomatch/(Lo lo PP3CNA00 -)
+  sn/obj/(amoralidad amoralidad NCFS000 -)
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,42 @@
+grup-sp/top/(En en SPS00 -) [
+  sn/head/(fin fin NCMS000 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/head/(película película NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(preciosa precioso AQ0FS0 -)
+    grup-sp/modnomatch/(con con SPS00 -) [
+      sn/head/(plantel plantel NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(actores actor NCMP000 -) [
+            s-a-mp/qual/(excelentes excelente AQ0CP0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  sn/head/(Kirsten_Dunst kirsten_dunst NP00000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/head/(Mark_Ruffalo mark_ruffalo NP00000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/head/(Elijah_Wood elijah_wood NP00000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/head/(Tom tom NP00000 -) [
+    w-ms/modnomatch/(wilkinson wilkinson NP00000 -)
+    F-no-c/modnomatch/(... ... Fs -)
+    coor-sp/modnomatch/(y y CC -) [
+      grup-sp/modnorule/(con con SPS00 -) [
+        sn/head/(banda banda NCFS000 -) [
+          espec-fs/espec/(una uno DI0FS0 -)
+          s-a-fs/qual/(sonora sonoro AQ0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  sadv/modnomatch/(de_ensueño de_ensueño RG -)
+  F-no-c/modnomatch/(... ... Fs -)
+]
+

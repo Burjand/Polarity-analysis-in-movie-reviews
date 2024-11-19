@@ -1,0 +1,83 @@
+forma-ger/top/(Concluyendo concluir VMG0000 -) [
+  Fc(,)/modnorule/(, , Fc -)
+  conj-subord/modnorule/(pues pues CS -)
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(ser ser VSN0000 -) [
+    VMI*<dejar>/modnomatch/(deja dejar VMIP3S0 -)
+    SPS00(de)/modnomatch/(de de SPS00 -)
+    sn/subj/(The_Fountain the_fountain NP00000 -) [
+      Fc(,)/modnomatch/(, , Fc -)
+    ]
+    neg/modneg/(no no RN -)
+    sn/obj/(curiosidad curiosidad NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+    ]
+    grup-sp/modnomatch/(con con SPS00 -) [
+      sn/head/(aciertos acierto NCMP000 -) [
+        espec-mp/espec/(sus su DP3CP0 -)
+        s-a-mp/qual/(esporádicos esporádico AQ0MP0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  sadv/modnorule/(incluso incluso RG -)
+  sn/modnorule/(belleza belleza NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(cierta cierto AQ0FS0 -)
+    grup-sp/modnomatch/(con con SPS00 -) [
+      sn/head/(intenciones intención NCFP000 -) [
+        s-a-fp/qual/(buenas bueno AQ0FP0 -)
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+coor-sp/top/(Pero pero CC -) [
+  Fc(,)/modnorule/(, , Fc -)
+  grup-sp/modnorule/(en en SPS00 -) [
+    sn/head/(fin fin NCMS000 -)
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  forma-ger/modnorule/(haciendo hacer VMG0000 -)
+  grup-verb/modnorule/(imaginar imaginar VMN0000 -) [
+    VMI*<poder>/modnomatch/(podemos poder VMIP1P0 -)
+    sn/subj/(esfuerzo esfuerzo NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+    ]
+    sn/obj/(historia historia NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(misma mismo AQ0FS0 -)
+    ]
+    grup-sp/modnomatch/(con con SPS00 -) [
+      sn/head/(matices matiz NCMP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+        s-a-mp/qual/(mismos mismo AQ0MP0 -)
+      ]
+    ]
+    coor-n/obj/(y y CC -) [
+      sn/co-n/(referencias referencia NCFP000 -) [
+        s-a-fp/qual/(místicas místico AQ0FP0 -)
+      ]
+    ]
+    grup-sp-inf/modnomatch/(sin sin SPS00 -) [
+      grup-verb-inf/head/(recurrir recurrir VMN0000 -)
+    ]
+    grup-sp/iobj/(a a SPS00 -) [
+      sn/head/(&#8220 &#8220 Z -) [
+        indef-ms/modnomatch/(un uno DI0MS0 -)
+      ]
+      F-no-c/modnomatch/(; ; Fx -)
+    ]
+    sn/obj/(corta-pega&#8221 corta-pega&#8221 Z -) [
+      F-no-c/modnomatch/(; ; Fx -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(postales postal NCFP000 -) [
+          s-a-fp/qual/(preciosistas preciosista AQ0CP0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

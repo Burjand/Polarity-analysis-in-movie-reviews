@@ -1,0 +1,93 @@
+sn/top/(Película película NCFS000 -) [
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(chavales chaval NCMP000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(instituto instituto NCMS000 -)
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(dan dar VMIP3P0 -) [
+      sadv/cc/(casi casi RG -)
+      sn/obj/(edad edad NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(repetidores repetidor NCMP000 -) [
+            s-a-mp/qual/(eternos eterno AQ0MP0 -)
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(COU cou NP00000 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(inventan inventar VMIP3P0 -)
+  ]
+  sn/modnomatch/(juego juego NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(macabro macabro AQ0MS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(parece parecer VMIP3S0 -)
+    ]
+  ]
+  grup-verb-inf/modnomatch/(hacer hacer VMN0000 -) [
+    PP*/modnomatch/(se se PP3CN000 -)
+  ]
+  sn/modnomatch/(realidad realidad NCFS000 -)
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(logrado lograr VMP00SM -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  vaux/aux/(ha haber VAIP3S0 -)
+  grup-sp/modnomatch/(Con con SPS00 -) [
+    sn/head/(guión guión NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(fácil fácil AQ0CS0 -)
+    ]
+    grup-sp-inf/modnomatch/(de de SPS00 -) [
+      grup-verb-inf/head/(seguir seguir VMN0000 -)
+    ]
+    coor-n/head/(y y CC -) [
+      Fc(,)/modnomatch/(, , Fc -)
+      sn/co-n/(actores actor NCMP000 -) [
+        espec-mp/espec/(unos uno DI0MP0 -)
+        subord/modnomatch/(que que PR0CN000 -) [
+          grup-verb/modnorule/(dan dar VMIP3P0 -)
+        ]
+      ]
+      sn/co-n/(pego pego NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+      sn/co-n/(tensión tensión NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(mantiene mantener VMIP3S0 -) [
+        patons/modnomatch/(te te PP2CS000 -)
+      ]
+    ]
+    s-adj/modnomatch/(despierto despierto AQ0MS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(mezcla mezcla NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(sorprendente sorprendente AQ0CS0 -)
+  ]
+  grup-sp/iobj/(para para SPS00 -) [
+    sn/head/(género género NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(terror terror NCMS000 -) [
+          s-a-ms/qual/(juvenil juvenil AQ0CS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

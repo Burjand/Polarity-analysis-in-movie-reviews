@@ -1,0 +1,42 @@
+subord/top/(Si si CS -) [
+  grup-verb/modnorule/(gusta gustar VMIP3S0 -) [
+    patons/modnomatch/(te te PP2CS000 -)
+    sn/obj/(mundo mundo NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(periodismo periodismo NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  coor-vb/modnorule/(y y CC -) [
+    grup-verb/co-v/(ver ver VMN0000 -) [
+      VMI*<querer>/modnomatch/(quieres querer VMIP2S0 -)
+    ]
+  ]
+  sadv/modnorule/(algo algo RG -)
+  F-no-c/modnorule/(( ( Fpa -)
+  parti-flex/modnorule/(basado basar VMP00SM -)
+  grup-sp/modnorule/(en en SPS00 -) [
+    sn/head/(historia historia NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(real real AQ0CS0 -)
+    ]
+    F-no-c/modnomatch/() ) Fpt -)
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(merece merecer VMIP3S0 -) [
+    sn/obj/(pena pena NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  grup-verb-inf/modnorule/(echar echar VMN0000 -) [
+    PP*/modnomatch/(le le PP3CSD00 -)
+  ]
+  sn/modnorule/(ojo ojo NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

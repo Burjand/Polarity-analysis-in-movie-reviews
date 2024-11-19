@@ -1,0 +1,79 @@
+coor-vb/top/(ni ni CC -) [
+  sn/subj/(guión guión NCMS000 -) [
+    espec-ms/espec/(Un uno DI0MS0 -)
+    s-a-ms/qual/(milimétrico milimétrico AQ0MS0 -) [
+      s-a-ms/modnorule/(armonizado armonizar VMP00SM -)
+    ]
+    sadv/modnomatch/(a_la_perfección a_la_perfección RG -)
+    prep/modnomatch/(en en SPS00 -)
+    espec-ms/espec/(el el DA0MS0 -)
+    prel/modnomatch/(que que PR0CN000 -)
+  ]
+  grup-verb/co-v/(sobra sobrar VMIP3S0 -) [
+    patons/modnomatch/(le le PP3CSD00 -)
+  ]
+  coor-vb/modnomatch/(ni ni CC -) [
+    grup-verb/co-v/(falta faltar VMIP3S0 -) [
+      patons/modnomatch/(le le PP3CSD00 -)
+      sn/obj/(nada nada PI0CS000 -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+coor-n/top/(y y CC -) [
+  sn/co-n/(juguete juguete NCMS000 -) [
+    espec-ms/espec/(Un uno DI0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(acción acción NCFS000 -) [
+        grup-sp/modnomatch/(más_allá_de más_allá_de SPS00 -) [
+          sn/head/(género género NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+          ]
+        ]
+      ]
+    ]
+    parti-flex/modnomatch/(divertido divertir VMP00SM -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(va ir VMIP3S0 -)
+    ]
+    grup-sp-inf/modnomatch/(para para SPS00 -) [
+      grup-verb-inf/head/(contar contar VMN0000 -) [
+        PP*/modnomatch/(nos nos PP1CP000 -)
+      ]
+    ]
+  ]
+  sn/co-n/(historia historia NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(cargada cargar VMP00SF -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(sensibilidad sensibilidad NCFS000 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/co-n/(ironía ironía NCFS000 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/co-n/(dosis dosis NCFN000 -) [
+    s-a-fp/qual/(buenas bueno AQ0FP0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(leche leche NCFS000 -) [
+        s-a-fs/qual/(mala malo AQ0FS0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/co-n/(homenajes homenaje NCMP000 -)
+  sn/co-n/(citas cita NCFP000 -) [
+    n-fp/modnomatch/(cinéfilas cinéfilo NCFP000 -)
+  ]
+  coor-n/modnomatch/(y y CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(reformulación reformulación NCFS000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(clichés cliché NCMP000 -)
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

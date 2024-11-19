@@ -1,0 +1,70 @@
+sn/top/(Truñaco truñaco NP00000 -) [
+  s-a-ms/qual/(tremendo tremendo AQ0MS0 -)
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(director director NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(falto falto AQ0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(recursos recurso NCMP000 -) [
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(ingenio ingenio NCMS000 -) [
+              sp-de/mod/(de de SPS00 -) [
+                sn/gen/(tirón tirón NCMS000 -) [
+                  espec-ms/espec/(el el DA0MS0 -)
+                  sp-de/mod/(de de SPS00 -) [
+                    sn/gen/(original original AQ0CS0 -) [
+                      j-fs/modnomatch/(la el DA0FS0 -)
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(decidido decidir VMP00SM -) [
+      vaux/aux/(ha haber VAIP3S0 -)
+    ]
+  ]
+  grup-verb-inf/modnomatch/(tirar tirar VMN0000 -)
+  grup-sp-inf/modnomatch/(para para SPS00 -) [
+    grup-verb-inf/head/(colar colar VMN0000 -) [
+      PP*/modnomatch/(nos nos PP1CP000 -)
+    ]
+    sn/modnomatch/(esto este PD0NS000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sadv/top/(Sólo sólo RG -) [
+  forma-ger/modnorule/(recomiendo recomer VMG0000 -)
+  grup-verb-inf/modnorule/(ver ver VMN0000 -)
+  sn/modnorule/(efectos_especiales efecto_especial NCMP000 -) [
+    espec-mp/espec/(los el DA0MP0 -)
+    s-a-mp/qual/(logrados lograr VMP00PM -) [
+      Fe/modnorule/(" " Fe -)
+      Fe/modnorule/(" " Fe -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(son ser VSIP3P0 -)
+    ]
+  ]
+  grup-sp-inf/modnorule/(de de SPS00 -) [
+    grup-verb-inf/head/(morir morir VMN0000 -) [
+      PP*/modnomatch/(se se PP3CN000 -)
+    ]
+  ]
+  sp-de/modnorule/(de de SPS00 -) [
+    sn/gen/(risa risa NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

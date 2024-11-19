@@ -1,0 +1,52 @@
+coor-sp/top/(y y CC -) [
+  grup-sp/modnorule/(A a SPS00 -) [
+    sn/head/(Clooney clooney NP00000 -)
+  ]
+  grup-sp/modnorule/(a a SPS00 -) [
+    sn/head/(Blanchett blanchett NP00000 -)
+  ]
+  grup-verb/modnorule/(reprochado reprochar VMP00SM -) [
+    morfema-verbal/modnomatch/(se se P0000000 -)
+    patons/modnomatch/(les les PP3CPD00 -)
+    vaux/aux/(ha haber VAIP3S0 -)
+    sn/obj/(nula nulo AQ0FS0 -) [
+      j-fs/modnomatch/(la el DA0FS0 -)
+      s-a-fs/qual/(química químico AQ0FS0 -)
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(hay haber VMIP3S0 -)
+      ]
+    ]
+    grup-sp/modnomatch/(entre entre SPS00 -) [
+      sn/head/(ellos ellos PP3MP000 -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+sadv/top/(Más más RG -) [
+  subord/modnorule/(que que CS -) [
+    grup-verb/modnorule/(veo ver VMIP1S0 -) [
+      patons/modnomatch/(lo lo PP3CNA00 -)
+      sn/subj/(problema problema NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        grup-sp/modnomatch/(de de SPS00 -) [
+          s-a-fs/modnomatch/(química químico AQ0FS0 -)
+        ]
+        Fc(,)/modnomatch/(, , Fc -)
+      ]
+      sn/subj/(yo yo PP1CSN00 -)
+      sadv/cc/(más más RG -)
+      sn/obj/(cuestión cuestión NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(sobreactuación sobreactuación NCFS000 -)
+        ]
+      ]
+      grup-sp/cc/(en en SPS00 -) [
+        sn/head/(ambos ambos PI0MP000 -)
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

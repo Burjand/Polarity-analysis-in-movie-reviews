@@ -1,0 +1,53 @@
+sn/top/(película película NCFS000 -) [
+  s-a-fs/qual/(Última último AO0FS0 -)
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(Paco_Martínez_Soria paco_martínez_soria NP00000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(donde donde PR000000 -) [
+    grup-verb/modnorule/(ofrece ofrecer VMIP3S0 -) [
+      patons/modnomatch/(nos nos PP1CP000 -)
+    ]
+  ]
+  sn/modnomatch/(artes arte NCCP000 -) [
+    espec-mp/espec/(sus su DP3CP0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(mujer mujer NCFS000 -)
+    ]
+  ]
+  parti-flex/modnomatch/(vestido vestir VMP00SM -)
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(comedieta comedia NCFS00D -) [
+  s-a-fs/qual/(Divertida divertir VMP00SF -)
+  Fc(,)/modnomatch/(, , Fc -)
+  sadv/modnomatch/(quizá quizá RG -)
+  parti-flex/modnomatch/(pasada pasar VMP00SF -)
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(moda moda NCFS000 -) [
+      grup-sp/modnomatch/(a a SPS00 -) [
+        sn/head/(admiradores admirador NCMP000 -) [
+          espec-mp/espec/(sus su DP3CP0 -)
+          s-a-mp/qual/(acérrimos acérrimo AQ0MP0 -) [
+            sadv/modnorule/(más más RG -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  conj-subord/modnomatch/(que que CS -)
+  s-adj/qual/(seguro seguro AQ0MS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(satisface satisfacer VMIP3S0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(divirtió divertir VMIS3S0 -) [
+  patons/modnomatch/(me me PP1CS000 -)
+  sadv/cc/(Personalmente Personalmente RG -)
+  F-term/term/(. . Fp -)
+]
+

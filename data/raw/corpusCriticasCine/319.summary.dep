@@ -1,0 +1,63 @@
+grup-verb/top/(Es ser VSIP3S0 -) [
+  conj-subord/modnomatch/(como como CS -)
+  subord/modnomatch/(si si CS -) [
+    grup-verb/modnorule/(pusiéramos poner VMSI1P0 -) [
+      patons/modnomatch/(nos nos PP1CP000 -)
+      sadv/cc/(ahora ahora RG -)
+    ]
+  ]
+  grup-sp-inf/iobj/(a a SPS00 -) [
+    grup-verb-inf/head/(hacer hacer VMN0000 -)
+    sn/modnomatch/(semiótica semiótica NCFS000 -)
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(canción canción NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(verano verano NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  grup-verb-inf/modnomatch/(buscar buscar VMN0000 -) [
+    PP*/modnomatch/(le le PP3CSD00 -)
+  ]
+  sn/obj/(tres_pies LN_ft:3 Zu -) [
+    grup-sp/modnomatch/(a a SPS00 -) [
+      sn/head/(gato gato NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        s-a-ms/qual/(simple simple AQ0CS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(Poseidón poseidón NP00000 -)
+  sn/obj/(gato gato NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(verano verano NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(gato gato NCMS000 -) [
+  espec-ms/espec/(El el DA0MS0 -)
+  s-a-ms/qual/(gordo gordo AQ0MS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(hacer hacer VMN0000 -) [
+      VMI*<ir>/modnomatch/(va ir VMIP3S0 -)
+      SPS00(a)/modnomatch/(a a SPS00 -)
+    ]
+  ]
+  sn/modnomatch/(caja caja NCFS000 -)
+  F-term/term/(. . Fp -)
+]
+

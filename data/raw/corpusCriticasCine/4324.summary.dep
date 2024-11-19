@@ -1,0 +1,45 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(hombre hombre NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(reinar reinar VMN0000 -) [
+        VMI*<poder>/modnomatch/(pudo poder VMIS3S0 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(joyas joya NCFP000 -) [
+        espec-fp/espec/(las el DA0FP0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(corona corona NCFS000 -) [
+            espec-fs/espec/(la el DA0FS0 -)
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(género género NCMS000 -) [
+                espec-ms/espec/(el el DA0MS0 -)
+                sp-de/mod/(de de SPS00 -) [
+                  sn/gen/(aventuras aventura NCFP000 -)
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(inmortal inmortal AQ0CS0 -) [
+      sadv/modnorule/(tan tan RG -)
+    ]
+  ]
+  grup-sp/modnomatch/(como como CS -) [
+    sn/head/(cine cine NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(propio propio AQ0MS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  espec-fs/modnomatch/(una uno DI0FS0 -)
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,64 @@
+grup-verb/top/(Es ser VSIP3S0 -) [
+  s-adj/att/(increíble increíble AQ0CS0 -)
+  espec-ms/modnomatch/(todo todo DI0MS0 -) [
+    j-ms/modnorule/(lo el DA0NS0 -)
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(incita incitar VMIP3S0 -)
+  ]
+  grup-sp-inf/iobj/(a a SPS00 -) [
+    grup-verb-inf/head/(pensar pensar VMN0000 -)
+    sn/modnomatch/(Mundo_Ficción mundo_ficción NP00000 -)
+  ]
+  F-no-c/modnomatch/(" " Fe -)
+  grup-sp-inf/modnomatch/(sin sin SPS00 -) [
+    grup-verb-inf/head/(pretender pretender VMN0000 -) [
+      PP*/modnomatch/(lo lo PP3CNA00 -)
+    ]
+  ]
+  F-no-c/modnomatch/(" " Fe -)
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(es ser VSIP3S0 -) [
+  neg/modneg/(No no RN -)
+  sn/obj/(Todos_los_Hombres_de_el_Presidente todos_los_hombres_de_el_presidente NP00000 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(pero pero CC -)
+  sadv/cc/(sí sí RG -)
+  sn/obj/(apuesta apuesta NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Cine cine NP00000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        s-a-ms/qual/(español español AQ0MS0 -)
+      ]
+    ]
+  ]
+  conj-subord/modnomatch/(cuando cuando CS -)
+  sadv/cc/(menos menos RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  s-adj/att/(interesante interesante AQ0CS0 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  prep/modnomatch/(en en SPS00 -)
+  espec-fs/modnomatch/(la el DA0FS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(faltan faltar VMIP3P0 -) [
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  sn/obj/(ni ni CC -) [
+    sn/modnomatch/(picos pico NCMP000 -) [
+      s-a-mp/qual/(patrióticos patriótico AQ0MP0 -)
+    ]
+    CC(ni)/modnomatch/(ni ni CC -)
+    sn/modnomatch/(monólogos monólogo NCMP000 -) [
+      s-a-mp/qual/(ridículos ridículo AQ0MP0 -) [
+        sadv/modnorule/(escalofriantemente escalofriantemente RG -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

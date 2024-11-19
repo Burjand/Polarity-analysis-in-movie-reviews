@@ -1,0 +1,60 @@
+grup-verb/top/(mimó mimar VMIS3S0 -) [
+  sn/subj/(Ricardo_Franco ricardo_franco NP00000 -)
+  sn/obj/(personajes personaje NCMP000 -) [
+    espec-mp/espec/(tres 3 Z -) [
+      dem-mp/modnorule/(estos este DD0MP0 -)
+    ]
+    s-a-mp/qual/(angustiosos angustioso AQ0MP0 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(bordean bordear VMIP3P0 -)
+  ]
+  sadv/cc/(siempre siempre RG -)
+  sn/obj/(patetismo patetismo NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(crudeza crudeza NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    s-a-fs/qual/(incontestable incontestable AQ0CS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(vida vida NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        s-a-fs/qual/(abismada abismar VMP00SF -)
+        coor-sp/modnomatch/(y y CC -) [
+          grup-sp/modnorule/(en en SPS00 -) [
+            sn/head/(soledad soledad NCFS000 -) [
+              espec-fs/espec/(la el DA0FS0 -)
+              sp-de/mod/(de de SPS00 -) [
+                sn/gen/(alegría alegría NCFS000 -) [
+                  espec-fs/espec/(toda todo DI0FS0 -)
+                ]
+              ]
+            ]
+          ]
+          grup-sp/modnorule/(en en SPS00 -) [
+            sn/head/(negación negación NCFS000 -) [
+              espec-fs/espec/(la el DA0FS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(víctimas víctima NCFP000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(tiranía tiranía NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(corazón corazón NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

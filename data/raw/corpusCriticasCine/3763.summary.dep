@@ -1,0 +1,45 @@
+grup-sp/top/(En en SPS00 -) [
+  sn/head/(conjunto conjunto NCMS000 -)
+  sn/head/(película película NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(gran gran AQ0CS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(animación animación NCFS000 -) [
+        grup-sp/modnomatch/(desde desde SPS00 -) [
+          sn/head/(principio principio NCMS000 -) [
+            grup-sp/modnomatch/(a a SPS00 -) [
+              sn/head/(fin fin NCMS000 -)
+              F-no-c/modnomatch/() ) Fpt -)
+            ]
+          ]
+        ]
+      ]
+    ]
+    F-no-c/modnomatch/(( ( Fpa -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(hará hacer VMIF3S0 -)
+    ]
+  ]
+  sn/head/(delicias delicia NCFP000 -) [
+    espec-fp/espec/(las el DA0FP0 -)
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  espec-mp/modnomatch/(todos todo DI0MP0 -) [
+    j-mp/modnorule/(los el DA0MP0 -)
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(dignen dignar VMSP3P0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+    ]
+  ]
+  grup-sp-inf/modnomatch/(a a SPS00 -) [
+    grup-verb-inf/head/(echar echar VMN0000 -) [
+      PP*/modnomatch/(le le PP3CSD00 -)
+    ]
+    sn/modnomatch/(vistazo vistazo NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

@@ -1,0 +1,34 @@
+grup-verb/top/(hay haber VMIP3S0 -) [
+  sn/subj/(Película película NCFS000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(animación animación NCFS000 -)
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(hay haber VMIP3S0 -)
+    ]
+    conj-subord/modnomatch/(que que CS -)
+    grup-verb-inf/modnomatch/(ver ver VMN0000 -)
+    F-no-c/modnomatch/(( ( Fpa -)
+  ]
+  conj-subord/modnomatch/(que que CS -)
+  grup-verb-inf/modnomatch/(apoyar apoyar VMN0000 -)
+  sn/obj/(animación animación NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+    s-adj/qual/(hermos@s hermos@s AQ0CP0 -)
+    F-no-c/modnomatch/() ) Fpt -)
+  ]
+  coord/modnomatch/(pero pero CC -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(deja dejar VMIP3S0 -)
+  ]
+  sn/obj/(sabor sabor NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(extraño extraño AQ0MS0 -)
+    subord/modnomatch/(cuando cuando CS -) [
+      grup-verb/modnorule/(termina terminar VMIP3S0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

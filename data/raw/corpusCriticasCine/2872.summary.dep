@@ -1,0 +1,71 @@
+grup-verb/top/(deambula deambular VMIP3S0 -) [
+  sn/subj/(McClane mcclane NP00000 -)
+  grup-sp/cc/(por por SPS00 -) [
+    sn/head/(universo universo NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(y y CC -) [
+        s-a-ms/modnorule/(oscuro oscuro AQ0MS0 -)
+        s-a-ms/modnorule/(apocalíptico apocalíptico AQ0MS0 -)
+      ]
+    ]
+  ]
+  prep/modnomatch/(en en SPS00 -)
+  espec-ms/modnomatch/(el el DA0MS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(motivan motivar VMIP3P0 -) [
+      coor-n/subj/(y y CC -) [
+        sn/co-n/(pérdida pérdida NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(valores valor NCMP000 -)
+          ]
+        ]
+        sn/co-n/(desorientación desorientación NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          s-a-fs/qual/(colectiva colectivo AQ0FS0 -)
+        ]
+      ]
+      sn/obj/(participación participación NCFS000 -) [
+        espec-fs/espec/(su su DP3CS0 -)
+      ]
+      grup-sp/cc/(en en SPS00 -) [
+        sn/head/(aventura aventura NCFS000 -) [
+          espec-fs/espec/(esta este DD0FS0 -)
+          s-a-fs/qual/(nueva nuevo AQ0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-sp/top/(aunque aunque CC -) [
+  grup-sp/modnorule/(Como como CS -) [
+    sn/head/(película película NCFS000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(acción acción NCFS000 -) [
+          grup-sp/modnomatch/(por por SPS00 -) [
+            sn/head/(momentos momento NCMP000 -)
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    s-adj/modnomatch/(modesta modesto AQ0FS0 -) [
+      sadv/modnorule/(bastante bastante RG -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    s-adj/modnomatch/(sobresaliente sobresaliente AQ0CS0 -)
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  grup-sp/modnorule/(en en SPS00 -) [
+    sn/head/(otros otro PI0MP000 -)
+  ]
+  grup-verb/modnorule/(carece carecer VMIP3S0 -) [
+    sp-de/modnomatch/(de de SPS00 -) [
+      sn/gen/(verosimilitud verosimilitud NCFS000 -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

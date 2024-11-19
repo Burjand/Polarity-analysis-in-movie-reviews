@@ -1,0 +1,77 @@
+grup-verb/top/(hace hacer VMIP3S0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  grup-sp/modnomatch/(a a SPS00 -) [
+    sn/head/(principio principio NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  sn/obj/(pelín pelín NP00000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+  ]
+  parti-flex/modnomatch/(pesada pesar VMP00SF -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(escenas escena NCFP000 -) [
+      s-a-fp/qual/(rellenas relleno AQ0FP0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(nada nada PI0CS000 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  s-adj/modnomatch/(y y CC -) [
+    s-a-fs/modnorule/(insulsa insulso AQ0FS0 -)
+    s-a-fs/modnorule/(desconcertante desconcertante AQ0CS0 -) [
+      sadv/modnorule/(algo algo RG -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(sabe saber VMIP3S0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  neg/modneg/(No no RN -)
+  subord/modnomatch/(si si CS -) [
+    grup-verb/modnorule/(será ser VSIF3S0 -) [
+      sn/obj/(bodrio bodrio NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(ejemplo ejemplo NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(pedantería pedantería NCFS000 -) [
+        grup-verb/modnomatch/(derivará derivar VMIF3S0 -) [
+          grup-sp/modnomatch/(a a SPS00 -) [
+            sn/head/(mejor mejor AQ0CS0 -) [
+              j-ms/modnomatch/(lo el DA0NS0 -)
+            ]
+          ]
+          grup-sp/modnomatch/(hacia hacia SPS00 -) [
+            sn/head/(positivo positivo AQ0MS0 -) [
+              pindef-ms/modnomatch/(algo algo PI0CS000 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  coord/modnomatch/(o o CC -)
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(. . Fp -)
+]
+
+coor-sp/top/(Y y CC -) [
+  Fc(,)/modnorule/(, , Fc -)
+  grup-sp/modnorule/(gracias_a gracias_a SPS00 -) [
+    sn/head/(Dios dios NP00000 -)
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(sucede suceder VMIP3S0 -) [
+    sn/obj/(esto este PD0NS000 -)
+    sadv/cc/(útimo útimo RG -)
+  ]
+]
+

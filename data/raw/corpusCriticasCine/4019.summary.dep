@@ -1,0 +1,59 @@
+grup-verb/top/(parece parecer VMIP3S0 -) [
+  sn/subj/(cinta cinta NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Lawrence lawrence NP00000 -)
+    ]
+  ]
+  sn/obj/(versión versión NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+  ]
+  sadv/cc/(muy muy RG -)
+  s-adj/modnomatch/(, , Fc -) [
+    s-a-fs/modnorule/(edulcorada edulcorar VMP00SF -)
+    s-a-fs/modnorule/(optimista optimista AQ0CS0 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(facilona facilona NP00000 -)
+  coord/modnomatch/(y y CC -)
+  prep/modnomatch/(a a SPS00 -)
+  espec-fs/modnomatch/(la el DA0FS0 -)
+  sn/obj/(postre postre NCMS000 -) [
+    s-a-ms/qual/(comercialoide comercial AQXCS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(libro libro NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        s-a-ms/qual/(excelente excelente AQ0CS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(autor autor NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+            s-a-ms/qual/(americano americano AQ0MS0 -)
+            grup-verb/modnomatch/(convierte convertir VMIP3S0 -) [
+              patons/modnomatch/(la lo PP3FSA00 -)
+              grup-sp/cc/(en en SPS00 -) [
+                sn/head/(olvidable olvidable AQ0CS0 -) [
+                  pindef-ms/modnomatch/(algo algo PI0CS000 -)
+                  sadv/modnomatch/(plenamente plenamente RG -)
+                  sp-de/mod/(de de SPS00 -) [
+                    sn/gen/(sala sala NCFS000 -) [
+                      espec-fs/espec/(la el DA0FS0 -)
+                    ]
+                  ]
+                ]
+              ]
+              grup-sp-inf/modnomatch/(tras tras SPS00 -) [
+                grup-verb-inf/head/(salir salir VMN0000 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  relatiu/modnomatch/(cual cual PR0CS000 -) [
+    j-ms/modnorule/(lo el DA0NS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

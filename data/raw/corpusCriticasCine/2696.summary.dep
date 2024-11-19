@@ -1,0 +1,36 @@
+grup-verb/top/(comedia comediar VMIP3S0 -) [
+  sn/subj/(Simpática simpática NP00000 -)
+  grup-sp/modnomatch/(a_cargo_de a_cargo_de SPS00 -) [
+    sn/head/(Santiago_Lorenzo santiago_lorenzo NP00000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(es ser VSIP3S0 -) [
+      grup-sp/modnomatch/(tras tras SPS00 -) [
+        sn/head/(rompedora rompedor NCFS000 -) [
+          espec-fs/espec/(su su DP3CS0 -)
+          grup-verb/modnomatch/(pone poner VMIP3S0 -) [
+            morfema-verbal/modnomatch/(se se P0000000 -)
+            grup-sp/cc/(tras tras SPS00 -) [
+              sn/head/(cámara cámara NCFS000 -) [
+                espec-fs/espec/(la el DA0FS0 -)
+              ]
+            ]
+            grup-sp/cc/(por por SPS00 -) [
+              sn/head/(vez vez NCFS000 -) [
+                s-a-fs/qual/(segunda 2 AO0FS0 -)
+              ]
+            ]
+          ]
+        ]
+        F-no-c/modnomatch/(" " Fe -)
+      ]
+      sn/subj/(Mamá mamá NCFS000 -)
+    ]
+  ]
+  s-adj/modnomatch/(boba bobo AQ0FS0 -)
+  F-no-c/modnomatch/(" " Fe -)
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(. . Fp -)
+]
+

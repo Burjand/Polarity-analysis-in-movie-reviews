@@ -1,0 +1,34 @@
+grup-verb/top/(comienza comenzar VMIP3S0 -) [
+  sn/subj/(peli peli NP00000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(actores actor NCMP000 -) [
+      espec-mp/espec/(todos todo DI0MP0 -) [
+        j-mp/modnorule/(los el DA0MP0 -)
+      ]
+      s-a-mp/qual/(hundidos hundir VMP00PM -)
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(charca charca NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(y y CC -)
+  conj-subord/modnomatch/(que que CS -)
+  sn/obj/(premonicion premonicion NP00000 -)
+  coord/modnomatch/(mas mas CC -)
+  s-adj/modnomatch/(clara claro AQ0FS0 -)
+  prep/modnomatch/(de de SPS00 -)
+  espec-ms/modnomatch/(lo el DA0NS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(ver ver VMN0000 -) [
+      VMI*<ir>/modnomatch/(iba ir VMII1S0 -)
+      SPS00(a)/modnomatch/(a a SPS00 -)
+    ]
+    F-no-c/modnorule/(... ... Fs -)
+  ]
+]
+

@@ -1,0 +1,40 @@
+grup-verb/top/(decir decir VMN0000 -) [
+  VMI*<poder>/modnomatch/(podemos poder VMIP1P0 -)
+  sadv/cc/(A_grandes_rasgos a_grandes_rasgos RG -) [
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  sadv/cc/(solo solo RG -)
+  conj-subord/modnomatch/(que que CS -)
+  vaux/aux/(estamos estar VAIP1P0 -)
+  grup-sp/modnomatch/(ante ante SPS00 -) [
+    sn/head/(película película NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      grup-sp/modnomatch/(con con SPS00 -) [
+        sn/head/(sello sello NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(Bruckheimer bruckheimer NP00000 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  prep/modnomatch/(con con SPS00 -)
+  espec-ms/modnomatch/(todo todo DI0MS0 -)
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(bueno bueno AQ0MS0 -) [
+      j-ms/modnomatch/(lo el DA0NS0 -)
+    ]
+    sn/co-n/(malo malo AQ0MS0 -) [
+      j-ms/modnomatch/(lo el DA0NS0 -)
+    ]
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(conlleva conllevar VMIP3S0 -) [
+      sn/subj/(eso ese PD0NS000 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

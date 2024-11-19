@@ -1,0 +1,40 @@
+coor-vb/top/(pero pero CC -) [
+  grup-verb/co-v/(deja dejar VMIP3S0 -) [
+    morfema-verbal/modnomatch/(Se se P0000000 -)
+    grup-verb-inf/modnomatch/(ver ver VMN0000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(es ser VSIP3S0 -) [
+    neg/modneg/(no no RN -)
+  ]
+  s-adj/modnomatch/(recomendable recomendable AQ0CS0 -) [
+    sadv/modnorule/(desde_luego desde_luego RG -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+interjeccio/top/(Bueno bueno I -) [
+  Fc(,)/modnorule/(, , Fc -)
+  prep/modnorule/(excepto excepto SPS00 -)
+  grup-sp/modnorule/(para para SPS00 -) [
+    sn/head/(aquellos aquel PD0MP000 -)
+  ]
+  subord/modnorule/(que que PR0CN000 -) [
+    grup-verb/modnorule/(emocionen emocionar VMSP3P0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+    ]
+  ]
+  prep/modnorule/(a a SPS00 -)
+  espec-ms/modnorule/(el el DA0MS0 -)
+  grup-verb-inf/modnorule/(ver ver VMN0000 -)
+  sn/modnorule/(personajes personaje NCMP000 -) [
+    s-a-mp/qual/(envueltos envolver VMP00PM -)
+    grup-sp/modnomatch/(en en SPS00 -) [
+      sn/head/(banderas bandera NCFP000 -) [
+        s-a-fp/qual/(republicanas republicano AQ0FP0 -)
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

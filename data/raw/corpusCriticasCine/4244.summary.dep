@@ -1,0 +1,55 @@
+subord/top/(Ya_que ya_que CS -) [
+  grup-verb/modnorule/(probado probar VMP00SM -) [
+    vaux/aux/(está estar VAIP3S0 -)
+    sn/obj/(éxito éxito NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(carnet carnet NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  grup-sp/modnorule/(por por SPS00 -) [
+    sn/head/(puntos punto NCMP000 -)
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(trasladar trasladar VMN0000 -) [
+    VMI*<deber>/modnomatch/(deberían deber VMIC3P0 -)
+    sn/obj/(concepto concepto NCMS000 -) [
+      espec-ms/espec/(este este DD0MS0 -)
+    ]
+    grup-sp/cc/(a a SPS00 -) [
+      sn/head/(áreas área NCFP000 -) [
+        espec-fp/espec/(otras otro DI0FP0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  grup-sp/modnorule/(como como CS -) [
+    sn/head/(de de SPS00 -) [
+      j-fs/modnomatch/(la el DA0FS0 -)
+      sn/modnomatch/(cine cine NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+sn/top/(Triste triste NP00000 -) [
+  Fc(,)/modnomatch/(, , Fc -)
+  s-adj/qual/(triste triste AQ0CS0 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(lleve_a_cabo llevar_a_cabo VMSP1S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+      sn/subj/(película película NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+      ]
+      sadv/cc/(así así RG -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

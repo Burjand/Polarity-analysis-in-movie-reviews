@@ -1,0 +1,50 @@
+grup-verb/top/(tuviera tener VMSI1S0 -) [
+  sn/subj/(Quién quién PT0CS000 -)
+  sn/obj/(don don NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+  ]
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(ver ver VMN0000 -)
+    sn/modnomatch/(futuro futuro NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  grup-sp/modnomatch/(como como CS -) [
+    sn/head/(personaje personaje NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(Nicolas_Cage nicolas_cage NP00000 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(ahorrar ahorrar VMN0000 -) [
+  patons/modnomatch/(nos nos PP1CP000 -)
+  VMI*<poder>/modnomatch/(podríamos poder VMIC1P0 -)
+  grup-sp/modnomatch/(Con con SPS00 -) [
+    sn/head/(capacidad capacidad NCFS000 -) [
+      espec-fs/espec/(semejante semejante DD0CS0 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(bochornos bochorno NCMP000 -) [
+    espec-mp/espec/(muchos mucho DI0MP0 -)
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  espec-mp/modnomatch/(los el DA0MP0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(soportamos soportar VMIP1P0 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(sala sala NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(cine cine NCMS000 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

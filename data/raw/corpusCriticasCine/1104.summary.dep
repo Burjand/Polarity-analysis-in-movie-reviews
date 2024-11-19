@@ -1,0 +1,71 @@
+grup-verb/top/(comedia comediar VMIP3S0 -) [
+  sn/subj/(Deliciosa deliciosa NP00000 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(hará hacer VMIF3S0 -) [
+      patons/modnomatch/(te te PP2CS000 -)
+    ]
+  ]
+  grup-verb-inf/modnomatch/(reir reir VMN0000 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb-inf/modnomatch/(sufrir sufrir VMN0000 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb-inf/modnomatch/(llorar llorar VMN0000 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb-inf/modnomatch/(emocionar emocionar VMN0000 -) [
+    PP*/modnomatch/(te te PP2CS000 -)
+  ]
+  coord/modnomatch/(y y CC -)
+  grup-verb-inf/modnomatch/(dar dar VMN0000 -)
+  sn/obj/(rienda rienda NCFS000 -) [
+    s-a-fs/qual/(suelta suelto AQ0FS0 -)
+    grup-sp/modnomatch/(a a SPS00 -) [
+      sn/head/(emociones emoción NCFP000 -) [
+        espec-fp/espec/(tus tu DP2CPS -)
+        grup-sp/modnomatch/(sin sin SPS00 -) [
+          sn/head/(problema problema NCMS000 -) [
+            espec-ms/espec/(ningún ninguno DI0MS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(demuestra demostrar VMIP3S0 -) [
+  patons/modnomatch/(Nos nos PP1CP000 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(son ser VSIP3P0 -) [
+      neg/modneg/(no no RN -)
+      sn/obj/(despliegues despliegue NCMP000 -) [
+        s-a-mp/qual/(necesarios necesario AQ0MP0 -)
+        s-a-mp/qual/(grandes grande AQ0CP0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(medios medio NCMP000 -)
+        ]
+      ]
+    ]
+  ]
+  coor-n/obj/(ni ni CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(actores actor NCMP000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(renombre renombre NCMS000 -)
+      ]
+    ]
+  ]
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(hacer hacer VMN0000 -)
+    sn/modnomatch/(películas película NCFP000 -) [
+      s-a-fp/qual/(grandísimas grande AQSFP0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(encantado encantar VMP00SM -) [
+  patons/modnomatch/(Nos nos PP1CP000 -)
+  vaux/aux/(ha haber VAIP3S0 -)
+  F-term/term/(. . Fp -)
+]
+

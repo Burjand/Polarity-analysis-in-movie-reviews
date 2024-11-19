@@ -1,0 +1,32 @@
+grup-verb/top/(acusó acusar VMIS3S0 -) [
+  morfema-verbal/modnomatch/(Se se P0000000 -)
+  patons/modnomatch/(la lo PP3FSA00 -)
+  grup-sp/modnomatch/(de de SPS00 -) [
+    s-a-fs/modnomatch/(larga largo AQ0FS0 -) [
+      sadv/modnorule/(demasiado demasiado RG -)
+    ]
+  ]
+  subord/modnomatch/(cuando cuando CS -) [
+    grup-verb/modnorule/(daría dar VMIC1S0 -) [
+      sn/subj/(vida vida NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        s-a-fs/qual/(corta corto AQ0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(conquistador conquistador NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sadv/cc/(como_mínimo como_mínimo RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/iobj/(para para SPS00 -) [
+    sn/head/(miniserie miniserie NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

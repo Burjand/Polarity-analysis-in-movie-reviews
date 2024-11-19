@@ -1,0 +1,35 @@
+grup-verb/top/(retrata retratar VMIP3S0 -) [
+  sn/subj/(Pudor pudor NP00000 -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(acierto acierto NCMS000 -)
+  ]
+  sn/obj/(problemas problema NCMP000 -) [
+    espec-mp/espec/(los el DA0MP0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(incomunicación incomunicación NCFS000 -)
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(padece padecer VMIP3S0 -)
+    ]
+  ]
+  sn/obj/(sociedad sociedad NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  sadv/cc/(hoy hoy RG -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(día día NCMS000 -)
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(miedo miedo NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  grup-sp-inf/iobj/(a a SPS00 -) [
+    grup-verb-inf/head/(expresar expresar VMN0000 -)
+    sn/modnomatch/(sentimientos sentimiento NCMP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,76 @@
+sn/top/(horas hora NCFP000 -) [
+  espec-fp/espec/(2 2 Z -) [
+    j-fp/modnorule/(Las el DA0FP0 -)
+  ]
+  coord/modnomatch/(mas mas CC -)
+  s-adj/qual/(y y CC -) [
+    s-a-fp/modnorule/(largas largo AQ0FP0 -)
+    s-a-fp/modnorule/(pesadas pesar VMP00PF -)
+  ]
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(vida vida NCFS000 -) [
+      espec-fs/espec/(mi mi DP1CSS -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(importaba importar VMII1S0 -) [
+  patons/modnomatch/(me me PP1CS000 -)
+  grup-sp/cc/(Durante durante SPS00 -) [
+    sn/head/(parte parte NCFS000 -) [
+      s-a-fs/qual/(buena bueno AQ0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(metraje metraje NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          grup-verb/modnomatch/(hace hacer VMIP3S0 -) [
+            morfema-verbal/modnomatch/(se se P0000000 -)
+            sn/subj/(película película NCFS000 -) [
+              espec-fs/espec/(la el DA0FS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  sn/obj/(carajos carajo NCMP000 -) [
+    numero-nopart/quant/(3 3 Z -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(pasar pasar VMN0000 -) [
+        patons/modnomatch/(le le PP3CSD00 -)
+        VMI*<ir>/modnomatch/(iba ir VMII1S0 -)
+        SPS00(a)/modnomatch/(a a SPS00 -)
+      ]
+    ]
+  ]
+  grup-sp/cc/(a a SPS00 -) [
+    sn/head/(héroe héroe NCMS000 -) [
+      Fe/modnomatch/(" " Fe -)
+      Fe/modnomatch/(" " Fe -)
+      espec-ms/espec/(nuestro nuestro DP1MSP -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  s-adj/modnomatch/(, , Fc -) [
+    s-a-fs/modnorule/(sosa soso AQ0FS0 -)
+    s-a-fs/modnorule/(, , Fc -) [
+      s-a-fs/modnorule/(tediosa tedioso AQ0FS0 -)
+      s-a-fs/modnorule/(, , Fc -) [
+        s-a-fs/modnorule/(aburrida aburrir VMP00SF -)
+        s-a-fs/modnorule/(simple simple AQ0CS0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/cc/(con con SPS00 -) [
+    sn/head/(diálogos diálogo NCMP000 -)
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(provocan provocar VMIP3P0 -)
+  ]
+  sn/obj/(carcajada carcajada NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

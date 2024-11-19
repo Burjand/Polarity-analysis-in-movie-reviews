@@ -1,0 +1,63 @@
+subord/top/(Si si CS -) [
+  grup-verb/modnorule/(gusta gustar VMIP3S0 -) [
+    patons/modnomatch/(te te PP2CS000 -)
+    sn/obj/(rol rol NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  sn/modnorule/(cine cine NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(fantasía fantasía NCFS000 -)
+    ]
+  ]
+  coord/modnorule/(y y CC -)
+  grup-verb-inf/modnorule/(sumergir sumergir VMN0000 -) [
+    PP*/modnomatch/(te te PP2CS000 -)
+  ]
+  grup-sp/modnorule/(en en SPS00 -) [
+    sn/head/(aventuras aventura NCFP000 -) [
+      grup-sp/modnomatch/(a a SPS00 -) [
+        sn/head/(estilo estilo NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(El_Señor_de_los_Anillos el_señor_de_los_anillos NP00000 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(vale valer VMIP3S0 -) [
+    sadv/cc/(más más RG -)
+    subord/modnomatch/(que que CS -) [
+      grup-verb/modnorule/(mantengas mantener VMSP2S0 -) [
+        patons/modnomatch/(te te PP2CS000 -)
+      ]
+    ]
+  ]
+  parti-flex/modnorule/(alejado alejar VMP00SM -)
+  prep/modnorule/(de de SPS00 -)
+  espec-fs/modnorule/(la el DA0FS0 -)
+  subord/modnorule/(que que PR0CN000 -) [
+    grup-verb/modnorule/(es ser VSIP3S0 -)
+  ]
+  sadv/modnorule/(seguro seguro RG -)
+  espec-fs/modnorule/(una uno DI0FS0 -)
+  sp-de/modnorule/(de de SPS00 -) [
+    sn/gen/(películas película NCFP000 -) [
+      espec-fp/espec/(100 100 Z -) [
+        j-fp/modnorule/(las el DA0FP0 -)
+      ]
+      s-a-fp/qual/(peores peor AQ0CP0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(historia historia NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

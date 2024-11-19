@@ -1,0 +1,76 @@
+grup-verb/top/(dirigió dirigir VMIS3S0 -) [
+  grup-sp/cc/(En en SPS00 -) [
+    sn/head/(John_McTiernan john_mctiernan NP00000 -) [
+      numero-nopart/quant/(1988 1988 Z -)
+      grup-verb/modnomatch/(prota prota VMIP3S0 -) [
+        grup-sp/modnomatch/(con con SPS00 -) [
+          sn/head/(carisma carisma NCMS000 -)
+        ]
+        coor-n/obj/(y y CC -) [
+          sn/co-n/(sentido_de_el_humor sentido_del_humor NCMS000 -)
+        ]
+      ]
+    ]
+  ]
+  sn/obj/(peli peli AQ0CN0 -) [
+    indef-fs/modnomatch/(una uno DI0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(acción acción NCFS000 -)
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(tenía tener VMII1S0 -)
+    ]
+  ]
+  espec-ms/modnomatch/(un uno DI0MS0 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(algo algo PI0CS000 -) [
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(abundaba abundar VMII1S0 -) [
+        sadv/cc/(entonces entonces RG -)
+        neg/modneg/(no no RN -)
+        F-no-c/modnomatch/(( ( Fpa -)
+        F-no-c/modnomatch/(¿ ¿ Fia -)
+        sadv/cc/(ahora ahora RG -)
+      ]
+    ]
+    grup-verb/modnomatch/(encontramos encontrar VMIP1P0 -) [
+      patons/modnomatch/(nos nos PP1CP000 -)
+      grup-sp/cc/(en en SPS00 -) [
+        sn/head/(compañeros compañero NCMP000 -) [
+          espec-mp/espec/(sus su DP3CP0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(cartelera cartelera NCFS000 -) [
+              grup-sp/modnomatch/(de de SPS00 -) [
+                sadv/modnomatch/(entonces entonces RG -)
+              ]
+            ]
+          ]
+        ]
+      ]
+      grup-sp/iobj/(a a SPS00 -) [
+        sn/head/(Seagal seagal NP00000 -)
+      ]
+      coor-n/obj/(o o CC -) [
+        Fc(,)/modnomatch/(, , Fc -)
+        sn/co-n/(Van_Damme van_damme NP00000 -)
+        sn/co-n/(tío tío NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(Cocodrilo_Dundee cocodrilo_dundee NP00000 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  conj-subord/modnomatch/(si si CS -)
+  F-term/term/(? ? Fit -)
+  F-no-c/modnomatch/() ) Fpt -)
+  conj-subord/modnomatch/(ya_que ya_que CS -)
+  subord/modnomatch/(si si CS -) [
+    grup-verb/modnorule/(fijamos fijar VMIP1P0 -) [
+      patons/modnomatch/(nos nos PP1CP000 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

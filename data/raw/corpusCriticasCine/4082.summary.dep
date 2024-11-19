@@ -1,0 +1,70 @@
+grup-verb/top/(intuye intuir VMIP3S0 -) [
+  grup-sp/modnomatch/(Desde desde SPS00 -) [
+    sn/head/(principio principio NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  sn/subj/(uno uno PI0MS000 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(está estar VAIP3S0 -)
+  ]
+  grup-sp/modnomatch/(ante ante SPS00 -) [
+    sn/head/(grande grande AQ0CS0 -) [
+      pindef-ms/modnomatch/(algo algo PI0CS000 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(plano plano NCMS000 -) [
+      espec-ms/espec/(ese ese DD0MS0 -)
+      s-a-ms/qual/(excelente excelente AQ0CS0 -)
+      n-fs/modnomatch/(secuencia secuencia NCFS000 -)
+    ]
+  ]
+  subord/modnomatch/(donde donde PR000000 -) [
+    grup-verb/modnorule/(ver ver VMN0000 -) [
+      VMI*<poder>/modnomatch/(podemos poder VMIP1P0 -)
+    ]
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(personajes personaje NCMP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(mejor mejor AQ0CS0 -) [
+    j-ms/modnomatch/(lo el DA0NS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(visto ver VMP00SM -) [
+        vaux/aux/(he haber VAIP1S0 -)
+      ]
+    ]
+    grup-sp/modnomatch/(en en SPS00 -) [
+      sn/head/(cine cine NCMS000 -) [
+        grup-sp/modnomatch/(en en SPS00 -) [
+          sadv/modnomatch/(mucho mucho RG -)
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(tiempo tiempo NCMS000 -) [
+    espec-ms/espec/(mucho mucho DI0MS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-sp/modnomatch/(además_de además_de SPS00 -) [
+      sn/head/(diálogos diálogo NCMP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+      ]
+      F-no-c/modnomatch/(; ; Fx -)
+    ]
+  ]
+  sn/obj/(trabajo trabajo NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(excelente excelente AQ0CS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Alex_de_La_Iglesia alex_de_la_iglesia NP00000 -)
+    ]
+    F-no-c/modnomatch/(... ... Fs -)
+  ]
+]
+

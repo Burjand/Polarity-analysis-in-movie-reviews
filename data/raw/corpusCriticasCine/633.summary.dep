@@ -1,0 +1,61 @@
+grup-verb/top/(ofrece ofrecer VMIP3S0 -) [
+  sn/subj/(Parte parte NCFS000 -) [
+    grup-sp/modnomatch/(ante ante SPS00 -) [
+      sn/head/(todo todo PI0MS000 -)
+    ]
+    grup-sp-inf/modnomatch/(de de SPS00 -) [
+      grup-verb-inf/head/(ser ser VSN0000 -)
+      sn/modnomatch/(entretenimiento entretenimiento NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        subord/modnomatch/(que que PR0CN000 -) [
+          grup-verb/modnorule/(engaña engañar VMIP3S0 -) [
+            neg/modneg/(no no RN -)
+          ]
+        ]
+        grup-sp/modnomatch/(a a SPS00 -) [
+          sn/head/(nadie nadie PI0CS000 -) [
+            grup-sp/modnomatch/(a a SPS00 -) [
+              sn/head/(asiento asiento NCMS000 -) [
+                espec-ms/espec/(el el DA0MS0 -)
+                grup-sp/modnomatch/(durante durante SPS00 -) [
+                  sn/head/(algo algo PI0CS000 -)
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+    prep/modnomatch/(por por SPS00 -)
+    conj-subord/modnomatch/(si si CS -)
+    s-adj/qual/(mismo mismo AQ0MS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(mantiene mantener VMIP3S0 -) [
+        patons/modnomatch/(te te PP2CS000 -)
+      ]
+    ]
+    parti-flex/modnomatch/(pegado pegar VMP00SM -)
+    sadv/modnomatch/(más más RG -) [
+      SPS00(de)/modnorule/(de de SPS00 -)
+      sn/modnorule/(minutos minuto NCMP000 -) [
+        numero-nopart/quant/(noventa 90 Z -)
+        grup-sp/modnomatch/(dentro_de dentro_de SPS00 -) [
+          sn/head/(licitaciones licitación NCFP000 -) [
+            espec-fp/espec/(sus su DP3CP0 -)
+          ]
+        ]
+      ]
+    ]
+    coord/modnomatch/(y y CC -)
+    prel/modnomatch/(que que PR0CN000 -)
+    Fc(,)/modnomatch/(, , Fc -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(espectáculo espectáculo NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(correcto correcto AQ0MS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

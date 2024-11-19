@@ -1,0 +1,59 @@
+sn/top/(dirección dirección NCFS000 -) [
+  s-a-fs/qual/(Efectiva efectivo AQ0FS0 -)
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(actores actor NCMP000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/modnomatch/(encuadres encuadre NCMP000 -) [
+    s-a-mp/qual/(perfectos perfecto AQ0MP0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/modnomatch/(utilización utilización NCFS000 -) [
+    s-a-fs/qual/(elegante elegante AQ0CS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(planos-contraplanos planos-contraplanos NCMP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/modnomatch/(escena escena NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(excelente excelente AQ0CS0 -)
+    grup-sp/modnomatch/(bajo bajo SPS00 -) [
+      sn/head/(lluvia lluvia NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sadv/top/(Bastante bastante RG -) [
+  sadv/modnorule/(más más RG -)
+  prep/modnorule/(de de SPS00 -)
+  espec-ms/modnorule/(lo el DA0NS0 -)
+  subord/modnorule/(que que PR0CN000 -) [
+    grup-verb/modnorule/(decir decir VMN0000 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+      VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  grup-sp/modnorule/(en en SPS00 -) [
+    sn/head/(cine cine NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(actual actual AQ0CS0 -)
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  sp-de/modnorule/(de de SPS00 -) [
+    sn/gen/(directores director NCMP000 -) [
+      espec-mp/espec/(otros otro DI0MP0 -) [
+        indef-mp/modnorule/(muchos mucho DI0MP0 -)
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

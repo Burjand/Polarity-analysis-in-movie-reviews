@@ -1,0 +1,32 @@
+prep/top/(De de SPS00 -) [
+  neg/modnorule/(no no RN -)
+  grup-verb-inf/modnorule/(sido ser VSP00SM -) [
+    infaux/modnomatch/(haber haber VAN0000 -)
+  ]
+  grup-verb/modnorule/(quedaría quedar VMIC1S0 -) [
+    grup-sp/modnomatch/(por por SPS00 -) [
+      sn/head/(presencia presencia NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+    coor-n/subj/(y y CC -) [
+      sn/co-n/(genialidad genialidad NCFS000 -) [
+        w-fs/modnomatch/(Morgan_Freeman morgan_freeman NP00000 -)
+      ]
+    ]
+    coor-n/subj/(y y CC -) [
+      sn/co-n/(Jack_Nicholson jack_nicholson NP00000 -)
+    ]
+    sn/subj/(cinta cinta NCFS000 -) [
+      espec-fs/espec/(esta este DD0FS0 -)
+    ]
+    sadv/cc/(fácilmente fácilmente RG -)
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(olvido olvido NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

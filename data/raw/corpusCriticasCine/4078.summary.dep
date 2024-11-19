@@ -1,0 +1,41 @@
+grup-verb/top/(queda quedar VMIP3S0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  sn/subj/(propuesta propuesta NCFS000 -) [
+    espec-fs/espec/(Una uno DI0FS0 -)
+    s-a-fs/qual/(interesante interesante AQ0CS0 -)
+    prel/modnomatch/(que que PR0CN000 -)
+    grup-sp-inf/modnomatch/(a_pesar_de a_pesar_de SPS00 -) [
+      grup-verb-inf/head/(ofrecido ofrecer VMP00SM -) [
+        VMN0000(poder)/modnomatch/(poder poder VMN0000 -)
+        infaux/modnomatch/(haber haber VAN0000 -)
+      ]
+    ]
+    sadv/modnomatch/(más más RG -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(película película NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(es ser VSIP3S0 -) [
+      sn/subj/(sobretodo sobretodo NCMS000 -)
+    ]
+  ]
+  s-adj/modnomatch/(recomendable recomendable AQ0CS0 -)
+  grup-sp/iobj/(para para SPS00 -) [
+    sn/head/(amantes amante NCCP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+      grup-verb/modnomatch/(genero generar VMIP1S0 -) [
+        grup-sp/modnomatch/(como como CS -) [
+          sn/head/(curiosidad curiosidad NCFS000 -)
+        ]
+      ]
+    ]
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  espec-ms/modnomatch/(el el DA0MS0 -)
+  F-term/term/(. . Fp -)
+]
+

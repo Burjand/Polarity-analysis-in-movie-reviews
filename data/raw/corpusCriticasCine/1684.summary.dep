@@ -1,0 +1,67 @@
+subord/top/(Que que CS -) [
+  grup-verb/modnorule/(encantado encantar VMP00SM -) [
+    patons/modnomatch/(me me PP1CS000 -)
+    vaux/aux/(ha haber VAIP3S0 -)
+  ]
+  coor-vb/modnorule/(y y CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-verb/co-v/(fascinado fascinar VMP00SM -) [
+      patons/modnomatch/(me me PP1CS000 -)
+      vaux/aux/(ha haber VAIP3S0 -)
+    ]
+    grup-verb/co-v/(impactado impactar VMP00SM -) [
+      patons/modnomatch/(me me PP1CS000 -)
+      vaux/aux/(ha haber VAIP3S0 -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+F-no-c/top/(¿ ¿ Fia -) [
+  grup-verb/modnorule/(Significa significar VMIP3S0 -) [
+    coor-n/obj/(o o CC -) [
+      sn/co-n/(eso ese PD0NS000 -) [
+        subord/modnomatch/(que que CS -) [
+          grup-verb/modnorule/(sea ser VSSP1S0 -) [
+            sn/obj/(película película NCFS000 -) [
+              espec-fs/espec/(una uno DI0FS0 -)
+              s-a-fs/qual/(perfecta perfecto AQ0FS0 -)
+            ]
+          ]
+        ]
+      ]
+      sn/co-n/(obra obra NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        s-a-fs/qual/(maestra maestro AQ0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(cine cine NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/modnorule/(? ? Fit -)
+]
+
+conj-subord/top/(Pues pues CS -) [
+  neg/modnorule/(no no RN -)
+  F-term/modnorule/(. . Fp -)
+]
+
+coor-vb/top/(Pero pero CC -) [
+  grup-verb/co-v/(era ser VSII1S0 -) [
+    neg/modneg/(no no RN -)
+  ]
+  espec-ms/modnomatch/(lo el DA0NS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(pedía pedir VMII1S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+    ]
+  ]
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(ella él PP3FS000 -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

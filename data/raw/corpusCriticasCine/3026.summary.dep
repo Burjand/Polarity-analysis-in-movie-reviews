@@ -1,0 +1,74 @@
+grup-verb/top/(queda quedar VMIP3S0 -) [
+  sn/subj/(promedio promedio NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+    s-a-ms/qual/(espectador espectador AQ0MS0 -)
+  ]
+  parti-flex/modnomatch/(advertido advertir VMP00SM -)
+  F-no-c/modnomatch/(: : Fd -)
+  subord/modnomatch/(si si CS -) [
+    grup-verb/modnorule/(tiene tener VMIP3S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+      sn/obj/(poco poco PI0MS000 -) [
+        indef-ms/modnomatch/(un uno DI0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(paciencia paciencia NCFS000 -)
+        ]
+      ]
+    ]
+  ]
+  coor-sp/modnomatch/(y y CC -) [
+    grup-sp/modnorule/(con con SPS00 -) [
+      sn/head/(ritmo ritmo NCMS000 -) [
+        espec-ms/espec/(su su DP3CS0 -)
+        s-a-ms/qual/(peculiar peculiar AQ0CS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(narración narración NCFS000 -) [
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(horror horror NCMS000 -) [
+                espec-ms/espec/(el el DA0MS0 -)
+                grup-verb/modnomatch/(encuentra encontrar VMIP3S0 -) [
+                  morfema-verbal/modnomatch/(se se P0000000 -)
+                  sn/subj/(uno uno PI0MS000 -) [
+                    sp-de/mod/(de de SPS00 -) [
+                      sn/gen/(año año NCMS000 -)
+                    ]
+                  ]
+                  sadv/cc/(de_bruces de_bruces RG -)
+                  grup-sp/modnomatch/(con con SPS00 -) [
+                    sn/head/(uno uno PI0MS000 -) [
+                      sp-de/mod/(de de SPS00 -) [
+                        sn/gen/(estrenos estreno NCMP000 -) [
+                          espec-mp/espec/(los el DA0MP0 -)
+                          sp-de/mod/(de de SPS00 -) [
+                            sn/gen/(género género NCMS000 -)
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+    grup-sp/modnorule/(con con SPS00 -) [
+      sn/head/(dosificación dosificación NCFS000 -) [
+        espec-fs/espec/(su su DP3CS0 -)
+        s-a-fs/qual/(deliberada deliberar VMP00SF -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  s-adj/modnomatch/(interesantes interesante AQ0CP0 -) [
+    sadv/modnorule/(más más RG -)
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  espec-ms/modnomatch/(lo el DA0NS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(llevamos llevar VMIP1P0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

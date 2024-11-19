@@ -1,0 +1,38 @@
+grup-verb/top/(debuta debutar VMIP3S0 -) [
+  sn/subj/(Ben_Affleck ben_affleck NP00000 -) [
+    grup-verb/modnomatch/(basado basar VMP00SM -) [
+      vaux/aux/(está estar VAIP3S0 -)
+      grup-sp/cc/(en en SPS00 -) [
+        sn/head/(novela novela NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(autor autor NCMS000 -) [
+              espec-ms/espec/(el el DA0MS0 -)
+              sp-de/mod/(de de SPS00 -) [
+                sn/gen/(Mystic_River mystic_river NP00000 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(éxito éxito NCMS000 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(dirección dirección NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(film film NCMS000 -) [
+          espec-ms/espec/(este este DD0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  relatiu/modnomatch/(argumento argumento NCMS000 -) [
+    cuyo-ms/modnorule/(cuyo cuyo PR0MS000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

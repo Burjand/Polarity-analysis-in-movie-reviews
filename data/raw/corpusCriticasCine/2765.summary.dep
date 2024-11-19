@@ -1,0 +1,35 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(Carta_Esférica carta_esférica NP00000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+  ]
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(intriga intriga NCFS000 -)
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(pretende pretender VMIP3S0 -)
+    ]
+  ]
+  grup-verb-inf/modnomatch/(aportar aportar VMN0000 -)
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(tensión tensión NCFS000 -) [
+      espec-fs/espec/(mucha mucho DI0FS0 -)
+      grup-verb/modnomatch/(cumple cumplir VMIP3S0 -) [
+        sn/subj/(final final NCFS000 -)
+        neg/modneg/(no no RN -)
+        grup-sp/modnomatch/(con con SPS00 -) [
+          sn/head/(prometido prometido NCMS000 -) [
+            espec-ms/espec/(lo el DA0NS0 -)
+          ]
+        ]
+      ]
+    ]
+    sn/co-n/(emoción emoción NCFS000 -)
+  ]
+  coord/modnomatch/(y y CC -)
+  prep/modnomatch/(a a SPS00 -)
+  espec-ms/modnomatch/(el el DA0MS0 -)
+  F-term/term/(. . Fp -)
+]
+

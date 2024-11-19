@@ -1,0 +1,56 @@
+grup-verb/top/(parece parecer VMIP3S0 -) [
+  grup-sp/modnomatch/(A a SPS00 -) [
+    sn/head/(veces vez NCFP000 -)
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(dejamos dejar VMIP1P0 -) [
+      patons/modnomatch/(nos nos PP1CP000 -)
+      grup-sp/cc/(en en SPS00 -) [
+        sn/head/(España españa NP00000 -)
+      ]
+    ]
+  ]
+  grup-verb-inf/modnomatch/(deslumbrar deslumbrar VMN0000 -)
+  grup-sp/modnomatch/(por por SPS00 -) [
+    sn/head/(cosa cosa NCFS000 -) [
+      espec-fs/espec/(cualquier cualquiera DI0CS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(producciones producción NCFP000 -) [
+          espec-fp/espec/(las el DA0FP0 -)
+          s-a-fp/qual/(habituales habitual AQ0CP0 -) [
+            sadv/modnorule/(más más RG -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  sadv/cc/(bien bien RG -)
+  parti-flex/modnomatch/(hecha hacer VMP00SF -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(salga salir VMSP1S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(película película NCFS000 -) [
+  espec-fs/espec/(Una uno DI0FS0 -)
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(terror terror NCMS000 -) [
+      s-a-ms/qual/(recomendable recomendable AQ0CS0 -) [
+        sadv/modnorule/(muy muy RG -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coord/top/(Ni ni CC -) [
+  sadv/modnomatch/(más más RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(ni ni CC -)
+  sadv/modnomatch/(menos menos RG -)
+  F-term/term/(. . Fp -)
+]
+

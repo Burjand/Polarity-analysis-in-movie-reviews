@@ -1,0 +1,40 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(Sed sed NCFS000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(mal mal NCMS000 -)
+    ]
+  ]
+  s-adj/att/(, , Fc -) [
+    s-a-fs/modnorule/(retorcida retorcer VMP00SF -)
+    s-a-fs/modnorule/(y y CC -) [
+      s-a-fs/modnorule/(oscura oscuro AQ0FS0 -)
+      s-a-fs/modnorule/(trágica trágico AQ0FS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+espec-fs/top/(Una uno DI0FS0 -) [
+  sp-de/modnorule/(de de SPS00 -) [
+    sn/gen/(películas película NCFP000 -) [
+      espec-fp/espec/(esas ese DD0FP0 -)
+    ]
+  ]
+  subord/modnorule/(que que PR0CN000 -) [
+    grup-verb/modnorule/(hay haber VMIP3S0 -)
+  ]
+  conj-subord/modnorule/(que que CS -)
+  grup-verb-inf/modnorule/(ver ver VMN0000 -)
+  grup-sp-inf/modnorule/(antes_de antes_de SPS00 -) [
+    grup-verb-inf/head/(morir morir VMN0000 -) [
+      PP*/modnomatch/(se se PP3CN000 -)
+    ]
+  ]
+  coor-n/modnorule/(y y CC -) [
+    sn/co-n/(eso ese PD0NS000 -) [
+      indef-ms/modnomatch/(todo todo DI0MS0 -)
+    ]
+  ]
+  F-no-c/modnorule/(... ... Fs -)
+]
+

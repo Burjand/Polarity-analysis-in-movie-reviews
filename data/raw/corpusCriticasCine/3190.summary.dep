@@ -1,0 +1,63 @@
+sn/top/(Uno uno PI0MS000 -) [
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(filmes filme NCMP000 -) [
+      espec-mp/espec/(estos este DD0MP0 -)
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(tienen tener VMIP3P0 -) [
+      grup-sp/modnomatch/(a_pesar_de a_pesar_de SPS00 -) [
+        sn/head/(mediocridad mediocridad NCFS000 -) [
+          espec-fs/espec/(su su DP3CS0 -)
+          s-a-fs/qual/(latente latente AQ0CS0 -)
+        ]
+      ]
+      coor-n/obj/(o o CC -) [
+        sn/co-n/(especial especial AQ0CS0 -) [
+          pindef-ms/modnomatch/(algo algo PI0CS000 -)
+        ]
+        Fc(,)/modnomatch/(, , Fc -)
+        sn/co-n/(punto punto NCMS000 -) [
+          espec-ms/espec/(ese ese DD0MS0 -)
+          s-a-ms/qual/(gamberro gamberro AQ0MS0 -)
+        ]
+        sn/co-n/(ambientación ambientación NCFS000 -) [
+          espec-fs/espec/(esa ese DD0FS0 -)
+          s-a-fs/qual/(enfermiza enfermizo AQ0FS0 -) [
+            sadv/modnorule/(tan tan RG -)
+          ]
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(80 80 Z -) [
+              j-mp/modnomatch/(los el DA0MP0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+subord/top/(Si si CS -) [
+  grup-verb/modnorule/(aprecia apreciar VMIP3S0 -) [
+    morfema-verbal/modnomatch/(se se P0000000 -)
+    patons/modnomatch/(la lo PP3FSA00 -)
+  ]
+  grup-sp/modnorule/(en en SPS00 -) [
+    sn/head/(caspa caspa NCFS000 -) [
+      s-a-fs/qual/(divertida divertir VMP00SF -)
+    ]
+  ]
+  grup-sp-inf/modnorule/(sin sin SPS00 -) [
+    grup-verb-inf/head/(pedir pedir VMN0000 -) [
+      PP*/modnomatch/(le le PP3CSD00 -)
+    ]
+    sn/modnomatch/(nada nada PI0CS000 -)
+  ]
+  grup-verb/modnorule/(resultar resultar VMN0000 -) [
+    VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+  ]
+  s-adj/modnorule/(curiosa curioso AQ0FS0 -)
+  F-term/modnorule/(. . Fp -)
+]
+

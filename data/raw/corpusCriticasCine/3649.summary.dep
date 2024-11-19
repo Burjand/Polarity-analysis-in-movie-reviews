@@ -1,0 +1,55 @@
+grup-verb/top/(detiene detener VMIP3S0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  sn/subj/(Màs màs NP00000 -) [
+    sadv/modnomatch/(allá allá RG -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(temática temática NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        s-a-fs/qual/(densa denso AQ0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(aborto aborto NCMS000 -) [
+            espec-ms/espec/(un uno DI0MS0 -)
+            s-a-ms/qual/(ilegal ilegal AQ0CS0 -)
+          ]
+        ]
+      ]
+    ]
+    coord/modnomatch/(y y CC -)
+    espec-ms/espec/(todo todo DI0MS0 -)
+    patons/modnomatch/(lo lo PP3CNA00 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(conlleva conllevar VMIP3S0 -) [
+        sn/subj/(ello él PP3NS000 -)
+      ]
+      Fc(,)/modnorule/(, , Fc -)
+    ]
+  ]
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    s-a-fs/qual/(rumana rumano AQ0FS0 -)
+  ]
+  neg/modneg/(no no RN -)
+  sadv/cc/(ahí ahí RG -)
+  F-no-c/modnomatch/(( ( Fpa -)
+  grup-sp/cc/(por por SPS00 -) [
+    sn/head/(suerte suerte NCFS000 -)
+    F-no-c/modnomatch/() ) Fpt -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(Contribuye contribuir VMIP3S0 -) [
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(forma forma NCFS000 -) [
+      s-a-fs/qual/(decisiva decisivo AQ0FS0 -)
+    ]
+  ]
+  sn/obj/(actuación actuación NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Anamaría_Marinca anamaría_marinca NP00000 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

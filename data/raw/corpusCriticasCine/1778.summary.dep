@@ -1,0 +1,38 @@
+grup-verb/top/(tengo tener VMIP1S0 -) [
+  sn/subj/(cine cine NCMS000 -) [
+    s-a-ms/qual/(Buen bueno AQ0MS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-sp/modnomatch/(con con SPS00 -) [
+      sn/head/(fleco fleco NCMS000 -) [
+        espec-ms/espec/(algún alguno DI0MS0 -)
+      ]
+    ]
+    prel/modnomatch/(que que PR0CN000 -)
+    sn/modnomatch/(otro otro PI0MS000 -) [
+      Fc(,)/modnomatch/(, , Fc -)
+    ]
+    coord/modnomatch/(pero pero CC -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(deja dejar VMIP3S0 -)
+    ]
+  ]
+  sn/subj/(sabor sabor NCMS000 -) [
+    s-a-ms/qual/(buen bueno AQ0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(boca boca NCFS000 -) [
+        coor-sp/modnomatch/(y y CC -) [
+          Fc(,)/modnorule/(, , Fc -)
+          grup-sp/modnorule/(con con SPS00 -) [
+            sn/head/(eso ese PD0NS000 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  sadv/cc/(ya ya RG -)
+  sadv/cc/(más más RG -)
+  conj-subord/modnomatch/(que que CS -)
+  sadv/cc/(bastante bastante RG -)
+  F-term/term/(. . Fp -)
+]
+

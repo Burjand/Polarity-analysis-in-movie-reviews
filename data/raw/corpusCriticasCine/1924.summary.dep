@@ -1,0 +1,82 @@
+grup-verb/top/(tiene tener VMIP3S0 -) [
+  coor-n/subj/(y y CC -) [
+    sn/co-n/(Film film NP00000 -) [
+      conj-subord/modnomatch/(que que CS -)
+      grup-sp/modnomatch/(con con SPS00 -) [
+        sn/head/(aciertos acierto NCMP000 -)
+      ]
+    ]
+    sn/co-n/(errores error NCMP000 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(status status NCMN000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(obra obra NCFS000 -) [
+          s-a-fs/qual/(clásica clásico AQ0FS0 -)
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(influencia influencia NCFS000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(generación generación NCFS000 -) [
+          espec-fs/espec/(una uno DI0FS0 -)
+          s-a-fs/qual/(entera entero AQ0FS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(cineastas cineasta NCCP000 -)
+          ]
+        ]
+      ]
+    ]
+    sn/co-n/(cinéfilos cinéfilo NCMP000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-sp/top/(Desde desde SPS00 -) [
+  sn/head/(puntos punto NCMP000 -) [
+    espec-mp/espec/(varios varios DI0MP0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(vista vista NCFS000 -) [
+        grup-sp/modnomatch/(como como CS -) [
+          sn/head/(estético estético AQ0MS0 -) [
+            j-ms/modnomatch/(el el DA0MS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  espec-ms/modnomatch/(el el DA0MS0 -)
+  sn/head/(moral moral NCFS000 -) [
+    F-no-c/modnomatch/(- - Fg -)
+    grup-sp/modnomatch/(por por SPS00 -) [
+      sn/head/(historia historia NCFS000 -) [
+        espec-fs/espec/(su su DP3CS0 -)
+        s-a-fs/qual/(nefasta nefasto AQ0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(prohibiciones prohibición NCFP000 -)
+        ]
+      ]
+      F-no-c/modnomatch/(- - Fg -)
+    ]
+  ]
+  prep/modnomatch/(hasta hasta SPS00 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/head/(teñido teñido NCMS000 -) [
+    espec-ms/espec/(todo todo DI0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(estilo estilo NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        s-a-ms/qual/(e e CC -) [
+          s-a-ms/modnorule/(personal personal AQ0CS0 -)
+          s-a-ms/modnorule/(innovador innovador AQ0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

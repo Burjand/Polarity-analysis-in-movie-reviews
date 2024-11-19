@@ -1,0 +1,68 @@
+grup-verb/top/(ofrece ofrecer VMIP3S0 -) [
+  sn/subj/(Supersalidos supersalidos NP00000 -)
+  sadv/cc/(más más RG -)
+  prep/modnomatch/(de de SPS00 -)
+  espec-ms/modnomatch/(lo el DA0NS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(esperar esperar VMN0000 -) [
+      VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+      sadv/cc/(a_priori a_priori RG -)
+      sn/subj/(uno uno PI0MS000 -) [
+        grup-verb/modnomatch/(confirma confirmar VMIP3S0 -) [
+          subord/modnomatch/(que que CS -) [
+            grup-verb/modnorule/(meter meter VMN0000 -) [
+              morfema-verbal/modnomatch/(se se P0000000 -)
+              VMI*<deber>/modnomatch/(deben deber VMIP3P0 -)
+              neg/modneg/(no no RN -)
+              sn/obj/(películas película NCFP000 -) [
+                espec-fp/espec/(todas todo DI0FP0 -) [
+                  j-fp/modnorule/(las el DA0FP0 -)
+                ]
+              ]
+            ]
+          ]
+          coor-n/obj/(y y CC -) [
+            sn/co-n/(géneros género NCMP000 -)
+          ]
+          grup-sp/cc/(en en SPS00 -) [
+            sn/head/(saco saco NCMS000 -) [
+              espec-ms/espec/(el el DA0MS0 -)
+              s-a-ms/qual/(mismo mismo AQ0MS0 -)
+              grup-verb/modnomatch/(encontrar encontrar VMN0000 -) [
+                patons/modnomatch/(se se PP3CN000 -)
+                VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+                sn/subj/(uno uno PI0MS000 -)
+                sn/obj/(joyas joya NCFP000 -) [
+                  s-a-fp/qual/(pequeñas pequeño AQ0FP0 -)
+                ]
+                grup-sp/modnomatch/(como como CS -) [
+                  sn/head/(ésta este PD0FS000 -)
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+      grup-sp/modnomatch/(ante ante SPS00 -) [
+        sn/head/(producto producto NCMS000 -) [
+          espec-ms/espec/(un uno DI0MS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(tipo tipo NCMS000 -) [
+              espec-ms/espec/(este este DD0MS0 -)
+            ]
+          ]
+        ]
+      ]
+      coor-n/obj/(pero pero CC -) [
+        Fc(,)/modnomatch/(, , Fc -)
+        sn/co-n/(esto este PD0NS000 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  conj-subord/modnomatch/(ya_que ya_que CS -)
+  sadv/cc/(de_vez_en_cuando de_vez_en_cuando RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(. . Fp -)
+]
+

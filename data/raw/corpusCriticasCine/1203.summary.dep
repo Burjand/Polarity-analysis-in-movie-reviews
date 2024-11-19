@@ -1,0 +1,41 @@
+grup-verb/top/(Está estar VAIP3S0 -) [
+  parti-flex/modnomatch/(hecha hacer VMP00SF -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(gusto gusto NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(exquisito exquisito AQ0MS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  conj-subord/modnomatch/(ya_que ya_que CS -)
+  grup-sp-inf/modnomatch/(a_pesar_de a_pesar_de SPS00 -) [
+    grup-verb-inf/head/(tratar tratar VMN0000 -)
+    sn/modnomatch/(tema tema NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+    ]
+  ]
+  grup-sp/modnomatch/(como como CS -) [
+    sn/head/(sexo sexo NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      grup-verb/modnomatch/(aseguro asegurar VMIP1S0 -) [
+        patons/modnomatch/(os os PP2CP000 -)
+        subord/modnomatch/(que que CS -) [
+          grup-verb/modnorule/(hay haber VMIP3S0 -) [
+            grup-sp/cc/(en en SPS00 -) [
+              sn/head/(momento momento NCMS000 -) [
+                espec-ms/espec/(ningún ninguno DI0MS0 -)
+              ]
+            ]
+            coor-n/obj/(ni ni CC -) [
+              sn/co-n/(grosería grosería NCFS000 -)
+              sn/co-n/(tosquedad tosquedad NCFS000 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(. . Fp -)
+]
+

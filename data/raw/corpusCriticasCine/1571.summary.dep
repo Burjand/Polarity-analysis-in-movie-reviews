@@ -1,0 +1,57 @@
+grup-sp-inf/top/(A_pesar_de a_pesar_de SPS00 -) [
+  grup-verb-inf/head/(publicitada publicitar VMP00SF -) [
+    infaux-ser/modnomatch/(ser ser VSN0000 -)
+  ]
+  grup-sp/modnomatch/(como como CS -) [
+    sn/head/(tal tal PD0CS000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  ger/modnomatch/(comparando comparar VMG0000 -) [
+    PP*/modnorule/(la lo PP3FSA00 -)
+  ]
+  sadv/modnomatch/(directamente directamente RG -)
+  grup-sp/modnomatch/(en en SPS00 -) [
+    sn/head/(carteles cartel NCMP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+      grup-sp/modnomatch/(con con SPS00 -) [
+        sn/head/(Alien alien NP00000 -)
+      ]
+    ]
+  ]
+  coor-n/modnomatch/(o o CC -) [
+    sn/co-n/(Tiburón tiburón NP00000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/modnomatch/(es ser VSIP3S0 -) [
+    sn/subj/(cierto cierto AQ0MS0 -) [
+      j-ms/modnomatch/(lo el DA0NS0 -)
+    ]
+    subord/modnomatch/(que que CS -) [
+      grup-verb/modnorule/(dista distar VMIP3S0 -) [
+        sn/subj/(experiencia experiencia NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(The the NP00000 -)
+          ]
+        ]
+        sn/subj/(host host NCMS000 -)
+        sadv/cc/(mucho mucho RG -)
+      ]
+    ]
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  espec-ms/modnomatch/(lo el DA0NS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(fueron ser VSIS3P0 -)
+  ]
+  sn/modnomatch/(pelis pelis NCFN000 -) [
+    espec-fp/espec/(aquellas aquel DD0FP0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(setenta 70 Z -) [
+        j-mp/modnomatch/(los el DA0MP0 -)
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

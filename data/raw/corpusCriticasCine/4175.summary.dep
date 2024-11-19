@@ -1,0 +1,27 @@
+subord/top/(Si si CS -) [
+  grup-verb/modnorule/(tener tener VMN0000 -) [
+    VMI*<querer>/modnomatch/(quieren querer VMIP3P0 -)
+    sn/obj/(viaje viaje NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(lisérgico lisérgico AQ0MS0 -)
+    ]
+  ]
+  grup-verb/modnorule/(ver ver VMN0000 -) [
+    VMS*<dejar>/modnomatch/(dejen dejar VMSP3P0 -)
+    SPS00(de)/modnomatch/(de de SPS00 -)
+    grup-sp/modnomatch/(sin_necesidad_de sin_necesidad_de SPS00 -) [
+      sn/head/(drogas droga NCFP000 -)
+    ]
+    neg/modneg/(no no RN -)
+    sn/obj/(El el NP00000 -) [
+      s-a-ms/qual/(mago mago AQ0MS0 -)
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(saldrán salir VMIF3P0 -) [
+    neg/modneg/(no no RN -)
+  ]
+  parti-flex/modnorule/(defraudados defraudar VMP00PM -)
+  F-term/modnorule/(. . Fp -)
+]
+

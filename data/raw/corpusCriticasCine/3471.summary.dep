@@ -1,0 +1,60 @@
+grup-verb/top/(inicia iniciar VMIP3S0 -) [
+  morfema-verbal/modnomatch/(Se se P0000000 -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(expectación expectación NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(fuerte fuerte AQ0CS0 -)
+      grup-verb/modnomatch/(prosigue proseguir VMIP3S0 -) [
+        grup-sp/modnomatch/(con con SPS00 -) [
+          sn/head/(fase fase NCFS000 -) [
+            espec-fs/espec/(una uno DI0FS0 -)
+            s-a-fs/qual/(central central AQ0CS0 -)
+          ]
+        ]
+        subord/modnomatch/(que que PR0CN000 -) [
+          grup-verb/modnorule/(entremezcla entremezclar VMIP3S0 -)
+        ]
+        coor-n/obj/(y y CC -) [
+          sn/co-n/(sustos susto NCMP000 -)
+          sn/co-n/(sentido_de_el_humor sentido_del_humor NCMS000 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(impactar impactar VMN0000 -)
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(uno uno PI0MS000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(crescendos crescendo NCMP000 -) [
+          espec-mp/espec/(los el DA0MP0 -)
+          s-a-mp/qual/(finales final AQ0CP0 -) [
+            s-a-mp/modnorule/(tensos tenso AQ0MP0 -) [
+              sadv/modnorule/(más más RG -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(taquicárdicos taquicárdicos NCCP000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(cine_de_terror cine_de_terror NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(años año NCMP000 -) [
+              espec-mp/espec/(los el DA0MP0 -)
+              s-a-mp/qual/(últimos último AO0MP0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

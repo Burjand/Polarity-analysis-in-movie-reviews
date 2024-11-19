@@ -1,0 +1,47 @@
+coor-vb/top/(y y CC -) [
+  sn/subj/(Buscemi buscemi NP00000 -)
+  grup-verb/co-v/(va ir VMIP3S0 -) [
+    sn/cc/(paso paso NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+    ]
+    sadv/cc/(allá allá RG -) [
+      cuantif/modnorule/(más más RG -)
+    ]
+  ]
+  grup-verb/co-v/(muestra mostrar VMIP3S0 -) [
+    patons/modnomatch/(nos nos PP1CP000 -)
+    sn/obj/(relato relato NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(y y CC -) [
+        s-a-ms/modnorule/(conciso conciso AQ0MS0 -)
+        s-a-ms/modnorule/(breve breve AQ0CS0 -)
+      ]
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(personajes personaje NCMP000 -) [
+          s-a-mp/qual/(heridos herir VMP00PM -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(cicatrices cicatriz NCFP000 -) [
+      s-a-fp/qual/(sentimentales sentimental AQ0CP0 -)
+    ]
+  ]
+  coor-n/modnomatch/(y y CC -) [
+    sn/co-n/(emociones emoción NCFP000 -)
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(duermen dormir VMIP3P0 -)
+  ]
+  s-adj/modnomatch/(amenazantes amenazante AQ0CP0 -)
+  prep/modnomatch/(en_el_interior_de en_el_interior_de SPS00 -)
+  espec-ms/modnomatch/(cada cada DI0CS0 -)
+  sn/modnomatch/(nosotros nosotros PP1MP000 -) [
+    pindef-ms/modnomatch/(uno uno PI0MS000 -)
+    SPS00(de)/modnomatch/(de de SPS00 -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

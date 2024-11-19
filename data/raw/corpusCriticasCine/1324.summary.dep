@@ -1,0 +1,24 @@
+prep/top/(De de SPS00 -) [
+  neg/modnorule/(no no RN -)
+  grup-verb-inf/modnorule/(ser ser VSN0000 -)
+  grup-sp/modnorule/(por por SPS00 -) [
+    sn/head/(hora hora NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(media medio AQ0FS0 -)
+      s-a-fs/qual/(final final AQ0CS0 -)
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(estar estar VAN0000 -) [
+    VMI*<poder>/modnomatch/(podríamos poder VMIC1P0 -)
+  ]
+  forma-ger/modnorule/(hablando hablar VMG0000 -)
+  sp-de/modnorule/(de de SPS00 -) [
+    sn/gen/(películilla película NCFS00D -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(pasable pasable AQ0CS0 -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

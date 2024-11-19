@@ -1,0 +1,42 @@
+grup-verb/top/(confundido confundir VMP00SM -) [
+  vaux/aux/(ha haber VAIP3S0 -)
+  sn/subj/(Raimi raimi NP00000 -)
+  sn/obj/(complejidad complejidad NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(exceso exceso NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(rodado rodar VMP00SM -) [
+  vaux/aux/(ha haber VAIP3S0 -)
+  grup-sp/modnomatch/(En_vez_de en_vez_de SPS00 -) [
+    sn/head/(hora hora NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      grup-verb/modnomatch/(reunido reunir VMP00SM -) [
+        vaux/aux/(ha haber VAIP3S0 -)
+        grup-sp/modnomatch/(en_vez_de en_vez_de SPS00 -) [
+          sn/head/(villano villano NCMS000 -) [
+            espec-ms/espec/(un uno DI0MS0 -)
+          ]
+        ]
+        grup-sp/iobj/(a a SPS00 -) [
+          numero/modnomatch/(tres 3 Z -)
+        ]
+      ]
+    ]
+    coord/modnomatch/(y y CC -)
+    s-adj/modnomatch/(media medio AQ0FS0 -)
+  ]
+  sadv/cc/(más más RG -) [
+    SPS00(de)/modnorule/(de de SPS00 -)
+    sn/modnorule/(dos 2 Z -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(. . Fp -)
+]
+

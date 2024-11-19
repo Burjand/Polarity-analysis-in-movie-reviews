@@ -1,0 +1,57 @@
+grup-verb/top/(resulta resultar VMIP3S0 -) [
+  sn/subj/(Simpática simpática NP00000 -)
+  sn/obj/(incursión incursión NCFS000 -) [
+    espec-fs/espec/(esta este DD0FS0 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(mundo mundo NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(minería minería NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          s-a-fs/qual/(japonesa japonés AQ0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  parti-flex/modnomatch/(reconvertido reconvertir VMP00SM -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(parque parque NCMS000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(atracciones atracción NCFP000 -)
+      ]
+    ]
+  ]
+  s-adj/modnomatch/(hawaiano hawaiano AQ0MS0 -)
+  F-term/term/(? ? Fit -)
+]
+
+F-no-c/top/(¿ ¿ Fia -) [
+  sn/modnorule/(Insólito insólito NP00000 -)
+  F-term/modnorule/(? ? Fit -)
+]
+
+grup-verb/top/(Dejemos dejar VMM01P0 -) [
+  patons/modnomatch/(lo lo PP3CNA00 -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(iniciativa iniciativa NCFS000 -) [
+      s-a-fs/qual/(curiosa curioso AQ0FS0 -)
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(recuerda recordar VMIP3S0 -)
+  ]
+  grup-sp/cc/(a a SPS00 -) [
+    sn/head/(El el NP00000 -)
+  ]
+  sn/obj/(club club NCMS000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(poetas poeta NCMP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+        s-a-mp/qual/(muertos morir VMP00PM -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

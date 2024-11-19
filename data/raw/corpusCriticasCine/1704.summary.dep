@@ -1,0 +1,71 @@
+grup-verb/top/(seguido seguir VMP00SM -) [
+  VMI*<tener>/modnomatch/(tenían tener VMII3P0 -)
+  CS(que)/modnomatch/(que que CS -)
+  infaux/modnomatch/(haber haber VAN0000 -)
+  sn/subj/(corderos cordero NCMP000 -) [
+    espec-mp/espec/(Los el DA0MP0 -)
+  ]
+  grup-sp/modnomatch/(a a SPS00 -) [
+    sn/head/(mejor mejor AQ0CS0 -) [
+      j-ms/modnomatch/(lo el DA0NS0 -)
+    ]
+  ]
+  parti-flex/modnomatch/(callados callar VMP00PM -)
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(hablado hablar VMP00SM -) [
+  vaux/aux/(Han haber VAIP3P0 -)
+  sadv/cc/(ya ya RG -)
+  sadv/cc/(mucho mucho RG -)
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(contado contar VMP00SM -) [
+  vaux/aux/(Han haber VAIP3P0 -)
+  sadv/cc/(demasiado demasiado RG -)
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(Cordero cordero NCMS000 -) [
+  s-a-ms/qual/(callado callar VMP00SM -)
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/modnomatch/(cordero cordero NCMS000 -) [
+    s-a-ms/qual/(bonito bonito AQ0MS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-n/top/(O o CC -) [
+  sn/co-n/(cordero cordero NCMS000 -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(patatas patata NCFP000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(pero pero CC -)
+  neg/modnomatch/(no no RN -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(mejillas mejilla NCFP000 -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+coor-sp/top/(Ni ni CC -) [
+  grup-sp/modnorule/(en en SPS00 -) [
+    sn/head/(brocheta brocheta NCFS000 -)
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+grup-sp/top/(En en SPS00 -) [
+  sn/head/(fin fin NCMS000 -)
+  F-no-c/modnomatch/(... ... Fs -)
+  subord/modnomatch/(Que que PR0CN000 -) [
+    grup-verb/modnorule/(desbarra desbarrar VMIP3S0 -) [
+      sadv/cc/(ya ya RG -)
+      sn/obj/(uno uno PI0MS000 -)
+      F-no-c/modnomatch/(..... ..... Fz -)
+    ]
+  ]
+]
+

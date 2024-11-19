@@ -1,0 +1,33 @@
+grup-verb/top/(ser ser VSN0000 -) [
+  VMI*<poder>/modnomatch/(podría poder VMIC1S0 -)
+  sn/subj/(nosotros nosotros PP1MP000 -) [
+    pindef-ms/modnomatch/(Cualquiera cualquiera PI0CS000 -)
+    SPS00(de)/modnomatch/(de de SPS00 -)
+  ]
+  sn/obj/(protagonista protagonista NCCS000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(historia historia NCFS000 -) [
+        espec-fs/espec/(esta este DD0FS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+F-no-c/top/(¿ ¿ Fia -) [
+  coor-vb/modnorule/(O o CC -) [
+    grup-verb/co-v/(existe existir VMIP3S0 -) [
+      sadv/cc/(acaso acaso RG -)
+      sn/obj/(alguien alguien PI0CS000 -)
+    ]
+  ]
+  prel/modnorule/(que que PR0CN000 -)
+  neg/modnorule/(no no RN -)
+  F-no-c/modnorule/(" " Fe -)
+  grup-verb/modnorule/(tape tapar VMSP1S0 -) [
+    F-no-c/modnomatch/(" " Fe -)
+    sn/obj/(nada nada PI0CS000 -)
+  ]
+  F-term/modnorule/(? ? Fit -)
+]
+

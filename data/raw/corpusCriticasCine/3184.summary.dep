@@ -1,0 +1,53 @@
+s-adj/top/(, , Fc -) [
+  s-a-fs/modnorule/(Entretenida entretener VMP00SF -)
+  s-a-fs/modnorule/(recomendable recomendable AQ0CS0 -)
+  Fc(,)/modnorule/(, , Fc -)
+  sadv/modnorule/(casi casi RG -)
+  sn/modnorule/(obra obra NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(maestra maestro AQ0FS0 -)
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+coor-vb/top/(pero pero CC -) [
+  sn/subj/(debut debut NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Bayona bayona NP00000 -)
+    ]
+  ]
+  grup-verb/co-v/(tiene tener VMIP3S0 -) [
+    sn/obj/(sello sello NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(Toro toro NP00000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(contiene contener VMIP3S0 -)
+  F-no-c/modnomatch/(( ( Fpa -)
+  coord/modnomatch/(no_obstante no_obstante CC -)
+  F-no-c/modnomatch/() ) Fpt -)
+  sn/modnomatch/(encantos encanto NCMP000 -) [
+    espec-mp/espec/(los el DA0MP0 -)
+    s-a-mp/qual/(suficientes suficiente AQ0CP0 -)
+  ]
+  conj-subord/modnomatch/(como como CS -)
+  grup-sp-inf/modnomatch/(para para SPS00 -) [
+    grup-verb-inf/head/(entender entender VMN0000 -) [
+      PP*/modnomatch/(la lo PP3FSA00 -)
+    ]
+  ]
+  grup-sp/modnomatch/(como como CS -) [
+    sn/head/(discurso discurso NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+    ]
+  ]
+  sadv/modnomatch/(aparte aparte RG -)
+  F-no-c/modnomatch/(... ... Fs -)
+]
+

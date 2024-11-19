@@ -1,0 +1,47 @@
+grup-verb/top/(resultar resultar VMN0000 -) [
+  VMI*<poder>/modnomatch/(Puede poder VMIP3S0 -)
+  s-adj/modnomatch/(simpática simpático AQ0FS0 -)
+  subord/modnomatch/(si si CS -) [
+    grup-verb/modnorule/(mira mirar VMM02S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+    ]
+  ]
+  grup-sp/modnomatch/(de de SPS00 -) [
+    sadv/modnomatch/(lejos lejos RG -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-sp/top/(O_bien o_bien CC -) [
+  Fc(,)/modnorule/(, , Fc -)
+  subord/modnorule/(si si CS -) [
+    grup-verb/modnorule/(coge coger VMIP3S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+    ]
+  ]
+  grup-sp/modnorule/(con con SPS00 -) [
+    sn/head/(guantes guante NCMP000 -)
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+grup-sp/top/(Como como CS -) [
+  sn/head/(experimento experimento NCMS000 -) [
+    grup-sp/modnomatch/(sobre sobre SPS00 -) [
+      sn/head/(manera manera NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(manipular manipular VMN0000 -) [
+      patons/modnomatch/(nos nos PP1CP000 -)
+      VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+      sn/subj/(cine cine NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

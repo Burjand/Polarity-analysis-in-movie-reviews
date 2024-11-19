@@ -1,0 +1,53 @@
+grup-verb/top/(Espero esperar VMIP1S0 -) [
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(conformen conformar VMSP3P0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+    ]
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(resultado resultado NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(buen bueno AQ0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(taquilla taquilla NCFS000 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  conj-subord/modnomatch/(porque porque CS -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(nivel nivel NCMS000 -) [
+      s-a-ms/qual/(cinematográfico cinematográfico AQ0MS0 -)
+      grup-verb/modnomatch/(quedado quedar VMP00SM -) [
+        morfema-verbal/modnomatch/(se se P0000000 -)
+        vaux/aux/(ha haber VAIP3S0 -)
+        sn/subj/(producción producción NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          s-a-fs/qual/(española español AQ0FS0 -)
+        ]
+        sn/subj/(esperada esperar VMP00SF -) [
+          espec-fs/espec/(más más RG -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(año año NCMS000 -) [
+              espec-ms/espec/(el el DA0MS0 -)
+            ]
+          ]
+        ]
+        grup-sp/cc/(en en SPS00 -) [
+          sn/head/(especie especie NCFS000 -) [
+            espec-fs/espec/(una uno DI0FS0 -)
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(trailer trailer NCMS000 -)
+            ]
+          ]
+        ]
+        grup-sp/modnomatch/(de de SPS00 -) [
+          data/modnomatch/(dos_horas_y_media [??:??/??/??:2.30:??] W -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(. . Fp -)
+]
+

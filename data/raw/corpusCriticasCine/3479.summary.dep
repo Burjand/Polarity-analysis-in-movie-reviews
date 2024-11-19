@@ -1,0 +1,57 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(Sombra_de_el_Reino sombra_de_el_reino NP00000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+  ]
+  neg/modneg/(no no RN -)
+  sadv/cc/(más más RG -)
+  conj-subord/modnomatch/(que que CS -)
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(otra otro DI0FS0 -)
+    s-a-fs/qual/(patriótica patriótico AQ0FS0 -) [
+      s-a-fs/modnorule/(realizada realizar VMP00SF -)
+    ]
+    grup-sp/modnomatch/(con con SPS00 -) [
+      sn/head/(fin fin NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(levantar levantar VMN0000 -)
+    sn/modnomatch/(moral moral NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(sociedad sociedad NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          s-a-fs/qual/(norteamericana norteamericano AQ0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(cuenta contar VMIP3S0 -)
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(historia historia NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      grup-sp/modnomatch/(con con SPS00 -) [
+        sn/head/(héroes héroe NCMP000 -)
+      ]
+    ]
+    sn/co-n/(villanos villano NCMP000 -)
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(estilo estilo NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(puro puro AQ0MS0 -) [
+        sadv/modnorule/(más más RG -)
+      ]
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(Hollywood hollywood NP00000 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

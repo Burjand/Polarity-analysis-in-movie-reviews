@@ -1,0 +1,69 @@
+sn/top/(Película película NCFS000 -) [
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(realismo realismo NCMS000 -) [
+      s-a-ms/qual/(social social AQ0CS0 -) [
+        s-a-ms/modnorule/(deprimente deprimente AQ0CS0 -) [
+          sadv/modnorule/(absolutamente absolutamente RG -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(Es ser VSIP3S0 -) [
+  sn/obj/(opción opción NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    s-a-fs/qual/(mejor mejor AQ0CS0 -)
+  ]
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(ir ir VMN0000 -) [
+      PP*/modnomatch/(se se PP3CN000 -)
+    ]
+  ]
+  sadv/cc/(directamente directamente RG -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(psiquiatra psiquiatra NCCS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  grup-sp-inf/iobj/(a a SPS00 -) [
+    grup-verb-inf/head/(pedir pedir VMN0000 -)
+    sn/modnomatch/(dosis dosis NCFN000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(buena bueno AQ0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(prozac prozac NP00000 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(está estar VAIP3S0 -) [
+  sadv/cc/(Desde_luego desde_luego RG -)
+  sn/subj/(intención intención NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(directora director NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+    F-no-c/modnomatch/(" " Fe -)
+    subord/modnomatch/(Que que CS -) [
+      grup-verb/modnorule/(cale calar VMSP1S0 -) [
+        patons/modnomatch/(te te PP2CS000 -)
+        sn/subj/(frío frío NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+        sn/obj/(alma alma NCFS000 -) [
+          espec-ms-E/espec/(el el DA0MS0 -)
+        ]
+        F-no-c/modnomatch/(" " Fe -)
+      ]
+    ]
+  ]
+  parti-flex/modnomatch/(conseguida conseguir VMP00SF -)
+  F-term/term/(. . Fp -)
+]
+

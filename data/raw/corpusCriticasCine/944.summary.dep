@@ -1,0 +1,44 @@
+grup-verb/top/(sé saber VMIP1S0 -) [
+  neg/modneg/(No no RN -)
+  prep/modnomatch/(hasta hasta SPS00 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(merece merecer VMIP3S0 -) [
+      sn/subj/(punto punto NCMS000 -)
+      sn/obj/(pena pena NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+  ]
+  grup-verb-inf/modnomatch/(gastar gastar VMN0000 -) [
+    PP*/modnomatch/(se se PP3CN000 -)
+  ]
+  sn/obj/(dinero dinero NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(entrada entrada NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(cine cine NCMS000 -)
+        ]
+      ]
+    ]
+  ]
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(ver ver VMN0000 -)
+    sn/modnomatch/(canallada canallada NCFS000 -) [
+      espec-fs/espec/(semejante semejante DD0CS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(Borat borat NP00000 -) [
+  F-no-c/modnomatch/(: : Fd -)
+  F-no-c/modnomatch/(¿ ¿ Fia -)
+  sn/modnomatch/(Torrente_de_Kazajistán torrente_de_kazajistán NP00000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+    s-a-ms/qual/(nuevo nuevo AQ0MS0 -)
+  ]
+  F-term/term/(? ? Fit -)
+]
+

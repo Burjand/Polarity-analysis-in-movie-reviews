@@ -1,0 +1,55 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  ger/modnomatch/(haber haber VMN0000 -) [
+    VMG0000(pudiendo)/modnorule/(Pudiendo poder VMG0000 -)
+    parti-ser/modnorule/(sido ser VSP00SM -)
+  ]
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(y y CC -) [
+      s-a-fs/modnorule/(explícita explícito AQ0FS0 -)
+      s-a-fs/modnorule/(dura duro AQ0FS0 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(visión visión NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(y y CC -) [
+      s-a-fs/modnorule/(amable amable AQ0CS0 -)
+      s-a-fs/modnorule/(minimalista minimalista AQ0CS0 -)
+    ]
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(hecho hecho NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(posicionado posicionar VMP00SM -) [
+        morfema-verbal/modnomatch/(se se P0000000 -)
+        vaux/aux/(ha haber VAIP3S0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(por por SPS00 -) [
+    sn/head/(méritos mérito NCMP000 -) [
+      s-a-mp/qual/(tristes triste AQ0CP0 -)
+      s-a-mp/qual/(propios propio AQ0MP0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(referente referente NCCS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(patriótico patriótico AQ0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(Historia historia NP00000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          s-a-fs/qual/(reciente reciente AQ0CS0 -)
+          s-a-fs/qual/(norteamericana norteamericano AQ0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

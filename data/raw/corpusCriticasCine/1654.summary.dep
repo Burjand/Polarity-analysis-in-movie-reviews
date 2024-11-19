@@ -1,0 +1,57 @@
+sn/top/(Truño truño NP00000 -) [
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(dimensiones dimensión NCFP000 -) [
+      s-a-fp/qual/(épicas épico AQ0FP0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(hay haber VMIP3S0 -) [
+  neg/modneg/(No no RN -)
+  relatiu/modnomatch/(donde donde PR000000 -) [
+    prep/modnorule/(por por SPS00 -)
+  ]
+  grup-verb-inf/modnomatch/(coger coger VMN0000 -) [
+    PP*/modnomatch/(la lo PP3FSA00 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  prep/modnomatch/(salvo salvo SPS00 -)
+  prep/modnomatch/(por por SPS00 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(es ser VSIP3S0 -)
+  ]
+  s-adj/modnomatch/(cortita corto AQDFS0 -)
+  F-term/term/(. . Fp -)
+]
+
+subord/top/(Si si CS -) [
+  sn/modnorule/(pensais pensais NP00000 -) [
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(tiene tener VMIP3S0 -)
+    ]
+  ]
+  sn/modnorule/(mínimo mínimo AQ0MS0 -) [
+    j-ms/modnomatch/(el el DA0MS0 -)
+    sadv/modnomatch/(más más RG -)
+  ]
+  parti-flex/modnorule/(parecido parecer VMP00SM -)
+  grup-sp/modnorule/(a a SPS00 -) [
+    sn/head/(Scary_Movie scary_movie NP00000 -)
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(engañado engañar VMP00SM -) [
+    patons/modnomatch/(os os PP2CP000 -)
+    vaux/aux/(han haber VAIP3P0 -)
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+grup-verb/top/(Es ser VSIP3S0 -) [
+  sn/obj/(truño truño NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+  ]
+  sadv/cc/(en_toda_la_extensión_de_la_palabra en_toda_la_extensión_de_la_palabra RG -)
+  F-term/term/(. . Fp -)
+]
+

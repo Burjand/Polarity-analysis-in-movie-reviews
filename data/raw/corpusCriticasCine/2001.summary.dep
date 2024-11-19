@@ -1,0 +1,38 @@
+grup-verb/top/(conforma conformar VMIP3S0 -) [
+  sn/subj/(todo todo PI0MS000 -) [
+    j-ms/modnomatch/(El el DA0MS0 -)
+  ]
+  sn/obj/(producto producto NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(y y CC -) [
+      s-a-ms/modnorule/(activo activo AQ0MS0 -)
+      s-a-ms/modnorule/(atractivo atractivo AQ0MS0 -)
+    ]
+  ]
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(ver ver VMN0000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(comienzo comienzo NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(prometedor prometedor AQ0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(minutos minuto NCMP000 -) [
+          espec-mp/espec/(los el DA0MP0 -)
+        ]
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(desdibujando desdibujar VMG0000 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+      VMI*<ir>/modnomatch/(va ir VMIP3S0 -)
+    ]
+  ]
+  prep/modnomatch/(con con SPS00 -)
+  espec-ms/modnomatch/(el el DA0MS0 -)
+  grup-verb-inf/modnomatch/(correr correr VMN0000 -)
+  F-term/term/(. . Fp -)
+]
+

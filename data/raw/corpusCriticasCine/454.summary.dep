@@ -1,0 +1,72 @@
+s-adj/top/(Artesana artesano AQ0FS0 -) [
+  grup-sp/modnorule/(como como CS -) [
+    sn/head/(pelis pelis NCFN000 -) [
+      espec-fp/espec/(pocas poco DI0FP0 -)
+    ]
+  ]
+  sadv/modnorule/(últimamente últimamente RG -)
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(narra narrar VMIP3S0 -) [
+    morfema-verbal/modnomatch/(se se P0000000 -)
+    sn/obj/(historia historia NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+    grup-sp/modnomatch/(sin sin SPS00 -) [
+      sn/head/(golpes golpe NCMP000 -) [
+        s-a-mp/qual/(estruendosos estruendoso AQ0MP0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(efecto efecto NCMS000 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  grup-sp/modnorule/(sin sin SPS00 -) [
+    sn/head/(subidas subida NCFP000 -) [
+      s-a-fp/qual/(musicales musical AQ0CP0 -)
+    ]
+  ]
+  coor-n/modnorule/(ni ni CC -) [
+    sn/co-n/(sustos susto NCMP000 -) [
+      s-a-mp/qual/(gratuitos gratuito AQ0MP0 -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+grup-verb/top/(Consigue conseguir VMIP3S0 -) [
+  grup-verb-inf/modnomatch/(aterrar aterrar VMN0000 -) [
+    PP*/modnomatch/(me me PP1CS000 -)
+  ]
+  sn/obj/(suficiente suficiente AQ0CS0 -) [
+    j-ms/modnomatch/(lo el DA0NS0 -)
+  ]
+  conj-subord/modnomatch/(como como CS -)
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(duchar duchar VMN0000 -) [
+      VMN0000(tener)/modnomatch/(tener tener VMN0000 -)
+      CS(que)/modnomatch/(que que CS -)
+      PP*/modnomatch/(me me PP1CS000 -)
+    ]
+  ]
+  grup-sp/modnomatch/(después_de después_de SPS00 -) [
+    sn/head/(film film NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(quitar quitar VMN0000 -) [
+      PP*/modnomatch/(me me PP1CS000 -)
+    ]
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(barro barro NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+    sn/co-n/(sangre sangre NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

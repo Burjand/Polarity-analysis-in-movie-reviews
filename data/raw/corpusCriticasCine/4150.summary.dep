@@ -1,0 +1,58 @@
+grup-verb/top/(defendiron defendiron VMIS3P0 -) [
+  data/modnomatch/(22_de_enero_de_1879 [??:22/1/1879:??.??:??] W -) [
+    espec-ms/modnorule/(El el DA0MS0 -)
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  sn/subj/(galeses galés NCMP000 -) [
+    numero-nopart/quant/(139 139 Z -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(ejército ejército NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        s-a-ms/qual/(británico británico AQ0MS0 -)
+      ]
+    ]
+  ]
+  sn/obj/(base base NCCS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(emplazada emplazar VMP00SF -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(misión misión NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+    ]
+  ]
+  grup-sp/modnomatch/(frente_a frente_a SPS00 -) [
+    sn/head/(fuerza fuerza NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(zulú zulú AQ0CS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(guerreros guerrero NCMP000 -) [
+          numero-nopart/quant/(4.000 4000 Z -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(está estar VAIP3S0 -) [
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+  ]
+  sn/subj/(Zulú zulú NCCS000 -) [
+    Fe/modnomatch/(" " Fe -)
+    Fe/modnomatch/(" " Fe -)
+  ]
+  parti-flex/modnomatch/(basada basar VMP00SF -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(hechos hecho NCMP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+      s-a-mp/qual/(acaecidos acaecer VMP00PM -)
+    ]
+  ]
+  sn/obj/(día día NCMS000 -) [
+    espec-ms/espec/(aquel aquel DD0MS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

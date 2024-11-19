@@ -1,0 +1,35 @@
+grup-verb/top/(exento exentar VMIP1S0 -) [
+  sn/subj/(Cine cine NCMS000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(de de SPS00 -) [
+        j-ms/modnomatch/(el el DA0MS0 -)
+        sadv/modnomatch/(antes antes RG -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(bueno bueno AQ0MS0 -) [
+            j-ms/modnomatch/(el el DA0MS0 -)
+            grup-verb/modnomatch/(hacer hacer VMN0000 -) [
+              patons/modnomatch/(nos nos PP1CP000 -)
+              VMI*<deber>/modnomatch/(debería deber VMIC1S0 -)
+              sn/subj/(final final NCFS000 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  neg/modneg/(no no RN -)
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(profundidad profundidad NCFS000 -)
+  ]
+  coord/modnomatch/(y y CC -)
+  cuyo-ms/modnomatch/(cuyo cuyo PR0MS000 -)
+  s-adj/modnomatch/(y y CC -) [
+    s-a-ms/modnorule/(irónico irónico AQ0MS0 -)
+    s-a-ms/modnorule/(descorazonador descorazonador AQ0MS0 -)
+  ]
+  grup-verb-inf/modnomatch/(reflexionar reflexionar VMN0000 -)
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,66 @@
+grup-verb/top/(costaría costar VMIC1S0 -) [
+  patons/modnomatch/(me me PP1CS000 -)
+  sadv/cc/(Aún aun RG -) [
+    grup-sp/modnorule/(con con SPS00 -) [
+      sn/head/(propósito propósito NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+    grup-sp-inf/modnorule/(de de SPS00 -) [
+      grup-verb-inf/head/(pasar pasar VMN0000 -)
+    ]
+    coor-n/modnorule/(y y CC -) [
+      sn/co-n/(rato rato NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        s-a-ms/qual/(entretenido entretener VMP00SM -)
+      ]
+      Fc(,)/modnomatch/(, , Fc -)
+      sn/co-n/(nada nada PI0CS000 -)
+    ]
+    sadv/modnorule/(más más RG -)
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  grup-verb-inf/modnomatch/(recomendar recomendar VMN0000 -) [
+    PP*/modnomatch/(la lo PP3FSA00 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(Pero pero CC -) [
+  grup-verb/co-v/(hacer hacer VMN0000 -) [
+    patons/modnomatch/(lo lo PP3CNA00 -)
+    VMI*<ir>/modnomatch/(voy ir VMIP1S0 -)
+    SPS00(a)/modnomatch/(a a SPS00 -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+grup-verb/top/(atengan atener VMM03P0 -) [
+  patons/modnomatch/(se se PP3CN000 -)
+  sn/subj/(Eso ese PD0NS000 -) [
+    sadv/modnomatch/(sí sí RG -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(consecuencias consecuencia NCFP000 -) [
+      espec-fp/espec/(las el DA0FP0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(salir salir VMN0000 -) [
+  VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+  sadv/cc/(Más más RG -) [
+    SPS00(de)/modnorule/(de de SPS00 -)
+    sn/modnorule/(uno uno PI0MS000 -)
+  ]
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(cine cine NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(cabreado cabrear VMP00SM -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

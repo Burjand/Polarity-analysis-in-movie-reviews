@@ -1,0 +1,71 @@
+grup-verb/top/(está estar VAIP3S0 -) [
+  grup-sp/modnomatch/(A_pesar_de a_pesar_de SPS00 -) [
+    sn/head/(oficio oficio NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(innegable innegable AQ0CS0 -)
+      s-a-ms/qual/(invertido invertir VMP00SM -)
+      grup-sp/modnomatch/(en en SPS00 -) [
+        sn/head/(realización realización NCFS000 -) [
+          espec-fs/espec/(su su DP3CS0 -)
+          grup-sp/modnomatch/(para para SPS00 -) [
+            ptonic/modnomatch/(mí mí PP1CSO00 -)
+          ]
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(película película NCFS000 -) [
+              espec-fs/espec/(la el DA0FS0 -)
+            ]
+          ]
+        ]
+        F-no-c/modnomatch/(( ( Fpa -)
+      ]
+    ]
+    patons/modnomatch/(lo lo PP3CNA00 -)
+    s-adj/modnomatch/(destacable destacable AQ0CS0 -) [
+      sadv/modnorule/(más más RG -)
+    ]
+    F-no-c/modnomatch/() ) Fpt -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(La_Flauta_Mágica la_flauta_mágica NP00000 -)
+  parti-flex/modnomatch/(destinada destinar VMP00SF -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(público público NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(concreto concreto AQ0MS0 -) [
+        sadv/modnorule/(muy muy RG -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(conectar conectar VMN0000 -) [
+  VMS*<poder>/modnomatch/(puedan poder VMSP3P0 -)
+  sadv/cc/(Difícilmente Difícilmente RG -)
+  coord/modnomatch/(y y CC -)
+  grup-verb-inf/modnomatch/(disfrutar disfrutar VMN0000 -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(ella él PP3FS000 -)
+  ]
+  espec-mp/modnomatch/(los el DA0MP0 -)
+  prel/modnomatch/(que que PR0CN000 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(a_el_igual_que al_igual_que CS -) [
+    grup-verb/modnorule/(tengan tener VMM03P0 -) [
+      sn/subj/(servidor servidor NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        Fc(,)/modnomatch/(, , Fc -)
+      ]
+      sn/obj/(problemas problema NCMP000 -) [
+        s-a-mp/qual/(ciertos cierto AQ0MP0 -)
+      ]
+      grup-sp/modnomatch/(con con SPS00 -) [
+        sn/head/(ópera ópera NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

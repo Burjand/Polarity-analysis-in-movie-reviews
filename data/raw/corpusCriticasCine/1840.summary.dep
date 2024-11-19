@@ -1,0 +1,60 @@
+parti-flex/top/(Tomada tomar VMP00SF -) [
+  grup-sp/modnorule/(a a SPS00 -) [
+    sn/head/(chacota chacota NCFS000 -)
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(entretiene entretener VMIP3S0 -)
+  F-term/modnorule/(. . Fp -)
+]
+
+grup-verb/top/(pierde perder VMIP3S0 -) [
+  morfema-verbal/modnomatch/(Se se P0000000 -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(ratos rato NCMP000 -) [
+      s-a-mp/qual/(irrecuperables irrecuperable AQ0CP0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(tedio tedio NCMS000 -) [
+          s-a-ms/qual/(sombrío sombrío AQ0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(Tiene tener VMIP3S0 -) [
+  sn/obj/(lugar lugar NCMS000 -) [
+    espec-ms/espec/(su su DP3CS0 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(corazoncito corazón NCMS00D -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(cinéfilo cinéfilo NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          s-a-ms/qual/(hecho hacer VMP00SM -)
+          grup-verb/modnomatch/(tomen_el_pelo tomar_el_pelo VMSP3P0 -) [
+            patons/modnomatch/(le le PP3CSD00 -)
+            grup-sp/modnomatch/(con con SPS00 -) [
+              sn/head/(gracia gracia NCFS000 -) [
+                espec-fs/espec/(tanta tanto DI0FS0 -)
+              ]
+            ]
+            coor-n/obj/(y y CC -) [
+              sn/co-n/(disposición disposición NCFS000 -) [
+                s-a-fs/qual/(buena bueno AQ0FS0 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  prep/modnomatch/(a a SPS00 -)
+  conj-subord/modnomatch/(que que CS -)
+  Fc(,)/modnomatch/(, , Fc -)
+  sadv/cc/(de_cuando_en_cuando de_cuando_en_cuando RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(. . Fp -)
+]
+

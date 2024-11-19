@@ -1,0 +1,56 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(Brújula_Dorada brújula_dorada NP00000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+  ]
+  sn/obj/(intento intento NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    s-a-ms/qual/(enésimo enésimo AO0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Hollywood hollywood NP00000 -)
+    ]
+  ]
+  grup-sp-inf/modnomatch/(por por SPS00 -) [
+    grup-verb-inf/head/(copiar copiar VMN0000 -)
+    sn/modnomatch/(éxito éxito NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(monumental monumental AQ0CS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(El_Señor_de_los_Anillos el_señor_de_los_anillos NP00000 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(pero pero CC -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(queda quedar VMIP3S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(intento intento NCMS000 -) [
+      grup-sp/modnomatch/(por por SPS00 -) [
+        sn/head/(historia historia NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          s-a-fs/qual/(pobre pobre AQ0CS0 -) [
+            sadv/modnorule/(tan tan RG -)
+          ]
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(fantasía fantasía NCFS000 -) [
+              espec-fs/espec/(toda todo DI0FS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(ofrece ofrecer VMIP3S0 -)
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  s-adj/att/(carente carente AQ0CS0 -)
+  coor-n/obj/(o o CC -) [
+    sn/co-n/(magia magia NCFS000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

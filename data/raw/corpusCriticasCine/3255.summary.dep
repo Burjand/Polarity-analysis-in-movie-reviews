@@ -1,0 +1,66 @@
+s-adj/top/(y y CC -) [
+  s-a-fs/modnorule/(Olvidada olvidar VMP00SF -)
+  s-a-fs/modnorule/(desconocida desconocer VMP00SF -)
+  grup-sp/modnorule/(para para SPS00 -) [
+    sn/head/(parte parte NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(gran gran AQ0CS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(público público NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          grup-sp/modnomatch/(de de SPS00 -) [
+            sadv/modnomatch/(hoy hoy RG -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(ser ser VSN0000 -) [
+    VMI*<dejar>/modnomatch/(deja dejar VMIP3S0 -)
+    SPS00(de)/modnomatch/(de de SPS00 -)
+    sn/subj/(The_Passage the_passage NP00000 -)
+    neg/modneg/(no no RN -)
+    sn/obj/(ejercicio ejercicio NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(contundente contundente AQ0CS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(cine cine NCMS000 -)
+      ]
+    ]
+    grup-sp/iobj/(a a SPS00 -) [
+      sn/head/(caballo caballo NCMS000 -)
+    ]
+    grup-sp/modnomatch/(entre entre SPS00 -) [
+      sn/head/(clasicismo clasicismo NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+    coor-n/obj/(y y CC -) [
+      sn/co-n/(JohnFordiano johnfordiano NP00000 -) [
+        Fe/modnomatch/(" " Fe -)
+        Fe/modnomatch/(" " Fe -)
+      ]
+      sn/co-n/(esteticismo esteticismo NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        s-a-ms/qual/(decadente decadente AQ0CS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(principios principio NCMP000 -) [
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(década década NCFS000 -) [
+                espec-fs/espec/(la el DA0FS0 -)
+                sp-de/mod/(de de SPS00 -) [
+                  sn/gen/(setenta 70 Z -) [
+                    j-mp/modnomatch/(los el DA0MP0 -)
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

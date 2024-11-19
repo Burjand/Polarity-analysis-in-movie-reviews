@@ -1,0 +1,68 @@
+grup-verb/top/(vuelve volver VMIP3S0 -) [
+  sn/subj/(Will_Smith will_smith NP00000 -)
+  grup-sp/cc/(a a SPS00 -) [
+    sn/head/(carteleras cartelera NCFP000 -) [
+      espec-fp/espec/(las el DA0FP0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/cc/(con con SPS00 -) [
+    sn/head/(película película NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(diferente diferente AQ0CS0 -) [
+        sadv/modnorule/(muy muy RG -)
+      ]
+    ]
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  espec-fp/modnomatch/(las el DA0FP0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(protagonizar protagonizar VMN0000 -) [
+      VMI*<soler>/modnomatch/(suele soler VMIP3S0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(enfrentar enfrentar VMN0000 -) [
+  patons/modnomatch/(se se PP3CN000 -)
+  VMI*<tener>/modnomatch/(tiene tener VMIP3S0 -)
+  CS(que)/modnomatch/(que que CS -)
+  grup-sp/cc/(En en SPS00 -) [
+    sn/head/(caso caso NCMS000 -) [
+      espec-ms/espec/(este este DD0MS0 -)
+    ]
+  ]
+  neg/modneg/(no no RN -)
+  coor-sp/modnomatch/(ni ni CC -) [
+    grup-sp/modnorule/(a a SPS00 -) [
+      sn/head/(robots robot NCMP000 -) [
+        grup-verb/modnomatch/(tiene tener VMIP3S0 -) [
+          grup-sp/cc/(en en SPS00 -) [
+            sn/head/(ocasión ocasión NCFS000 -) [
+              espec-fs/espec/(esta este DD0FS0 -)
+            ]
+          ]
+          sn/obj/(rival rival NCCS000 -) [
+            espec-ms/espec/(un uno DI0MS0 -)
+          ]
+          sadv/cc/(mucho mucho RG -)
+        ]
+      ]
+    ]
+    grup-sp/modnorule/(a a SPS00 -) [
+      sn/head/(extraterrestes extraterrestes NCFP000 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  s-adj/modnomatch/(difícil difícil AQ0CS0 -) [
+    sadv/modnorule/(más más RG -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(vida vida NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    s-a-fs/qual/(real real AQ0CS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

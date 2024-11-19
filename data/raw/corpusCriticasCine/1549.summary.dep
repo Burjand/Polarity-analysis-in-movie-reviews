@@ -1,0 +1,32 @@
+grup-verb/top/(esconden esconder VMIP3P0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  sn/subj/(historias historia NCFP000 -) [
+    espec-fp/espec/(Las el DA0FP0 -)
+    s-a-fp/qual/(grandes grande AQ0CP0 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(actos acto NCMP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+      s-a-mp/qual/(pequeños pequeño AQ0MP0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(hombres hombre NCMP000 -) [
+          espec-mp/espec/(algunos alguno DI0MP0 -)
+        ]
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(descubren descubrir VMIP3P0 -)
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(gusta gustar VMIP3S0 -) [
+      patons/modnomatch/(les les PP3CPD00 -)
+      neg/modneg/(no no RN -)
+      sn/obj/(realidad realidad NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

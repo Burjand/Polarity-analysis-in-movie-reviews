@@ -1,0 +1,53 @@
+sn/top/(film film NCMS000 -) [
+  espec-ms/espec/(Un uno DI0MS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(entretuvo entretener VMIS3S0 -) [
+      patons/modnomatch/(me me PP1CS000 -)
+    ]
+  ]
+  grup-sp/modnomatch/(sin sin SPS00 -) [
+    sn/head/(problemas problema NCMP000 -) [
+      grup-sp/modnomatch/(durante durante SPS00 -) [
+        sn/head/(horas hora NCFP000 -) [
+          espec-fp/espec/(dos 2 Z -) [
+            pos-fp/modnorule/(sus su DP3CP0 -)
+          ]
+          s-a-fp/qual/(largas largo AQ0FP0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(película película NCFS000 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(pero pero CC -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(dejando dejar VMG0000 -) [
+      patons/modnomatch/(me me PP1CS000 -)
+      VMI*<acabar>/modnomatch/(acabó acabar VMIS3S0 -)
+      sn/obj/(sensaciones sensación NCFP000 -) [
+        s-a-fp/qual/(contrapuestas contraponer VMP00PF -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(hecho hacer VMP00SM -) [
+  patons/modnomatch/(me me PP1CS000 -)
+  vaux/aux/(he haber VAIP1S0 -)
+  sn/subj/(Eso ese PD0NS000 -) [
+    sadv/modnomatch/(sí sí RG -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sadv/cc/(ya ya RG -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(banda banda NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(sonora sonoro AQ0FS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

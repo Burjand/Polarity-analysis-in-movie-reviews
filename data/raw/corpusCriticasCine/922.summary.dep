@@ -1,0 +1,47 @@
+grup-verb/top/(explicita explicitar VMIP3S0 -) [
+  sn/subj/(Ficción ficción NP00000 -)
+  grup-sp/modnomatch/(como como CS -) [
+    sn/head/(películas película NCFP000 -) [
+      espec-fp/espec/(pocas poco DI0FP0 -)
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(visto ver VMP00SM -) [
+      vaux/aux/(haya haber VASP1S0 -)
+      sn/subj/(yo yo PP1CSN00 -)
+      sn/obj/(dificultad dificultad NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  espec-ms/modnomatch/(el el DA0MS0 -)
+  grup-verb-inf/modnomatch/(ser ser VSN0000 -)
+  s-adj/modnomatch/(humano humano AQ0MS0 -)
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(manifestar manifestar VMN0000 -)
+    sn/modnomatch/(amor amor NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(dejar dejar VMN0000 -) [
+      PP*/modnomatch/(lo lo PP3CNA00 -)
+    ]
+  ]
+  grup-verb-inf/modnomatch/(fluir fluir VMN0000 -)
+  coord/modnomatch/(y y CC -)
+  neg/modneg/(no no RN -)
+  grup-verb-inf/modnomatch/(controlar controlar VMN0000 -)
+  sn/obj/(efectos efecto NCMP000 -) [
+    espec-mp/espec/(los el DA0MP0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(fuga fuga NCFS000 -) [
+        espec-fs/espec/(su su DP3CS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

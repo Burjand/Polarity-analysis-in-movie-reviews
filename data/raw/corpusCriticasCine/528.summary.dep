@@ -1,0 +1,43 @@
+grup-verb/top/(Es ser VSIP3S0 -) [
+  sn/obj/(cinta cinta NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(sorpresa sorpresa NCFS000 -)
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(perder perder VMN0000 -) [
+      patons/modnomatch/(os os PP2CP000 -)
+      VMI*<deber>/modnomatch/(debéis deber VMIP2P0 -)
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-sp/top/(Sobre sobre SPS00 -) [
+  sn/head/(todo todo PI0MS000 -)
+  grup-sp-inf/modnomatch/(para para SPS00 -) [
+    grup-verb-inf/head/(comprobar comprobar VMN0000 -)
+    sn/modnomatch/(peligroso peligroso AQ0MS0 -) [
+      j-ms/modnomatch/(lo el DA0NS0 -)
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(ser ser VSN0000 -) [
+          VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+        ]
+      ]
+      grup-sp/modnomatch/(a a SPS00 -) [
+        sn/head/(mano mano NCFS000 -)
+      ]
+    ]
+  ]
+  grup-verb-inf/modnomatch/(tener tener VMN0000 -)
+  sn/head/(mando mando NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    grup-sp/modnomatch/(a a SPS00 -) [
+      sn/head/(distancia distancia NCFS000 -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

@@ -1,0 +1,56 @@
+grup-verb/top/(gore gore VMSP3S0 -) [
+  sn/subj/(Emociones emoción NCFP000 -) [
+    s-a-fp/qual/(fuertes fuerte AQ0CP0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/modnomatch/(sobresaltos sobresalto NCMP000 -) [
+      Fc(,)/modnomatch/(, , Fc -)
+      F-no-c/modnomatch/(( ( Fpa -)
+    ]
+    sadv/modnomatch/(mucho mucho RG -)
+    F-no-c/modnomatch/() ) Fpt -)
+  ]
+  F-no-c/modnomatch/(( ( Fpa -)
+  coord/modnomatch/(pero pero CC -)
+  sadv/cc/(mucho mucho RG -)
+  sadv/cc/(mucho mucho RG -)
+  F-no-c/modnomatch/() ) Fpt -)
+  coord/modnomatch/(y y CC -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(sobre sobre SPS00 -) [
+    sn/head/(todo todo PI0MS000 -) [
+      grup-sp/modnomatch/(en en SPS00 -) [
+        sn/head/(tramo tramo NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          s-a-ms/qual/(final final AQ0CS0 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(dirección dirección NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(rabiosa rabioso AQ0FS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(va ir VMIP3S0 -) [
+        sadv/cc/(siempre siempre RG -)
+        grup-sp/cc/(a a SPS00 -) [
+          sadv/modnomatch/(más más RG -)
+        ]
+      ]
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(decae decaer VMIP3S0 -) [
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  coor-n/obj/(ni ni CC -) [
+    sn/co-n/(segundo segundo NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(solo solo AQ0MS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

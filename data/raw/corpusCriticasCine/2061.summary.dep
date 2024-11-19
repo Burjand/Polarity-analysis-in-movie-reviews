@@ -1,0 +1,67 @@
+coor-vb/top/(pero pero CC -) [
+  grup-verb/co-v/(tengo tener VMIP1S0 -) [
+    neg/modneg/(No no RN -)
+    sn/obj/(nada nada PI0CS000 -)
+    grup-sp/modnomatch/(en_contra_de en_contra_de SPS00 -) [
+      sn/head/(efectos_especiales efecto_especial NCMP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-sp/iobj/(a a SPS00 -) [
+      sn/head/(contrario contrario NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        grup-verb/modnomatch/(son ser VSIP3P0 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    s-adj/modnomatch/(útiles útil AQ0CP0 -) [
+      sadv/modnorule/(muy muy RG -)
+    ]
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(películas película NCFP000 -) [
+        s-a-fp/qual/(determinadas determinar VMP00PF -)
+      ]
+    ]
+    grup-sp-inf/iobj/(para para SPS00 -) [
+      grup-verb-inf/head/(conseguir conseguir VMN0000 -)
+      sn/modnomatch/(efecto efecto NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        s-a-ms/qual/(real real AQ0CS0 -) [
+          sadv/modnorule/(más más RG -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(hay haber VMIP3S0 -) [
+    neg/modneg/(no no RN -)
+  ]
+  conj-subord/modnomatch/(que que CS -)
+  grup-verb-inf/modnomatch/(olvidar olvidar VMN0000 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(estar estar VAN0000 -) [
+      VMI*<deber>/modnomatch/(deben deber VMIP3P0 -)
+      sn/subj/(efectos_especiales efecto_especial NCMP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+      ]
+      grup-sp/iobj/(a a SPS00 -) [
+        sn/head/(servicio servicio NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(historia historia NCFS000 -) [
+              espec-fs/espec/(la el DA0FS0 -)
+            ]
+          ]
+        ]
+      ]
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(cuenta contar VMIP3S0 -) [
+          morfema-verbal/modnomatch/(se se P0000000 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

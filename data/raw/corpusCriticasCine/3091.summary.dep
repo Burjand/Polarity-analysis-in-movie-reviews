@@ -1,0 +1,64 @@
+sn/top/(documental documental NCMS000 -) [
+  s-a-ms/qual/(Imprescindible imprescindible AQ0CS0 -)
+  grup-sp/modnomatch/(sobre sobre SPS00 -) [
+    sn/head/(sistema sistema NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(sanitario sanitario AQ0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(país país NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          s-a-ms/qual/(poderoso poderoso AQ0MS0 -) [
+            sadv/modnorule/(más más RG -)
+          ]
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(planeta planeta NCMS000 -) [
+              espec-ms/espec/(el el DA0MS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+vaux/top/(Estoy estar VAIP1S0 -) [
+  s-adj/modnorule/(seguro seguro AQ0MS0 -)
+  subord/modnorule/(que que CS -) [
+    grup-verb/modnorule/(mostrará mostrar VMIF3S0 -) [
+      patons/modnomatch/(lo lo PP3CNA00 -)
+      sn/subj/(presidente presidente NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(gobierno gobierno NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+          ]
+        ]
+      ]
+      sn/obj/(vez vez NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        s-a-fs/qual/(próxima próximo AQ0FS0 -)
+        subord/modnomatch/(que que PR0CN000 -) [
+          grup-verb/modnorule/(diga decir VMSP1S0 -) [
+            morfema-verbal/modnomatch/(se se P0000000 -)
+            patons/modnomatch/(le le PP3CSD00 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  subord/modnorule/(que que CS -) [
+    grup-verb/modnorule/(funciona funcionar VMIP3S0 -) [
+      sn/subj/(seguridad seguridad NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        s-a-fs/qual/(social social AQ0CS0 -)
+      ]
+      sadv/cc/(mal mal RG -)
+      grup-sp/cc/(en en SPS00 -) [
+        sn/head/(España españa NP00000 -)
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

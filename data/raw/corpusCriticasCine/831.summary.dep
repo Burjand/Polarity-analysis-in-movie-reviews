@@ -1,0 +1,54 @@
+grup-verb/top/(posee poseer VMIP3S0 -) [
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+  ]
+  grup-sp/modnomatch/(como como CS -) [
+    sn/head/(virtud virtud NCFS000 -) [
+      espec-fs/espec/(su su DP3CS0 -)
+      s-a-fs/qual/(mejor mejor AQ0CS0 -)
+    ]
+  ]
+  sn/obj/(ambientación ambientación NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(eficaz eficaz AQ0CS0 -)
+  ]
+  coor-sp/modnomatch/(y y CC -) [
+    grup-sp/modnorule/(sobre sobre SPS00 -) [
+      sn/head/(actorazo actor NCMS00A -) [
+        espec-ms/espec/(todo todo DI0MS0 -) [
+          indef-ms/modnorule/(un uno DI0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(es ser VSIP3S0 -)
+  ]
+  sn/obj/(Paul_Giamatti paul_giamatti NP00000 -) [
+    grup-verb/modnomatch/(consigue conseguir VMIP3S0 -) [
+      neg/modneg/(no no RN -)
+      sn/obj/(nadie nadie PI0CS000 -)
+    ]
+  ]
+  relatiu/modnomatch/(a a SPS00 -) [
+    j-ms/modnorule/(el el DA0MS0 -)
+    cual-s/modnorule/(cual cual PR0CS000 -)
+  ]
+  grup-verb-inf/modnomatch/(hacer hacer VMN0000 -) [
+    PP*/modnomatch/(le le PP3CSD00 -)
+  ]
+  sn/obj/(sombra sombra NCFS000 -)
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(propuesta propuesta NCFS000 -) [
+  s-a-fs/qual/(Entretenida entretener VMP00SF -)
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(y y CC -)
+  s-adj/qual/(recomendable recomendable AQ0CS0 -)
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(ver ver VMN0000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

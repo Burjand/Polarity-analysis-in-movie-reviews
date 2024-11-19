@@ -1,0 +1,59 @@
+prep/top/(a a SPS00 -) [
+  espec-ms/modnorule/(el el DA0MS0 -)
+  grup-verb-inf/modnorule/(parecer parecer VMN0000 -)
+  grup-verb/modnorule/(decidido decidir VMP00SM -) [
+    vaux/aux/(han haber VAIP3P0 -)
+    sn/subj/(hermanos hermano NCMP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+    ]
+    sn/subj/(Pang pang NP00000 -)
+  ]
+  grup-verb-inf/modnorule/(ir ir VMN0000 -) [
+    PP*/modnomatch/(se se PP3CN000 -)
+  ]
+  grup-sp/modnorule/(por por SPS00 -) [
+    sn/head/(camino camino NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(fácil fácil AQ0CS0 -)
+    ]
+  ]
+  coord/modnorule/(y y CC -)
+  grup-verb-inf/modnorule/(emular emular VMN0000 -)
+  coor-n/modnorule/(y y CC -) [
+    sn/co-n/(todos todo PI0MP000 -)
+    sn/co-n/(uno uno PI0MS000 -) [
+      indef-ms/modnomatch/(cada cada DI0CS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(trucos truco NCMP000 -) [
+          espec-mp/espec/(los el DA0MP0 -)
+          s-a-mp/qual/(viejos viejo AQ0MP0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(terror terror NCMS000 -) [
+              espec-ms/espec/(el el DA0MS0 -)
+              s-a-ms/qual/(asiático asiático AQ0MS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  grup-sp/modnorule/(en en SPS00 -) [
+    sn/head/(esperanza esperanza NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  grup-sp-inf/modnorule/(de de SPS00 -) [
+    grup-verb-inf/head/(arrancar arrancar VMN0000 -)
+    sn/modnomatch/(susto susto NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(fácil fácil AQ0CS0 -)
+    ]
+  ]
+  grup-sp/modnorule/(a a SPS00 -) [
+    sn/head/(espectador espectador NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(occidental occidental AQ0CS0 -)
+    ]
+  ]
+]
+

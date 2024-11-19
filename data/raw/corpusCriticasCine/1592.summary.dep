@@ -1,0 +1,63 @@
+grup-verb/top/(impiden impedir VMIP3P0 -) [
+  sn/subj/(defectillos defecto NCMP00D -) [
+    espec-mp/espec/(Esos ese DD0MP0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+    neg/modnomatch/(no no RN -)
+    s-adj/qual/(grandes grande AQ0CP0 -) [
+      sadv/modnorule/(tan tan RG -)
+    ]
+    subord/modnomatch/(como como CS -) [
+      grup-verb/modnorule/(parecer parecer VMN0000 -) [
+        VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+      ]
+    ]
+    grup-sp/modnomatch/(por por SPS00 -) [
+      sn/head/(comentario comentario NCMS000 -) [
+        espec-ms/espec/(mi mi DP1CSS -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(espectáculo espectáculo NCMS000 -) [
+            s-a-ms/qual/(puro puro AQ0MS0 -)
+            s-a-ms/qual/(cinematográfico cinematográfico AQ0MS0 -)
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(películas película NCFP000 -) [
+                espec-fp/espec/(las el DA0FP0 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  neg/modneg/(no no RN -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(pase pasar VMSP1S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+      sn/subj/(espectador espectador NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+      sn/obj/(horas hora NCFP000 -) [
+        numero-nopart/quant/(dos 2 Z -)
+        s-a-fp/qual/(entretenidísimas entretenido AQSFP0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  prep/modnomatch/(en en SPS00 -)
+  espec-fs/modnomatch/(la el DA0FS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(será ser VSIF3S0 -)
+  ]
+  sadv/cc/(sin_lugar_a_dudas sin_lugar_a_dudas RG -)
+  espec-fs/modnomatch/(una uno DI0FS0 -)
+  sn/obj/(recordadas recordar VMP00PF -) [
+    espec-fp/espec/(más más RG -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(año año NCMS000 -) [
+        espec-ms/espec/(este este DD0MS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

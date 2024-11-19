@@ -1,0 +1,72 @@
+F-no-c/top/(" " Fe -) [
+  grup-verb/modnorule/(tiene tener VMIP3S0 -) [
+    sn/subj/(Plan plan NCMS000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(vuelo vuelo NCMS000 -)
+      ]
+      F-no-c/modnomatch/(: : Fd -)
+    ]
+    sn/subj/(desaparecida desaparecido NCFS000 -) [
+      F-no-c/modnomatch/(" " Fe -)
+    ]
+    sn/obj/(privilegio privilegio NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+    grup-sp-inf/modnomatch/(de de SPS00 -) [
+      grup-verb-inf/head/(ser ser VSN0000 -)
+      sn/modnomatch/(película película NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        s-a-fs/qual/(primera 1 AO0FS0 -)
+        subord/modnomatch/(que que PR0CN000 -) [
+          grup-verb/modnorule/(califico calificar VMIP1S0 -)
+        ]
+      ]
+    ]
+    grup-sp/modnomatch/(con con SPS00 -) [
+      sn/head/(nota nota NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+    sn/obj/(Puta_Mierda puta_mierda NP00000 -) [
+      Fe/modnomatch/(" " Fe -)
+      Fe/modnomatch/(" " Fe -)
+      Fc(,)/modnomatch/(, , Fc -)
+    ]
+  ]
+  prep/modnorule/(en en SPS00 -)
+  espec-ms/modnorule/(lo el DA0NS0 -)
+  subord/modnorule/(que que PR0CN000 -) [
+    grup-verb/modnorule/(será ser VSIF3S0 -)
+  ]
+  sn/modnorule/(recurso recurso NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(chanante chanante AQ0CS0 -) [
+      Fe/modnorule/(" " Fe -)
+      Fe/modnorule/(" " Fe -)
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(aplicaré aplicar VMIF1S0 -)
+    ]
+    grup-sp/modnomatch/(a a SPS00 -) [
+      sn/head/(películas película NCFP000 -) [
+        espec-fp/espec/(las el DA0FP0 -)
+        s-a-fp/qual/(infumables infumable AQ0CP0 -)
+        grup-sp/modnomatch/(entre entre SPS00 -) [
+          sn/head/(ojos ojo NCMP000 -) [
+            espec-mp/espec/(los el DA0MP0 -)
+            grup-sp/modnomatch/(a_partir_de a_partir_de SPS00 -) [
+              sadv/modnomatch/(ahora ahora RG -)
+            ]
+          ]
+        ]
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(meto meter VMIP1S0 -) [
+        patons/modnomatch/(me me PP1CS000 -)
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

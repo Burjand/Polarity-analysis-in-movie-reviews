@@ -1,0 +1,68 @@
+sn/top/(Película película NCFS000 -) [
+  s-a-fs/qual/(americana americano AQ0FS0 -)
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(terror terror NCMS000 -) [
+      grup-sp/modnomatch/(a a SPS00 -) [
+        sn/head/(estilo estilo NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          s-a-ms/qual/(japonés japonés AQ0MS0 -)
+          grup-sp/modnomatch/(sobre sobre SPS00 -) [
+            sn/head/(virús virús NCMS000 -) [
+              espec-ms/espec/(un uno DI0MS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(trata tratar VMIP3S0 -)
+  ]
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(robar robar VMN0000 -)
+    sn/modnomatch/(vida vida NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(seres ser NCMP000 -) [
+          espec-mp/espec/(los el DA0MP0 -)
+          s-a-mp/qual/(humanos humano AQ0MP0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(manera manera NCFS000 -) [
+              espec-fs/espec/(esa ese DD0FS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  prep/modnomatch/(para para SPS00 -)
+  grup-verb-inf/modnomatch/(conseguir conseguir VMN0000 -)
+  grup-verb-inf/modnomatch/(tener tener VMN0000 -)
+  sn/modnomatch/(propia propio AQ0FS0 -) [
+    indef-fs/modnomatch/(una uno DI0FS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(da dar VMIP3S0 -) [
+  sn/subj/(miedo miedo NCMS000 -) [
+    espec-ms/espec/(Mucho mucho DI0MS0 -)
+    grup-verb/modnomatch/(dejar dejar VMN0000 -) [
+      patons/modnomatch/(te te PP2CS000 -)
+      VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+    ]
+  ]
+  neg/modneg/(no no RN -)
+  coor-n/obj/(pero pero CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(idea idea NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  forma-ger/modnomatch/(pensando pensar VMG0000 -)
+  sn/obj/(rato rato NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

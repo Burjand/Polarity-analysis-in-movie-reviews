@@ -1,0 +1,22 @@
+sn/top/(film film NCMS000 -) [
+  s-a-ms/qual/(Interesante interesante AQ0CS0 -)
+  s-a-ms/qual/(francés francés AQ0MS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(estrenado estrenar VMP00SM -) [
+      vaux/aux/(ha haber VAIP3S0 -)
+      VMP00SM(tardado)/modnomatch/(tardado tardar VMP00SM -)
+      SPS00(en)/modnomatch/(en en SPS00 -)
+      infaux-ser/modnomatch/(ser ser VSN0000 -)
+    ]
+  ]
+  grup-sp/modnomatch/(en en SPS00 -) [
+    sn/head/(salas sala NCFP000 -) [
+      espec-fp/espec/(las el DA0FP0 -)
+      s-a-fp/qual/(comerciales comercial AQ0CP0 -) [
+        s-a-fp/modnorule/(españolas español AQ0FP0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

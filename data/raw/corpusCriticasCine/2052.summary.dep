@@ -1,0 +1,67 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(historia historia NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+  ]
+  s-adj/att/(simple simple AQ0CS0 -) [
+    sadv/modnorule/(bastante bastante RG -)
+  ]
+  coor-sp/modnomatch/(y y CC -) [
+    Fc(,)/modnorule/(, , Fc -)
+    grup-sp/modnorule/(pese_a pese_a SPS00 -) [
+      sn/head/(duración duración NCFS000 -) [
+        espec-fs/espec/(su su DP3CS0 -)
+        s-a-fs/qual/(excesiva excesivo AQ0FS0 -)
+        grup-verb/modnomatch/(consigue conseguir VMIP3S0 -) [
+          neg/modneg/(no no RN -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb-inf/modnomatch/(cerrar cerrar VMN0000 -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(éxito éxito NCMS000 -)
+  ]
+  espec-fp/modnomatch/(todas todo DI0FP0 -) [
+    j-fp/modnorule/(las el DA0FP0 -)
+  ]
+  sn/obj/(subtramas subtramas NCMP000 -) [
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(creando crear VMG0000 -) [
+        VMI*<ir>/modnomatch/(va ir VMIP3S0 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sadv/cc/(así así RG -)
+  conj-subord/modnomatch/(que que CS -)
+  F-term/term/(? ? Fit -)
+]
+
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(Spiderman spiderman NP00000 -) [
+    sn/modnomatch/(3 3 Z -)
+    F-term/term/(? ? Fit -)
+  ]
+  sn/obj/(producto producto NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(irregular irregular AQ0CS0 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(consigue conseguir VMIP3S0 -)
+  ]
+  sn/obj/(cometido cometido NCMS000 -) [
+    espec-ms/espec/(su su DP3CS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  grup-verb-inf/modnomatch/(llenar llenar VMN0000 -)
+  sn/obj/(pantallas pantalla NCFP000 -) [
+    espec-fp/espec/(las el DA0FP0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(espectadores espectador NCMP000 -)
+    ]
+    F-no-c/modnomatch/(... ... Fs -)
+  ]
+]
+

@@ -1,0 +1,50 @@
+grup-verb/top/(elaborar elaborar VMN0000 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+  grup-sp/modnomatch/(Con con SPS00 -) [
+    sn/head/(calidez calidez NCFS000 -)
+  ]
+  coor-n/subj/(y y CC -) [
+    sn/co-n/(serenidad serenidad NCFS000 -)
+  ]
+  sn/obj/(receta receta NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    s-a-fs/qual/(deliciosa delicioso AQ0FS0 -) [
+      sadv/modnorule/(más más RG -)
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(da dar VMIP3S0 -)
+    ]
+  ]
+  grup-sp/modnomatch/(como como CS -) [
+    sn/head/(resultado resultado NCMS000 -)
+  ]
+  sn/obj/(plato plato NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(delicioso delicioso AQ0MS0 -)
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(facultad facultad NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(curiosa curioso AQ0FS0 -)
+    ]
+  ]
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(dejar dejar VMN0000 -)
+    sn/modnomatch/(regusto regusto NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(y y CC -) [
+        s-a-ms/modnorule/(amargo amargo AQ0MS0 -)
+        s-a-ms/modnorule/(dulce dulce AQ0CS0 -)
+      ]
+    ]
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(tiempo tiempo NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(mismo mismo AQ0MS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

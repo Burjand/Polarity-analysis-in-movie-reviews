@@ -1,0 +1,72 @@
+grup-verb/top/(perdura perdurar VMIP3S0 -) [
+  sn/subj/(obra obra NCFS000 -) [
+    espec-fs/espec/(Una uno DI0FS0 -)
+    s-a-fs/qual/(maestra maestro AQ0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(género género NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    conj-subord/modnomatch/(que que CS -)
+    prep/modnomatch/(pese_a pese_a SPS00 -)
+    espec-ms/espec/(ese ese DD0MS0 -)
+  ]
+  sn/subj/(corte corte NCFS000 -) [
+    grup-sp/modnomatch/(en en SPS00 -) [
+      sn/head/(metraje metraje NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  grup-sp/modnomatch/(como como CS -) [
+    sn/head/(film film NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(repleto repleto AQ0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(lecturas lectura NCFP000 -) [
+          s-a-fp/qual/(dobles doble AQ0CP0 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(ellas ellos PP3FP000 -) [
+    pindef-fs/modnomatch/(alguna alguno PI0FS000 -)
+    SPS00(de)/modnomatch/(de de SPS00 -)
+    s-adj/qual/(durísimas duro AQSFP0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  coord/modnomatch/(y y CC -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(tener tener VMN0000 -) [
+      VMI*<poder>/modnomatch/(podría poder VMIC1S0 -)
+    ]
+  ]
+  sn/obj/(vigencia vigencia NCFS000 -)
+  sadv/cc/(incluso incluso RG -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(dias dias NCCP000 -) [
+      espec-mp/espec/(nuestros nuestro DP1MPP -)
+      grup-sp/modnomatch/(con con SPS00 -) [
+        sn/head/(adoración adoración NCFS000 -) [
+          espec-fs/espec/(tanta tanto DI0FS0 -)
+          s-a-fs/qual/(extrema extremo AQ0FS0 -)
+          grup-sp/modnomatch/(a a SPS00 -) [
+            sn/head/(culto culto NCMS000 -) [
+              espec-ms/espec/(el el DA0MS0 -)
+              grup-sp/modnomatch/(a a SPS00 -) [
+                sn/head/(cuerpo cuerpo NCMS000 -) [
+                  espec-ms/espec/(el el DA0MS0 -)
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

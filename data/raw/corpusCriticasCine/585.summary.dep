@@ -1,0 +1,59 @@
+espec-fs/top/(Una uno DI0FS0 -) [
+  sp-de/modnorule/(de de SPS00 -) [
+    sn/gen/(cintas cinta NCFP000 -) [
+      espec-fp/espec/(las el DA0FP0 -)
+      s-a-fp/qual/(mejores mejor AQ0CP0 -)
+      s-a-fp/qual/(españolas español AQ0FP0 -)
+    ]
+  ]
+  prep/modnorule/(en en SPS00 -)
+  espec-fs/modnorule/(la el DA0FS0 -)
+  prel/modnorule/(que que PR0CN000 -)
+  sp-de/modnorule/(de de SPS00 -) [
+    sn/gen/(Toro toro NP00000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  grup-verb/modnorule/(revela revelar VMIP3S0 -) [
+    morfema-verbal/modnomatch/(se se P0000000 -)
+    grup-sp/modnomatch/(como como CS -) [
+      sn/head/(narrador narrador NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        s-a-ms/qual/(capaz capaz AQ0CS0 -)
+      ]
+    ]
+    grup-sp-inf/modnomatch/(de de SPS00 -) [
+      grup-verb-inf/head/(aunar aunar VMN0000 -)
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  grup-sp/modnorule/(en en SPS00 -) [
+    sn/head/(relato relato NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(mismo mismo AQ0MS0 -)
+    ]
+  ]
+  coor-n/modnorule/(y y CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(magia magia NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(fábulas fábula NCFP000 -) [
+          espec-fp/espec/(las el DA0FP0 -)
+        ]
+      ]
+    ]
+    sn/co-n/(horrible horrible AQ0CS0 -) [
+      j-ms/modnomatch/(lo el DA0NS0 -)
+      sadv/modnomatch/(más más RG -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(condición condición NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          s-a-fs/qual/(humana humano AQ0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

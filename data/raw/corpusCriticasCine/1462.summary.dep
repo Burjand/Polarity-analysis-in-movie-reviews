@@ -1,0 +1,49 @@
+grup-verb/top/(sale salir VMIP3S0 -) [
+  sn/subj/(Uno uno PI0MS000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(truquito truque NCMS00D -) [
+        espec-ms/espec/(tanto tanto DI0MS0 -)
+        s-a-ms/qual/(visual visual AQ0CS0 -) [
+          s-a-ms/modnorule/(generado generar VMP00SM -)
+        ]
+      ]
+    ]
+  ]
+  parti-flex/modnomatch/(empachado empachar VMP00SM -)
+  grup-sp/cc/(por por SPS00 -) [
+    sn/head/(ordenador ordenador NCMS000 -)
+  ]
+  coord/modnomatch/(y y CC -)
+  grup-sp-inf/modnomatch/(sin sin SPS00 -) [
+    grup-verb-inf/head/(encontrado encontrar VMP00SM -) [
+      infaux/modnomatch/(haber haber VAN0000 -)
+    ]
+  ]
+  coor-n/cc/(u u CC -) [
+    sn/co-n/(atisbo atisbo NCMS000 -)
+    sn/co-n/(alguno alguno PI0MS000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(épica épica NCFS000 -)
+      ]
+    ]
+    sn/co-n/(emoción emoción NCFS000 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(cinta cinta NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      grup-verb/modnomatch/(ofrecer ofrecer VMN0000 -) [
+        VMI*<deber>/modnomatch/(debería deber VMIC1S0 -)
+        sn/obj/(cualidades cualidad NCFP000 -) [
+          espec-fp/espec/(ambas ambos DI0FP0 -)
+        ]
+        sadv/cc/(a_raudales a_raudales RG -)
+      ]
+    ]
+  ]
+  prel/modnomatch/(que que PR0CN000 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  sadv/cc/(precisamente precisamente RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(. . Fp -)
+]
+

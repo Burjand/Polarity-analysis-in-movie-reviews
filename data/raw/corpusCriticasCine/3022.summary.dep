@@ -1,0 +1,79 @@
+grup-verb/top/(juega jugar VMM02S0 -) [
+  sn/subj/(Moore moore NP00000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-verb/modnomatch/(hay haber VMIP3S0 -)
+  ]
+  sn/obj/(poco poco PI0MS000 -) [
+    indef-ms/modnomatch/(un uno DI0MS0 -)
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(sentimientos sentimiento NCMP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(espectador espectador NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  conj-subord/modnomatch/(que que CS -)
+  grup-verb-inf/modnomatch/(ser ser VSN0000 -)
+  s-adj/modnomatch/(transigente transigente AQ0CS0 -)
+  coord/modnomatch/(y y CC -)
+  grup-verb-inf/modnomatch/(darse_cuenta dar_cuenta VMN0000 -)
+  conj-subord/modnomatch/(que que CS -)
+  coor-sp/modnomatch/(no_sólo no_sólo CC -) [
+    grup-sp/modnorule/(en en SPS00 -) [
+      sn/head/(España españa NP00000 -) [
+        grup-verb/modnomatch/(viven vivir VMIP3P0 -) [
+          sn/obj/(personas persona NCFP000 -)
+          grup-sp/modnomatch/(con con SPS00 -) [
+            sn/head/(rentas renta NCFP000 -) [
+              s-a-fp/qual/(inusuales inusual AQ0CP0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(está estar VAIP3S0 -) [
+      grup-sp/cc/(en en SPS00 -) [
+        sn/head/(States states NP00000 -) [
+          espec-mp/espec/(los el DA0MP0 -)
+        ]
+        F-no-c/modnomatch/(" " Fe -)
+      ]
+      sn/subj/(país país NCMS000 -) [
+        espec-ms/espec/(El el DA0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(oportunidades oportunidad NCFP000 -) [
+            espec-fp/espec/(las el DA0FP0 -)
+          ]
+        ]
+        F-no-c/modnomatch/(" " Fe -)
+      ]
+      sn/obj/(cosa cosa NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+      sadv/cc/(mucho mucho RG -)
+    ]
+  ]
+  s-adj/modnomatch/(seria serio AQ0FS0 -) [
+    sadv/modnorule/(más más RG -)
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  espec-ms/modnomatch/(lo el DA0NS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(parece parecer VMIP3S0 -)
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(vista vista NCFS000 -) [
+      s-a-fs/qual/(simple simple AQ0CS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

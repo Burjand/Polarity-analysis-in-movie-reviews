@@ -1,0 +1,39 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(logro logro NCMS000 -) [
+    espec-ms/espec/(Su su DP3CS0 -)
+    s-a-ms/qual/(mayor mayor AQ0CS0 -)
+  ]
+  sn/obj/(binomio binomio NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    s-a-ms/qual/(conformado conformar VMP00SM -)
+  ]
+  grup-sp/modnomatch/(por por SPS00 -) [
+    sn/head/(John_Hurt john_hurt NP00000 -)
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(Elijah_Wood elijah_wood NP00000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(actores actor NCMP000 -) [
+    numero-nopart/quant/(dos 2 Z -)
+    s-a-mp/qual/(capaces capaz AQ0CP0 -)
+    grup-verb/modnomatch/(interesar interesar VMN0000 -) [
+      patons/modnomatch/(nos nos PP1CP000 -)
+      VMS*<dejar>/modnomatch/(deje dejar VMSP1S0 -)
+      SPS00(de)/modnomatch/(de de SPS00 -)
+      coor-n/subj/(aunque aunque CC -) [
+        sn/co-n/(atención atención NCFS000 -) [
+          espec-fs/espec/(nuestra nuestro DP1FSP -)
+        ]
+        sn/co-n/(trama trama NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(captar captar VMN0000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,73 @@
+grup-verb/top/(recuerda recordar VMIP3S0 -) [
+  patons/modnomatch/(me me PP1CS000 -)
+  sn/subj/(debut debut NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(largo largo AQ0MS0 -) [
+      j-ms/modnomatch/(el el DA0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(Rodrigo_Cortés rodrigo_cortés NP00000 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(por por SPS00 -) [
+    sn/head/(factura factura NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(elegante elegante AQ0CS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(En en NP00000 -)
+  ]
+  sn/obj/(ciudad ciudad NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    grup-sp/modnomatch/(sin sin SPS00 -) [
+      sn/head/(límites límite NCMP000 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(director director NCMS000 -) [
+  espec-ms/espec/(El el DA0MS0 -)
+  n-fs/modnomatch/(rueda rueda NCFS000 -)
+  s-adj/qual/(valiente valiente AQ0CS0 -)
+  coor-sp/modnomatch/(y y CC -) [
+    Fc(,)/modnorule/(, , Fc -)
+    grup-sp/modnorule/(sin sin SPS00 -) [
+      sn/head/(miedo miedo NCMS000 -) [
+        grup-sp/modnomatch/(en en SPS00 -) [
+          sn/head/(estado estado NCMS000 -) [
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(gracia gracia NCFS000 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+    grup-sp/modnorule/(con con SPS00 -) [
+      sn/head/(actor actor NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+      ]
+    ]
+  ]
+  s-adj/qual/(hiperactivísimo hiperactivo AQSMS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(come comer VMIP3S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+    ]
+  ]
+  sn/modnomatch/(pantalla pantalla NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-sp-inf/top/(A a SPS00 -) [
+  grup-verb-inf/head/(jugaaaaaaaaar jugaaaaaaaaar VMN0000 -)
+  F-term/modnomatch/(! ! Fat -)
+]
+

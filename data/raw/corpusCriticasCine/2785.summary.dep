@@ -1,0 +1,92 @@
+grup-verb/top/(sentir sentir VMN0000 -) [
+  patons/modnomatch/(nos nos PP1CP000 -)
+  VMI*<poder>/modnomatch/(podemos poder VMIP1P0 -)
+  VMN0000(dejar)/modnomatch/(dejar dejar VMN0000 -)
+  SPS00(de)/modnomatch/(de de SPS00 -)
+  neg/modneg/(No no RN -)
+  parti-flex/modnomatch/(seducidos seducir VMP00PM -)
+  grup-sp/modnomatch/(por por SPS00 -) [
+    sn/head/(individuo individuo NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(enfrenta enfrentar VMIP3S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+    ]
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(agencia agencia NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      grup-sp/modnomatch/(sin sin SPS00 -) [
+        sn/head/(escrúpulos escrúpulo NCMP000 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(ministerio ministerio NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(valora valorar VMIP3S0 -)
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(vida vida NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      grup-sp/modnomatch/(como como CS -) [
+        sn/head/(decimal decimal NCMS000 -) [
+          espec-ms/espec/(un uno DI0MS0 -)
+          grup-sp/modnomatch/(a a SPS00 -) [
+            sn/head/(departamento departamento NCMS000 -) [
+              espec-ms/espec/(un uno DI0MS0 -)
+              sp-de/mod/(de de SPS00 -) [
+                sn/gen/(hombres hombre NCMP000 -) [
+                  grup-sp/modnomatch/(con con SPS00 -) [
+                    sn/head/(corbata corbata NCFS000 -)
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+      Fc(,)/modnomatch/(, , Fc -)
+    ]
+    sn/co-n/(portátiles portátil NCMP000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(generación generación NCFS000 -) [
+          s-a-fs/qual/(última último AO0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(deciden decidir VMIP3P0 -)
+  ]
+  grup-sp/modnomatch/(sobre sobre SPS00 -) [
+    sn/head/(vida vida NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(demás demás PI0CP000 -) [
+          j-mp/modnomatch/(los el DA0MP0 -)
+        ]
+      ]
+    ]
+  ]
+  conj-subord/modnomatch/(como como CS -)
+  conj-subord/modnomatch/(si si CS -)
+  vaux/aux/(estuvieran estar VASI3P0 -)
+  forma-ger/modnomatch/(eligiendo elegir VMG0000 -)
+  sn/obj/(plato plato NCMS000 -) [
+    espec-ms/espec/(su su DP3CS0 -)
+    grup-sp/modnomatch/(en en SPS00 -) [
+      sn/head/(menú menú NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

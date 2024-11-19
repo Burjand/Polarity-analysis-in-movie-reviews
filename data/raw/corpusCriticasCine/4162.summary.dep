@@ -1,0 +1,68 @@
+coor-vb/top/(y y CC -) [
+  sn/subj/(Película película NCFS000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(entretenimiento entretenimiento NCMS000 -) [
+        s-a-ms/qual/(notable notable AQ0CS0 -)
+        grup-sp/modnomatch/(de de SPS00 -) [
+          sadv/modnomatch/(largo largo RG -)
+          grup-sp/modnomatch/(a a SPS00 -) [
+            sn/head/(parte parte NCFS000 -) [
+              espec-fs/espec/(su su DP3CS0 -)
+              s-a-fs/qual/(floja flojo AQ0FS0 -)
+              s-a-fs/qual/(primera 1 AO0FS0 -)
+              grup-sp/modnomatch/(a a SPS00 -) [
+                sn/head/(espectador espectador NCMS000 -) [
+                  espec-ms/espec/(el el DA0MS0 -)
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(supera superar VMIP3S0 -)
+    ]
+    forma-ger/modnomatch/(dando dar VMG0000 -)
+    espec-ms/espec/(lo el DA0NS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(quiere querer VMIP3S0 -)
+    ]
+  ]
+  grup-verb/co-v/(predica predicar VMIP3S0 -) [
+    grup-sp/modnomatch/(con con SPS00 -) [
+      sn/head/(título título NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        s-a-ms/qual/(propio propio AQ0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(película película NCFS000 -) [
+            espec-fs/espec/(la el DA0FS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(augura augurar VMIP3S0 -)
+  ]
+  sn/modnomatch/(serie serie NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(nueva nuevo AQ0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(películas película NCFP000 -) [
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(franquicia franquicia NCFS000 -) [
+            espec-fs/espec/(esta este DD0FS0 -)
+            s-a-fs/qual/(nueva nuevo AQ0FS0 -) [
+              sadv/modnorule/(ya ya RG -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

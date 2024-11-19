@@ -1,0 +1,64 @@
+grup-verb/top/(dado dar VMP00SM -) [
+  vaux/aux/(ha haber VAIP3S0 -)
+  sn/subj/(vez vez NCFS000 -) [
+    espec-fs/espec/(Una uno DI0FS0 -)
+    sadv/modnomatch/(más más RG -)
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-verb/modnomatch/(soltado soltar VMP00SM -) [
+      patons/modnomatch/(nos nos PP1CP000 -)
+      vaux/aux/(ha haber VAIP3S0 -)
+      sn/obj/(bofeton bofeton NP00000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        s-a-ms/qual/(nuevo nuevo AQ0MS0 -)
+        s-a-ms/qual/(artístico artístico AQ0MS0 -)
+      ]
+      grup-sp-inf/iobj/(para para SPS00 -) [
+        grup-verb-inf/head/(realizar realizar VMN0000 -)
+        sn/modnomatch/(obra obra NCFS000 -) [
+          espec-fs/espec/(una uno DI0FS0 -)
+          s-a-fs/qual/(verdadera verdadero AQ0FS0 -)
+          s-a-fs/qual/(maestra maestro AQ0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  sn/subj/(Fincher fincher NP00000 -)
+  sn/obj/(vuelta vuelta NCFS000 -) [
+    espec-fs/espec/(otra otro DI0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(tuerca tuerca NCFS000 -) [
+        s-a-fs/qual/(inesperada inesperado AQ0FS0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(y y CC -)
+  grup-verb-inf/modnomatch/(sumar sumar VMN0000 -) [
+    PP*/modnomatch/(la lo PP3FSA00 -)
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(filmografía filmografía NCFS000 -) [
+      espec-fs/espec/(su su DP3CS0 -)
+      s-a-fs/qual/(, , Fc -) [
+        s-a-fs/modnorule/(sorprendente sorprendente AQ0CS0 -)
+        s-a-fs/modnorule/(y y CC -) [
+          s-a-fs/modnorule/(desgarradora desgarrador AQ0FS0 -)
+          s-a-fs/modnorule/(valiente valiente AQ0CS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(Cine cine NCMS000 -) [
+  grup-sp/modnomatch/(por por SPS00 -) [
+    sn/head/(costados costado NCMP000 -) [
+      espec-mp/espec/(cuatro 4 Z -) [
+        j-mp/modnorule/(los el DA0MP0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

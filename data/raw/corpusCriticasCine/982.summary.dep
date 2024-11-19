@@ -1,0 +1,43 @@
+grup-verb/top/(maravilla maravillar VMIP3S0 -) [
+  sn/subj/(Auténtica auténtica NP00000 -)
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(entretenimiento entretenimiento NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(hace hacer VMIP3S0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  sn/subj/(cinta cinta NCFS000 -) [
+    espec-fs/espec/(Una uno DI0FS0 -)
+    s-a-fs/qual/(repleta repleto AQ0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(acción acción NCFS000 -) [
+        s-a-fs/qual/(y y CC -) [
+          s-a-fs/modnorule/(auténtica auténtico AQ0FS0 -)
+          s-a-fs/modnorule/(realista realista AQ0CS0 -)
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    prel/modnomatch/(que que PR0CN000 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  grup-sp/modnomatch/(pese_a pese_a SPS00 -) [
+    sn/head/(duración duración NCFS000 -) [
+      espec-fs/espec/(su su DP3CS0 -)
+      s-a-fs/qual/(larga largo AQ0FS0 -)
+    ]
+  ]
+  sn/subj/(minutos minuto NCMP000 -) [
+    numero-nopart/quant/(-144 -144 Z -)
+    F-no-c/modnomatch/(- - Fg -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  neg/modneg/(no no RN -)
+  parti-flex/modnomatch/(pesada pesar VMP00SF -)
+  F-term/term/(. . Fp -)
+]
+

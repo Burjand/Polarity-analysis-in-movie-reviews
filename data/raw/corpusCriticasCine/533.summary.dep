@@ -1,0 +1,60 @@
+sn/top/(película película NCFS000 -) [
+  espec-fs/espec/(Una uno DI0FS0 -)
+  s-a-fs/qual/(mala malo AQ0FS0 -) [
+    sadv/modnorule/(muy muy RG -)
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(provocar provocar VMN0000 -) [
+      VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+      VMN0000(llegar)/modnomatch/(llegar llegar VMN0000 -)
+      SPS00(a)/modnomatch/(a a SPS00 -)
+    ]
+  ]
+  sn/modnomatch/(úlcera úlcera NCFS000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(horrible horrible AQ0CS0 -) [
+        j-ms/modnomatch/(lo el DA0NS0 -)
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(es ser VSIP3S0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(juega jugar VMIP3S0 -) [
+  sadv/cc/(Además además RG -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(espectador espectador NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  conj-subord/modnomatch/(como como CS -)
+  subord/modnomatch/(si si CS -) [
+    grup-verb/modnorule/(fuera ser VSSI1S0 -) [
+      sn/subj/(éste este PD0MS000 -) [
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(comedia comedia NCFS000 -) [
+            espec-fs/espec/(la el DA0FS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  s-adj/modnomatch/(subnormal subnormal AQ0CS0 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  forma-ger/modnomatch/(pasando pasar VMG0000 -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(drama drama NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(forma forma NCFS000 -) [
+          s-a-fs/qual/(inexplicable inexplicable AQ0CS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,41 @@
+coor-vb/top/(y y CC -) [
+  sn/subj/(Destino_de_Nunik destino_de_nunik NP00000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+  ]
+  grup-verb/co-v/(es ser VSIP3S0 -) [
+    sn/obj/(película película NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(sobria sobrio AQ0FS0 -)
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(emociona emocionar VMIP3S0 -)
+      ]
+    ]
+  ]
+  grup-verb/co-v/(conmueve conmover VMIP3S0 -) [
+    grup-sp/modnomatch/(por por SPS00 -) [
+      sn/head/(narración narración NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(atrocidad atrocidad NCFS000 -) [
+            espec-fs/espec/(una uno DI0FS0 -)
+          ]
+        ]
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(hace hacer VMIP3S0 -)
+    ]
+    sn/obj/(desconocida desconocer VMP00SF -) [
+      espec-fs/espec/(casi casi RG -)
+    ]
+    grup-sp/iobj/(para para SPS00 -) [
+      sn/head/(mayoría mayoría NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(nosotros nosotros PP1MP000 -)
+        ]
+      ]
+    ]
+  ]
+]
+

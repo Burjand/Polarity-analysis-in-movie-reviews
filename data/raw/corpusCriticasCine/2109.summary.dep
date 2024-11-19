@@ -1,0 +1,48 @@
+grup-verb/top/(despierta despertar VMIP3S0 -) [
+  sn/subj/(300 300 Z -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(espectador espectador NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(crea crear VMIP3S0 -) [
+  grup-sp/modnomatch/(Como como CS -) [
+    sn/head/(propuesta propuesta NCFS000 -) [
+      espec-fs/espec/(cualquier cualquiera DI0CS0 -)
+      s-a-fs/qual/(valiente valiente AQ0CS0 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(polémica polémica NCFS000 -)
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(está estar VAIP3S0 -) [
+  grup-sp/modnomatch/(Por por SPS00 -) [
+    sadv/modnomatch/(ahora ahora RG -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(Snyder snyder NP00000 -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(camino camino NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(correcto correcto AQ0MS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(cineasta cineasta NCCS000 -) [
+  espec-ms/espec/(Un uno DI0MS0 -)
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(siglo siglo NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(nuevo nuevo AQ0MS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

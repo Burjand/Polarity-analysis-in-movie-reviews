@@ -1,0 +1,61 @@
+s-adj/top/(Mejor mejor AQ0CS0 -) [
+  grup-verb-inf/modnorule/(tomar tomar VMN0000 -) [
+    PP*/modnomatch/(se se PP3CN000 -)
+  ]
+  sn/modnorule/(Soy soy NP00000 -)
+  sn/modnorule/(leyenda leyenda NCFS000 -)
+  conj-subord/modnorule/(como como CS -)
+  espec-fs/modnorule/(una uno DI0FS0 -)
+  sadv/modnorule/(más más RG -) [
+    SPS00(de)/modnorule/(de de SPS00 -)
+    sn/modnorule/(palomitas palomita NCFP000 -)
+  ]
+  coor-sp/modnorule/(pero pero CC -) [
+    Fc(,)/modnorule/(, , Fc -)
+    grup-sp/modnorule/(sin sin SPS00 -) [
+      sn/head/(chica chico NCFS000 -)
+    ]
+  ]
+  forma-ger/modnorule/(enseñando enseñar VMG0000 -)
+  grup-verb/modnorule/(cuenta contar VMIP3S0 -) [
+    sn/subj/(curvas curva NCFP000 -) [
+      F-no-c/modnomatch/(( ( Fpa -)
+    ]
+    sn/subj/(perra perro NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      w-fs/modnomatch/(Sam sam NP00000 -)
+    ]
+    neg/modneg/(no no RN -)
+    F-no-c/modnomatch/() ) Fpt -)
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+coord/top/(Y y CC -) [
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(siga seguir VMSP1S0 -) [
+      sn/obj/(igual igual AQ0CS0 -) [
+        pindef-ms/modnomatch/(todo todo PI0MS000 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+subord/top/(Cuando cuando CS -) [
+  grup-verb/modnorule/(entres entrar VMSP2S0 -)
+  grup-sp/modnorule/(en en SPS00 -) [
+    sn/head/(cine cine NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(deja dejar VMIP3S0 -) [
+    sn/obj/(cerebro cerebro NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+    sadv/cc/(fuera fuera RG -)
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

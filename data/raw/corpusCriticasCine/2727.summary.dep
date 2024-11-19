@@ -1,0 +1,53 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(Caótica_Ana caótica_ana NP00000 -)
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(hace hacer VMIP3S0 -)
+    ]
+  ]
+  sn/obj/(honor honor NCMS000 -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(título título NCMS000 -) [
+      espec-ms/espec/(su su DP3CS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(viaje viaje NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(y y CC -) [
+      s-a-ms/modnorule/(caótico caótico AQ0MS0 -)
+      s-a-ms/modnorule/(frenético frenético AQ0MS0 -)
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(confunde confundir VMIP3S0 -)
+    ]
+    grup-sp/modnomatch/(a a SPS00 -) [
+      sn/head/(espectador espectador NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  coord/modnomatch/(y y CC -)
+  prep/modnomatch/(en en SPS00 -)
+  espec-ms/modnomatch/(el el DA0MS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(reconoce reconocer VMIP3S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    data/modnomatch/(Julio [??:??/7/??:??.??:??] W -)
+  ]
+  sn/obj/(Medem medem NP00000 -) [
+    grup-sp/modnomatch/(por por SPS00 -) [
+      sn/head/(lado lado NCMS000 -) [
+        espec-ms/espec/(ningún ninguno DI0MS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

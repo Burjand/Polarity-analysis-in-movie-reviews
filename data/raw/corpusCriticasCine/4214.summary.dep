@@ -1,0 +1,38 @@
+grup-verb/top/(estar estar VAN0000 -) [
+  VMI*<volver>/modnomatch/(vuelve volver VMIP3S0 -)
+  SPS00(a)/modnomatch/(a a SPS00 -)
+  sn/subj/(cine cine NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+    s-a-ms/qual/(independiente independiente AQ0CS0 -)
+  ]
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(enhorabuena enhorabuena NCFS000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(trabajo trabajo NCMS000 -) [
+    s-a-ms/qual/(sensacional sensacional AQ0CS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(dirección dirección NCFS000 -) [
+        grup-sp/modnomatch/(en en SPS00 -) [
+          sn/head/(historia historia NCFS000 -) [
+            espec-fs/espec/(una uno DI0FS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  espec-fp/modnomatch/(esas ese DD0FP0 -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(moraleja moraleja NCFS000 -) [
+      s-a-fs/qual/(final final AQ0CS0 -)
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(gustan gustar VMIP3P0 -) [
+      sadv/cc/(tanto tanto RG -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

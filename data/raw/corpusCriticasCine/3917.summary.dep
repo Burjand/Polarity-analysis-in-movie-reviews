@@ -1,0 +1,56 @@
+grup-verb/top/(perdido perder VMP00SM -) [
+  vaux/aux/(Han haber VAIP3P0 -)
+  sn/obj/(ocasión ocasión NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(oro oro NCMS000 -)
+    ]
+  ]
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(hacer hacer VMN0000 -)
+    sn/modnomatch/(adaptación adaptación NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(definitiva definitivo AQ0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(novelas novela NCFP000 -) [
+          espec-fp/espec/(las el DA0FP0 -)
+          s-a-fp/qual/(mejores mejor AQ0CP0 -)
+          s-a-fp/qual/(fantásticas fantástico AQ0FP0 -)
+        ]
+      ]
+    ]
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  espec-fs/modnomatch/(una uno DI0FS0 -)
+  grup-sp/modnomatch/(de de SPS00 -) [
+    data/modnomatch/(siglo_XX [s:xx] W -) [
+      espec-ms/modnorule/(el el DA0MS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coord/top/(Pero pero CC -) [
+  s-adj/modnomatch/(tranquilos tranquilo AQ0MP0 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(pifiar pifiar VMN0000 -) [
+      patons/modnomatch/(la lo PP3FSA00 -)
+      VMI*<poder>/modnomatch/(pueden poder VMIP3P0 -)
+      sadv/cc/(aún aun RG -)
+      sadv/cc/(más más RG -)
+    ]
+  ]
+  coor-vb/modnomatch/(y y CC -) [
+    grup-verb/co-v/(anuncian anunciar VMIP3P0 -) [
+      sadv/cc/(ya ya RG -)
+      sn/obj/(parte parte NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        s-a-fs/qual/(posible posible AQ0CS0 -)
+        s-a-fs/qual/(segunda 2 AO0FS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

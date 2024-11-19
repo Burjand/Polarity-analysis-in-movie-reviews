@@ -1,0 +1,44 @@
+grup-verb/top/(presenta presentar VMIP3S0 -) [
+  sn/subj/(Guión guión NP00000 -) [
+    sadv/modnomatch/(bastante bastante RG -)
+    sadv/modnomatch/(mal mal RG -)
+    parti-flex/modnomatch/(rematado rematar VMP00SM -)
+    Fc(,)/modnomatch/(, , Fc -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(abre abrir VMIP3S0 -)
+    ]
+  ]
+  sn/subj/(caminos camino NCMP000 -) [
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(cierra cerrar VMIP3S0 -) [
+        neg/modneg/(no no RN -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(personajes personaje NCMP000 -) [
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(aportan aportar VMIP3P0 -) [
+        neg/modneg/(no no RN -)
+      ]
+    ]
+  ]
+  sn/obj/(nada nada PI0CS000 -)
+  coord/modnomatch/(y y CC -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(deja dejar VMIP3S0 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(indefinición indefinición NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(absoluta absoluto AQ0FS0 -) [
+        sadv/modnorule/(más más RG -)
+      ]
+      grup-sp/modnomatch/(a a SPS00 -) [
+        sn/head/(otros otro PI0MP000 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

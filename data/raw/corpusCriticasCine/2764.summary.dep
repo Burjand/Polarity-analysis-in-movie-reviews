@@ -1,0 +1,63 @@
+grup-verb/top/(dar dar VMN0000 -) [
+  VMI*<acabar>/modnomatch/(acaba acabar VMIP3S0 -)
+  SPS00(de)/modnomatch/(de de SPS00 -)
+  sn/subj/(Hostia hostia NCFS000 -) [
+    prel/modnomatch/(que que PR0CN000 -)
+    sn/modnomatch/(brasa brasa NCFS000 -)
+    P01CS000(me)/modnomatch/(me me P01CS000 -)
+  ]
+  sn/obj/(El el NP00000 -)
+  sn/obj/(laberinto laberinto NCMS000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(fauno fauno NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(cuento cuento NCMS000 -) [
+    s-a-ms/qual/(insoportable insoportable AQ0CS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(serie serie NCFS000 -) [
+        n-fs/modnomatch/(b b NCFS000 -)
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(dará dar VMIF3S0 -) [
+        patons/modnomatch/(le le PP3CSD00 -)
+      ]
+    ]
+  ]
+  sn/obj/(prestigio prestigio NCMS000 -) [
+    espec-ms/espec/(todo todo DI0MS0 -) [
+      j-ms/modnorule/(el el DA0MS0 -)
+    ]
+    s-a-ms/qual/(crítico crítico AQ0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(mundo mundo NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        grup-sp/modnomatch/(a a SPS00 -) [
+          sn/head/(director director NCMS000 -) [
+            espec-ms/espec/(su su DP3CS0 -)
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(Guillermo_de_el_Toro guillermo_de_el_toro NP00000 -) [
+    espec-ms/espec/(mi mi DP1CSS -)
+    s-a-ms/qual/(estimado estimar VMP00SM -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  coord/modnomatch/(pero pero CC -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(resultado resultar VMP00SM -) [
+      patons/modnomatch/(me me PP1CS000 -)
+      vaux/aux/(ha haber VAIP3S0 -)
+    ]
+  ]
+  s-adj/modnomatch/(soporífera soporífero AQ0FS0 -)
+  F-term/term/(. . Fp -)
+]
+

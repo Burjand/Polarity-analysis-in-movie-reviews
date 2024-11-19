@@ -1,0 +1,38 @@
+grup-verb/top/(sigue seguir VMIP3S0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  sn/subj/(argumento argumento NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+    grup-verb/modnomatch/(funciona funcionar VMIP3S0 -)
+  ]
+  sadv/cc/(bien bien RG -)
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(cosa cosa NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(tendría tener VMIC1S0 -) [
+  sadv/cc/(Posiblemente Posiblemente RG -) [
+    subord/modnorule/(si si CS -) [
+      grup-verb/modnorule/(visto ver VMP00SM -) [
+        patons/modnomatch/(la lo PP3FSA00 -)
+        vaux/aux/(hubiera haber VASI1S0 -)
+      ]
+    ]
+    s-adj/modnorule/(entera entero AQ0FS0 -)
+    coor-sp/modnorule/(y y CC -) [
+      grup-sp/modnorule/(en en SPS00 -) [
+        sn/head/(cine cine NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  sn/obj/(opinión opinión NCFS000 -) [
+    espec-fs/espec/(otra otro DI0FS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

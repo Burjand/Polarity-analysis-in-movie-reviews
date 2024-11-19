@@ -1,0 +1,68 @@
+sn/top/(Cine cine NCMS000 -) [
+  s-a-ms/qual/(necesario necesario AQ0MS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(lleva llevar VMIP3S0 -)
+  ]
+  parti-flex/modnomatch/(recaudados recaudar VMP00PM -)
+  sadv/modnomatch/(más más RG -) [
+    SPS00(de)/modnorule/(de de SPS00 -)
+    sn/modnorule/(dólares dólar NCMP000 -) [
+      numero-nopart/quant/(cien_millones 100000000 Zd -) [
+        SPS00(de)/modnorule/(de de SPS00 -)
+      ]
+      grup-sp/modnomatch/(en en SPS00 -) [
+        sn/head/(USA usa NP00000 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(gusta gustar VMIP3S0 -) [
+  sn/subj/(Resident_Evil resident_evil NP00000 -)
+  F-no-c/modnomatch/(" " Fe -)
+  coord/modnomatch/(y y CC -)
+  sadv/cc/(mucho mucho RG -)
+  F-no-c/modnomatch/(" " Fe -)
+  F-term/term/(. . Fp -)
+]
+
+sp-de/top/(De de SPS00 -) [
+  sn/gen/(pelis pelis NCFN000 -) [
+    espec-fp/espec/(3 3 Z -) [
+      j-fp/modnorule/(las el DA0FP0 -)
+    ]
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(saga saga NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+  ]
+  sadv/modnomatch/(quizás quizás RG -)
+  sn/gen/(fiel fiel AQ0CS0 -) [
+    j-fs/modnomatch/(la el DA0FS0 -)
+    sadv/modnomatch/(más más RG -)
+    grup-sp/modnomatch/(a a SPS00 -) [
+      sn/head/(videojuego videojuego NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  forma-ger/modnomatch/(contando contar VMG0000 -)
+  prep/modnomatch/(con con SPS00 -)
+  conj-subord/modnomatch/(que que CS -)
+  sn/gen/(ninguna ninguno PI0FS000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(3 3 Z -) [
+        j-fp/modnomatch/(las el DA0FP0 -)
+      ]
+    ]
+  ]
+  sn/gen/(guarda guarda NCCS000 -)
+  sn/gen/(paralelismo paralelismo NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(absoluto absoluto AQ0MS0 -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

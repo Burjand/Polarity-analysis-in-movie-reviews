@@ -1,0 +1,70 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+  ]
+  sn/obj/(muestra muestra NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+  ]
+  sadv/cc/(más más RG -) [
+    SPS00(de)/modnorule/(de de SPS00 -)
+    sn/modnorule/(talento talento NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  grup-sp/modnomatch/(tras tras SPS00 -) [
+    sn/head/(cámaras cámara NCFP000 -) [
+      espec-fp/espec/(las el DA0FP0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(Álex_de_la_Iglesia álex_de_la_iglesia NP00000 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(y y CC -) [
+  grup-verb/co-v/(falte faltar VMSP1S0 -) [
+    patons/modnomatch/(le le PP3CSD00 -)
+    sadv/cc/(Quizás quizás RG -)
+    sn/obj/(pizca pizca NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(canallismo canallismo NCMS000 -)
+      ]
+    ]
+    grup-sp/iobj/(a a SPS00 -) [
+      sn/head/(cinta cinta NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+  ]
+  grup-verb/co-v/(quita quitar VMIP3S0 -) [
+    patons/modnomatch/(le le PP3CSD00 -)
+    sadv/cc/(quizás quizás RG -)
+    sadv/cc/(también también RG -)
+    coor-n/subj/(pero pero CC -) [
+      sn/co-n/(libreto libreto NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        grup-sp/modnomatch/(con con SPS00 -) [
+          sn/head/(acabado acabado NCMS000 -) [
+            espec-ms/espec/(un uno DI0MS0 -)
+            s-a-ms/qual/(mejor mejor AQ0CS0 -)
+          ]
+        ]
+      ]
+      Fc(,)/modnomatch/(, , Fc -)
+      sn/co-n/(nadie nadie PI0CS000 -)
+    ]
+  ]
+  espec-ms/modnomatch/(lo el DA0NS0 -)
+  sadv/modnomatch/(bien bien RG -)
+  s-adj/modnomatch/(y y CC -) [
+    s-a-fs/modnorule/(dirigida dirigir VMP00SF -)
+    s-a-fs/modnorule/(contada contar VMP00SF -)
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(está estar VAIP3S0 -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

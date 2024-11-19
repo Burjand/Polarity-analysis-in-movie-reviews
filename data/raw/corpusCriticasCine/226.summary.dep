@@ -1,0 +1,46 @@
+grup-verb/top/(permite permitir VMIP3S0 -) [
+  patons/modnomatch/(Te te PP2CS000 -)
+  grup-verb-inf/modnomatch/(salir salir VMN0000 -)
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(cine cine NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(sonrisa sonrisa NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  s-adj/modnomatch/(ligera ligero AQ0FS0 -) [
+    sadv/modnorule/(algo algo RG -)
+  ]
+  grup-sp/modnomatch/(por por SPS00 -) [
+    sn/head/(drama drama NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(esconde esconder VMIP3S0 -)
+  ]
+  conj-subord/modnomatch/(porque porque CS -)
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(amigos amigo NCMP000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-verb/modnomatch/(es ser VSIP3S0 -) [
+      grup-sp/cc/(en en SPS00 -) [
+        sn/head/(adulto adulto NCMS000 -)
+      ]
+      neg/modneg/(no no RN -)
+      sn/obj/(tarea tarea NCFS000 -) [
+        s-a-fs/qual/(fácil fácil AQ0CS0 -)
+      ]
+    ]
+  ]
+  grup-verb-inf/modnomatch/(crecer crecer VMN0000 -)
+  coord/modnomatch/(y y CC -)
+  grup-verb-inf/modnomatch/(convertir convertir VMN0000 -) [
+    PP*/modnomatch/(se se PP3CN000 -)
+  ]
+]
+

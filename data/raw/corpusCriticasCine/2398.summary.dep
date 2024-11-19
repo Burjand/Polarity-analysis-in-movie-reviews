@@ -1,0 +1,79 @@
+grup-verb/top/(radica radicar VMIP3S0 -) [
+  sn/subj/(defecto defecto NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+    s-a-ms/qual/(principal principal AQ0CS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(filme filme NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(esquema esquema NCMS000 -) [
+      espec-ms/espec/(su su DP3CS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  s-adj/modnomatch/(y y CC -) [
+    s-a-ms/modnorule/(discursivo discursivo AQ0MS0 -) [
+      sadv/modnorule/(demasiado demasiado RG -)
+    ]
+    s-a-ms/modnorule/(, , Fc -) [
+      s-a-ms/modnorule/(reiterativo reiterativo AQ0MS0 -)
+      s-a-ms/modnorule/(planteado plantear VMP00SM -)
+    ]
+  ]
+  grup-sp/modnomatch/(como como CS -) [
+    sn/head/(representación representación NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(brillante brillante AQ0CS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(drama drama NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          s-a-ms/qual/(nipón nipón AQ0MS0 -)
+          grup-sp/modnomatch/(en en SPS00 -) [
+            sn/head/(playas playa NCFP000 -) [
+              espec-fp/espec/(las el DA0FP0 -)
+              sp-de/mod/(de de SPS00 -) [
+                sn/gen/(Iwo_Jima iwo_jima NP00000 -) [
+                  grup-verb/modnomatch/(vuelve volver VMIP3S0 -) [
+                    sadv/cc/(siempre siempre RG -)
+                    grup-sp/cc/(sobre sobre SPS00 -) [
+                      sn/head/(mismos mismo AQ0MP0 -) [
+                        j-mp/modnomatch/(los el DA0MP0 -)
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(pero pero CC -)
+  s-adj/modnomatch/(superfluo superfluo AQ0MS0 -)
+  sadv/cc/(a_el_fin_y_a_el_cabo al_fin_y_al_cabo RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(? ? Fit -)
+  sn/obj/(tics tic NCMP000 -)
+  F-term/term/(? ? Fit -)
+  grup-sp-inf/modnomatch/(sin sin SPS00 -) [
+    grup-verb-inf/head/(desarrollar desarrollar VMN0000 -)
+    sn/modnomatch/(historia historia NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(desplegar desplegar VMN0000 -) [
+          VMS*<poder>/modnomatch/(pueda poder VMSP1S0 -)
+        ]
+      ]
+    ]
+    sn/modnomatch/(complejidades complejidad NCFP000 -) [
+      espec-fp/espec/(sus su DP3CP0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

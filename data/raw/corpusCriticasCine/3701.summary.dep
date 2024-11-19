@@ -1,0 +1,54 @@
+grup-sp-inf/top/(A a SPS00 -) [
+  grup-verb-inf/head/(pesar pesar VMN0000 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(concentrado concentrar VMP00SM -) [
+      vaux/aux/(está estar VAIP3S0 -)
+      sn/subj/(todo todo PI0MS000 -)
+      grup-sp/cc/(en en SPS00 -) [
+        sn/head/(devenir devenir NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(pieza pieza NCFS000 -) [
+              espec-fs/espec/(esta este DD0FS0 -)
+              sp-de/mod/(de de SPS00 -) [
+                sn/gen/(Agatha_Christie agatha_christie NP00000 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  grup-verb/modnomatch/(adereza aderezar VMIP3S0 -) [
+    sn/subj/(Wilder wilder NP00000 -)
+    sn/obj/(película película NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+    grup-sp/modnomatch/(con con SPS00 -) [
+      sn/head/(diálogos diálogo NCMP000 -) [
+        s-a-mp/qual/(brillantes brillante AQ0CP0 -)
+      ]
+    ]
+    subord/modnomatch/(donde donde PR000000 -) [
+      grup-verb/modnorule/(mezcla mezclar VMIP3S0 -) [
+        morfema-verbal/modnomatch/(se se P0000000 -)
+        sn/subj/(humor humor NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+        grup-sp/modnomatch/(con con SPS00 -) [
+          sn/head/(jerga jerga NCFS000 -) [
+            espec-fs/espec/(la el DA0FS0 -)
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(abogados abogado NCMP000 -) [
+                espec-mp/espec/(los el DA0MP0 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

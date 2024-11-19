@@ -1,0 +1,50 @@
+grup-verb/top/(regresa regresar VMIP3S0 -) [
+  sn/subj/(Audrey_Tatou audrey_tatou NP00000 -) [
+    grup-verb/modnomatch/(convence convencer VMIP3S0 -) [
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  grup-sp/cc/(a a SPS00 -) [
+    sn/head/(comedia comedia NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(romántica romántico AQ0FS0 -)
+    ]
+  ]
+  coor-n/cc/(pero pero CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(vez vez NCFS000 -) [
+      espec-fs/espec/(esta este DD0FS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(gustará gustar VMIF3S0 -) [
+  neg/modneg/(No no RN -)
+  coor-sp/modnomatch/(ni ni CC -) [
+    grup-sp/modnorule/(a a SPS00 -) [
+      sn/head/(incondicionales incondicional NCCP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(Audrey_Tatou audrey_tatou NP00000 -)
+        ]
+      ]
+    ]
+  ]
+  coor-sp/modnomatch/(ni ni CC -) [
+    Fc(,)/modnorule/(, , Fc -)
+    grup-sp/modnorule/(a a SPS00 -) [
+      sn/head/(amantes amante NCCP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(comedia comedia NCFS000 -) [
+            espec-fs/espec/(la el DA0FS0 -)
+            s-a-fs/qual/(romántica romántico AQ0FS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-no-c/modnomatch/(... ... Fs -)
+]
+

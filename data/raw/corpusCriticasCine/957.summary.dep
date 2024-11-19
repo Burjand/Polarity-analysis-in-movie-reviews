@@ -1,0 +1,51 @@
+sn/top/(película película NCFS000 -) [
+  espec-fs/espec/(Otra otro DI0FS0 -)
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(Miyazaki miyazaki NP00000 -) [
+      grup-sp/modnomatch/(de de SPS00 -) [
+        s-a-ms/modnomatch/(imprescindible imprescindible AQ0CS0 -) [
+          s-a-ms/modnorule/(visionado visionar VMP00SM -)
+        ]
+        grup-sp/modnomatch/(por por SPS00 -) [
+          sn/head/(pequeños pequeño AQ0MP0 -) [
+            j-mp/modnomatch/(los el DA0MP0 -)
+            sadv/modnomatch/(más más RG -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp-inf/modnomatch/(para para SPS00 -) [
+    grup-verb-inf/head/(ver ver VMN0000 -)
+  ]
+  subord/modnomatch/(si si CS -) [
+    grup-verb/modnorule/(evitar evitar VMN0000 -) [
+      VMI*<poder>/modnomatch/(pueden poder VMIP3P0 -)
+      sn/subj/(ellos ellos PP3MP000 -)
+      sn/obj/(inevitable inevitable AQ0CS0 -) [
+        j-ms/modnomatch/(lo el DA0NS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(robado robar VMP00SM -) [
+  patons/modnomatch/(le le PP3CSD00 -)
+  vaux/aux/(han haber VAIP3P0 -)
+  sn/subj/(años año NCMP000 -) [
+    espec-mp/espec/(Los el DA0MP0 -)
+  ]
+  neg/modneg/(no no RN -)
+  coor-n/obj/(ni ni CC -) [
+    sn/co-n/(ápice ápice NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(validez validez NCFS000 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

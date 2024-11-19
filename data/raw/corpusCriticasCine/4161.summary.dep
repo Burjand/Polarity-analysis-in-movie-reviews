@@ -1,0 +1,31 @@
+grup-sp/top/(En en SPS00 -) [
+  sn/head/(tono tono NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(y y CC -) [
+      s-a-ms/modnorule/(tranquilo tranquilo AQ0MS0 -)
+      s-a-ms/modnorule/(reflexivo reflexivo AQ0MS0 -)
+    ]
+  ]
+  sn/head/(cuenta cuenta NCFS000 -)
+  sn/head/(cosas cosa NCFP000 -) [
+    s-a-fp/qual/(terribles terrible AQ0CP0 -) [
+      sadv/modnorule/(verdaderamente verdaderamente RG -)
+    ]
+    grup-sp/modnomatch/(en en SPS00 -) [
+      sn/head/(realidad realidad NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+      ]
+    ]
+  ]
+  ger/modnomatch/(invitando invitar VMG0000 -) [
+    PP*/modnorule/(nos nos PP1CP000 -)
+  ]
+  grup-sp-inf/modnomatch/(a a SPS00 -) [
+    grup-verb-inf/head/(pensar pensar VMN0000 -)
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(asusta asustar VMIP3S0 -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

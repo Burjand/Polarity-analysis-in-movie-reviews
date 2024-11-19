@@ -1,0 +1,61 @@
+grup-verb/top/(tengamos tener VMSP1P0 -) [
+  sn/subj/(historieta historieta NCFS000 -) [
+    s-a-fs/qual/(Sincera sincero AQ0FS0 -)
+    s-a-fs/qual/(ideada idear VMP00SF -)
+    prep/modnomatch/(para para SPS00 -)
+    conj-subord/modnomatch/(que que CS -)
+    grup-sp/modnomatch/(desde desde SPS00 -) [
+      sn/head/(principio principio NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+    prep/modnomatch/(en en SPS00 -)
+    espec-ms/espec/(el el DA0MS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(busca buscar VMIP3S0 -) [
+        sn/subj/(personaje personaje NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(Tomei tomei NP00000 -)
+          ]
+        ]
+        grup-sp/iobj/(a a SPS00 -) [
+          sn/head/(Damon_Bradley damon_bradley NP00000 -) [
+            espec-ms/espec/(ese ese DD0MS0 -)
+            Fe/modnomatch/(" " Fe -)
+            Fe/modnomatch/(" " Fe -)
+          ]
+        ]
+      ]
+    ]
+    parti-flex/modnomatch/(soñado soñar VMP00SM -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(nosotros nosotros PP1MP000 -)
+  sadv/cc/(también también RG -)
+  sn/obj/(curiosidad curiosidad NCFS000 -)
+  grup-sp-inf/modnomatch/(por por SPS00 -) [
+    grup-verb-inf/head/(conocer conocer VMN0000 -)
+  ]
+  coord/modnomatch/(y y CC -)
+  grup-verb-inf/modnomatch/(esperar esperar VMN0000 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(sea ser VSSP1S0 -)
+  ]
+  s-adj/modnomatch/(ideal ideal AQ0CS0 -) [
+    sadv/modnorule/(tan tan RG -)
+  ]
+  grup-sp/iobj/(para para SPS00 -) [
+    sn/head/(ella él PP3FS000 -)
+  ]
+  subord/modnomatch/(como como CS -) [
+    grup-verb/modnorule/(piensa pensar VMIP3S0 -)
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(ser ser VSN0000 -) [
+      VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

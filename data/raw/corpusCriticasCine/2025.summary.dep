@@ -1,0 +1,61 @@
+sn/top/(idea idea NCFS000 -) [
+  espec-fs/espec/(Una uno DI0FS0 -)
+  s-a-fs/qual/(buena bueno AQ0FS0 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(en en SPS00 -) [
+    sn/head/(resultado resultado NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(pésimo malo AQSMS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(dedica dedicar VMM02S0 -) [
+  patons/modnomatch/(te te PP2CS000 -)
+  sn/subj/(Sandrita sandrita NP00000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    s-adj/qual/(guapa guapo AQ0FS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(comedias comedia NCFP000 -) [
+      espec-fp/espec/(las el DA0FP0 -)
+      s-a-fp/qual/(románticas romántico AQ0FP0 -)
+    ]
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  espec-fp/modnomatch/(esas ese DD0FP0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(gustan gustar VMIP3P0 -) [
+      patons/modnomatch/(le le PP3CSD00 -)
+      sadv/cc/(tanto tanto RG -)
+      grup-sp/iobj/(a a SPS00 -) [
+        sn/head/(esposa esposo NCFS000 -) [
+          espec-fs/espec/(mi mi DP1CSS -)
+        ]
+      ]
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  subord/modnomatch/(porque porque CS -) [
+    grup-verb/modnorule/(es ser VSIP3S0 -) [
+      sn/subj/(verdad verdad NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+  ]
+  conj-subord/modnomatch/(que que CS -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(tipo tipo NCMS000 -) [
+      espec-ms/espec/(este este DD0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(cine cine NCMS000 -) [
+          n-fp/modnomatch/(sobras sobra NCFP000 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

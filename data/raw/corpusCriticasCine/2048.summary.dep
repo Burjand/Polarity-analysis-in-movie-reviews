@@ -1,0 +1,39 @@
+grup-verb/top/(promete prometer VMIP3S0 -) [
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+    s-a-fs/qual/(última último AO0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(David_Fincher david_fincher NP00000 -) [
+        grup-verb/modnomatch/(es ser VSIP3S0 -) [
+          coor-n/subj/(y y CC -) [
+            Fc(,)/modnomatch/(, , Fc -)
+            sn/co-n/(ese ese PD0MS000 -)
+          ]
+          sn/obj/(problema problema NCMS000 -) [
+            espec-ms/espec/(su su DP3CS0 -)
+            s-a-ms/qual/(gran gran AQ0CS0 -)
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(director director NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(entusiasmó entusiasmar VMIS3S0 -)
+    ]
+    grup-sp/modnomatch/(con con SPS00 -) [
+      sn/head/(Seven seven NP00000 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  espec-ms/modnomatch/(lo el DA0NS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(es ser VSIP3S0 -) [
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

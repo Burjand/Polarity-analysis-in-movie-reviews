@@ -1,0 +1,52 @@
+sn/top/(Buen buen NP00000 -) [
+  s-a-ms/qual/(primer 1 AO0MS0 -)
+  sn/modnomatch/(trabajo trabajo NCMS000 -) [
+    grup-sp/modnomatch/(tras tras SPS00 -) [
+      sn/head/(cámaras cámara NCFP000 -) [
+        espec-fp/espec/(las el DA0FP0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(realizador realizador NCMS000 -) [
+            espec-ms/espec/(su su DP3CS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(filme filme NCMS000 -) [
+  espec-ms/espec/(Un uno DI0MS0 -)
+  s-a-ms/qual/(pero pero CC -) [
+    s-a-ms/modnorule/(duro duro AQ0MS0 -)
+    s-a-ms/modnorule/(necesario necesario AQ0MS0 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(hace hacer VMIP3S0 -) [
+      patons/modnomatch/(nos nos PP1CP000 -)
+    ]
+  ]
+  grup-verb-inf/modnomatch/(reflexionar reflexionar VMN0000 -)
+  prep/modnomatch/(a a SPS00 -)
+  espec-ms/espec/(el el DA0MS0 -)
+  grup-verb-inf/modnomatch/(ir ir VMN0000 -)
+  sadv/modnomatch/(mucho mucho RG -)
+  sadv/modnomatch/(allá allá RG -) [
+    cuantif/modnorule/(más más RG -)
+  ]
+  conj-subord/modnomatch/(que que CS -)
+  sn/modnomatch/(visión visión NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(tragedia tragedia NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        s-a-fs/qual/(humana humano AQ0FS0 -)
+      ]
+    ]
+  ]
+  sadv/modnomatch/(largamente largamente RG -)
+  parti-flex/modnomatch/(anunciada anunciar VMP00SF -)
+  F-term/term/(. . Fp -)
+]
+

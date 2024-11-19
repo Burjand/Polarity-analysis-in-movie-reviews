@@ -1,0 +1,67 @@
+sn/top/(Película película NCFS000 -) [
+  grup-sp/modnomatch/(sobre sobre SPS00 -) [
+    sn/head/(fantásticos fantástico AQ0MP0 -) [
+      numero-nopart/quant/(4 4 Z -)
+      grup-sp/modnomatch/(a a SPS00 -) [
+        sn/head/(mundo mundo NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(amenaza amenaza NCFS000 -) [
+              espec-fs/espec/(una uno DI0FS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(librar librar VMN0000 -) [
+      VMI*<tener>/modnomatch/(tienen tener VMIP3P0 -)
+      CS(que)/modnomatch/(que que CS -)
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(destruir destruir VMN0000 -) [
+      patons/modnomatch/(lo lo PP3CNA00 -)
+      VMI*<querer>/modnomatch/(quiere querer VMIP3S0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(pero pero CC -) [
+  sn/subj/(Algo algo PI0CS000 -) [
+    sadv/modnomatch/(mejor mejor RG -)
+    conj-subord/modnomatch/(que que CS -)
+  ]
+  sn/subj/(entrega entrega NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    s-a-fs/qual/(primera 1 AO0FS0 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(siendo ser VSG0000 -) [
+    VMI*<seguir>/modnomatch/(sigue seguir VMIP3S0 -)
+    sn/obj/(dirigida dirigir VMP00SF -) [
+      espec-fs/espec/(muy muy RG -)
+    ]
+    grup-sp/iobj/(a a SPS00 -) [
+      sn/head/(público público NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        s-a-ms/qual/(infantil infantil AQ0CS0 -) [
+          sadv/modnorule/(demasiado demasiado RG -)
+        ]
+      ]
+    ]
+  ]
+  conj-subord/modnomatch/(como como CS -)
+  grup-sp-inf/modnomatch/(para para SPS00 -) [
+    grup-verb-inf/head/(gustar gustar VMN0000 -)
+  ]
+  grup-sp/modnomatch/(a a SPS00 -) [
+    sn/head/(adultos adulto NCMP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

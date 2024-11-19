@@ -1,0 +1,51 @@
+coor-vb/top/(aunque aunque CC -) [
+  sn/subj/(tango tango NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+    s-a-ms/qual/(último último AO0MS0 -)
+    grup-sp/modnomatch/(en en SPS00 -) [
+      sn/head/(París parís NP00000 -)
+    ]
+  ]
+  grup-verb/co-v/(es ser VSIP3S0 -) [
+    sn/obj/(cine cine NCMS000 -) [
+      s-a-ms/qual/(auténtico auténtico AQ0MS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(sé saber VMIP1S0 -) [
+    neg/modneg/(no no RN -)
+  ]
+  grup-verb/co-v/(decir decir VMN0000 -) [
+    VMI*<querer>/modnomatch/(quiere querer VMIP3S0 -)
+    sadv/cc/(exactamente exactamente RG -)
+    sn/subj/(qué qué PT0CN000 -) [
+      grup-verb/modnomatch/(sea ser VSSP1S0 -)
+    ]
+    sn/obj/(esto este PD0NS000 -)
+    F-no-c/modnomatch/(: : Fd -)
+    sadv/cc/(quizá quizá RG -)
+  ]
+  s-adj/modnomatch/(auténtico auténtico AQ0MS0 -)
+  subord/modnomatch/(porque porque CS -) [
+    grup-verb/modnorule/(ofrece ofrecer VMIP3S0 -) [
+      neg/modneg/(no no RN -)
+      sn/obj/(respuestas respuesta NCFP000 -)
+    ]
+  ]
+  coor-vb/modnomatch/(sino_que sino_que CC -) [
+    grup-verb/co-v/(abre abrir VMM02S0 -)
+  ]
+  s-adj/modnomatch/(interrogantes interrogante AQ0CP0 -)
+  F-term/modnomatch/(. . Fp -)
+]
+
+grup-verb/top/(es ser VSIP3S0 -) [
+  sadv/cc/(Así así RG -)
+  sn/obj/(vida vida NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sadv/cc/(de_cualquier_forma de_cualquier_forma RG -)
+  F-term/term/(. . Fp -)
+]
+

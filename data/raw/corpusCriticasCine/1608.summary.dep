@@ -1,0 +1,73 @@
+grup-verb/top/(pretenden pretender VMIP3P0 -) [
+  sn/subj/(película película NCFS000 -) [
+    s-a-fs/qual/(Nueva nuevo AQ0FS0 -)
+    w-fs/modnomatch/(Puzzle_de_Alejandro_González_Iñárritu puzzle_de_alejandro_gonzález_iñárritu NP00000 -)
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/modnomatch/(vez vez NCFS000 -) [
+      espec-fs/espec/(esta este DD0FS0 -)
+    ]
+    sn/modnomatch/(mezclada mezclar VMP00SF -) [
+      espec-fs/espec/(menos menos RG -)
+    ]
+    conj-subord/modnomatch/(que que CS -)
+    sn/modnomatch/(21_gramos WG_g:21 Zu -) [
+      Fe/modnomatch/(" " Fe -)
+      Fe/modnomatch/(" " Fe -)
+    ]
+    coord/modnomatch/(y y CC -)
+    sadv/modnomatch/(más más RG -) [
+      SPS00(de)/modnorule/(de de SPS00 -)
+      sn/modnorule/(estilo estilo NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(cinta cinta NCFS000 -) [
+            espec-fs/espec/(su su DP3CS0 -)
+            s-a-fs/qual/(primera 1 AO0FS0 -)
+          ]
+        ]
+      ]
+    ]
+    sn/modnomatch/(Amores_Perros amores_perros NP00000 -) [
+      Fe/modnomatch/(" " Fe -)
+      Fe/modnomatch/(" " Fe -)
+      Fc(,)/modnomatch/(, , Fc -)
+      grup-sp/modnomatch/(con con SPS00 -) [
+        sn/head/(serie serie NCFS000 -) [
+          espec-fs/espec/(una uno DI0FS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(tramas trama NCFP000 -)
+          ]
+        ]
+      ]
+      Fc(,)/modnomatch/(, , Fc -)
+    ]
+    conj-subord/modnomatch/(que que CS -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(cogidas cogida NCFP000 -) [
+    espec-fp/espec/(algunas alguno DI0FP0 -)
+    grup-sp/modnomatch/(por por SPS00 -) [
+      sn/head/(pelos pelo NCMP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(mediante mediante SPS00 -) [
+    sn/head/(imágenes imagen NCFP000 -) [
+      s-a-fp/qual/(duras duro AQ0FP0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb-inf/modnomatch/(atraer atraer VMN0000 -)
+  coord/modnomatch/(y y CC -)
+  grup-verb-inf/modnomatch/(confabular confabular VMN0000 -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(espectador espectador NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,39 @@
+s-adj/top/(Mala malo AQ0FS0 -) [
+  sn/modnorule/(malísima mal NCMS000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  grup-sp-inf/modnorule/(hasta hasta SPS00 -) [
+    grup-verb-inf/head/(aburrir aburrir VMN0000 -)
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(extraña extrañar VMIP3S0 -) [
+    patons/modnomatch/(me me PP1CS000 -)
+    neg/modneg/(no no RN -)
+    subord/modnomatch/(que que CS -) [
+      grup-verb/modnorule/(tardado tardar VMP00SM -) [
+        vaux/aux/(hayan haber VASP3P0 -)
+        sn/obj/(siglos siglo NCMP000 -)
+      ]
+    ]
+    F-no-c/modnomatch/(( ( Fpa -)
+    sadv/cc/(bien bien RG -) [
+      cuantif/modnorule/(más más RG -)
+    ]
+  ]
+  grup-verb-inf/modnorule/(dejar dejar VMN0000 -) [
+    PP*/modnomatch/(la lo PP3FSA00 -)
+  ]
+  grup-sp/modnorule/(para para SPS00 -) [
+    sn/head/(verano verano NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+    F-no-c/modnomatch/() ) Fpt -)
+  ]
+  grup-sp-inf/modnorule/(en en SPS00 -) [
+    grup-verb-inf/head/(estrenar estrenar VMN0000 -) [
+      PP*/modnomatch/(la lo PP3FSA00 -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

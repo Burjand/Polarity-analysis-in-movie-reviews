@@ -1,0 +1,53 @@
+grup-verb/top/(Creo crear VMIP1S0 -) [
+  conj-subord/modnomatch/(que que CS -)
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(momento momento NCMS000 -) [
+      grup-verb/modnomatch/(decir decir VMN0000 -) [
+        VMI*<poder>/modnomatch/(puedo poder VMIP1S0 -)
+      ]
+      grup-verb/modnomatch/(es ser VSIP3S0 -) [
+        sn/obj/(película película NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          s-a-fs/qual/(peor peor AQ0CS0 -)
+          subord/modnomatch/(que que PR0CN000 -) [
+            grup-verb/modnorule/(visto ver VMP00SM -) [
+              vaux/aux/(he haber VAIP1S0 -)
+            ]
+          ]
+        ]
+        grup-sp/cc/(en en SPS00 -) [
+          sn/head/(vida vida NCFS000 -) [
+            espec-fs/espec/(mi mi DP1CSS -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(cuando cuando CS -) [
+    grup-verb/modnorule/(pregunten preguntar VMSP3P0 -) [
+      patons/modnomatch/(me me PP1CS000 -)
+    ]
+  ]
+  cual-s/modnomatch/(cual cual PR0CS000 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(recae recaer VMIP3S0 -) [
+      sn/subj/(honor honor NCMS000 -) [
+        espec-ms/espec/(este este DD0MS0 -)
+      ]
+    ]
+  ]
+  prep/modnomatch/(en en SPS00 -)
+  F-no-c/modnomatch/(" " Fe -)
+  sn/obj/(Mutantes mutante NCCP000 -) [
+    grup-sp/modnomatch/(en en SPS00 -) [
+      sn/head/(Universidad universidad NP00000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+      F-no-c/modnomatch/(" " Fe -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

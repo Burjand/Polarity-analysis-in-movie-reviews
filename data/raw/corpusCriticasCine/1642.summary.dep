@@ -1,0 +1,42 @@
+grup-verb/top/(sobra sobrar VMIP3S0 -) [
+  coor-n/subj/(y y CC -) [
+    sn/co-n/(película película NCFS000 -) [
+      espec-fs/espec/(Una uno DI0FS0 -)
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(garantiza garantizar VMIP3S0 -)
+      ]
+      sn/modnomatch/(entretenimiento entretenimiento NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        grup-sp/modnomatch/(con con SPS00 -) [
+          sn/head/(nombre nombre NCMS000 -) [
+            espec-ms/espec/(más más RG -)
+          ]
+        ]
+      ]
+      coord/modnomatch/(y y CC -)
+      relatiu/modnomatch/(donde donde PR000000 -) [
+        prep/modnorule/(en en SPS00 -)
+      ]
+      Fc(,)/modnomatch/(, , Fc -)
+      prep/modnomatch/(a_diferencia_de a_diferencia_de SPS00 -)
+      espec-fp/espec/(tantas tanto DI0FP0 -)
+    ]
+    sn/co-n/(crítica crítica NCFS000 -) [
+      s-a-fs/qual/(mejor mejor AQ0CS0 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  neg/modneg/(no no RN -)
+  coor-n/obj/(ni ni CC -) [
+    sn/co-n/(minuto minuto NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-n/top/(Ni ni CC -) [
+  sn/co-n/(falta falta NCFS000 -)
+  F-term/modnomatch/(. . Fp -)
+]
+

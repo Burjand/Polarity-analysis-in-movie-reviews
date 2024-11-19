@@ -1,0 +1,48 @@
+grup-verb/top/(hace hacer VMIP3S0 -) [
+  neg/modneg/(No no RN -) [
+    verb-pass/modnorule/(exagerado exagerar VMP00SM -) [
+      vser/modnomatch/(es ser VSIP3S0 -)
+    ]
+    grup-verb-inf/modnorule/(decir decir VMN0000 -)
+    conj-subord/modnorule/(que que CS -)
+    sn/modnorule/(película película NCFS000 -) [
+      espec-fs/espec/(esta este DD0FS0 -)
+      F-no-c/modnomatch/(( ( Fpa -)
+    ]
+    sadv/modnorule/(hasta_cierto_punto hasta_cierto_punto RG -)
+    F-no-c/modnorule/() ) Fpt -)
+  ]
+  grup-sp/modnomatch/(por por SPS00 -) [
+    sn/head/(horror horror NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(survival survival AQ0CS0 -)
+    ]
+  ]
+  espec-ms/modnomatch/(lo el DA0NS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(hizo hacer VMIS3S0 -) [
+      grup-sp/cc/(en en SPS00 -) [
+        sn/head/(momento momento NCMS000 -) [
+          espec-ms/espec/(su su DP3CS0 -)
+        ]
+      ]
+      sn/obj/(Shaun shaun NP00000 -)
+      sn/obj/(of of NC00000 -) [
+        w-ms/modnomatch/(the the NP00000 -)
+      ]
+      sn/obj/(Dead dead NP00000 -)
+      sn/obj/(2004 2004 Z -) [
+        Fpa/modnomatch/(( ( Fpa -)
+        Fpt/modnomatch/() ) Fpt -)
+      ]
+      grup-sp/modnomatch/(por por SPS00 -) [
+        sn/head/(género género NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          n-ms/modnomatch/(zombi zombi NCMS000 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

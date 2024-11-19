@@ -1,0 +1,63 @@
+grup-verb-inf/top/(Trasladar trasladar VMN0000 -) [
+  grup-verb/modnomatch/(es ser VSIP3S0 -) [
+    sn/subj/(libro libro NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(páginas página NCFP000 -) [
+          numero-nopart/quant/(ochocientas 800 Z -)
+        ]
+      ]
+    ]
+    grup-sp/modnomatch/(a a SPS00 -) [
+      sn/head/(pantalla pantalla NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+    sn/obj/(tarea tarea NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(imposible imposible AQ0CS0 -) [
+        sadv/modnorule/(casi casi RG -)
+      ]
+    ]
+  ]
+  coor-sp/modnomatch/(y y CC -) [
+    grup-sp/modnorule/(con con SPS00 -) [
+      sn/head/(La_Orden_de_el_Fénix la_orden_de_el_fénix NP00000 -)
+    ]
+  ]
+  grup-verb/modnomatch/(conseguido conseguir VMP00SM -) [
+    patons/modnomatch/(lo lo PP3CNA00 -)
+    vaux/aux/(han haber VAIP3P0 -)
+    neg/modneg/(no no RN -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+coor-vb/top/(Aunque aunque CC -) [
+  grup-verb/co-v/(suene sonar VMM03S0 -)
+  s-adj/modnomatch/(extraño extraño AQ0MS0 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(dejado dejar VMP00SM -) [
+    morfema-verbal/modnomatch/(se se P0000000 -)
+    vaux/aux/(han haber VAIP3P0 -)
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(entrega entrega NCFS000 -) [
+        espec-fs/espec/(esta este DD0FS0 -)
+        s-a-fs/qual/(nueva nuevo AQ0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(Potter potter NP00000 -)
+        ]
+      ]
+    ]
+    sn/obj/(magia magia NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(libro libro NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

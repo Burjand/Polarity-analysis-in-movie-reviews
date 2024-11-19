@@ -1,0 +1,48 @@
+coor-vb/top/(pero pero CC -) [
+  grup-verb/co-v/(gustar gustar VMN0000 -) [
+    patons/modnomatch/(te te PP2CS000 -)
+    VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+    grup-sp/modnomatch/(Desde desde SPS00 -) [
+      sn/head/(ópera ópera NCFS000 -) [
+        espec-fs/espec/(su su DP3CS0 -)
+        s-a-fs/qual/(prima primo AQ0FS0 -)
+      ]
+    ]
+    sn/subj/(Tarantino tarantino NP00000 -)
+    coord/modnomatch/(o o CC -)
+    neg/modneg/(no no RN -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(dejar dejar VMN0000 -) [
+    patons/modnomatch/(te te PP2CS000 -)
+    VMI*<ir>/modnomatch/(va ir VMIP3S0 -)
+    SPS00(a)/modnomatch/(a a SPS00 -)
+    sadv/cc/(nunca nunca RG -)
+  ]
+  s-adj/modnomatch/(indiferente indiferente AQ0CS0 -)
+  F-term/modnomatch/(. . Fp -)
+]
+
+grup-sp/top/(En en SPS00 -) [
+  sn/head/(Reservoir_Dogs reservoir_dogs NP00000 -)
+  espec-fs/modnomatch/(esta este DD0FS0 -)
+  sadv/modnomatch/(ya ya RG -)
+  sadv/modnomatch/(nítidamente nítidamente RG -)
+  parti-flex/modnomatch/(marcado marcar VMP00SM -)
+  sn/head/(estilo estilo NCMS000 -) [
+    espec-ms/espec/(su su DP3CS0 -)
+    s-a-ms/qual/(y y CC -) [
+      s-a-ms/modnorule/(particular particular AQ0CS0 -)
+      s-a-ms/modnorule/(personal personal AQ0CS0 -)
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(hiciera hacer VMSI1S0 -) [
+        patons/modnomatch/(lo lo PP3CNA00 -)
+        sadv/cc/(luego luego RG -)
+      ]
+    ]
+    s-adj/qual/(famoso famoso AQ0MS0 -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

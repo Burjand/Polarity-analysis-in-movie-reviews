@@ -1,0 +1,76 @@
+grup-verb/top/(pasado pasar VMP00SM -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  vaux/aux/(ha haber VAIP3S0 -)
+  sn/subj/(Lynch lynch NP00000 -)
+  sn/obj/(poquito poquito AQ0MS0 -) [
+    indef-ms/modnomatch/(un uno DI0MS0 -)
+  ]
+  forma-ger/modnomatch/(ensamblando ensamblar VMG0000 -)
+  sn/obj/(pesadillas pesadilla NCFP000 -)
+  prel/modnomatch/(que que PR0CN000 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  conj-subord/modnomatch/(como como CS -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(sueños sueño NCMP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+      grup-verb/modnomatch/(tienen tener VMIP3P0 -) [
+        neg/modneg/(no no RN -)
+        sn/obj/(coherencia coherencia NCFS000 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  espec-fs/modnomatch/(ninguna ninguno DI0FS0 -)
+  F-term/term/(. . Fp -)
+]
+
+F-no-c/top/(¿ ¿ Fia -) [
+  grup-verb/modnorule/(Es ser VSIP3S0 -) [
+    sn/obj/(película película NCFS000 -) [
+      espec-fs/espec/(esta este DD0FS0 -)
+    ]
+    sn/obj/(gilipollez gilipollez NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+    ]
+  ]
+  F-term/modnorule/(? ? Fit -)
+  grup-verb/modnorule/(sé saber VMIP1S0 -) [
+    neg/modneg/(no no RN -)
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(es ser VSIP3S0 -)
+  s-adj/modnorule/(subjetivo subjetivo AQ0MS0 -)
+  F-term/modnorule/(? ? Fit -)
+]
+
+F-no-c/top/(¿ ¿ Fia -) [
+  grup-verb/modnorule/(es ser VSIP3S0 -) [
+    sn/obj/(cuadro cuadro NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(Miró miró NP00000 -)
+      ]
+    ]
+    sn/obj/(chorrada chorrada NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(haría hacer VMIC1S0 -)
+      ]
+    ]
+    sn/obj/(sobrino sobrino NCMS000 -) [
+      espec-ms/espec/(tu tu DP2CSS -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(años año NCMP000 -) [
+          numero-nopart/quant/(cinco 5 Z -)
+        ]
+      ]
+    ]
+  ]
+  F-term/modnorule/(? ? Fit -)
+]
+
+sn/top/(Tú tú PP2CSN00 -) [
+  s-adj/qual/(mismo mismo AQ0MS0 -)
+  F-term/term/(. . Fp -)
+]
+

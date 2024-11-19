@@ -1,0 +1,62 @@
+prep/top/(a a SPS00 -) [
+  espec-ms/modnorule/(el el DA0MS0 -)
+  grup-verb-inf/modnorule/(salir salir VMN0000 -)
+  sp-de/modnorule/(de de SPS00 -) [
+    sn/gen/(sala sala NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  grup-sp-inf/modnorule/(tras tras SPS00 -) [
+    grup-verb-inf/head/(ver ver VMN0000 -)
+    sn/modnomatch/(película película NCFS000 -) [
+      espec-fs/espec/(esta este DD0FS0 -)
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(era ser VSII1S0 -) [
+    sn/subj/(sensación sensación NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  s-adj/modnorule/(clara claro AQ0FS0 -) [
+    sadv/modnorule/(muy muy RG -)
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  conj-subord/modnorule/(que que CS -)
+  sn/modnorule/(decepción decepción NCFS000 -)
+  F-term/modnorule/(. . Fp -)
+]
+
+sn/top/(parte parte NCFS000 -) [
+  espec-fs/espec/(La el DA0FS0 -)
+  s-a-fs/qual/(tercera 3 AO0FS0 -)
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(saga saga NCFS000 -) [
+      espec-fs/espec/(esta este DD0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(películas película NCFP000 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(define definir VMIP3S0 -) [
+      sn/subj/(mundo mundo NCMS000 -) [
+        espec-ms/espec/(todo todo DI0MS0 -) [
+          j-ms/modnorule/(el el DA0MS0 -)
+        ]
+      ]
+      grup-sp/modnomatch/(como como CS -) [
+        sn/head/(reunión reunión NCFS000 -) [
+          espec-fs/espec/(una uno DI0FS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(amigos amigo NCMP000 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

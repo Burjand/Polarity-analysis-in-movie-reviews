@@ -1,0 +1,38 @@
+grup-verb/top/(Tiene tener VMIP3S0 -) [
+  sn/obj/(guión guión NCMS000 -) [
+    espec-ms/espec/(su su DP3CS0 -)
+  ]
+  sn/obj/(mixtura mixtura NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(rica rico AQ0FS0 -) [
+      sadv/modnorule/(tan tan RG -)
+    ]
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(géneros género NCMP000 -)
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(hacen hacer VMIP3P0 -) [
+        patons/modnomatch/(la lo PP3FSA00 -)
+      ]
+    ]
+  ]
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(inclasificable inclasificable AQ0CS0 -)
+    grup-verb/modnomatch/(tiene tener VMIP3S0 -) [
+      sn/subj/(quién quién PT0CS000 -)
+      sn/obj/(ganas gana NCFP000 -)
+      grup-sp-inf/modnomatch/(de de SPS00 -) [
+        grup-verb-inf/head/(clasificar clasificar VMN0000 -)
+        sn/modnomatch/(placer placer NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(pero pero CC -)
+  F-no-c/modnomatch/(¿ ¿ Fia -)
+  F-term/term/(? ? Fit -)
+]
+

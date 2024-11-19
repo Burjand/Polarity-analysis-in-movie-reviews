@@ -1,0 +1,51 @@
+grup-verb/top/(sería ser VSIC1S0 -) [
+  sn/subj/(definición definición NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+    s-a-fs/qual/(perfecta perfecto AQ0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(film film NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  sn/obj/(tragicomedia tragicomedia NCFS000 -) [
+    s-a-fs/qual/(telefílmica telefílmica AQ0FS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(película película NCFS000 -) [
+  s-a-fs/qual/(Típica típico AQ0FS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(gusta gustar VMIP3S0 -) [
+      sadv/cc/(tanto tanto RG -)
+      grup-sp/cc/(en en SPS00 -) [
+        sn/head/(Sundance sundance NP00000 -) [
+          grup-sp/modnomatch/(a a SPS00 -) [
+            sn/head/(espectador espectador NCMS000 -) [
+              espec-ms/espec/(el el DA0MS0 -)
+              s-a-ms/qual/(cultivado cultivar VMP00SM -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  sadv/modnomatch/(tan tan RG -)
+  sadv/modnomatch/(poco poco RG -)
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(ejemplo ejemplo NCMS000 -) [
+  espec-ms/espec/(Un uno DI0MS0 -)
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(mal mal NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      n-ms/modnomatch/(cine cine NCMS000 -)
+    ]
+  ]
+  s-adj/qual/(independiente independiente AQ0CS0 -)
+  F-term/term/(. . Fp -)
+]
+

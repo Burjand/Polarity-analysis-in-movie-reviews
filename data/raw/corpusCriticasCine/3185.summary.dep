@@ -1,0 +1,39 @@
+grup-verb/top/(Amistad amistar VMM02P0 -) [
+  coor-n/obj/(y y CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(carreras carrera NCFP000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(motos moto NCFP000 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(choques choque NCMP000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(clases clase NCFP000 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(especie especie NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(Romeo romeo NP00000 -) [
+          s-a-fs/qual/(enésima enésimo AO0FS0 -)
+        ]
+      ]
+    ]
+    sn/co-n/(Julieta julieta NP00000 -)
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(frescura frescura NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(hace hacer VMIP3S0 -) [
+      patons/modnomatch/(la lo PP3FSA00 -)
+    ]
+  ]
+  s-adj/modnomatch/(deliciosa delicioso AQ0FS0 -)
+  F-term/term/(. . Fp -)
+]
+

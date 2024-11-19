@@ -1,0 +1,48 @@
+sn/top/(película película NCFS000 -) [
+  s-a-fs/qual/(Estupenda estupendo AQ0FS0 -)
+  prep/modnomatch/(con con SPS00 -)
+  espec-fs/espec/(la el DA0FS0 -)
+  prel/modnomatch/(que que PR0CN000 -)
+  grup-verb-inf/modnomatch/(reír reír VMN0000 -)
+  forma-ger/modnomatch/(disfrutando disfrutar VMG0000 -)
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(comedia comedia NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(ligera ligero AQ0FS0 -) [
+        s-a-fs/modnorule/(latinoamericana latinoamericano AQ0FS0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(demostrar demostrar VMN0000 -) [
+      VMI*<volver>/modnomatch/(vuelve volver VMIP3S0 -)
+      SPS00(a)/modnomatch/(a a SPS00 -)
+    ]
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(convertir convertir VMN0000 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+      VMI*<soler>/modnomatch/(suele soler VMIP3S0 -)
+      sn/subj/(falta falta NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(recursos recurso NCMP000 -)
+        ]
+      ]
+      grup-sp/cc/(en en SPS00 -) [
+        sn/head/(acicate acicate NCMS000 -) [
+          espec-ms/espec/(un uno DI0MS0 -)
+        ]
+      ]
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(agudiza agudizar VMIP3S0 -)
+      ]
+      sn/obj/(ingenio ingenio NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

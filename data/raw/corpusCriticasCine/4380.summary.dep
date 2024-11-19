@@ -1,0 +1,53 @@
+grup-verb/top/(tiene tener VMIP3S0 -) [
+  sn/subj/(Cloverfield cloverfield NP00000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(reformulación reformulación NCFS000 -) [
+        s-a-fs/qual/(modélica modélico AQ0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(lenguaje lenguaje NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+            s-a-ms/qual/(cinematográfico cinematográfico AQ0MS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  sn/obj/(visos viso NCMP000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(obra obra NCFS000 -) [
+        s-a-fs/qual/(futura futuro AQ0FS0 -)
+        s-a-fs/qual/(maestra maestro AQ0FS0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(incentivo incentivo NCMS000 -)
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(reflexionar reflexionar VMN0000 -)
+  ]
+  grup-sp/modnomatch/(sobre sobre SPS00 -) [
+    sn/head/(relación relación NCFS000 -) [
+      espec-fs/espec/(nuestra nuestro DP1FSP -)
+      grup-sp/modnomatch/(con con SPS00 -) [
+        sn/head/(realidad realidad NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(muerto morir VMP00SM -) [
+  vaux/aux/(ha haber VAIP3S0 -)
+  neg/modneg/(No no RN -) [
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  sn/subj/(cine cine NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+  ]
+  neg/modneg/(no no RN -)
+  F-term/term/(. . Fp -)
+]
+

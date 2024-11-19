@@ -1,0 +1,42 @@
+grup-verb/top/(autentica autenticar VMIP3S0 -) [
+  sn/subj/(Una uno PI0FS000 -)
+  sn/obj/(pena pena NCFS000 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  conj-subord/modnomatch/(que que CS -)
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    grup-sp/modnomatch/(con con SPS00 -) [
+      sn/head/(punto_de_partida punto_de_partida NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        s-a-ms/qual/(bueno bueno AQ0MS0 -) [
+          sadv/modnorule/(tan tan RG -)
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  forma-ger/modnomatch/(aprovechando aprovechar VMG0000 -)
+  verb-pass/modnomatch/(desaprovechado desaprovechar VMP00SM -) [
+    vser/modnomatch/(sea ser VSSP1S0 -)
+    sn/subj-pac/(cantidad cantidad NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(ingente ingente AQ0CS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(películas película NCFP000 -) [
+          grup-sp/modnomatch/(sobre sobre SPS00 -) [
+            sn/head/(superhéroes superhéroes NCMP000 -) [
+              sp-de/mod/(de de SPS00 -) [
+                sn/gen/(manera manera NCFS000 -) [
+                  espec-fs/espec/(tal tal DD0CS0 -)
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+      Fc(,)/modnomatch/(, , Fc -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

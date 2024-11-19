@@ -1,0 +1,48 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(Hermosa hermosa NP00000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    s-adj/qual/(, , Fc -) [
+      s-a-fs/modnorule/(divertida divertir VMP00SF -)
+      s-a-fs/modnorule/(, , Fc -) [
+        s-a-fs/modnorule/(cruel cruel AQ0CS0 -)
+        s-a-fs/modnorule/(sincera sincero AQ0FS0 -)
+      ]
+      Fs/modnorule/(... ... Fs -)
+    ]
+  ]
+  sn/subj/(todo todo PI0MS000 -)
+  s-adj/att/(perfecto perfecto AQ0MS0 -) [
+    sadv/modnorule/(casi casi RG -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(historia historia NCFS000 -) [
+      espec-fs/espec/(esta este DD0FS0 -)
+      s-a-fs/qual/(tragicómica tragicómico AQ0FS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(Justifica justificar VMIP3S0 -) [
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(sobras sobra NCFP000 -)
+  ]
+  subord/modnomatch/(porque porque CS -) [
+    grup-verb/modnorule/(sido ser VSP00SM -) [
+      vaux/aux/(ha haber VAIP3S0 -)
+      sn/obj/(fracaso fracaso NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+      ]
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(pais pais NCCN000 -) [
+      espec-ms/espec/(su su DP3CS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(origen origen NCMS000 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

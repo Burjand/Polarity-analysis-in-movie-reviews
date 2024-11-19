@@ -1,0 +1,73 @@
+grup-verb/top/(Prometía prometer VMII1S0 -) [
+  grup-verb-inf/modnomatch/(ser ser VSN0000 -)
+  sn/obj/(tormenta tormenta NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  espec-ms/modnomatch/(el el DA0MS0 -)
+  sn/obj/(apocalípsis apocalípsis NCFN000 -) [
+    grup-verb/modnomatch/(visto ver VMP00SM -) [
+      vaux/aux/(ha haber VAIP3S0 -)
+      sn/subj/(final final NCFS000 -) [
+        Fc(,)/modnomatch/(, , Fc -)
+        grup-verb/modnomatch/(ocultan ocultar VMIP3P0 -) [
+          sn/obj/(relámpagos relámpago NCMP000 -) [
+            espec-mp/espec/(los el DA0MP0 -)
+          ]
+        ]
+      ]
+      sn/subj/(Apocalypto_de_Mel_Gibson apocalypto_de_mel_gibson NP00000 -)
+      grup-sp/modnomatch/(como como CS -) [
+        sn/head/(nubarrones nubarrón NCMP000 -) [
+          espec-mp/espec/(los el DA0MP0 -)
+        ]
+      ]
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  Fc(,)/modnomatch/(, , Fc -)
+  prep/modnomatch/(a a SPS00 -)
+  espec-ms/modnomatch/(el el DA0MS0 -)
+  F-term/term/(. . Fp -)
+]
+
+coor-sp/top/(O o CC -) [
+  parti-flex/modnorule/(dicho decir VMP00SM -)
+  sp-de/modnorule/(de de SPS00 -) [
+    sn/gen/(modo modo NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(estupendo estupendo AQ0MS0 -) [
+        sadv/modnorule/(menos menos RG -)
+      ]
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  grup-sp/modnorule/(como como CS -) [
+    sn/head/(polémica polémica NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(y y CC -) [
+        s-a-fs/modnorule/(multicultural multicultural AQ0CS0 -)
+        s-a-fs/modnorule/(bienintencionada bienintencionado AQ0FS0 -)
+      ]
+    ]
+  ]
+  subord/modnorule/(que que CS -) [
+    grup-verb/modnorule/(exagerado exagerar VMP00SM -) [
+      vaux/aux/(ha haber VAIP3S0 -)
+      sn/subj/(rodea rodea NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+      sn/obj/(expectativas expectativa NCFP000 -) [
+        espec-fp/espec/(las el DA0FP0 -)
+      ]
+    ]
+  ]
+  subord/modnorule/(que que PR0CN000 -) [
+    grup-verb/modnorule/(cumplir cumplir VMN0000 -) [
+      VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+      sn/subj/(Apocalypto apocalypto NP00000 -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

@@ -1,0 +1,47 @@
+sn/top/(Monchito monchito NP00000 -) [
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/modnomatch/(The_Killer the_killer NP00000 -)
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(Decepción decepción NP00000 -) [
+  sadv/modnomatch/(en_toda_regla en_toda_regla RG -)
+  sn/modnomatch/(Dead_Silence dead_silence NP00000 -) [
+    espec-ms/espec/(este este DD0MS0 -)
+    s-a-ms/qual/(dirigido dirigir VMP00SM -)
+    grup-sp/modnomatch/(por por SPS00 -) [
+      sn/head/(James_Wan james_wan NP00000 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/modnomatch/(tipo tipo NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(rodó rodar VMIS3S0 -)
+    ]
+  ]
+  sn/modnomatch/(Saw saw NP00000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    s-a-ms/qual/(primer 1 AO0MS0 -)
+  ]
+  coord/modnomatch/(y y CC -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(tratar tratar VMN0000 -) [
+      VMI*<volver>/modnomatch/(vuelve volver VMIP3S0 -)
+      SPS00(a)/modnomatch/(a a SPS00 -)
+      sadv/cc/(aquí aquí RG -)
+      grup-sp/iobj/(a a SPS00 -) [
+        sn/head/(espectador espectador NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  conj-subord/modnomatch/(como como CS -)
+  subord/modnomatch/(si si CS -) [
+    grup-verb/modnorule/(fuera ser VSSI1S0 -)
+  ]
+  s-adj/qual/(subnormal subnormal AQ0CS0 -)
+  F-term/term/(. . Fp -)
+]
+

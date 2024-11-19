@@ -1,0 +1,35 @@
+grup-verb/top/(estrena estrenar VMIP3S0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  sn/subj/(Días día NCMP000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(cine cine NCMS000 -)
+    ]
+  ]
+  data/modnomatch/(viernes [V:??/??/??:??.??:??] W -) [
+    espec-ms/modnorule/(el el DA0MS0 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(salas sala NCFP000 -) [
+      s-a-fp/qual/(numerosas numeroso AQ0FP0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(pero pero CC -)
+  subord/modnomatch/(si si CS -) [
+    grup-verb/modnorule/(funciona funcionar VMIP3S0 -) [
+      sn/subj/(blog blog NP00000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        grup-verb/modnomatch/(durará durar VMIF3S0 -) [
+          neg/modneg/(no no RN -)
+          sadv/cc/(mucho mucho RG -)
+        ]
+      ]
+      grup-sp/modnomatch/(a a SPS00 -) [
+        sn/head/(blog blog NP00000 -)
+      ]
+    ]
+  ]
+  F-term/term/(? ? Fit -)
+  F-term/term/(. . Fp -)
+]
+

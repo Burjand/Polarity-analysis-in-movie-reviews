@@ -1,0 +1,48 @@
+grup-verb/top/(relajar relajar VMN0000 -) [
+  patons/modnomatch/(te te PP2CS000 -)
+  VMI*<deber>/modnomatch/(debes deber VMIP2S0 -)
+  grup-sp/modnomatch/(Con con SPS00 -) [
+    sn/head/(película película NCFS000 -) [
+      espec-fs/espec/(esta este DD0FS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb-inf/modnomatch/(sentar sentar VMN0000 -) [
+    PP*/modnomatch/(te te PP2CS000 -)
+  ]
+  grup-sp/modnomatch/(frente_a frente_a SPS00 -) [
+    sn/head/(pantalla pantalla NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  grup-verb-inf/modnomatch/(dejar dejar VMN0000 -) [
+    PP*/modnomatch/(te te PP2CS000 -)
+  ]
+  grup-verb-inf/modnomatch/(transportar transportar VMN0000 -)
+  F-term/term/(. . Fp -)
+]
+
+subord/top/(Si si CS -) [
+  grup-verb/modnorule/(pones poner VMIP2S0 -) [
+    sn/obj/(expectativa expectativa NCFS000 -) [
+      espec-fs/espec/(alguna alguno DI0FS0 -)
+      s-a-fs/qual/(concreta concreto AQ0FS0 -)
+    ]
+  ]
+  grup-sp/modnorule/(sobre sobre SPS00 -) [
+    sn/head/(ella él PP3FS000 -)
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(es ser VSIP3S0 -)
+  s-adj/modnorule/(posible posible AQ0CS0 -)
+  subord/modnorule/(que que CS -) [
+    grup-verb/modnorule/(veas ver VMSP2S0 -) [
+      patons/modnomatch/(la lo PP3FSA00 -)
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  parti-flex/modnorule/(cumplida cumplir VMP00SF -)
+  F-term/modnorule/(. . Fp -)
+]
+

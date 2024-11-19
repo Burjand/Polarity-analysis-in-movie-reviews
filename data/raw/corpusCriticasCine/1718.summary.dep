@@ -1,0 +1,53 @@
+grup-verb/top/(guía guiar VMM02S0 -) [
+  sn/subj/(dios dios NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(cosas cosa NCFP000 -) [
+        espec-fp/espec/(las el DA0FP0 -)
+        s-a-fp/qual/(pequeñas pequeño AQ0FP0 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/modnomatch/(dios dios NCMS000 -) [
+      espec-ms/espec/(ese ese DD0MS0 -)
+      s-a-ms/qual/(pequeñito pequeño AQDMS0 -)
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(adscribe adscribir VMIP3S0 -) [
+          morfema-verbal/modnomatch/(se se P0000000 -)
+          neg/modneg/(no no RN -)
+        ]
+      ]
+    ]
+    prep/modnomatch/(a a SPS00 -)
+    espec-fs/espec/(ninguna ninguno DI0FS0 -)
+  ]
+  sn/subj/(doctrinario doctrinario NCMS000 -) [
+    s-a-ms/qual/(religioso religioso AQ0MS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(catecismo catecismo NCMS000 -) [
+    espec-ms/espec/(este este DD0MS0 -)
+    s-a-ms/qual/(laico laico AQ0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(aliento aliento NCMS000 -) [
+        s-a-ms/qual/(incontenible incontenible AQ0CS0 -)
+        s-a-ms/qual/(vital vital AQ0CS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(obra obra NCFS000 -) [
+  espec-fs/espec/(Una uno DI0FS0 -)
+  s-a-fs/qual/(maestra maestro AQ0FS0 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/modnomatch/(obra obra NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(maestra maestro AQ0FS0 -) [
+      s-a-fs/modnorule/(absoluta absoluto AQ0FS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

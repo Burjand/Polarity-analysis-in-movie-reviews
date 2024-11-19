@@ -1,0 +1,71 @@
+grup-verb/top/(pasa pasar VMIP3S0 -) [
+  neg/modneg/(No no RN -)
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(ser ser VSN0000 -)
+    sn/modnomatch/(uno uno PI0MS000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(GRANDES_RELATOS grandes_relatos NP00000 -) [
+          espec-mp/espec/(esos ese DD0MP0 -)
+          Fe/modnomatch/(" " Fe -)
+          Fe/modnomatch/(" " Fe -)
+        ]
+      ]
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(emite emitir VMIP3S0 -)
+      ]
+    ]
+    sn/modnomatch/(tarde tarde NCFS000 -) [
+      espec-fs/espec/(cualquier cualquiera DI0CS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(fin fin NCMS000 -) [
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(semana semana NCFS000 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(canal canal NCMS000 -) [
+    espec-ms/espec/(algún alguno DI0MS0 -)
+    s-a-ms/qual/(televisivo televisivo AQ0MS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(estrellas estrella NCFP000 -) [
+        s-a-fp/qual/(grandes grande AQ0CP0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(presupuestos presupuesto NCMP000 -)
+        ]
+      ]
+    ]
+  ]
+  parti-flex/modnomatch/(cargada cargar VMP00SF -)
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(así_como así_como CC -)
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(y y CC -)
+  conj-subord/modnomatch/(que que CS -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/cc/(con con SPS00 -) [
+    sn/head/(visión visión NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(ligera ligero AQ0FS0 -)
+      grup-verb/modnomatch/(olvida olvidar VMIP3S0 -) [
+        sn/subj/(uno uno PI0MS000 -)
+        grup-sp/modnomatch/(con con SPS00 -) [
+          sn/head/(facilidad facilidad NCFS000 -) [
+            espec-fs/espec/(la el DA0FS0 -)
+            s-a-fs/qual/(misma mismo AQ0FS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  prep/modnomatch/(con con SPS00 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(visiona visionar VMIP3S0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

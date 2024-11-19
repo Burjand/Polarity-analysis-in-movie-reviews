@@ -1,0 +1,47 @@
+grup-verb/top/(celebre celebrar VMSP1S0 -) [
+  sn/subj/(Película película NCFS000 -) [
+    sadv/modnomatch/(bastante bastante RG -)
+    parti-flex/modnomatch/(entretenida entretener VMP00SF -)
+    Fc(,)/modnomatch/(, , Fc -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(tiene tener VMIP3S0 -)
+    ]
+    sn/modnomatch/(añadido añadido NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+    grup-sp-inf/modnomatch/(de de SPS00 -) [
+      grup-verb-inf/head/(profundizar profundizar VMN0000 -) [
+        VMN0000(poder)/modnomatch/(poder poder VMN0000 -)
+      ]
+      sn/modnomatch/(poco poco PI0MS000 -) [
+        indef-ms/modnomatch/(un uno DI0MS0 -)
+      ]
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(infancia infancia NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      grup-sp/modnomatch/(de de SPS00 -) [
+        sadv/modnomatch/(tan tan RG -)
+      ]
+    ]
+  ]
+  sn/obj/(psicópata psicópata NCCS000 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(y y CC -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(resuelve resolver VMIP3S0 -)
+  ]
+  sadv/cc/(eficientemente eficientemente RG -)
+  sn/obj/(recuerdo recuerdo NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(película película NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        s-a-fs/qual/(original original AQ0CS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

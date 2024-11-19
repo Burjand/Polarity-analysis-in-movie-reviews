@@ -1,0 +1,60 @@
+grup-verb/top/(finiquita finiquitar VMIP3S0 -) [
+  sn/subj/(Película película NCFS000 -) [
+    prel/modnomatch/(que que PR0CN000 -)
+    F-no-c/modnomatch/(¿ ¿ Fia -)
+  ]
+  F-term/term/(? ? Fit -)
+  sn/obj/(saga saga NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Piratas_de_el_Caribe piratas_de_el_caribe NP00000 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(hace hacer VMIP3S0 -) [
+  morfema-verbal/modnomatch/(Se se P0000000 -)
+  s-adj/modnomatch/(larga largo AQ0FS0 -) [
+    sadv/modnorule/(bastante bastante RG -)
+  ]
+  grup-verb/modnomatch/(es ser VSIP3S0 -) [
+    coor-n/subj/(aunque aunque CC -) [
+      Fc(,)/modnomatch/(, , Fc -)
+      sn/co-n/(resultado resultado NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        s-a-ms/qual/(final final AQ0CS0 -)
+      ]
+    ]
+  ]
+  s-adj/modnomatch/(bueno bueno AQ0MS0 -)
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(y y CC -) [
+  grup-verb/co-v/(Echamos echar VMIP1P0 -) [
+    grup-sp/cc/(de de SPS00 -) [
+      sadv/modnomatch/(más más RG -) [
+        cuantif/modnorule/(menos menos RG -)
+      ]
+    ]
+    coor-n/obj/(y y CC -) [
+      sn/co-n/(acción acción NCFS000 -)
+      sn/co-n/(Sparrow sparrow NP00000 -) [
+        espec-ms/espec/(más más RG -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(sobran sobrar VMIP3P0 -) [
+    patons/modnomatch/(nos nos PP1CP000 -)
+    coor-n/obj/(y y CC -) [
+      sn/co-n/(amoríos amorío NCMP000 -)
+      Fc(,)/modnomatch/(, , Fc -)
+      sn/co-n/(honores honor NCMP000 -)
+      sn/co-n/(demases demases NCCP000 -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

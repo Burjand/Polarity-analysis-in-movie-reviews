@@ -1,0 +1,68 @@
+grup-verb/top/(vertebrado vertebrar VMP00SM -) [
+  vaux/aux/(ha haber VAIP3S0 -)
+  sn/subj/(recurso recurso NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+    grup-verb/modnomatch/(made made VMIP3S0 -) [
+      sadv/cc/(in in RG -)
+      sn/obj/(Spain spain NP00000 -)
+    ]
+  ]
+  grup-sp/modnomatch/(a a SPS00 -) [
+    sn/head/(producto producto NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(salida salida NCFS000 -) [
+          s-a-fs/qual/(fácil fácil AQ0CS0 -)
+          grup-sp/modnomatch/(a a SPS00 -) [
+            sn/head/(mercado mercado NCMS000 -) [
+              espec-ms/espec/(un uno DI0MS0 -)
+              s-a-ms/qual/(globalizado globalizar VMP00SM -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  sn/obj/(proyecto proyecto NCMS000 -) [
+    espec-ms/espec/(este este DD0MS0 -)
+  ]
+  prep/modnomatch/(desde desde SPS00 -)
+  grup-sp/modnomatch/(antes_de antes_de SPS00 -) [
+    sn/head/(idealización idealización NCFS000 -) [
+      espec-fs/espec/(su su DP3CS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(es ser VSIP3S0 -) [
+  grup-sp/modnomatch/(Para para SPS00 -) [
+    sn/head/(ello él PP3NS000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(mirada mirada NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          s-a-fs/qual/(y y CC -) [
+            s-a-fs/modnorule/(inocente inocente AQ0CS0 -)
+            s-a-fs/modnorule/(necesitada necesitar VMP00SF -)
+          ]
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(realizador realizador NCMS000 -) [
+              espec-ms/espec/(un uno DI0MS0 -)
+              s-a-ms/qual/(novato novato AQ0MS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  s-adj/att/(fácil fácil AQ0CS0 -)
+  grup-verb-inf/modnomatch/(valer valer VMN0000 -) [
+    PP*/modnomatch/(se se PP3CN000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(aunque aunque CC -)
+  sadv/cc/(sobradamente sobradamente RG -)
+  parti-flex/modnomatch/(preparado preparar VMP00SM -)
+  F-term/term/(. . Fp -)
+]
+

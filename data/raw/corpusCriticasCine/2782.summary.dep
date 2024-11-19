@@ -1,0 +1,70 @@
+grup-verb/top/(entrega entregar VMIP3S0 -) [
+  sn/subj/(Segunda segunda NP00000 -)
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(amigo amigo NCMS000 -) [
+      espec-ms/espec/(nuestro nuestro DP1MSP -)
+      w-ms/modnomatch/(Bourne bourne NP00000 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(recorrer recorrer VMN0000 -) [
+      patons/modnomatch/(se se PP3CN000 -)
+      VMI*<tener>/modnomatch/(tiene tener VMIP3S0 -)
+      CS(que)/modnomatch/(que que CS -)
+    ]
+  ]
+  sn/obj/(mundo mundo NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+  ]
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(vengar vengar VMN0000 -)
+    sn/modnomatch/(asuntillo asunto NCMS00D -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(pasado pasado NCMS000 -) [
+          espec-ms/espec/(su su DP3CS0 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp-inf/modnomatch/(además_de además_de SPS00 -) [
+    grup-verb-inf/head/(escapar escapar VMN0000 -)
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(está estar VAIP3S0 -) [
+      sn/subj/(vez vez NCFS000 -) [
+        espec-fs/espec/(cada cada DI0CS0 -)
+      ]
+      sadv/cc/(cerca cerca RG -) [
+        cuantif/modnorule/(más más RG -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-n/top/(y y CC -) [
+  sn/co-n/(acción acción NCFS000 -) [
+    espec-fs/espec/(Mucha mucho DI0FS0 -)
+  ]
+  sn/co-n/(argumento argumento NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(sólido sólido AQ0MS0 -) [
+      sadv/modnorule/(suficientemente suficientemente RG -)
+    ]
+  ]
+  conj-subord/modnomatch/(como como CS -)
+  grup-sp-inf/modnomatch/(para para SPS00 -) [
+    grup-verb-inf/head/(tener tener VMN0000 -) [
+      PP*/modnomatch/(nos nos PP1CP000 -)
+    ]
+  ]
+  parti-flex/modnomatch/(entretenidos entretener VMP00PM -)
+  sn/co-n/(horas hora NCFP000 -) [
+    numero-nopart/quant/(dos 2 Z -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

@@ -1,0 +1,59 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(conclusión conclusión NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+    prep/modnomatch/(a a SPS00 -)
+    espec-fs/espec/(la el DA0FS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(llegue llegar VMSP1S0 -)
+    ]
+    grup-sp-inf/modnomatch/(tras tras SPS00 -) [
+      grup-verb-inf/head/(ver ver VMN0000 -) [
+        PP*/modnomatch/(la lo PP3FSA00 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-verb/modnomatch/(apta aptar VMM02S0 -) [
+      neg/modneg/(no no RN -)
+      grup-sp/iobj/(para para SPS00 -) [
+        s-a-mp/modnomatch/(cardiacos cardiaco AQ0MP0 -)
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(es ser VSIP3S0 -) [
+      sn/obj/(película película NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        s-a-fs/qual/(y y CC -) [
+          s-a-fs/modnorule/(buenísima bueno AQSFS0 -)
+          s-a-fs/modnorule/(fuerte fuerte AQ0CS0 -) [
+            sadv/modnorule/(bastante bastante RG -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(? ? Fit -)
+  subord/modnomatch/(si si CS -) [
+    grup-verb/modnorule/(gustan gustar VMIP3P0 -) [
+      patons/modnomatch/(os os PP2CP000 -)
+      sn/obj/(emociones emoción NCFP000 -) [
+        espec-fp/espec/(las el DA0FP0 -)
+        s-a-fp/qual/(fuertes fuerte AQ0CP0 -)
+        grup-verb/modnomatch/(recomiendo recomendar VMIP1S0 -) [
+          patons/modnomatch/(os os PP2CP000 -)
+          subord/modnomatch/(que que CS -) [
+            grup-verb/modnorule/(ver ver VMN0000 -) [
+              patons/modnomatch/(la lo PP3FSA00 -)
+              VMS*<ir>/modnomatch/(vayáis ir VMSP2P0 -)
+              SPS00(a)/modnomatch/(a a SPS00 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

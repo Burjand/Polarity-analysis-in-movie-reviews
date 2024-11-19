@@ -1,0 +1,59 @@
+grup-verb/top/(sería ser VSIC1S0 -) [
+  sn/subj/(valoración valoración NCFS000 -) [
+    espec-fs/espec/(Mi mi DP1CSS -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Oldboy oldboy NP00000 -)
+    ]
+  ]
+  grup-sp/modnomatch/(entre entre SPS00 -) [
+    s-a-fs/modnomatch/(y y CC -) [
+      s-a-fs/modnorule/(buena bueno AQ0FS0 -) [
+        sadv/modnorule/(muy muy RG -)
+      ]
+      s-a-fs/modnorule/(excelente excelente AQ0CS0 -)
+    ]
+  ]
+  coor-n/obj/(así_como así_como CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(algo algo PI0CS000 -)
+    sn/co-n/(puntos punto NCMP000 -) [
+      numero-nopart/quant/(9 9 Z -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(pero pero CC -) [
+  grup-verb/co-v/(es ser VSIP3S0 -) [
+    sadv/cc/(Quizás quizás RG -)
+    sn/subj/(parte parte NCFS000 -) [
+      espec-fs/espec/(su su DP3CS0 -)
+      s-a-fs/qual/(final final AQ0CS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(aconsejabale aconsejabale NP00000 -) [
+          espec-ms/espec/(lo el DA0NS0 -)
+        ]
+      ]
+    ]
+    sn/obj/(mas mas NCMS000 -)
+    s-adj/att/(melodramática melodramático AQ0FS0 -)
+    F-no-c/modnomatch/(- - Fg -)
+    prep/modnomatch/(para para SPS00 -)
+    subord/modnomatch/(que que CS -) [
+      grup-verb/modnorule/(sea ser VSSP1S0 -)
+    ]
+    s-adj/att/(perfecta perfecto AQ0FS0 -)
+    F-no-c/modnomatch/(- - Fg -)
+  ]
+  grup-verb/co-v/(poner poner VMN0000 -) [
+    patons/modnomatch/(nos nos PP1CP000 -)
+    VMI*<ir>/modnomatch/(vamos ir VMIP1P0 -)
+    SPS00(a)/modnomatch/(a a SPS00 -)
+    neg/modneg/(no no RN -)
+  ]
+  s-adj/modnomatch/(rigurosos riguroso AQ0MP0 -) [
+    sadv/modnorule/(tan tan RG -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

@@ -1,0 +1,54 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(enfoque enfoque NCMS000 -) [
+    espec-ms/espec/(Ese ese DD0MS0 -)
+    s-a-ms/qual/(medio medio AQ0MS0 -)
+    grup-sp/modnomatch/(en en SPS00 -) [
+      s-a-ms/modnomatch/(serio serio AQ0MS0 -)
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(intentan intentar VMIP3P0 -)
+    ]
+    grup-verb-inf/modnomatch/(dar dar VMN0000 -) [
+      PP*/modnomatch/(le le PP3CSD00 -)
+    ]
+    prep/modnomatch/(a a SPS00 -)
+    espec-ms/espec/(el el DA0MS0 -)
+    sn/modnomatch/(final final NCFS000 -) [
+      grup-sp/modnomatch/(a a SPS00 -) [
+        sn/head/(espectador espectador NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+    coord/modnomatch/(y y CC -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(coge coger VMIP3S0 -)
+    ]
+    sadv/modnomatch/(totalmente totalmente RG -)
+    parti-flex/modnomatch/(desconcertado desconcertar VMP00SM -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(mas mas NCMS000 -) [
+    espec-ms/espec/(lo el DA0NS0 -)
+    s-a-ms/qual/(acertado acertar VMP00SM -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(hecho hacer VMP00SM -) [
+        VMI*<poder>/modnomatch/(podían poder VMII3P0 -)
+        infaux/modnomatch/(haber haber VAN0000 -)
+      ]
+    ]
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(ella él PP3FS000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(ya_que ya_que CS -) [
+    grup-verb/modnorule/(perdiendo perder VMG0000 -) [
+      VMI*<ir>/modnomatch/(iba ir VMII1S0 -)
+      sn/obj/(fuelle fuelle NCMS000 -)
+    ]
+  ]
+  sadv/cc/(alarmantemente alarmantemente RG -)
+  F-term/term/(. . Fp -)
+]
+

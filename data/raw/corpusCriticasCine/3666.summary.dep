@@ -1,0 +1,54 @@
+grup-verb/top/(adapta adaptar VMIP3S0 -) [
+  sn/subj/(Francis_Lawrence francis_lawrence NP00000 -) [
+    grup-verb/modnomatch/(Soy ser VSIP1S0 -) [
+      sn/obj/(leyenda leyenda NCFS000 -)
+      F-no-c/modnomatch/(" " Fe -)
+    ]
+  ]
+  sn/subj/(Constantine constantine NP00000 -) [
+    Fpa/modnomatch/(( ( Fpa -)
+    Fpt/modnomatch/() ) Fpt -)
+  ]
+  grup-sp/iobj/(para para SPS00 -) [
+    sn/head/(pantalla pantalla NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(gran gran AQ0CS0 -)
+    ]
+  ]
+  sn/obj/(novela novela NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    s-a-fs/qual/(famosa famoso AQ0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Richard_Matheson richard_matheson NP00000 -)
+    ]
+  ]
+  F-no-c/modnomatch/(" " Fe -)
+  Fc(,)/modnomatch/(, , Fc -)
+  parti-flex/modnomatch/(protagonizada protagonizar VMP00SF -)
+  grup-sp/modnomatch/(por por SPS00 -) [
+    sn/head/(Will_Smith will_smith NP00000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(imparable imparable AQ0CS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(interpretaciones interpretación NCFP000 -) [
+          espec-fp/espec/(sus su DP3CP0 -)
+          s-a-fp/qual/(mejores mejor AQ0CP0 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(sorprende sorprender VMIP3S0 -) [
+      patons/modnomatch/(nos nos PP1CP000 -)
+      sadv/cc/(quizás quizás RG -)
+      grup-sp/modnomatch/(sin sin SPS00 -) [
+        sadv/modnomatch/(prentenderlo prentenderlo RG -)
+      ]
+    ]
+  ]
+  prep/modnomatch/(con con SPS00 -)
+  espec-fs/modnomatch/(una uno DI0FS0 -)
+  F-term/term/(. . Fp -)
+]
+

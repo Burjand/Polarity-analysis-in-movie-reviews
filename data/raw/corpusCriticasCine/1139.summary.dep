@@ -1,0 +1,61 @@
+vaux/top/(Estamos estar VAIP1P0 -) [
+  grup-sp/modnorule/(ante ante SPS00 -) [
+    sn/head/(película película NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(primera 1 AO0FS0 -)
+      s-a-fs/qual/(gran gran AQ0CS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(año año NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+sn/top/(adaptación adaptación NCFS000 -) [
+  espec-fs/espec/(Una uno DI0FS0 -)
+  s-a-fs/qual/(y y CC -) [
+    s-a-fs/modnorule/(seria serio AQ0FS0 -)
+    s-a-fs/modnorule/(rigurosa riguroso AQ0FS0 -)
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(tiene tener VMIP3S0 -) [
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  sn/modnomatch/(empacho empacho NCMS000 -) [
+    espec-ms/espec/(ningún ninguno DI0MS0 -)
+  ]
+  grup-sp-inf/modnomatch/(en en SPS00 -) [
+    grup-verb-inf/head/(simplificar simplificar VMN0000 -)
+    sn/modnomatch/(historia historia NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(novela novela NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          grup-sp/modnomatch/(en en SPS00 -) [
+            sn/head/(preciso preciso AQ0MS0 -) [
+              j-ms/modnomatch/(lo el DA0NS0 -)
+              sp-de/mod/(de de SPS00 -) [
+                sn/gen/(subtramas subtramas NCMP000 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  ger/modnomatch/(recortando recortar VMG0000 -) [
+    PP*/modnorule/(la lo PP3FSA00 -)
+  ]
+  coord/modnomatch/(y y CC -)
+  ger/modnomatch/(despojando despojar VMG0000 -) [
+    PP*/modnorule/(la lo PP3FSA00 -)
+  ]
+  s-adj/qual/(secundarias secundario AQ0FP0 -)
+  F-term/term/(. . Fp -)
+]
+

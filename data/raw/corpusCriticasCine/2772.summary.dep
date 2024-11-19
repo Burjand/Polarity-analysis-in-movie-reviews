@@ -1,0 +1,54 @@
+coor-vb/top/(y y CC -) [
+  grup-verb/co-v/(resulta resultar VMIP3S0 -) [
+    sn/subj/(Tragicomedia tragicomedia NCFS000 -) [
+      s-a-fs/qual/(extraterrestre extraterrestre AQ0CS0 -)
+      conj-subord/modnomatch/(que que CS -)
+      grup-sp-inf/modnomatch/(a_pesar_de a_pesar_de SPS00 -) [
+        grup-verb-inf/head/(estar estar VAN0000 -)
+      ]
+      s-adj/qual/(llena lleno AQ0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(vitalidad vitalidad NCFS000 -)
+      ]
+    ]
+    s-adj/modnomatch/(amarga amargo AQ0FS0 -) [
+      sadv/modnorule/(más más RG -)
+    ]
+    conj-subord/modnomatch/(que que CS -)
+    s-adj/modnomatch/(dulce dulce AQ0CS0 -)
+  ]
+  grup-verb/co-v/(confirma confirmar VMIP3S0 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(tiene tener VMIP3S0 -) [
+      sn/subj/(Santiago_Lorenzo santiago_lorenzo NP00000 -)
+      sn/obj/(talento talento NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        s-a-ms/qual/(extraordinario extraordinario AQ0MS0 -)
+      ]
+    ]
+  ]
+  coor-sp/modnomatch/(y y CC -) [
+    grup-sp/modnorule/(sin_necesidad_de sin_necesidad_de SPS00 -) [
+      sn/head/(presupuestos presupuesto NCMP000 -)
+    ]
+    grup-sp/modnorule/(con con SPS00 -) [
+      sn/head/(guión guión NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        s-a-ms/qual/(interesante interesante AQ0CS0 -)
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+grup-verb/top/(romper romper VMN0000 -) [
+  patons/modnomatch/(me me PP1CS000 -)
+  VMI*<volver>/modnomatch/(vuelve volver VMIP3S0 -)
+  SPS00(a)/modnomatch/(a a SPS00 -)
+  sn/subj/(Lorenzo lorenzo NP00000 -)
+  sn/obj/(corazón corazón NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

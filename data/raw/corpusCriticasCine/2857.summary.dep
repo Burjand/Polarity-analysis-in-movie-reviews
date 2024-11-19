@@ -1,0 +1,36 @@
+espec-fs/top/(Una uno DI0FS0 -) [
+  sp-de/modnorule/(de de SPS00 -) [
+    sn/gen/(comedias comedia NCFP000 -) [
+      espec-fp/espec/(las el DA0FP0 -)
+      s-a-fp/qual/(mejores mejor AQ0CP0 -)
+      s-a-fp/qual/(estrenadas estrenar VMP00PF -)
+    ]
+  ]
+  grup-sp/modnorule/(en en SPS00 -) [
+    sn/head/(años año NCMP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+      s-a-mp/qual/(últimos último AO0MP0 -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+subord/top/(Si si CS -) [
+  neg/modnorule/(no no RN -)
+  patons/modnorule/(te te PP2CS000 -)
+  espec-fs/modnorule/(la el DA0FS0 -)
+  grup-verb/modnorule/(pegar pegar VMN0000 -) [
+    patons/modnomatch/(te te PP2CS000 -)
+    VMI*<poder>/modnomatch/(puedes poder VMIP2S0 -)
+    sn/subj/(tomas toma NCFP000 -)
+    grup-sp/cc/(en en SPS00 -) [
+      s-a-ms/modnomatch/(serio serio AQ0MS0 -)
+    ]
+    sn/obj/(risas risa NCFP000 -) [
+      espec-fp/espec/(unas uno DI0FP0 -)
+      s-a-fp/qual/(buenas bueno AQ0FP0 -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

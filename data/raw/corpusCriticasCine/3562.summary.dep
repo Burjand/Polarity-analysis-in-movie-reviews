@@ -1,0 +1,54 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(mérito mérito NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+    s-a-ms/qual/(gran gran AQ0CS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(película película NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+  ]
+  sn/obj/(capacidad capacidad NCFS000 -) [
+    espec-fs/espec/(su su DP3CS0 -)
+  ]
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(hacer hacer VMN0000 -)
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(sea ser VSSP1S0 -) [
+      sn/subj/(espectador espectador NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(paranoia paranoia NCFS000 -) [
+            espec-fs/espec/(esa ese DD0FS0 -)
+            grup-verb/modnomatch/(sea ser VSSP1S0 -) [
+              sadv/cc/(siempre_y_cuando siempre_y_cuando RG -)
+              sn/subj/(espectador espectador NCMS000 -) [
+                s-a-ms/qual/(dicho decir VMP00SM -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  s-adj/att/(partícipe partícipe AQ0CS0 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  s-adj/att/(capaz capaz AQ0CS0 -)
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(entrar entrar VMN0000 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(dinámica dinámica NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(psicológica psicológico AQ0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(narración narración NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

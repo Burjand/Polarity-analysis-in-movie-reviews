@@ -1,0 +1,77 @@
+grup-verb/top/(pasará pasar VMIF3S0 -) [
+  sn/subj/(Innecesaria innecesaria NP00000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-sp/modnomatch/(por por SPS00 -) [
+      s-a-fs/modnomatch/(repetida repetir VMP00SF -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-sp/modnomatch/(por por SPS00 -) [
+      s-a-ms/modnomatch/(trivial trivial AQ0CS0 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-sp/modnomatch/(por por SPS00 -) [
+      s-a-ms/modnomatch/(previsible previsible AQ0CS0 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(Trastorno trastorno NP00000 -)
+  neg/modneg/(no no RN -)
+  grup-sp/cc/(a a SPS00 -) [
+    sn/head/(historia historia NCFS000 -) [
+      espec-fs/espec/(ninguna ninguno DI0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(cine cine NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(ni ni CC -)
+  s-adj/modnomatch/(ni ni CC -) [
+    s-a-fs/modnorule/(general general AQ0CS0 -)
+    s-a-fs/modnorule/(íntima íntimo AQ0FS0 -)
+  ]
+  sadv/cc/(así así RG -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(será ser VSIF3S0 -) [
+      sn/obj/(abono abono NCMS000 -) [
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(videoclub videoclub NCMS000 -) [
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(barrio barrio NCMS000 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  espec-mp/modnomatch/(esos ese DD0MP0 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(encantan encantar VMIP3P0 -) [
+      patons/modnomatch/(me me PP1CS000 -)
+      grup-sp/modnomatch/(a a SPS00 -) [
+        ptonic/modnomatch/(mí mí PP1CSO00 -)
+      ]
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  grup-sp/cc/(para para SPS00 -) [
+    sn/head/(disfrute disfrute NCMS000 -)
+  ]
+  subord/modnomatch/(cuando cuando CS -) [
+    grup-verb/modnorule/(haya haber VMSP3S0 -) [
+      neg/modneg/(no no RN -)
+      sn/obj/(nada nada PI0CS000 -)
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  sadv/cc/(absolutamente absolutamente RG -)
+  sn/obj/(nada nada PI0CS000 -)
+  conj-subord/modnomatch/(que que CS -)
+  grup-verb-inf/modnomatch/(hacer hacer VMN0000 -)
+  F-no-c/modnomatch/(... ... Fs -)
+]
+

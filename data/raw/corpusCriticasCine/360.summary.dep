@@ -1,0 +1,38 @@
+grup-verb/top/(sea ser VSSP1S0 -) [
+  sn/subj/(United united NP00000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(año año NCMS000 -)
+    ]
+  ]
+  sn/subj/(93 93 Z -)
+  sadv/cc/(probablemente probablemente RG -)
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    s-a-fs/qual/(mejor mejor AQ0CS0 -)
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  espec-ms/modnomatch/(lo el DA0NS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(llevamos llevar VMIP1P0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(Haced hacer VMM02P0 -) [
+  sn/obj/(caso caso NCMS000 -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(mayoria mayoria NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      grup-verb/modnomatch/(criticas criticar VMIP2S0 -)
+      grup-verb/modnomatch/(llevad llevar VMM02P0 -) [
+        sn/obj/(pañuelos pañuelo NCMP000 -)
+        sadv/cc/(por_si_acaso por_si_acaso RG -)
+      ]
+    ]
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  espec-fp/modnomatch/(las el DA0FP0 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(. . Fp -)
+]
+

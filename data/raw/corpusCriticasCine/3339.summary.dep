@@ -1,0 +1,65 @@
+subord/top/(Si si CS -) [
+  grup-verb/modnorule/(aburre aburrir VMIP3S0 -) [
+    patons/modnomatch/(te te PP2CS000 -)
+    sn/subj/(trabajo trabajo NCMS000 -) [
+      espec-ms/espec/(tu tu DP2CSS -)
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  conj-subord/modnorule/(si si CS -)
+  espec-fp/modnorule/(estas este DD0FP0 -)
+  sp-de/modnorule/(de de SPS00 -) [
+    sn/gen/(jefe jefe NCMS000 -) [
+      espec-ms/espec/(tu tu DP2CSS -)
+    ]
+  ]
+  grup-sp/modnorule/(hasta hasta SPS00 -) [
+    sn/head/(mismísimos mismo PI0MP000 -) [
+      j-mp/modnomatch/(los el DA0MP0 -)
+    ]
+  ]
+  coor-vb/modnorule/(y y CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-verb/co-v/(crees creer VMIP2S0 -) [
+      neg/modneg/(no no RN -)
+      subord/modnomatch/(que que CS -) [
+        grup-verb/modnorule/(haya haber VMSP3S0 -) [
+          sn/obj/(peor peor AQ0CS0 -) [
+            pindef-ms/modnomatch/(nada nada PI0CS000 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  conj-subord/modnorule/(que que CS -)
+  coor-vb/modnorule/(y y CC -) [
+    sn/subj/(vida vida NCFS000 -) [
+      espec-fs/espec/(tu tu DP2CSS -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-verb/co-v/(echa echar VMM02S0 -) [
+      patons/modnomatch/(le le PP3CSD00 -)
+      sn/obj/(ojo ojo NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+      ]
+      grup-sp/cc/(a a SPS00 -) [
+        sn/head/(película película NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-verb/co-v/(merece merecer VMIP3S0 -) [
+      sn/obj/(pena pena NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-verb/co-v/(arrepentirás arrepentir VMIF2S0 -) [
+      patons/modnomatch/(te te PP2CS000 -)
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

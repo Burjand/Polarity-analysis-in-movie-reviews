@@ -1,0 +1,55 @@
+grup-verb/top/(firmó firmar VMIS3S0 -) [
+  sn/subj/(Wes_Craven wes_craven NP00000 -)
+  sn/obj/(original original AQ0CS0 -) [
+    j-fs/modnomatch/(la el DA0FS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(huella huella NCFS000 -) [
+    espec-fs/espec/(Su su DP3CS0 -)
+  ]
+  s-adj/att/(visible visible AQ0CS0 -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(versión versión NCFS000 -) [
+      espec-fs/espec/(esta este DD0FS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(solución solución NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(heroica heroico AQ0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(miedo miedo NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(muchacho muchacho NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(sabe saber VMIP3S0 -)
+  ]
+  sn/obj/(cosas cosa NCFP000 -) [
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(oír oír VMN0000 -) [
+        VMI*<querer>/modnomatch/(quiere querer VMIP3S0 -)
+        sn/subj/(nadie nadie PI0CS000 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  prep/modnomatch/(en en SPS00 -)
+  espec-ms/modnomatch/(el el DA0MS0 -)
+  sn/obj/(final final NCFS000 -) [
+    F-no-c/modnomatch/(... ... Fs -)
+  ]
+]
+

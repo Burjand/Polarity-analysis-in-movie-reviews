@@ -1,0 +1,48 @@
+grup-verb/top/(cansado cansar VMP00SM -) [
+  vaux/aux/(está estar VAIP3S0 -)
+  sn/subj/(ejercicio ejercicio NCMS000 -) [
+    s-a-ms/qual/(Espléndido espléndido AQ0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(malabarismo malabarismo NCMS000 -) [
+        s-a-ms/qual/(visual visual AQ0CS0 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/modnomatch/(surrealismo surrealismo NCMS000 -)
+    sadv/modnomatch/(a_borbotones a_borbotones RG -)
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/modnomatch/(cine cine NCMS000 -) [
+      s-a-ms/qual/(hecho hacer VMP00SM -)
+      grup-sp/modnomatch/(para para SPS00 -) [
+        sn/head/(deleite deleite NCMS000 -)
+      ]
+    ]
+    prep/modnomatch/(de de SPS00 -)
+    quien-s/modnomatch/(quien quien PR0CS000 -)
+  ]
+  sadv/cc/(ya ya RG -)
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(ver ver VMN0000 -)
+    sn/modnomatch/(cine cine NCMS000 -) [
+      s-a-ms/qual/(hecho hacer VMP00SM -)
+    ]
+  ]
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(ser ser VSN0000 -)
+  ]
+  s-adj/modnomatch/(, , Fc -) [
+    s-a-ms/modnorule/(entendido entender VMP00SM -)
+    s-a-ms/modnorule/(, , Fc -) [
+      s-a-ms/modnorule/(racionalizado racionalizar VMP00SM -)
+      s-a-ms/modnorule/(, , Fc -) [
+        s-a-ms/modnorule/(compartimentado compartimentar VMP00SM -)
+        s-a-ms/modnorule/(, , Fc -) [
+          s-a-ms/modnorule/(jerarquizado jerarquizar VMP00SM -)
+          s-a-ms/modnorule/(estabulado estabular VMP00SM -)
+        ]
+      ]
+    ]
+    Fs/modnorule/(... ... Fs -)
+  ]
+]
+

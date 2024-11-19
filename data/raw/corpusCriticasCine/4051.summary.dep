@@ -1,0 +1,67 @@
+sn/top/(cuento cuento NCMS000 -) [
+  espec-ms/espec/(Un uno DI0MS0 -)
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(propuso proponer VMIS3S0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  sn/subj/(Érase érase NP00000 -) [
+    sn/modnomatch/(vez vez NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+    ]
+    F-term/term/(? ? Fit -)
+  ]
+  sn/subj/(director director NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(llamado llamar VMP00SM -)
+  ]
+  sn/subj/(Javier_Fesser javier_fesser NP00000 -)
+  grup-verb-inf/modnomatch/(hacer hacer VMN0000 -)
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(su su DP3CS0 -)
+    s-a-fs/qual/(primera 1 AO0FS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(decidir decidir VMN0000 -) [
+  VMI*<tener>/modnomatch/(tenía tener VMII1S0 -)
+  CS(que)/modnomatch/(que que CS -)
+  sadv/cc/(Ahora ahora RG -)
+  sn/obj/(historia historia NCFS000 -) [
+    espec-fs/espec/(qué qué DT0CN0 -)
+  ]
+  grup-verb-inf/modnomatch/(contar contar VMN0000 -)
+  F-term/term/(. . Fp -)
+]
+
+prep/top/(Hasta hasta SPS00 -) [
+  subord/modnorule/(que que CS -) [
+    grup-verb/modnorule/(sucedió suceder VMIS3S0 -) [
+      sn/subj/(día día NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+      ]
+      sn/subj/(hecho hecho NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        s-a-ms/qual/(extraordinario extraordinario AQ0MS0 -)
+      ]
+      grup-sp/cc/(en en SPS00 -) [
+        sn/head/(vida vida NCFS000 -) [
+          espec-fs/espec/(su su DP3CS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+grup-verb/top/(Fue ser VSIS3S0 -) [
+  sn/obj/(padre padre NCMS000 -)
+  grup-sp/modnomatch/(por por SPS00 -) [
+    sn/head/(vez vez NCFS000 -) [
+      s-a-fs/qual/(primera 1 AO0FS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

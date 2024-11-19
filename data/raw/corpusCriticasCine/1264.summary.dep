@@ -1,0 +1,70 @@
+grup-verb/top/(ser ser VSN0000 -) [
+  VMI*<deber>/modnomatch/(debieron deber VMIS3P0 -)
+  sn/subj/(cosas cosa NCFP000 -) [
+    espec-fp/espec/(Las el DA0FP0 -)
+  ]
+  neg/modneg/(no no RN -)
+  grup-sp/modnomatch/(como como CS -) [
+    sn/head/(cuenta cuenta NCFS000 -) [
+      w-fs/modnomatch/(Mel_Gibson mel_gibson NP00000 -)
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(película película NCFS000 -) [
+      espec-fs/espec/(su su DP3CS0 -)
+      s-a-fs/qual/(e e CC -) [
+        s-a-fs/modnorule/(fantástica fantástico AQ0FS0 -)
+        s-a-fs/modnorule/(impresionante impresionante AQ0CS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(Hay haber VMIP3S0 -) [
+  sn/obj/(inconsistencias inconsistencia NCFP000 -) [
+    s-a-fp/qual/(, , Fc -) [
+      s-a-fp/modnorule/(históricas histórico AQ0FP0 -)
+      s-a-fp/modnorule/(, , Fc -) [
+        s-a-fp/modnorule/(temporales temporal AQ0CP0 -)
+        s-a-fp/modnorule/(y y CC -) [
+          s-a-fp/modnorule/(culturales cultural AQ0CP0 -)
+          s-a-fp/modnorule/(geográficas geográfico AQ0FP0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(Pero pero CC -) [
+  Fc(,)/modnomatch/(, , Fc -)
+  sadv/modnomatch/(personalmente personalmente RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(da dar VMIP3S0 -) [
+    patons/modnomatch/(me me PP1CS000 -)
+    sadv/cc/(igual igual RG -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(voy ir VMIP1S0 -) [
+      sn/subj/(yo yo PP1CSN00 -)
+      neg/modneg/(no no RN -)
+      grup-sp/cc/(a a SPS00 -) [
+        sn/head/(cine cine NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  grup-sp-inf/modnomatch/(a a SPS00 -) [
+    grup-verb-inf/head/(recibir recibir VMN0000 -)
+    sn/modnomatch/(lecciones lección NCFP000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(historia historia NCFS000 -)
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

@@ -1,0 +1,49 @@
+grup-verb/top/(perdieron perder VMIS3P0 -) [
+  sn/subj/(Homenaje homenaje NCMS000 -) [
+    prep/modnomatch/(a a SPS00 -)
+    quien-p/modnomatch/(quienes quien PR0CP000 -)
+  ]
+  sn/obj/(vida vida NCFS000 -) [
+    espec-fs/espec/(su su DP3CS0 -)
+  ]
+  sn/obj/(día día NCMS000 -) [
+    espec-ms/espec/(aquel aquel DD0MS0 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(vuelo vuelo NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(tercer 3 AO0MS0 -)
+      s-a-ms/qual/(suicida suicida AQ0CS0 -)
+    ]
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(demostración demostración NCFS000 -)
+  ]
+  grup-sp/modnomatch/(de de SPS00 -) [
+    sadv/modnomatch/(cómo cómo PT000000 -)
+  ]
+  sn/obj/(caos caos NCMN000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(horas hora NCFP000 -) [
+        espec-fp/espec/(aquellas aquel DD0FP0 -)
+        s-a-fp/qual/(desquiciantes desquiciantes AQ0CP0 -)
+        grup-verb/modnomatch/(redujeron reducir VMIS3P0 -) [
+          grup-sp/iobj/(a a SPS00 -) [
+            s-a-mp/modnomatch/(inútiles inútil AQ0CP0 -)
+          ]
+          sn/obj/(medidas medida NCFP000 -) [
+            espec-fp/espec/(todas todo DI0FP0 -) [
+              j-fp/modnorule/(las el DA0FP0 -)
+            ]
+            s-a-fp/qual/(militares militar AQ0CP0 -) [
+              s-a-fp/modnorule/(autodefensivas autodefensivas AQ0FP0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

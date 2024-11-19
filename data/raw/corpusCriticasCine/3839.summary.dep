@@ -1,0 +1,86 @@
+grup-verb/top/(duden dudar VMSP3P0 -) [
+  patons/modnomatch/(lo lo PP3CNA00 -)
+  neg/modneg/(No no RN -)
+  coor-n/obj/(y y CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(damas dama NCFP000 -)
+    sn/co-n/(caballeros caballero NCMP000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(Pasen pasar VMM03P0 -) [
+  coord/modnomatch/(y y CC -)
+  F-no-c/modnomatch/(" " Fe -)
+  grup-verb/modnomatch/(vean ver VMM03P0 -) [
+    F-no-c/modnomatch/(" " Fe -)
+    sn/obj/(uno uno PI0MS000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(fenómenos fenómeno NCMP000 -) [
+          espec-mp/espec/(los el DA0MP0 -)
+          s-a-mp/qual/(extraños extraño AQ0MP0 -) [
+            sadv/modnorule/(más más RG -)
+          ]
+          s-a-mp/qual/(surgidos surgir VMP00PM -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(estudios estudio NCMP000 -) [
+              espec-mp/espec/(los el DA0MP0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+    sn/obj/(Universal universal NP00000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(Pero pero CC -) [
+  parti-flex/modnomatch/(cuidado cuidar VMP00SM -)
+  Fc(,)/modnomatch/(, , Fc -)
+  vaux/modnomatch/(estén estar VASP3P0 -)
+  sadv/modnomatch/(alerta alerta RG -)
+  F-no-c/modnomatch/(: : Fd -)
+  grup-verb/co-v/(sean ser VSSP3P0 -) [
+    sn/subj/(vez vez NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(próxima próximo AQ0FS0 -)
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(tengan tener VMSP3P0 -)
+      ]
+      F-no-c/modnomatch/(" " Fe -)
+    ]
+    sn/subj/(respiración respiración NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      grup-sp/modnomatch/(en en SPS00 -) [
+        sn/head/(granero granero NCMS000 -) [
+          espec-ms/espec/(su su DP3CS0 -)
+        ]
+        F-no-c/modnomatch/(" " Fe -)
+      ]
+      Fc(,)/modnomatch/(, , Fc -)
+    ]
+  ]
+  s-adj/modnomatch/(cautos cauto AQ0MP0 -)
+  F-term/modnomatch/(. . Fp -)
+]
+
+F-no-c/top/(¡ ¡ Faa -) [
+  sadv/modnorule/(Tal_vez tal_vez RG -)
+  sn/modnorule/(Claude_Rains claude_rains NP00000 -)
+  vaux/modnorule/(esté estar VASP1S0 -)
+  grup-sp/modnorule/(por por SPS00 -) [
+    sadv/modnomatch/(allí allí RG -)
+  ]
+  parti-flex/modnorule/(dispuesto disponer VMP00SM -)
+  grup-sp-inf/modnorule/(a a SPS00 -) [
+    grup-verb-inf/head/(hacer hacer VMN0000 -)
+  ]
+  sp-de/modnorule/(de de SPS00 -) [
+    sn/gen/(suyas suyo PX3FP0C0 -) [
+      DA0FP0/modnomatch/(las el DA0FP0 -)
+    ]
+  ]
+  F-term/modnorule/(! ! Fat -)
+]
+

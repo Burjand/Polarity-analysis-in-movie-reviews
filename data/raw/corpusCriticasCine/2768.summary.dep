@@ -1,0 +1,61 @@
+grup-verb/top/(arrasará arrasar VMIF3S0 -) [
+  sn/subj/(película película NCFS000 -) [
+    s-a-fs/qual/(Apocalíptica apocalíptico AQ0FS0 -)
+    prep/modnomatch/(sobre sobre SPS00 -)
+    grup-verb/modnomatch/(sabemos saber VMIP1P0 -) [
+      neg/modneg/(no no RN -)
+      sn/obj/(motivo motivo NCMS000 -) [
+        espec-ms/espec/(qué qué DE0CN0 -)
+      ]
+    ]
+  ]
+  grup-sp/modnomatch/(como como CS -) [
+    sn/head/(virus virus NCMN000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+    ]
+  ]
+  sn/obj/(Humanidad humanidad NP00000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  prep/modnomatch/(por por SPS00 -)
+  F-term/term/(. . Fp -)
+]
+
+coor-n/top/(y y CC -) [
+  sn/co-n/(salsa_de_tomate salsa_de_tomate NCFS000 -) [
+    espec-fs/espec/(Mucha mucho DI0FS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(diría decir VMIC1S0 -)
+    ]
+  ]
+  sn/co-n/(suegra suegro NCFS000 -) [
+    espec-fs/espec/(mi mi DP1CSS -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/co-n/(sustos susto NCMP000 -) [
+    espec-mp/espec/(algunos alguno DI0MP0 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/co-n/(guion guion NP00000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+  ]
+  grup-sp/modnomatch/(a a SPS00 -) [
+    sn/head/(altura altura NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(resecuela resecuela NCFS000 -) [
+          espec-fs/espec/(una uno DI0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+grup-verb/top/(gustado gustar VMP00SM -) [
+  patons/modnomatch/(me me PP1CS000 -)
+  vaux/aux/(ha haber VAIP3S0 -)
+  neg/modneg/(No no RN -)
+  F-term/term/(. . Fp -)
+]
+

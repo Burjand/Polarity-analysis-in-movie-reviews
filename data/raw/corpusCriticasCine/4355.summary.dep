@@ -1,0 +1,67 @@
+grup-verb/top/(hacer hacer VMN0000 -) [
+  patons/modnomatch/(lo lo PP3CNA00 -)
+  vaux/aux/(ha haber VAIP3S0 -)
+  VMP00SM(vuelto)/modnomatch/(vuelto volver VMP00SM -)
+  SPS00(a)/modnomatch/(a a SPS00 -)
+  sn/subj/(Tim_Burton tim_burton NP00000 -)
+  F-term/term/(. . Fp -)
+]
+
+grup-verb-inf/top/(Crear crear VMN0000 -) [
+  grup-verb/modnomatch/(era ser VSII1S0 -) [
+    sn/subj/(musical musical AQ0CS0 -) [
+      indef-ms/modnomatch/(un uno DI0MS0 -)
+      grup-verb/modnomatch/(conseguido conseguir VMP00SM -) [
+        patons/modnomatch/(lo lo PP3CNA00 -)
+        vaux/aux/(ha haber VAIP3S0 -)
+        sp-de/modnomatch/(de de SPS00 -) [
+          sn/gen/(forma forma NCFS000 -) [
+            espec-fs/espec/(una uno DI0FS0 -)
+            s-a-fs/qual/(magistral magistral AQ0CS0 -)
+          ]
+        ]
+      ]
+    ]
+    ger/modnomatch/(basando basar VMG0000 -) [
+      PP*/modnorule/(se se PP3CN000 -)
+    ]
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(estilo estilo NCMS000 -) [
+        espec-ms/espec/(su su DP3CS0 -)
+        s-a-ms/qual/(, , Fc -) [
+          s-a-ms/modnorule/(lúgubre lúgubre AQ0CS0 -)
+          s-a-ms/modnorule/(y y CC -) [
+            s-a-ms/modnorule/(oscuro oscuro AQ0MS0 -)
+            s-a-ms/modnorule/(bizarro bizarro AQ0MS0 -)
+          ]
+        ]
+      ]
+    ]
+    sn/obj/(tarea tarea NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(difíficl difíficl AQ0CS0 -)
+    ]
+    coor-n/obj/(pero pero CC -) [
+      Fc(,)/modnomatch/(, , Fc -)
+      sn/co-n/(director director NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+espec-fs/top/(Una uno DI0FS0 -) [
+  sp-de/modnorule/(de de SPS00 -) [
+    sn/gen/(mejores mejor AQ0CP0 -) [
+      j-fp/modnomatch/(las el DA0FP0 -)
+    ]
+  ]
+  sn/modnorule/(película película NCFS000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Tim_Burton tim_burton NP00000 -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

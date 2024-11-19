@@ -1,0 +1,61 @@
+grup-verb/top/(crean crear VMIP3P0 -) [
+  coor-n/subj/(y y CC -) [
+    sn/co-n/(Fesser fesser NP00000 -)
+    sn/co-n/(Cía cía NP00000 -)
+  ]
+  sn/obj/(lenguaje lenguaje NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(propio propio AQ0MS0 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(estilo estilo NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(es ser VSIP3S0 -)
+    ]
+    s-adj/qual/(único único AQ0MS0 -) [
+      sadv/modnorule/(simplemente simplemente RG -)
+    ]
+    grup-sp/modnomatch/(en en SPS00 -) [
+      sn/head/(mundo mundo NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(cine cine NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+          ]
+        ]
+      ]
+      F-no-c/modnomatch/(: : Fd -)
+    ]
+  ]
+  sn/obj/(combinación combinación NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(extravagancia extravagancia NCFS000 -) [
+        s-a-fs/qual/(visual visual AQ0CS0 -)
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(narra narrar VMIP3S0 -)
+    ]
+  ]
+  sn/obj/(historias historia NCFP000 -) [
+    grup-sp/modnomatch/(por_medio_de por_medio_de SPS00 -) [
+      sn/head/(uso uso NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+      ]
+    ]
+  ]
+  sadv/cc/(prácticamente prácticamente RG -)
+  grup-sp/modnomatch/(sin sin SPS00 -) [
+    sn/head/(parangón parangón NCMS000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(montaje montaje NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

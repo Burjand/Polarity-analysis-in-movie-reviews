@@ -1,0 +1,67 @@
+sp-de/top/(De de SPS00 -) [
+  sn/gen/(nada nada PI0CS000 -)
+  grup-verb/modnomatch/(vale valer VMIP3S0 -)
+  grup-verb-inf/modnomatch/(cuidar cuidar VMN0000 -)
+  sadv/modnomatch/(tanto tanto RG -)
+  sn/gen/(diseño diseño NCMS000 -) [
+    espec-ms/espec/(ese ese DD0MS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+    subord/modnomatch/(si si CS -) [
+      grup-verb/modnorule/(olvidas olvidar VMIP2S0 -) [
+        patons/modnomatch/(te te PP2CS000 -)
+      ]
+    ]
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(importante importante AQ0CS0 -) [
+        j-ms/modnomatch/(lo el DA0NS0 -)
+        sadv/modnomatch/(más más RG -)
+      ]
+    ]
+    F-no-c/modnomatch/(; ; Fx -)
+  ]
+  grup-verb-inf/modnomatch/(cuidar cuidar VMN0000 -)
+  sn/gen/(historia historia NCFS000 -) [
+    espec-fs/espec/(tu tu DP2CSS -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(interés interés NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        s-a-ms/qual/(mínimo mínimo AQ0MS0 -)
+        s-a-ms/qual/(cinematográfico cinematográfico AQ0MS0 -)
+      ]
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  grup-verb-inf/modnomatch/(dotar dotar VMN0000 -) [
+    PP*/modnomatch/(la lo PP3FSA00 -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+s-adj/top/(y y CC -) [
+  s-a-fs/modnorule/(Lenta lento AQ0FS0 -)
+  s-a-fs/modnorule/(eterna eterno AQ0FS0 -)
+  F-term/modnorule/(. . Fp -)
+]
+
+grup-sp/top/(En en SPS00 -) [
+  s-a-fs/modnomatch/(definitiva definitivo AQ0FS0 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/head/(derroche derroche NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(euros euro NCMP000 -) [
+        numero-nopart/quant/(24_millones 24000000 Zd -) [
+          SPS00(de)/modnorule/(de de SPS00 -)
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  grup-sp-inf/modnomatch/(para para SPS00 -) [
+    grup-verb-inf/head/(lograr lograr VMN0000 -)
+  ]
+  sadv/modnomatch/(bien bien RG -)
+  sadv/modnomatch/(poco poco RG -)
+  F-term/modnomatch/(. . Fp -)
+]
+

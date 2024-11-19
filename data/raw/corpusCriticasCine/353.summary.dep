@@ -1,0 +1,30 @@
+grup-verb/top/(ser ser VSN0000 -) [
+  VMI*<dejar>/modnomatch/(deja dejar VMIP3S0 -)
+  SPS00(de)/modnomatch/(de de SPS00 -)
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+  ]
+  neg/modneg/(no no RN -)
+  sn/obj/(suma suma NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(gags gag NCMP000 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(algunos alguno PI0MP000 -) [
+    grup-sp/modnomatch/(con con SPS00 -) [
+      sn/head/(gracia gracia NCFS000 -) [
+        espec-fs/espec/(mucha mucho DI0FS0 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(otros otro PI0MP000 -) [
+    grup-sp/modnomatch/(con con SPS00 -) [
+      sn/head/(ninguna ninguno PI0FS000 -)
+      F-no-c/modnomatch/(... ... Fs -)
+    ]
+  ]
+]
+

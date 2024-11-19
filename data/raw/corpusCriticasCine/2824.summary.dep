@@ -1,0 +1,45 @@
+coor-vb/top/(y y CC -) [
+  sn/subj/(mezcla mezcla NCFS000 -) [
+    espec-fs/espec/(Esta este DD0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(géneros género NCMP000 -)
+    ]
+  ]
+  grup-verb/co-v/(casar casar VMN0000 -) [
+    VMI*<acabar>/modnomatch/(acaba acabar VMIP3S0 -)
+    SPS00(de)/modnomatch/(de de SPS00 -)
+    neg/modneg/(no no RN -)
+    sp-de/modnomatch/(de de SPS00 -) [
+      sn/gen/(todo todo PI0MS000 -) [
+        j-ms/modnomatch/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  grup-verb/co-v/(hace hacer VMIP3S0 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(preguntes preguntar VMSP2S0 -) [
+      patons/modnomatch/(te te PP2CS000 -)
+      grup-sp/modnomatch/(a a SPS00 -) [
+        sn/head/(ratos rato NCMP000 -)
+      ]
+    ]
+  ]
+  conj-subord/modnomatch/(si si CS -)
+  sadv/modnomatch/(realmente realmente RG -)
+  espec-fp/modnomatch/(estas este DD0FP0 -)
+  forma-ger/modnomatch/(sufriendo sufrir VMG0000 -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(personajes personaje NCMP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+    ]
+  ]
+  coord/modnomatch/(o o CC -)
+  patons/modnomatch/(te te PP2CS000 -)
+  espec-fp/modnomatch/(estas este DD0FP0 -)
+  forma-ger/modnomatch/(riendo reír VMG0000 -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(ellos ellos PP3MP000 -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

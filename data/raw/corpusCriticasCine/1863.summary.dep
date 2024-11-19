@@ -1,0 +1,81 @@
+grup-verb/top/(entrado entrar VMP00SM -) [
+  vaux/aux/(Ha haber VAIP3S0 -)
+  grup-sp/cc/(por por SPS00 -) [
+    sn/head/(derecho derecho NCMS000 -) [
+      s-a-ms/qual/(propio propio AQ0MS0 -)
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(historia historia NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(cine cine NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  grup-sp/cc/(por por SPS00 -) [
+    sn/head/(exposición exposición NCFS000 -) [
+      espec-fs/espec/(su su DP3CS0 -)
+      s-a-fs/qual/(sabia sabio AQ0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(horror horror NCMS000 -) [
+          s-a-ms/qual/(cotidiano cotidiano AQ0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(vida vida NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(persona persona NCFS000 -) [
+          espec-fs/espec/(una uno DI0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  grup-sp/cc/(por por SPS00 -) [
+    sn/head/(hecho hecho NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(simple simple AQ0CS0 -)
+    ]
+  ]
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(ver ver VMN0000 -) [
+      PP*/modnomatch/(se se PP3CN000 -)
+    ]
+  ]
+  parti-flex/modnomatch/(menguado menguar VMP00SM -)
+  sn/cc/(tamaño tamaño NCMS000 -) [
+    espec-ms/espec/(su su DP3CS0 -)
+    grup-sp/modnomatch/(en en SPS00 -) [
+      sn/head/(relación relación NCFS000 -) [
+        grup-sp/modnomatch/(con con SPS00 -) [
+          sn/head/(objetos objeto NCMP000 -) [
+            espec-mp/espec/(los el DA0MP0 -)
+          ]
+        ]
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(rodean rodear VMIP3P0 -) [
+        patons/modnomatch/(nos nos PP1CP000 -)
+        sadv/cc/(diariamente diariamente RG -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(clásico clásico NCMS000 -) [
+  espec-ms/espec/(Un uno DI0MS0 -)
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(Ciencia_Ficción ciencia_ficción NP00000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

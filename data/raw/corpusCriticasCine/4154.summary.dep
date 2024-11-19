@@ -1,0 +1,45 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(Juno juno NP00000 -) [
+    Fe/modnomatch/(" " Fe -)
+    Fe/modnomatch/(" " Fe -)
+  ]
+  sn/obj/(fábula fábula NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(, , Fc -) [
+      s-a-fs/modnorule/(positiva positivo AQ0FS0 -)
+      s-a-fs/modnorule/(entretenida entretener VMP00SF -)
+    ]
+  ]
+  coor-sp/modnomatch/(y y CC -) [
+    Fc(,)/modnorule/(, , Fc -)
+    grup-sp/modnorule/(con con SPS00 -) [
+      sn/head/(personajes personaje NCMP000 -) [
+        espec-mp/espec/(unos uno DI0MP0 -)
+        s-a-mp/qual/(encantadores encantador AQ0MP0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(consigue conseguir VMIP3S0 -) [
+  grup-sp/modnomatch/(Gracias_a gracias_a SPS00 -) [
+    sn/head/(guión guión NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(brillante brillante AQ0CS0 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(Reitman reitman NP00000 -)
+  sn/obj/(conexión conexión NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(inmediata inmediato AQ0FS0 -)
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(público público NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

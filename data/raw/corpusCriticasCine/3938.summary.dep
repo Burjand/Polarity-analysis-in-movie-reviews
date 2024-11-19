@@ -1,0 +1,49 @@
+grup-verb/top/(sean ser VSSP3P0 -) [
+  sn/subj/(film film NCMS000 -) [
+    espec-ms/espec/(Un uno DI0MS0 -)
+    s-a-ms/qual/(perfecto perfecto AQ0MS0 -) [
+      sadv/modnorule/(prácticamente prácticamente RG -)
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(recorre recorrer VMIP3S0 -)
+    ]
+    sn/modnomatch/(conciencia conciencia NCFS000 -) [
+      s-a-fs/qual/(media medio AQ0FS0 -)
+      s-a-fs/qual/(humana humano AQ0FS0 -)
+    ]
+    grup-sp-inf/modnomatch/(para para SPS00 -) [
+      grup-verb-inf/head/(brindar brindar VMN0000 -) [
+        PP*/modnomatch/(nos nos PP1CP000 -)
+      ]
+      sn/modnomatch/(retrato retrato NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        s-a-ms/qual/(y y CC -) [
+          s-a-ms/modnorule/(fiel fiel AQ0CS0 -)
+          s-a-ms/modnorule/(cruel cruel AQ0CS0 -)
+        ]
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(personas persona NCFP000 -) [
+            espec-fp/espec/(las el DA0FP0 -)
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(China china NP00000 -)
+  ]
+  coor-n/obj/(o o CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(Japón japón NP00000 -)
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(América américa NP00000 -)
+    sn/co-n/(país país NCMS000 -) [
+      espec-ms/espec/(cualquier cualquiera DI0CS0 -) [
+        indef-ms/modnorule/(otro otro DI0MS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

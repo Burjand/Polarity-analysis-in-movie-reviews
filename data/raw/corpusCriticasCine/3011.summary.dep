@@ -1,0 +1,68 @@
+grup-verb/top/(dice decir VMIP3S0 -) [
+  grup-sp/modnomatch/(Sin sin SPS00 -) [
+    sn/head/(reservas reserva NCFP000 -)
+  ]
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(siglo siglo NCMS000 -) [
+      espec-ms/espec/(nuestro nuestro DP1MSP -)
+    ]
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(sirve servir VMIP3S0 -) [
+      patons/modnomatch/(les les PP3CPD00 -)
+      grup-sp/modnomatch/(a a SPS00 -) [
+        sn/head/(galanes galán NCMP000 -) [
+          espec-mp/espec/(los el DA0MP0 -)
+          grup-verb/modnomatch/(queda quedar VMIP3S0 -) [
+            patons/modnomatch/(les les PP3CPD00 -)
+            grup-sp/modnomatch/(a a SPS00 -) [
+              sn/head/(protagonistas protagonista NCCP000 -) [
+                espec-fp/espec/(las el DA0FP0 -)
+              ]
+            ]
+            neg/modneg/(no no RN -)
+            sn/obj/(remedio remedio NCMS000 -) [
+              espec-ms/espec/(otro otro DI0MS0 -)
+            ]
+          ]
+        ]
+      ]
+      sadv/cc/(ya ya RG -)
+      neg/modneg/(no no RN -)
+      grup-sp/iobj/(para para SPS00 -) [
+        sn/head/(nada nada PI0CS000 -)
+      ]
+      sn/obj/(caramelos caramelo NCMP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(y y CC -)
+  conj-subord/modnomatch/(que que CS -)
+  subord/modnomatch/(si si CS -) [
+    grup-verb/modnorule/(enamorar enamorar VMN0000 -) [
+      VMI*<querer>/modnomatch/(quieren querer VMIP3P0 -)
+    ]
+  ]
+  conj-subord/modnomatch/(que que CS -)
+  grup-verb-inf/modnomatch/(mostrar mostrar VMN0000 -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(claras claro AQ0FP0 -) [
+      j-fp/modnomatch/(las el DA0FP0 -)
+    ]
+  ]
+  subord/modnomatch/(si si CS -) [
+    grup-verb/modnorule/(son ser VSIP3P0 -)
+  ]
+  s-adj/modnomatch/(legales legal AQ0CP0 -)
+  coord/modnomatch/(o o CC -)
+  subord/modnomatch/(si si CS -) [
+    grup-verb/modnorule/(son ser VSIP3P0 -) [
+      patons/modnomatch/(lo lo PP3CNA00 -)
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

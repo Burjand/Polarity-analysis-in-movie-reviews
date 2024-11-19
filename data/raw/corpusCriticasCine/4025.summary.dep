@@ -1,0 +1,51 @@
+grup-verb/top/(deja dejar VMIP3S0 -) [
+  sn/subj/(cinta cinta NCFS000 -) [
+    s-a-fs/qual/(Nueva nuevo AQ0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Zemeckis zemeckis NP00000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        s-a-ms/qual/(visionario visionario AQ0MS0 -)
+      ]
+    ]
+    prel/modnomatch/(que que PR0CN000 -)
+    Fc(,)/modnomatch/(, , Fc -)
+    sadv/modnomatch/(aun aun RG -)
+    forma-ger/modnomatch/(cuidando cuidar VMG0000 -)
+  ]
+  sn/subj/(animación animación NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    grup-sp/modnomatch/(hasta hasta SPS00 -) [
+      sn/head/(lugares lugar NCMP000 -) [
+        s-a-mp/qual/(insospechados insospechado AQ0MP0 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sadv/cc/(finalmente finalmente RG -)
+  grup-sp/cc/(a a SPS00 -) [
+    sn/head/(espectador espectador NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(sumido sumir VMP00SM -)
+      grup-sp/modnomatch/(en en SPS00 -) [
+        sn/head/(sensación sensación NCFS000 -) [
+          espec-fs/espec/(una uno DI0FS0 -)
+          s-a-fs/qual/(extraña extraño AQ0FS0 -) [
+            sadv/modnorule/(tan tan RG -)
+          ]
+          grup-sp/modnomatch/(como como CS -) [
+            sn/head/(historia historia NCFS000 -) [
+              espec-fs/espec/(la el DA0FS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(cuenta contar VMIP3S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

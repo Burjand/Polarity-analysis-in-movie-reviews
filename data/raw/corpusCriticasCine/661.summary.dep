@@ -1,0 +1,46 @@
+grup-verb/top/(Hay haber VMIP3S0 -) [
+  sn/obj/(veces vez NCFP000 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(ser ser VSN0000 -) [
+      VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+      sn/subj/(novela novela NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        grup-verb/modnomatch/(tiene tener VMIP3S0 -) [
+          grup-sp/modnomatch/(a a SPS00 -) [
+            sn/head/(pantalla pantalla NCFS000 -)
+          ]
+          neg/modneg/(no no RN -)
+          sn/obj/(efecto efecto NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+            s-a-ms/qual/(mismo mismo AQ0MS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  s-adj/modnomatch/(interesante interesante AQ0CS0 -) [
+    sadv/modnorule/(muy muy RG -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(pero pero CC -)
+  parti-flex/modnomatch/(llevada llevar VMP00SF -)
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(producto producto NCMS000 -) [
+  espec-ms/espec/(Un uno DI0MS0 -)
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(calidad calidad NCFS000 -)
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  espec-ms/espec/(el el DA0MS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(esperaba esperar VMII1S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+    ]
+  ]
+  sadv/modnomatch/(mucho mucho RG -)
+  sadv/modnomatch/(más más RG -)
+  F-term/term/(. . Fp -)
+]
+

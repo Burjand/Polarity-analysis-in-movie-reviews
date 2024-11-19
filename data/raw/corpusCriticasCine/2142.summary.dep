@@ -1,0 +1,58 @@
+grup-verb/top/(creo crear VMIP1S0 -) [
+  neg/modneg/(No no RN -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(ido ir VMP00SM -) [
+      vaux/aux/(hayan haber VASP3P0 -)
+      sn/subj/(intenciones intención NCFP000 -) [
+        espec-fp/espec/(las el DA0FP0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(director director NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  parti-flex/modnomatch/(dirigidas dirigir VMP00PF -)
+  grup-sp-inf/iobj/(a a SPS00 -) [
+    grup-verb-inf/head/(sentenciar sentenciar VMN0000 -)
+    sn/modnomatch/(tesis tesis NCFN000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(histórica histórico AQ0FS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(parece parecer VMIP3S0 -) [
+  sadv/cc/(bien bien RG -) [
+    cuantif/modnorule/(Más más RG -)
+  ]
+  grup-verb-inf/modnomatch/(tenido tener VMP00SM -) [
+    infaux/modnomatch/(haber haber VAN0000 -)
+  ]
+  sn/obj/(intención intención NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(hacer hacer VMN0000 -)
+  ]
+  grup-verb-inf/modnomatch/(pensar pensar VMN0000 -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(franceses francés NCMP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+      grup-sp/modnomatch/(sobre sobre SPS00 -) [
+        sn/head/(paradojas paradoja NCFP000 -) [
+          espec-fp/espec/(las el DA0FP0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(historia historia NCFS000 -) [
+              espec-fs/espec/(su su DP3CS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,32 @@
+grup-sp/top/(En en SPS00 -) [
+  sn/head/(fin fin NCMS000 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/head/(cinta cinta NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+  ]
+  sn/head/(100_% 100/100 Zp -)
+  sn/head/(Burton burton NP00000 -)
+  prep/modnomatch/(a a SPS00 -)
+  espec-fs/modnomatch/(la el DA0FS0 -)
+  prel/modnomatch/(que que PR0CN000 -)
+  subord/modnomatch/(a_el_igual_que al_igual_que CS -) [
+    grup-verb/modnorule/(sobra sobrar VMIP3S0 -) [
+      sn/subj/(A._I a._i NP00000 -) [
+        Fe/modnomatch/(" " Fe -)
+        Fe/modnomatch/(" " Fe -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(Spielberg spielberg NP00000 -)
+        ]
+      ]
+      sn/obj/(trozo trozo NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        s-a-ms/qual/(buen bueno AQ0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(metraje metraje NCMS000 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

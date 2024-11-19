@@ -1,0 +1,58 @@
+grup-verb/top/(sería ser VSIC1S0 -) [
+  sn/subj/(demostración demostración NCFS000 -) [
+    espec-fs/espec/(Una uno DI0FS0 -)
+    grup-sp/modnomatch/(de de SPS00 -) [
+      sadv/modnomatch/(cómo cómo PT000000 -)
+    ]
+    grup-verb-inf/modnomatch/(utilizar utilizar VMN0000 -)
+    sn/modnomatch/(soporte soporte NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+    ]
+    grup-sp-inf/modnomatch/(para para SPS00 -) [
+      grup-verb-inf/head/(potenciar potenciar VMN0000 -)
+      sn/modnomatch/(historia historia NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        grup-sp/modnomatch/(sin sin SPS00 -) [
+          sn/head/(él él PP3MS000 -)
+        ]
+      ]
+    ]
+    prel/modnomatch/(que que PR0CN000 -)
+    Fc(,)/modnomatch/(, , Fc -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  espec-ms/modnomatch/(lo el DA0NS0 -)
+  sn/obj/(aburrida aburrir VMP00SF -) [
+    espec-fs/espec/(más más RG -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-n/top/(Pero pero CC -) [
+  sadv/modnomatch/(también también RG -)
+  coor-vb/modnomatch/(y y CC -) [
+    sn/subj/(ejemplo ejemplo NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(narración narración NCFS000 -) [
+          s-a-fs/qual/(dispersa disperso AQ0FS0 -)
+        ]
+      ]
+      Fc(,)/modnomatch/(, , Fc -)
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(despista despistar VMIP3S0 -)
+      ]
+    ]
+    grup-verb/co-v/(hace hacer VMIP3S0 -)
+  ]
+  grup-verb-inf/modnomatch/(perder perder VMN0000 -)
+  sn/co-n/(interés interés NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    grup-sp/modnomatch/(a a SPS00 -) [
+      sn/head/(ratos rato NCMP000 -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

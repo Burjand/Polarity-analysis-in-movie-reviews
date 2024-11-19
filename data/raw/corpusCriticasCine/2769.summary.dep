@@ -1,0 +1,67 @@
+grup-verb/top/(entrega entregar VMIP3S0 -) [
+  sn/subj/(Primera primera NP00000 -)
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(saga saga NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      w-fs/modnomatch/(Bourne bourne NP00000 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(agente agente NCCS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(secreto secreto AQ0MS0 -)
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(lucha luchar VMIP3S0 -)
+  ]
+  grup-sp-inf/modnomatch/(por por SPS00 -) [
+    grup-verb-inf/head/(recuperar recuperar VMN0000 -)
+    sn/modnomatch/(memoria memoria NCFS000 -) [
+      espec-fs/espec/(su su DP3CS0 -)
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  prep/modnomatch/(por por SPS00 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(dejen dejar VMSP3P0 -) [
+      patons/modnomatch/(le le PP3CSD00 -)
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(paz paz NCFS000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(hacen hacer VMIP3P0 -) [
+  coor-n/subj/(y y CC -) [
+    sn/co-n/(nivel nivel NCMS000 -) [
+      espec-ms/espec/(Un uno DI0MS0 -)
+      s-a-ms/qual/(justo justo AQ0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(acción acción NCFS000 -)
+      ]
+    ]
+    sn/co-n/(intriga intriga NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(adecuada adecuar VMP00SF -)
+    ]
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(sean ser VSSP3P0 -) [
+      sn/subj/(horas hora NCFP000 -) [
+        espec-fp/espec/(dos 2 Z -) [
+          j-fp/modnorule/(las el DA0FP0 -)
+        ]
+      ]
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  s-adj/modnomatch/(largas largo AQ0FP0 -) [
+    sadv/modnorule/(demasiado demasiado RG -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

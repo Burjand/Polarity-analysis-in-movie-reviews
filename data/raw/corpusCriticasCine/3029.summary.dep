@@ -1,0 +1,47 @@
+grup-verb/top/(entrega entregar VMIP3S0 -) [
+  sn/subj/(Segunda segunda NP00000 -)
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(Azumi azumi NP00000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(dando dar VMG0000 -) [
+      VMI*<tener>/modnomatch/(tiene tener VMIP3S0 -)
+      CS(que)/modnomatch/(que que CS -)
+      VMN0000(seguir)/modnomatch/(seguir seguir VMN0000 -)
+    ]
+  ]
+  sn/obj/(espadazos espada NCMP00A -)
+  F-term/term/(. . Fp -)
+]
+
+grup-sp/top/(Para para SPS00 -) [
+  sn/head/(fans fan NCCP000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(género género NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(luchas lucha NCFP000 -) [
+            n-mp/modnomatch/(mediavales mediavales NCMP000 -)
+            grup-sp/modnomatch/(en en SPS00 -) [
+              sn/head/(Japón japón NP00000 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+sadv/top/(Mejor mejor RG -) [
+  grup-verb-inf/modnorule/(visto ver VMP00SM -) [
+    infaux/modnomatch/(haber haber VAN0000 -)
+  ]
+  sadv/modnorule/(antes antes RG -)
+  sn/modnorule/(primera 1 AO0FS0 -) [
+    j-fs/modnomatch/(la el DA0FS0 -)
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

@@ -1,0 +1,81 @@
+grup-verb/top/(triunfó triunfar VMIS3S0 -) [
+  grup-sp/modnomatch/(Tras tras SPS00 -) [
+    sn/head/(éxito éxito NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(rotundo rotundo AQ0MS0 -)
+      grup-sp/modnomatch/(en en SPS00 -) [
+        sn/head/(Italia italia NP00000 -)
+      ]
+    ]
+  ]
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(Europa europa NP00000 -) [
+      espec-fs/espec/(toda todo DI0FS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(paralizó paralizar VMIS3S0 -) [
+  sn/subj/(demanda demanda NCFS000 -) [
+    espec-fs/espec/(Una uno DI0FS0 -)
+    s-a-fs/qual/(judicial judicial AQ0CS0 -)
+  ]
+  grup-sp/modnomatch/(por por SPS00 -) [
+    sn/head/(parte parte NCFS000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(Kurosawa kurosawa NP00000 -)
+      ]
+    ]
+  ]
+  sn/obj/(estreno estreno NCMS000 -) [
+    espec-ms/espec/(su su DP3CS0 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(Norteamérica norteamérica NP00000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(regresó regresar VMIS3S0 -) [
+  sn/subj/(Clint_Eastwood clint_eastwood NP00000 -)
+  grup-sp/cc/(a a SPS00 -) [
+    sn/head/(platós plató NCMP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(Rawhide rawhide NP00000 -)
+      ]
+    ]
+  ]
+  grup-sp-inf/modnomatch/(sin sin SPS00 -) [
+    grup-verb-inf/head/(saber saber VMN0000 -)
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(era ser VSII1S0 -) [
+      grup-sp/modnomatch/(para para SPS00 -) [
+        sn/head/(parte parte NCFS000 -) [
+          s-a-fs/qual/(gran gran AQ0CS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(mundo mundo NCMS000 -) [
+              espec-ms/espec/(el el DA0MS0 -)
+            ]
+          ]
+        ]
+      ]
+      sadv/cc/(ya ya RG -)
+      sn/obj/(estrella estrella NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(western western NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,59 @@
+grup-verb/top/(vuelve volver VMIP3S0 -) [
+  grup-sp/cc/(Después_de después_de SPS00 -) [
+    sn/head/(Match_Point match_point NP00000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(pero pero CC -) [
+        s-a-fs/modnorule/(arriesgada arriesgar VMP00SF -)
+        s-a-fs/modnorule/(acertadísima acertado AQSFS0 -)
+      ]
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(películas película NCFP000 -) [
+          espec-fp/espec/(sus su DP3CP0 -)
+          s-a-fp/qual/(mejores mejor AQ0CP0 -)
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(Allen allen NP00000 -)
+  grup-sp/cc/(a a SPS00 -) [
+    sn/head/(comedia comedia NCFS000 -) [
+      espec-fs/espec/(su su DP3CS0 -)
+      s-a-fs/qual/(clásica clásico AQ0FS0 -) [
+        sadv/modnorule/(más más RG -)
+      ]
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(peli peli NP00000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+    ]
+  ]
+  sadv/cc/(aparentemente aparentemente RG -)
+  s-adj/modnomatch/(sencilla sencillo AQ0FS0 -) [
+    sadv/modnorule/(más más RG -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(pero pero CC -)
+  sadv/cc/(tan tan RG -)
+  sadv/cc/(bien bien RG -)
+  s-adj/modnomatch/(, , Fc -) [
+    s-a-fs/modnorule/(hecha hacer VMP00SF -)
+    s-a-fs/modnorule/(y y CC -) [
+      s-a-fs/modnorule/(simpática simpático AQ0FS0 -)
+      s-a-fs/modnorule/(agradable agradable AQ0CS0 -)
+    ]
+  ]
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(ver ver VMN0000 -)
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(siendo ser VSG0000 -) [
+      VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+      VMN0000(acabar)/modnomatch/(acabar acabar VMN0000 -)
+    ]
+  ]
+  espec-fs/modnomatch/(una uno DI0FS0 -)
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,52 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(Apocalypto apocalypto NP00000 -)
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(notable notable AQ0CS0 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  conj-subord/modnomatch/(que que CS -)
+  neg/modneg/(no no RN -)
+  s-adj/att/(sobresaliente sobresaliente AQ0CS0 -)
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(pero pero CC -) [
+  grup-verb/co-v/(entusiasma entusiasmar VMIP3S0 -) [
+    neg/modneg/(No no RN -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(funciona funcionar VMIP3S0 -)
+  sadv/modnomatch/(perfectamente perfectamente RG -)
+  F-term/modnomatch/(. . Fp -)
+]
+
+grup-verb/top/(Tiene tener VMIP3S0 -) [
+  sn/obj/(mecanismo mecanismo NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(efectivo efectivo AQ0MS0 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(es ser VSIP3S0 -) [
+      neg/modneg/(no no RN -)
+      sn/obj/(otro otro PI0MS000 -) [
+        grup-verb/modnomatch/(maquina maquinar VMIP3S0 -) [
+          grup-sp/modnomatch/(con con SPS00 -) [
+            sn/head/(piezas pieza NCFP000 -) [
+              espec-fp/espec/(las el DA0FP0 -)
+            ]
+          ]
+          sadv/cc/(bien bien RG -)
+        ]
+      ]
+    ]
+  ]
+  conj-subord/modnomatch/(que que CS -)
+  espec-ms/modnomatch/(el el DA0MS0 -)
+  prep/modnomatch/(de de SPS00 -)
+  espec-ms/modnomatch/(cualquier cualquiera DI0CS0 -)
+  parti-flex/modnomatch/(incorporadas incorporar VMP00PF -)
+  F-term/term/(. . Fp -)
+]
+

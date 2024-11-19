@@ -1,0 +1,61 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  grup-sp/modnomatch/(Hacia hacia SPS00 -) [
+    sn/head/(rutas ruta NCFP000 -) [
+      s-a-fp/qual/(salvajes salvaje AQ0CP0 -)
+    ]
+  ]
+  sn/obj/(propuesta propuesta NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(y y CC -) [
+      s-a-fs/modnorule/(honesta honesto AQ0FS0 -)
+      s-a-fs/modnorule/(directa directo AQ0FS0 -)
+    ]
+  ]
+  prep/modnomatch/(a a SPS00 -)
+  espec-fs/modnomatch/(la el DA0FS0 -)
+  sn/obj/(par par NCMS000 -)
+  prel/modnomatch/(que que PR0CN000 -)
+  s-adj/att/(complaciente complaciente AQ0CS0 -) [
+    sadv/modnorule/(poco poco RG -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(Entra entrar VMIP3S0 -) [
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(juego juego NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(peligroso peligroso AQ0MS0 -)
+      grup-verb/modnomatch/(hay haber VMIP3S0 -) [
+        neg/modneg/(no no RN -)
+        coor-n/obj/(ni ni CC -) [
+          sn/co-n/(autoconmiseración autoconmiseración NCFS000 -)
+          Fc(,)/modnomatch/(, , Fc -)
+          sn/co-n/(lágrimas lágrima NCFP000 -) [
+            s-a-fp/qual/(baratas barato AQ0FP0 -)
+          ]
+        ]
+        coor-n/obj/(ni ni CC -) [
+          Fc(,)/modnomatch/(, , Fc -)
+          sn/co-n/(discursos discurso NCMP000 -) [
+            s-a-mp/qual/(dogmáticos dogmático AQ0MP0 -)
+          ]
+        ]
+        sn/obj/(impuestos impuesto NCMP000 -)
+      ]
+    ]
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  espec-ms/modnomatch/(el el DA0MS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(sale_airosa salir_airoso VMIP3S0 -)
+    F-no-c/modnorule/(: : Fd -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sadv/cc/(sólo sólo RG -)
+  sn/cc/(sugerencias sugerencia NCFP000 -) [
+    s-a-fp/qual/(amplias amplio AQ0FP0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

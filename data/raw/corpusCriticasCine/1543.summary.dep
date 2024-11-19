@@ -1,0 +1,56 @@
+grup-verb/top/(especializado especializar VMP00SM -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  vaux/aux/(ha haber VAIP3S0 -)
+  sn/subj/(Eastwood eastwood NP00000 -)
+  grup-sp-inf/modnomatch/(en en SPS00 -) [
+    grup-verb-inf/head/(contar contar VMN0000 -)
+    sn/modnomatch/(muerte muerte NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(forma forma NCFS000 -) [
+          espec-fs/espec/(una uno DI0FS0 -)
+          s-a-fs/qual/(, , Fc -) [
+            s-a-fs/modnorule/(conmovedora conmovedor AQ0FS0 -) [
+              sadv/modnorule/(magistralmente magistralmente RG -)
+            ]
+            s-a-fs/modnorule/(, , Fc -) [
+              s-a-fs/modnorule/(emocionante emocionante AQ0CS0 -)
+              s-a-fs/modnorule/(, , Fc -) [
+                s-a-fs/modnorule/(reflexiva reflexivo AQ0FS0 -)
+                s-a-fs/modnorule/(y y CC -) [
+                  s-a-fs/modnorule/(madura maduro AQ0FS0 -)
+                  s-a-fs/modnorule/(cruda crudo AQ0FS0 -) [
+                    sadv/modnorule/(tan tan RG -)
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  grup-sp/modnomatch/(como como CS -) [
+    s-a-ms/modnomatch/(realista realista AQ0CS0 -) [
+      sadv/modnorule/(poéticamente poéticamente RG -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(Gracias gracias NP00000 -) [
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/modnomatch/(Clint clint NP00000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  grup-sp-inf/modnomatch/(por por SPS00 -) [
+    grup-verb-inf/head/(pariendo parir VMG0000 -) [
+      VMN0000(seguir)/modnomatch/(seguir seguir VMN0000 -)
+    ]
+    sn/modnomatch/(obras obra NCFP000 -) [
+      s-a-fp/qual/(maestras maestro AQ0FP0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

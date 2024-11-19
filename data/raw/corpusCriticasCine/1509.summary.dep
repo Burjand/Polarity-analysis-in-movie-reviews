@@ -1,0 +1,54 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(Último_Rey_de_Escocia último_rey_de_escocia NP00000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+  ]
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(necesaria necesario AQ0FS0 -) [
+      sadv/modnorule/(muy muy RG -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(sirve servir VMIP3S0 -)
+  ]
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(recordar recordar VMN0000 -) [
+      PP*/modnomatch/(nos nos PP1CP000 -)
+    ]
+    sn/modnomatch/(atrocidades atrocidad NCFP000 -) [
+      espec-fp/espec/(las el DA0FP0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(pasado pasado NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(y y CC -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(ayuda ayudar VMIP3S0 -)
+  ]
+  grup-sp-inf/iobj/(a a SPS00 -) [
+    grup-verb-inf/head/(tomar tomar VMN0000 -)
+    sn/modnomatch/(conciencia conciencia NCFS000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(atrocidades atrocidad NCFP000 -) [
+          espec-fp/espec/(las el DA0FP0 -)
+        ]
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(cometen cometer VMIP3P0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+      sadv/cc/(aún aun RG -)
+      grup-sp/cc/(en en SPS00 -) [
+        sn/head/(África áfrica NP00000 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

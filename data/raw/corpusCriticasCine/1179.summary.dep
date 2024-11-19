@@ -1,0 +1,37 @@
+grup-verb/top/(logra lograr VMIP3S0 -) [
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+  ]
+  grup-verb-inf/modnomatch/(atrapar atrapar VMN0000 -)
+  sn/obj/(atención atención NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(espectador espectador NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  grup-sp-inf/modnomatch/(sin_necesidad_de sin_necesidad_de SPS00 -) [
+    grup-verb-inf/head/(recurrir recurrir VMN0000 -)
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(efectos_especiales efecto_especial NCMP000 -)
+  ]
+  coor-n/obj/(ni ni CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(cambios cambio NCMP000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(escenarios escenario NCMP000 -)
+      ]
+    ]
+  ]
+  coor-sp/modnomatch/(y y CC -) [
+    grup-sp/modnorule/(con con SPS00 -) [
+      sn/head/(personajes personaje NCMP000 -) [
+        s-a-mp/qual/(poquísimos poquísimo AQ0MP0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

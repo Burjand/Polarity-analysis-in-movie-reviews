@@ -1,0 +1,54 @@
+coor-vb/top/(pero pero CC -) [
+  sn/subj/(acción acción NCFS000 -) [
+    espec-fs/espec/(Mucha mucho DI0FS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(muertos muerto NCMP000 -) [
+    espec-mp/espec/(muchos mucho DI0MP0 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(deja dejar VMIP3S0 -) [
+    sn/obj/(sensación sensación NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(vacío vacío NCMS000 -) [
+          s-a-ms/qual/(existencial existencial AQ0CS0 -)
+        ]
+      ]
+    ]
+    grup-sp/cc/(ante ante SPS00 -) [
+      sn/head/(violencia violencia NCFS000 -) [
+        espec-fs/espec/(tanta tanto DI0FS0 -)
+      ]
+    ]
+  ]
+  grup-sp-inf/modnomatch/(sin sin SPS00 -) [
+    grup-verb-inf/head/(venir venir VMN0000 -)
+  ]
+  grup-sp/modnomatch/(a a SPS00 -) [
+    sn/head/(cuento cuento NCMS000 -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+parti-flex/top/(Dicho decir VMP00SM -) [
+  sp-de/modnorule/(de de SPS00 -) [
+    sn/gen/(modo modo NCMS000 -) [
+      espec-ms/espec/(otro otro DI0MS0 -)
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  conj-subord/modnorule/(que que CS -)
+  sn/modnorule/(mojón mojón NCMS000 -)
+  prep/modnorule/(de de SPS00 -)
+  grup-verb/modnorule/(tragado tragar VMP00SM -) [
+    patons/modnomatch/(me me PP1CS000 -)
+    vaux/aux/(he haber VAIP1S0 -)
+    grup-sp/modnomatch/(a a SPS00 -) [
+      sn/head/(kilo kilo NCMS000 -)
+    ]
+    sadv/cc/(sin_comerlo_ni_beberlo sin_comerlo_ni_beberlo RG -)
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

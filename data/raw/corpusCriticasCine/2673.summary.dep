@@ -1,0 +1,60 @@
+grup-verb/top/(hay haber VMIP3S0 -) [
+  neg/modneg/(No no RN -)
+  sn/obj/(armonía armonía NCFS000 -)
+  grup-sp/modnomatch/(entre entre SPS00 -) [
+    sn/head/(imagen imagen NCFS000 -)
+    CC(y)/modnomatch/(y y CC -)
+    sn/head/(contenido contenido NCMS000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(y y CC -) [
+  grup-verb/co-v/(es ser VSIP3S0 -) [
+    neg/modneg/(No no RN -)
+    sn/obj/(película película NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(buenísima bueno AQSFS0 -)
+      subord/modnomatch/(porque porque CS -) [
+        grup-verb/modnorule/(desatiende desatender VMIP3S0 -) [
+          morfema-verbal/modnomatch/(se se P0000000 -)
+          sn/obj/(trama trama NCFS000 -) [
+            espec-fs/espec/(la el DA0FS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  grup-verb/co-v/(hace hacer VMIP3S0 -) [
+    morfema-verbal/modnomatch/(se se P0000000 -)
+    sn/obj/(énfasis énfasis NCMN000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(portentosa portentoso AQ0FS0 -) [
+        j-fs/modnomatch/(la el DA0FS0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sadv/modnomatch/(sí sí RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/modnomatch/(colección colección NCFS000 -) [
+    s-a-fs/qual/(y y CC -) [
+      s-a-fs/modnorule/(elegante elegante AQ0CS0 -)
+      s-a-fs/modnorule/(adictiva adictivo AQ0FS0 -)
+    ]
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(imágenes imagen NCFP000 -) [
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(maestro maestro NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+            w-ms/modnomatch/(De_Palma de_palma NP00000 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

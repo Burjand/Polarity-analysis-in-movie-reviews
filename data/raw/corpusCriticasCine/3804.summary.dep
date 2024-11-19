@@ -1,0 +1,53 @@
+grup-verb/top/(aconsejar aconsejar VMN0000 -) [
+  VMI*<ir>/modnomatch/(voy ir VMIP1S0 -)
+  SPS00(a)/modnomatch/(a a SPS00 -)
+  neg/modneg/(No no RN -)
+  sn/obj/(Soy_Leyenda soy_leyenda NP00000 -)
+  conj-subord/modnomatch/(porque porque CS -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(a_pesar_de a_pesar_de SPS00 -) [
+    sn/head/(ocasiones ocasión NCFP000 -) [
+      espec-fp/espec/(las el DA0FP0 -)
+      s-a-fp/qual/(raras raro AQ0FP0 -)
+    ]
+  ]
+  subord/modnomatch/(donde donde PR000000 -) [
+    grup-verb/modnorule/(apunta apuntar VMIP3S0 -) [
+      sn/subj/(cinta cinta NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        grup-verb/modnomatch/(deshinchando deshinchar VMG0000 -) [
+          patons/modnomatch/(se se PP3CN000 -)
+          VMI*<acabar>/modnomatch/(acaba acabar VMIP3S0 -)
+          sn/subj/(final final NCFS000 -)
+          sadv/cc/(siempre siempre RG -)
+        ]
+      ]
+      sn/obj/(maneras manera NCFP000 -)
+      grup-sp/modnomatch/(con con SPS00 -) [
+        sn/head/(dosis dosis NCFN000 -) [
+          espec-fp/espec/(sus su DP3CP0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(misterio misterio NCMS000 -)
+          ]
+        ]
+      ]
+      coor-n/obj/(y y CC -) [
+        sn/co-n/(equilibrio equilibrio NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+      grup-sp/modnomatch/(con con SPS00 -) [
+        sn/head/(escenas escena NCFP000 -) [
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(acción acción NCFS000 -)
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  prep/modnomatch/(a a SPS00 -)
+  espec-ms/modnomatch/(el el DA0MS0 -)
+  F-term/term/(. . Fp -)
+]
+

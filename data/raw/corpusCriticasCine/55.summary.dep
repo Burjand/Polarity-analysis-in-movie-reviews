@@ -1,0 +1,30 @@
+grup-verb/top/(entristecería entristecer VMIC1S0 -) [
+  patons/modnomatch/(Me me PP1CS000 -)
+  grup-verb-inf/modnomatch/(pensar pensar VMN0000 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(concede conceder VMIP3S0 -) [
+      sn/subj/(Academia academia NP00000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+      grup-sp/iobj/(a a SPS00 -) [
+        sn/head/(película película NCFS000 -) [
+          espec-fs/espec/(esta este DD0FS0 -)
+        ]
+      ]
+      sn/obj/(Oscar oscar NP00000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+      grup-sp/iobj/(a a SPS00 -) [
+        sn/head/(mejor mejor AQ0CS0 -) [
+          j-fs/modnomatch/(la el DA0FS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(año año NCMS000 -) [
+              espec-ms/espec/(el el DA0MS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+]
+

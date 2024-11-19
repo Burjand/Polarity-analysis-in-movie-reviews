@@ -1,0 +1,69 @@
+parti-flex/top/(Narrada narrar VMP00SF -) [
+  sp-de/modnorule/(de de SPS00 -) [
+    sn/gen/(forma forma NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+    ]
+  ]
+  grup-verb/modnorule/(decir decir VMN0000 -) [
+    morfema-verbal/modnomatch/(se se P0000000 -)
+    VMI*<poder>/modnomatch/(podría poder VMIC1S0 -)
+    sn/subj/(pausada pausar VMP00SF -) [
+      espec-fs/espec/(muy muy RG -)
+      Fc(,)/modnomatch/(, , Fc -)
+    ]
+  ]
+  conj-subord/modnorule/(que que CS -)
+  F-term/modnorule/(? ? Fit -)
+]
+
+coor-vb/top/(y y CC -) [
+  sn/subj/(Hermanas hermanas NP00000 -) [
+    numero-nopart/quant/(Dos 2 Z -)
+    F-term/term/(? ? Fit -)
+  ]
+  grup-verb/co-v/(es ser VSIP3S0 -) [
+    sn/obj/(película película NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(gusta gustar VMIP3S0 -)
+      ]
+    ]
+  ]
+  grup-verb/co-v/(disgusta disgustar VMIP3S0 -) [
+    grup-sp/iobj/(a a SPS00 -) [
+      sn/head/(partes parte NCFP000 -) [
+        s-a-fp/qual/(iguales igual AQ0CP0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  forma-ger/modnomatch/(teniendo tener VMG0000 -)
+  s-adj/modnomatch/(igual igual AQ0CS0 -)
+  sn/modnomatch/(detalles detalle NCMP000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(genio genio NCMS000 -) [
+        s-a-ms/qual/(verdadero verdadero AQ0MS0 -)
+      ]
+    ]
+  ]
+  conj-subord/modnomatch/(que que CS -)
+  sn/modnomatch/(bajones bajón NCMP000 -) [
+    grup-sp/modnomatch/(en en SPS00 -) [
+      sn/head/(guión guión NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+    s-adj/qual/(inexplicables inexplicable AQ0CP0 -)
+  ]
+  coord/modnomatch/(y y CC -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(resuelto resolver VMP00SM -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+      VMI*<poder>/modnomatch/(podían poder VMII3P0 -)
+      infaux/modnomatch/(haber haber VAN0000 -)
+    ]
+  ]
+  sadv/modnomatch/(fácilmente fácilmente RG -)
+  F-term/modnomatch/(. . Fp -)
+]
+

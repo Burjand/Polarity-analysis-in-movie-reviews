@@ -1,0 +1,67 @@
+sn/top/(Primera primera NP00000 -) [
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(películas película NCFP000 -) [
+      espec-fp/espec/(cuatro 4 Z -) [
+        j-fp/modnorule/(las el DA0FP0 -)
+      ]
+      grup-sp/modnomatch/(en en SPS00 -) [
+        sn/head/(DVD dvd NP00000 -) [
+          s-a-fp/qual/(pensadas pensar VMP00PF -)
+          grup-sp/modnomatch/(para para SPS00 -) [
+            sn/head/(serie serie NCFS000 -) [
+              espec-fs/espec/(la el DA0FS0 -)
+              w-fs/modnomatch/(Futurama futurama NP00000 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(supone suponer VMIP3S0 -)
+  ]
+  sn/modnomatch/(bocanada bocanada NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(aire aire NCMS000 -) [
+        s-a-ms/qual/(fresco fresco AQ0MS0 -)
+        grup-sp/modnomatch/(a a SPS00 -) [
+          sn/head/(fans fan NCCP000 -) [
+            espec-mp/espec/(los el DA0MP0 -)
+            grup-sp/modnomatch/(con con SPS00 -) [
+              sn/head/(suspensión suspensión NCFS000 -) [
+                espec-fs/espec/(la el DA0FS0 -)
+                sp-de/mod/(de de SPS00 -) [
+                  sn/gen/(serie serie NCFS000 -) [
+                    espec-fs/espec/(la el DA0FS0 -)
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(quedamos quedar VMIP1P0 -) [
+        patons/modnomatch/(nos nos PP1CP000 -)
+      ]
+    ]
+  ]
+  parti-flex/modnomatch/(colgados colgar VMP00PM -)
+  F-term/term/(. . Fp -)
+]
+
+grup-sp/top/(A a SPS00 -) [
+  sn/head/(entender entender NCMS000 -) [
+    espec-ms/espec/(mi mi DP1CSS -)
+    s-a-ms/qual/(modesto modesto AQ0MS0 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  s-adj/modnomatch/(e e CC -) [
+    s-a-ms/modnorule/(genial genial AQ0CS0 -)
+    s-a-ms/modnorule/(imprescindible imprescindible AQ0CS0 -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

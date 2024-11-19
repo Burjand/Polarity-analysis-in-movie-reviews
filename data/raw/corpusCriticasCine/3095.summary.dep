@@ -1,0 +1,49 @@
+coor-vb/top/(y y CC -) [
+  grup-verb/co-v/(es ser VSIP3S0 -) [
+    sn/subj/(Señal señal NP00000 -) [
+      espec-fs/espec/(La el DA0FS0 -)
+    ]
+    grup-sp/modnomatch/(ante ante SPS00 -) [
+      sn/head/(homenaje homenaje NCMS000 -) [
+        espec-ms/espec/(todo todo DI0MS0 -) [
+          indef-ms/modnorule/(un uno DI0MS0 -)
+        ]
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(Ricardo_Darín ricardo_darín NP00000 -)
+        ]
+      ]
+    ]
+    grup-sp/iobj/(a a SPS00 -) [
+      sn/head/(memoria memoria NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(Eduardo_Mignogna eduardo_mignogna NP00000 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(es ser VSIP3S0 -) [
+    sadv/cc/(además además RG -)
+    sn/obj/(ejemplo ejemplo NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(buen bueno AQ0MS0 -)
+    ]
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(hacer hacer VMN0000 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+      VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+      sadv/cc/(hoy hoy RG -)
+      grup-sp/cc/(en en SPS00 -) [
+        sn/head/(día día NCMS000 -)
+      ]
+      sadv/cc/(también también RG -)
+      sn/obj/(cine cine NCMS000 -) [
+        s-a-ms/qual/(negro negro AQ0MS0 -)
+      ]
+    ]
+  ]
+]
+

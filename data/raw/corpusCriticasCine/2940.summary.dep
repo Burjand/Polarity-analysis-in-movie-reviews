@@ -1,0 +1,40 @@
+grup-verb/top/(trata tratar VMIP3S0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  neg/modneg/(No no RN -)
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(film film NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(soberbio soberbio AQ0MS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(pero pero CC -)
+  s-adj/modnomatch/(bueno bueno AQ0MS0 -) [
+    sadv/modnorule/(sí sí RG -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(montaje montaje NCMS000 -) [
+      s-a-ms/qual/(buen bueno AQ0MS0 -)
+    ]
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(banda banda NCFS000 -) [
+      s-a-fs/qual/(excelente excelente AQ0CS0 -)
+      s-a-fs/qual/(sonora sonoro AQ0FS0 -)
+    ]
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(fotografía fotografía NCFS000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(consigue conseguir VMIP3S0 -)
+  ]
+  espec-ms/modnomatch/(lo el DA0NS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(pretende pretender VMIP3S0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

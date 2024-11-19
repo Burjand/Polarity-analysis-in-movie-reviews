@@ -1,0 +1,57 @@
+grup-verb/top/(comandar comandar VMN0000 -) [
+  VMI*<volver>/modnomatch/(vuelve volver VMIP3S0 -)
+  SPS00(a)/modnomatch/(a a SPS00 -)
+  sn/subj/(Jack_Sparrow jack_sparrow NP00000 -)
+  sn/obj/(Perla_Negra perla_negra NP00000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(concluir concluir VMN0000 -)
+    sn/modnomatch/(aventura aventura NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(comenzó comenzar VMIS3S0 -)
+      ]
+    ]
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(El_Cofre_de_el_Hombre_Muerto el_cofre_de_el_hombre_muerto NP00000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(Aunque aunque CC -) [
+  espec-ms/modnomatch/(un uno DI0MS0 -)
+  s-adj/modnomatch/(larga largo AQ0FS0 -) [
+    sadv/modnorule/(poco poco RG -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(agradece agradecer VMIP3S0 -) [
+    morfema-verbal/modnomatch/(se se P0000000 -)
+    sn/obj/(llegada llegada NCFS000 -) [
+      espec-fs/espec/(su su DP3CS0 -)
+    ]
+    grup-sp/iobj/(a a SPS00 -) [
+      sn/head/(carteleras cartelera NCFP000 -) [
+        espec-fp/espec/(unas uno DI0FP0 -)
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(ofrecen ofrecer VMIP3P0 -) [
+        sadv/cc/(habitualmente habitualmente RG -)
+        neg/modneg/(no no RN -)
+        sn/obj/(nada nada PI0CS000 -)
+        grup-sp/cc/(en en SPS00 -) [
+          sn/head/(género género NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(aventuras aventura NCFP000 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

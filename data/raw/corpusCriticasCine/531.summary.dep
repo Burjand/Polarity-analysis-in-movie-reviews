@@ -1,0 +1,39 @@
+grup-verb/top/(logra lograr VMIP3S0 -) [
+  sn/subj/(Stone stone NP00000 -)
+  sn/obj/(obra obra NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(maestra maestro AQ0FS0 -)
+  ]
+  grup-sp/modnomatch/(de de SPS00 -) [
+    sadv/modnomatch/(cerca cerca RG -) [
+      SPS00(de)/modnorule/(de de SPS00 -)
+      sn/modnorule/(minutos minuto NCMP000 -) [
+        numero-nopart/quant/(45 45 Z -)
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(pierde perder VMIP3S0 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(intensidad intensidad NCFS000 -)
+  ]
+  subord/modnomatch/(a_medida_que a_medida_que CS -) [
+    grup-verb/modnorule/(avanza avanzar VMIP3S0 -) [
+      sn/obj/(metraje metraje NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(recuperar recuperar VMN0000 -)
+    sn/modnomatch/(tono tono NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  prep/modnomatch/(hacia hacia SPS00 -)
+  espec-ms/modnomatch/(el el DA0MS0 -)
+  sn/obj/(final final NCFS000 -)
+  F-term/term/(. . Fp -)
+]
+

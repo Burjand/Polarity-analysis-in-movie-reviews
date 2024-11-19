@@ -1,0 +1,54 @@
+grup-verb/top/(pasará pasar VMIF3S0 -) [
+  coor-n/subj/(y y CC -) [
+    sn/co-n/(aventura aventura NCFS000 -) [
+      espec-fs/espec/(La el DA0FS0 -)
+      s-a-fs/qual/(nueva nuevo AQ0FS0 -)
+      s-a-fs/qual/(cinematográfica cinematográfico AQ0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(Mortadelo mortadelo NP00000 -)
+      ]
+    ]
+    sn/co-n/(Filemón filemón NP00000 -)
+  ]
+  coor-sp/modnomatch/(no_sólo no_sólo CC -) [
+    grup-sp/modnorule/(a a SPS00 -) [
+      sn/head/(historia historia NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(películas película NCFP000 -) [
+            espec-fp/espec/(las el DA0FP0 -)
+            s-a-fp/qual/(peores peor AQ0CP0 -)
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(cine cine NCMS000 -) [
+                espec-ms/espec/(el el DA0MS0 -)
+                s-a-ms/qual/(español español AQ0MS0 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+    grup-sp/modnorule/(por por SPS00 -) [
+      sn/head/(taquilla taquilla NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        s-a-fs/qual/(gran gran AQ0CS0 -)
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(hacer hacer VMN0000 -) [
+      VMS*<poder>/modnomatch/(pueda poder VMSP1S0 -)
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  coord/modnomatch/(sino sino CC -)
+  grup-sp-inf/modnomatch/(por por SPS00 -) [
+    grup-verb-inf/head/(ser ser VSN0000 -)
+  ]
+  espec-fs/modnomatch/(una uno DI0FS0 -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(décadas década NCFP000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

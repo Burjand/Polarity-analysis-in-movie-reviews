@@ -1,0 +1,39 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  grup-sp/modnomatch/(Bajo bajo SPS00 -) [
+    sn/head/(Estrellas estrellas NP00000 -) [
+      espec-fp/espec/(las el DA0FP0 -)
+    ]
+  ]
+  espec-fs/modnomatch/(una uno DI0FS0 -)
+  sadv/cc/(más más RG -)
+  conj-subord/modnomatch/(que que CS -)
+  sn/obj/(película película NCFS000 -) [
+    s-a-fs/qual/(meritoria meritorio AQ0FS0 -)
+    s-a-fs/qual/(primera 1 AO0FS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  relatiu/modnomatch/(exponente exponente NCCS000 -) [
+    cuyo-ms/modnorule/(cuyo cuyo PR0MS000 -)
+    s-a-ms/modnorule/(máximo máximo AQ0MS0 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(aparte_de aparte_de SPS00 -) [
+    sn/head/(trabajo trabajo NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(prodigioso prodigioso AQ0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(Alberto_San_Juan alberto_san_juan NP00000 -) [
+          grup-verb/modnomatch/(es ser VSIP3S0 -) [
+            sn/obj/(realismo realismo NCMS000 -) [
+              espec-ms/espec/(su su DP3CS0 -)
+              s-a-ms/qual/(gran gran AQ0CS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(. . Fp -)
+]
+

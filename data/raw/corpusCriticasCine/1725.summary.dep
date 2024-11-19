@@ -1,0 +1,46 @@
+grup-verb/top/(mantuvo mantener VMIS3S0 -) [
+  patons/modnomatch/(lo lo PP3CNA00 -)
+  sn/subj/(familia familia NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+    s-a-fs/qual/(alocada alocado AQ0FS0 -)
+    w-fs/modnomatch/(Robinson robinson NP00000 -)
+  ]
+  s-adj/modnomatch/(atento atento AQ0MS0 -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(pantalla pantalla NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(daremos dar VMIF1P0 -) [
+  patons/modnomatch/(le le PP3CSD00 -)
+  sadv/cc/(Así_pues así_pues RG -)
+  sn/obj/(notable notable NCCS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(película película NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(sobre sobre SPS00 -) [
+    sn/head/(todo todo PI0MS000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(asiento asiento NCMS000 -) [
+          espec-ms/espec/(su su DP3CS0 -)
+        ]
+      ]
+    ]
+  ]
+  subord/modnomatch/(porque porque CS -) [
+    grup-verb/modnorule/(movió mover VMIS3S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

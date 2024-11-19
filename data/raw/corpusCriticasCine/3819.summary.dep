@@ -1,0 +1,48 @@
+subord/top/(Si si CS -) [
+  grup-verb/modnorule/(hay haber VMIP3S0 -) [
+    sn/obj/(película película NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+    ]
+  ]
+  conj-subord/modnorule/(que que CS -)
+  verb-pass/modnorule/(reconocida reconocer VMP00SF -) [
+    vser/modnomatch/(sea ser VSSP1S0 -)
+    grup-sp/modnomatch/(como como CS -) [
+      sn/head/(inicio inicio NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  sp-de/modnorule/(de de SPS00 -) [
+    sn/gen/(Neorrealismo_Italiano neorrealismo_italiano NP00000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  espec-fs/modnorule/(esa ese DD0FS0 -)
+  grup-verb/modnorule/(es ser VSIP3S0 -) [
+    sn/obj/(Roma_Cittá_Aperta_de_Rosellini roma_cittá_aperta_de_rosellini NP00000 -)
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(es ser VSIP3S0 -) [
+    grup-sp/modnomatch/(desde desde SPS00 -) [
+      sn/head/(punto punto NCMS000 -) [
+        espec-ms/espec/(mi mi DP1CSS -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(vista vista NCFS000 -)
+        ]
+      ]
+    ]
+  ]
+  s-adj/modnorule/(imprescindible imprescindible AQ0CS0 -)
+  grup-sp-inf/modnorule/(para para SPS00 -) [
+    grup-verb-inf/head/(entender entender VMN0000 -)
+    sn/modnomatch/(cine cine NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(calidad calidad NCFS000 -)
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

@@ -1,0 +1,77 @@
+coor-vb/top/(y y CC -) [
+  sn/subj/(Buenísima buenísima NP00000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    s-adj/qual/(deliciosa delicioso AQ0FS0 -)
+  ]
+  grup-verb/co-v/(fresquitas fresquitas VMIP2S0 -) [
+    sadv/cc/(muy muy RG -)
+    sn/obj/(fresas fresa NCFP000 -) [
+      espec-fp/espec/(las el DA0FP0 -)
+    ]
+    grup-sp/modnomatch/(con con SPS00 -) [
+      sn/head/(leche leche NCFS000 -)
+    ]
+    coor-n/obj/(y y CC -) [
+      sn/co-n/(azúcar azúcar NCCS000 -)
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(tomé tomar VMIS1S0 -) [
+        patons/modnomatch/(me me PP1CS000 -)
+      ]
+    ]
+  ]
+  grup-sp-inf/modnomatch/(para para SPS00 -) [
+    grup-verb-inf/head/(ver ver VMN0000 -)
+  ]
+  subord/modnomatch/(si si CS -) [
+    grup-verb/modnorule/(quitaba quitar VMII1S0 -) [
+      patons/modnomatch/(me me PP1CS000 -)
+      sn/obj/(amargura amargura NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(comedia comedia NCFS000 -) [
+            espec-fs/espec/(una uno DI0FS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(convierte convertir VMIP3S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+    ]
+  ]
+  grup-sp/modnomatch/(en en SPS00 -) [
+    sn/head/(drama drama NCMS000 -)
+  ]
+  coor-vb/modnomatch/(y y CC -) [
+    grup-verb/co-v/(aniquila aniquilar VMIP3S0 -) [
+      grup-sp/iobj/(a a SPS00 -) [
+        sn/head/(espectador espectador NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+grup-verb/top/(mezclemos mezclar VMSP1P0 -) [
+  sn/subj/(comedia comedia NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+    grup-sp-inf/modnomatch/(de de SPS00 -) [
+      grup-verb-inf/head/(reir reir VMN0000 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/modnomatch/(drama drama NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+    grup-sp-inf/modnomatch/(de de SPS00 -) [
+      grup-verb-inf/head/(llorar llorar VMN0000 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  neg/modneg/(no no RN -)
+  F-term/term/(. . Fp -)
+]
+

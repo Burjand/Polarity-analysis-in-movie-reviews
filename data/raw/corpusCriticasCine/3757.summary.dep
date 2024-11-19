@@ -1,0 +1,60 @@
+grup-verb/top/(mire mirar VMSP1S0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  patons/modnomatch/(la lo PP3FSA00 -)
+  sn/subj/(Increíble increíble NP00000 -) [
+    relatiu/modnomatch/(donde donde PR000000 -) [
+      prep/modnorule/(por por SPS00 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+neg/top/(No no RN -) [
+  grup-sp/modnorule/(por por SPS00 -) [
+    sn/head/(sorpresa sorpresa NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(logros logro NCMP000 -) [
+          espec-mp/espec/(sus su DP3CP0 -)
+          s-a-mp/qual/(inesperados inesperado AQ0MP0 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  coord/modnorule/(sino sino CC -)
+  subord/modnorule/(porque porque CS -) [
+    grup-verb/modnorule/(es ser VSIP3S0 -)
+  ]
+  s-adj/modnorule/(imposible imposible AQ0CS0 -)
+  subord/modnorule/(que que CS -) [
+    grup-verb/modnorule/(filmar filmar VMN0000 -) [
+      patons/modnomatch/(se se PP3CN000 -)
+      VMS*<llegar>/modnomatch/(llegue llegar VMSP1S0 -)
+      SPS00(a)/modnomatch/(a a SPS00 -)
+      sn/subj/(guión guión NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        s-a-ms/qual/(pobre pobre AQ0CS0 -) [
+          sadv/modnorule/(tan tan RG -)
+        ]
+        coor-sp/modnomatch/(y y CC -) [
+          grup-sp/modnorule/(con con SPS00 -) [
+            sn/head/(ideas idea NCFP000 -) [
+              grup-sp/modnomatch/(para para SPS00 -) [
+                sn/head/(comedia comedia NCFS000 -) [
+                  espec-fs/espec/(la el DA0FS0 -)
+                ]
+              ]
+            ]
+          ]
+        ]
+        subord/modnomatch/(que que PR0CN000 -) [
+          grup-verb/modnorule/(atrasan atrasar VMIP3P0 -)
+        ]
+      ]
+      sn/subj/(décadas década NCFP000 -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

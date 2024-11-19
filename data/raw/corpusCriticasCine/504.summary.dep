@@ -1,0 +1,56 @@
+grup-verb/top/(Está estar VAIP3S0 -) [
+  parti-flex/modnomatch/(contada contar VMP00SF -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(intención intención NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(encontrar encontrar VMN0000 -)
+  ]
+  espec-ms/modnomatch/(un uno DI0MS0 -)
+  sn/obj/(final_feliz final_feliz NCFS000 -) [
+    grup-sp/modnomatch/(para para SPS00 -) [
+      sn/head/(cuento cuento NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        s-a-ms/qual/(sanguinario sanguinario AQ0MS0 -) [
+          sadv/modnorule/(bien bien RG -) [
+            cuantif/modnorule/(más más RG -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(Y y CC -) [
+  grup-verb/co-v/(felicitar felicitar VMN0000 -) [
+    morfema-verbal/modnomatch/(se se P0000000 -)
+    VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+    grup-sp/iobj/(a a SPS00 -) [
+      sn/head/(autores autor NCMP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+      ]
+    ]
+    grup-sp/modnomatch/(por por SPS00 -) [
+      sn/head/(giros giro NCMP000 -) [
+        espec-mp/espec/(dos 2 Z -) [
+          j-mp/modnorule/(los el DA0MP0 -)
+        ]
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(había haber VMII3S0 -)
+    ]
+  ]
+  conj-subord/modnomatch/(que que CS -)
+  grup-verb-inf/modnomatch/(engarzar engarzar VMN0000 -)
+  grup-sp-inf/modnomatch/(para para SPS00 -) [
+    grup-verb-inf/head/(conseguir conseguir VMN0000 -) [
+      PP*/modnomatch/(lo lo PP3CNA00 -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

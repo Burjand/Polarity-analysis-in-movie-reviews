@@ -1,0 +1,70 @@
+grup-verb/top/(adormece adormecer VMIP3S0 -) [
+  grup-sp/cc/(En en SPS00 -) [
+    sn/head/(Sunshine sunshine NP00000 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(sopor sopor NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    s-a-ms/qual/(plomizo plomizo AQ0MS0 -)
+    s-a-ms/qual/(provocado provocar VMP00SM -)
+  ]
+  sadv/cc/(quizás quizás RG -)
+  grup-sp/modnomatch/(por por SPS00 -) [
+    sn/head/(cercanía cercanía NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      grup-sp/modnomatch/(a a SPS00 -) [
+        sn/head/(Sol sol NP00000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  sn/obj/(interés interés NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(espectador espectador NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(desea desear VMIP3S0 -)
+    ]
+  ]
+  conj-subord/modnomatch/(que que CS -)
+  sadv/cc/(pronto pronto RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  sadv/cc/(cuanto_antes cuanto_antes RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  verb-pass/modnomatch/(reducido reducir VMP00SM -) [
+    vser/modnomatch/(sea ser VSSP1S0 -)
+    sn/subj-pac/(todo todo PI0MS000 -) [
+      grup-verb/modnomatch/(somos ser VSIP1P0 -) [
+        grup-sp/modnomatch/(según según SPS00 -) [
+          sn/head/(guionista guionista NCCS000 -) [
+            espec-ms/espec/(su su DP3CS0 -)
+          ]
+          F-no-c/modnomatch/(- - Fg -)
+        ]
+        sn/subj/(todos todo PI0MP000 -)
+        F-no-c/modnomatch/(: : Fd -)
+        sn/obj/(polvo polvo NCMS000 -)
+      ]
+    ]
+  ]
+  prep/modnomatch/(a a SPS00 -)
+  espec-ms/modnomatch/(lo el DA0NS0 -)
+  prel/modnomatch/(que que PR0CN000 -)
+  F-term/term/(? ? Fit -)
+  Fc(,)/modnomatch/(, , Fc -)
+  sadv/cc/(sólo sólo RG -)
+  sn/obj/(eso ese PD0NS000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(polvo polvo NCMS000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(estrellas estrella NCFP000 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

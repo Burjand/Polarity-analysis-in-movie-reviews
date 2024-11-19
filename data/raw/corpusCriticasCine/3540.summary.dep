@@ -1,0 +1,62 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(Persépolis persépolis NP00000 -)
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(redonda redondo AQ0FS0 -)
+    subord/modnomatch/(ya_que ya_que CS -) [
+      grup-verb/modnorule/(consigue conseguir VMIP3S0 -) [
+        sn/obj/(equilibrio equilibrio NCMS000 -) [
+          espec-ms/espec/(un uno DI0MS0 -)
+          s-a-ms/qual/(digno digno AQ0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  grup-sp/modnomatch/(entre entre SPS00 -) [
+    sn/head/(contenido contenido NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(doctrinal doctrinal AQ0CS0 -)
+    ]
+    CC(y)/modnomatch/(y y CC -)
+    sn/head/(acción acción NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(sido ser VSP00SM -) [
+  vaux/aux/(Ha haber VAIP3S0 -)
+  sn/obj/(revelación revelación NCFS000 -) [
+    espec-fs/espec/(toda todo DI0FS0 -) [
+      indef-fs/modnorule/(una uno DI0FS0 -)
+    ]
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(películas película NCFP000 -) [
+        espec-fp/espec/(las el DA0FP0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(animación animación NCFS000 -) [
+            s-a-fs/qual/(aconsejable aconsejable AQ0CS0 -) [
+              sadv/modnorule/(más más RG -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  espec-fs/modnomatch/(una uno DI0FS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(visto ver VMP00SM -) [
+      vaux/aux/(he haber VAIP1S0 -)
+    ]
+  ]
+  parti-flex/modnomatch/(destinada destinar VMP00SF -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(público público NCMS000 -) [
+      s-a-ms/qual/(adulto adulto AQ0MS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

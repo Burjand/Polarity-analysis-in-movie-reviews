@@ -1,0 +1,66 @@
+grup-sp-inf/top/(Sin sin SPS00 -) [
+  grup-verb-inf/head/(tener tener VMN0000 -)
+  espec-ms/modnomatch/(el el DA0MS0 -)
+  F-term/modnomatch/(? ? Fit -)
+  sn/modnomatch/(poder poder NCMS000 -)
+  F-term/modnomatch/(? ? Fit -)
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(protagonista protagonista NCCS000 -) [
+      espec-ms/espec/(su su DP3CS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/modnomatch/(es ser VSIP3S0 -)
+  s-adj/modnomatch/(fácil fácil AQ0CS0 -)
+  grup-verb-inf/head/(adivinar adivinar VMN0000 -)
+  conj-subord/modnomatch/(que que CS -)
+  F-term/modnomatch/(? ? Fit -)
+]
+
+grup-verb/top/(pasará pasar VMIF3S0 -) [
+  sn/subj/(Next next NP00000 -) [
+    F-term/term/(? ? Fit -)
+  ]
+  neg/modneg/(no no RN -)
+  grup-sp/cc/(a a SPS00 -) [
+    sn/head/(historia historia NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(cine cine NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  grup-sp/cc/(como como CS -) [
+    sn/head/(película película NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(buena bueno AQ0FS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(sino sino CC -)
+  sadv/cc/(bien bien RG -) [
+    cuantif/modnorule/(más más RG -)
+  ]
+  grup-sp-inf/modnomatch/(por por SPS00 -) [
+    grup-verb-inf/head/(malgastado malgastar VMP00SM -) [
+      infaux/modnomatch/(haber haber VAN0000 -)
+    ]
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(dólares dólar NCMP000 -) [
+      numero-nopart/quant/(80_millones 80000000 Zd -) [
+        SPS00(de)/modnorule/(de de SPS00 -)
+      ]
+    ]
+    sn/co-n/(minutos minuto NCMP000 -) [
+      numero-nopart/quant/(90 90 Z -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(metraje metraje NCMS000 -)
+      ]
+    ]
+  ]
+  F-no-c/modnomatch/(... ... Fs -)
+]
+

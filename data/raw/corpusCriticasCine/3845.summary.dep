@@ -1,0 +1,70 @@
+grup-verb/top/(son ser VSIP3P0 -) [
+  coor-n/subj/(y y CC -) [
+    sn/co-n/(George_Clooney george_clooney NP00000 -)
+    sn/co-n/(compañeros compañero NCMP000 -) [
+      espec-mp/espec/(sus su DP3CP0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(reparto reparto NCMS000 -)
+      ]
+    ]
+  ]
+  sn/obj/(mejor mejor AQ0CS0 -) [
+    j-ms/modnomatch/(lo el DA0NS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(película película NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(navega navegar VMIP3S0 -)
+    ]
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(camino camino NCMS000 -) [
+      s-a-ms/qual/(medio medio AQ0MS0 -)
+    ]
+  ]
+  grup-sp/modnomatch/(entre entre SPS00 -) [
+    sn/head/(thriller thriller NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(judicial judicial AQ0CS0 -)
+    ]
+    CC(y)/modnomatch/(y y CC -)
+    sn/head/(drama drama NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  grup-sp-inf/modnomatch/(sin sin SPS00 -) [
+    grup-verb-inf/head/(decantar decantar VMN0000 -) [
+      VMN0000(llegar)/modnomatch/(llegar llegar VMN0000 -)
+      SPS00(a)/modnomatch/(a a SPS00 -)
+      PP*/modnomatch/(se se PP3CN000 -)
+    ]
+  ]
+  grup-sp/modnomatch/(por por SPS00 -) [
+    sn/head/(ninguna ninguno PI0FS000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(opciones opción NCFP000 -) [
+          espec-fp/espec/(dos 2 Z -) [
+            j-fp/modnorule/(las el DA0FP0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(haber haber VMN0000 -) [
+      VMI*<poder>/modnomatch/(podría poder VMIC1S0 -)
+    ]
+  ]
+  parti-ser/modnomatch/(sido ser VSP00SM -)
+  espec-ms/modnomatch/(un uno DI0MS0 -)
+  sn/obj/(pelín pelín NP00000 -) [
+    s-a-fs/qual/(corta corto AQ0FS0 -) [
+      sadv/modnorule/(más más RG -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

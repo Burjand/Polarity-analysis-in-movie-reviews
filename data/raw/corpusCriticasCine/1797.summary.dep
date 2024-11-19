@@ -1,0 +1,59 @@
+grup-verb/top/(olvidado olvidar VMP00SM -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  vaux/aux/(ha haber VAIP3S0 -)
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(Una uno DI0FS0 -)
+    s-a-fs/qual/(pero pero CC -) [
+      s-a-fs/modnorule/(bienintencionada bienintencionado AQ0FS0 -)
+      s-a-fs/modnorule/(fallida fallir VMP00SF -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    prep/modnomatch/(en en SPS00 -)
+    espec-fs/espec/(la el DA0FS0 -)
+    prel/modnomatch/(que que PR0CN000 -)
+    sn/modnomatch/(Robert_De_Niro robert_de_niro NP00000 -) [
+      Fc(,)/modnomatch/(, , Fc -)
+    ]
+    grup-sp-inf/modnomatch/(a_pesar_de a_pesar_de SPS00 -) [
+      grup-verb-inf/head/(colocar colocar VMN0000 -)
+      sn/modnomatch/(cámara cámara NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(manera manera NCFS000 -) [
+            s-a-fs/qual/(brillante brillante AQ0CS0 -)
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(dotar dotar VMN0000 -)
+  ]
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(vida vida NCFS000 -)
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(personajes personaje NCMP000 -) [
+      espec-mp/espec/(sus su DP3CP0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-sp/top/(O o CC -) [
+  sadv/modnorule/(mejor mejor RG -)
+  parti-flex/modnorule/(dicho decir VMP00SM -)
+  Fc(,)/modnorule/(, , Fc -)
+  grup-sp/modnorule/(a a SPS00 -) [
+    sn/head/(personaje personaje NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      grup-sp/modnomatch/(a a SPS00 -) [
+        sn/head/(Edward_Wilson edward_wilson NP00000 -)
+      ]
+    ]
+    F-no-c/modnomatch/(; ; Fx -)
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

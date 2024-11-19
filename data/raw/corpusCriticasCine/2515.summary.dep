@@ -1,0 +1,62 @@
+grup-verb/top/(consume consumir VMIP3S0 -) [
+  morfema-verbal/modnomatch/(Se se P0000000 -)
+  s-adj/modnomatch/(rápido rápido AQ0MS0 -) [
+    sadv/modnorule/(tan tan RG -)
+  ]
+  grup-sp/modnomatch/(como como CS -) [
+    sn/head/(cartón cartón NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(palomitas palomita NCFP000 -)
+      ]
+    ]
+  ]
+  s-adj/modnomatch/(mediano mediano AQ0MS0 -)
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(es ser VSIP3S0 -) [
+  sadv/cc/(Incluso incluso RG -) [
+    grup-sp/modnorule/(en en SPS00 -) [
+      sn/head/(sesión sesión NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(cine cine NCMS000 -) [
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(terraza terraza NCFS000 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+    grup-sp/modnorule/(con con SPS00 -) [
+      sn/head/(precios precio NCMP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+        grup-sp/modnomatch/(a a SPS00 -) [
+          sn/head/(mitad mitad NCFS000 -) [
+            espec-fs/espec/(la el DA0FS0 -)
+          ]
+        ]
+      ]
+    ]
+    coor-n/modnorule/(y y CC -) [
+      sn/co-n/(posibilidad posibilidad NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+    grup-sp-inf/modnorule/(de de SPS00 -) [
+      grup-verb-inf/head/(ver ver VMN0000 -)
+      sn/modnomatch/(seguidas seguida NCFP000 -) [
+        numero-nopart/quant/(dos 2 Z -)
+      ]
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(esta este DD0FS0 -)
+  ]
+  s-adj/att/(perfecta perfecto AQ0FS0 -)
+  F-term/term/(. . Fp -)
+]
+

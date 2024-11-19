@@ -1,0 +1,59 @@
+grup-verb/top/(hay haber VMIP3S0 -) [
+  neg/modneg/(No no RN -)
+  sn/obj/(aspectos aspecto NCMP000 -)
+  conj-subord/modnomatch/(que que CS -)
+  grup-verb-inf/modnomatch/(destacar destacar VMN0000 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(salvo salvo SPS00 -) [
+    sn/head/(dirección dirección NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(artística artístico AQ0FS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(recrea recrear VMIP3S0 -)
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(especie especie NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(civilización civilización NCFS000 -) [
+          w-fs/modnomatch/(Amish amish NP00000 -)
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(localizaciones localización NCFP000 -) [
+      espec-fp/espec/(las el DA0FP0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  conj-subord/modnomatch/(ya_que ya_que CS -)
+  sn/obj/(resto resto NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(película película NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        grup-verb/modnomatch/(quemar quemar VMN0000 -) [
+          patons/modnomatch/(se se PP3CN000 -)
+          VMI*<poder>/modnomatch/(podría poder VMIC1S0 -)
+          sadv/cc/(bien bien RG -)
+          grup-sp/cc/(en en SPS00 -) [
+            sn/head/(hoguera hoguera NCFS000 -) [
+              espec-fs/espec/(la el DA0FS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  geraux-ser/modnomatch/(siendo ser VSG0000 -)
+  s-adj/modnomatch/(exigente exigente AQ0CS0 -) [
+    sadv/modnorule/(muy muy RG -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(. . Fp -)
+]
+

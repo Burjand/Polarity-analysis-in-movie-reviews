@@ -1,0 +1,74 @@
+sn/top/(Empalagosa empalagosa NP00000 -) [
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(por por SPS00 -) [
+    sn/head/(momentos momento NCMP000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(Sobria sobria NP00000 -) [
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(por por SPS00 -) [
+    sn/head/(momentos momento NCMP000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(Asombrosa asombrosa NP00000 -) [
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(por por SPS00 -) [
+    sn/head/(momentos momento NCMP000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+parti-flex/top/(Aburrida aburrir VMP00SF -) [
+  Fc(,)/modnorule/(, , Fc -)
+  grup-sp/modnorule/(por por SPS00 -) [
+    sn/head/(momentos momento NCMP000 -)
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(Garci garci NP00000 -)
+  sn/obj/(Garci garci NP00000 -)
+  F-no-c/modnomatch/(: : Fd -)
+  sn/obj/(hombre hombre NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(camino camino NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+    ]
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(ética ética NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(profesional profesional AQ0CS0 -)
+    ]
+  ]
+  grup-sp/modnomatch/(a_prueba_de a_prueba_de SPS00 -) [
+    sn/head/(bombas bomba NCFP000 -) [
+      s-a-fp/qual/(tecnológicas tecnológico AQ0FP0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(Merece merecer VMIP3S0 -) [
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(no_obstante no_obstante CC -)
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(pena pena NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  grup-verb-inf/modnomatch/(entrar entrar VMN0000 -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(juego juego NCMS000 -) [
+      espec-ms/espec/(su su DP3CS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

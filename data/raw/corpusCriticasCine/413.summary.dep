@@ -1,0 +1,69 @@
+grup-verb/top/(disfruta disfrutar VMIP3S0 -) [
+  morfema-verbal/modnomatch/(Se se P0000000 -)
+  sadv/cc/(más más RG -)
+  subord/modnomatch/(si si CS -) [
+    grup-verb/modnorule/(gustan gustar VMIP3P0 -) [
+      patons/modnomatch/(te te PP2CS000 -)
+      sn/obj/(cuentos cuento NCMP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(hadas hada NCFP000 -)
+        ]
+      ]
+    ]
+  ]
+  grup-sp/iobj/(para para SPS00 -) [
+    sn/head/(adultos adulto NCMP000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(si si CS -) [
+    grup-verb/modnorule/(disfrutas disfrutar VMIP2S0 -)
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(realización realización NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(película película NCFS000 -) [
+          espec-fs/espec/(una uno DI0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  sadv/cc/(más más RG -)
+  conj-subord/modnomatch/(que que CS -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(robustez robustez NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(guión guión NCMS000 -) [
+          espec-ms/espec/(un uno DI0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(si si CS -) [
+    grup-verb/modnorule/(pasar pasar VMN0000 -) [
+      VMI*<poder>/modnomatch/(puedes poder VMIP2S0 -)
+    ]
+  ]
+  grup-sp/modnomatch/(por por SPS00 -) [
+    s-a-ms/modnomatch/(alto alto AQ0MS0 -)
+  ]
+  sn/obj/(detalles detalle NCMP000 -) [
+    s-a-mp/qual/(ciertos cierto AQ0MP0 -)
+    grup-sp/modnomatch/(por por SPS00 -) [
+      sn/head/(disfrute disfrute NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(escenas escena NCFP000 -) [
+            espec-fp/espec/(algunas alguno DI0FP0 -)
+            s-a-fp/qual/(memorables memorable AQ0CP0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

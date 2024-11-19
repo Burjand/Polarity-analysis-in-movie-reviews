@@ -1,0 +1,78 @@
+sn/top/(Película película NCFS000 -) [
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(espionaje espionaje NCMS000 -)
+  ]
+  subord/modnomatch/(donde donde PR000000 -) [
+    grup-verb/modnorule/(espíar espíar VMN0000 -) [
+      VMI*<tener>/modnomatch/(tiene tener VMIP3S0 -)
+      CS(que)/modnomatch/(que que CS -)
+      sn/subj/(agente agente NCCS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+      ]
+      grup-sp/iobj/(a a SPS00 -) [
+        sn/head/(leyenda leyenda NCFS000 -) [
+          espec-fs/espec/(una uno DI0FS0 -)
+          s-a-fs/qual/(viviente viviente AQ0CS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(cuerpo cuerpo NCMS000 -) [
+              espec-ms/espec/(el el DA0MS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-n/top/(y y CC -) [
+  sn/co-n/(resultado resultado NCMS000 -) [
+    s-a-ms/qual/(Buen bueno AQ0MS0 -)
+    grup-sp/modnomatch/(para para SPS00 -) [
+      sn/head/(cinta cinta NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(intrigas intriga NCFP000 -) [
+            s-a-fp/qual/(internacionales internacional AQ0CP0 -)
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(lleno lleno NCMS000 -) [
+                grup-sp/modnomatch/(en en SPS00 -) [
+                  sn/head/(FBI fbi NP00000 -) [
+                    espec-ms/espec/(el el DA0MS0 -)
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(mete meter VMIP3S0 -) [
+        patons/modnomatch/(nos nos PP1CP000 -)
+      ]
+    ]
+  ]
+  sn/co-n/(cuerpos cuerpo NCMP000 -) [
+    espec-mp/espec/(demás demás DI0CP0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(seguridad seguridad NCFS000 -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+s-adj/top/(Recomendable recomendable AQ0CS0 -) [
+  grup-sp/modnorule/(para para SPS00 -) [
+    sn/head/(amantes amante NCCP000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(género género NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

@@ -1,0 +1,83 @@
+grup-verb/top/(englobar englobar VMN0000 -) [
+  patons/modnomatch/(se se PP3CN000 -)
+  VMI*<poder>/modnomatch/(podría poder VMIC1S0 -)
+  sn/subj/(filme filme NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(ámbito ámbito NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(concreto concreto AQ0MS0 -) [
+        sadv/modnorule/(muy muy RG -)
+      ]
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(fantástico fantástico AQ0MS0 -) [
+          j-ms/modnomatch/(el el DA0MS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(figura figura NCFS000 -) [
+              espec-fs/espec/(la el DA0FS0 -)
+              sp-de/mod/(de de SPS00 -) [
+                sn/gen/(monstruo monstruo NCMS000 -) [
+                  espec-ms/espec/(el el DA0MS0 -)
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(sirve servir VMIP3S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(como como CS -) [
+    sn/head/(paradigma paradigma NCMS000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(desafío desafío NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          grup-sp/modnomatch/(a a SPS00 -) [
+            sn/head/(leyes ley NCFP000 -) [
+              espec-fp/espec/(las el DA0FP0 -)
+              s-a-fp/qual/(y y CC -) [
+                s-a-fp/modnorule/(naturales natural AQ0CP0 -)
+                s-a-fp/modnorule/(sociales social AQ0CP0 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(explorar explorar VMN0000 -)
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(fisuras fisura NCFP000 -) [
+      espec-fp/espec/(las el DA0FP0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(mundo mundo NCMS000 -) [
+          espec-ms/espec/(nuestro nuestro DP1MSP -)
+          s-a-ms/qual/(cotidiano cotidiano AQ0MS0 -)
+        ]
+      ]
+    ]
+    sn/co-n/(fragilidad fragilidad NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(aquello aquel PD0NS000 -) [
+          indef-ms/modnomatch/(todo todo DI0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(denominamos denominar VMIP1P0 -)
+  ]
+  sn/obj/(normalidad normalidad NCFS000 -)
+  F-term/term/(. . Fp -)
+]
+

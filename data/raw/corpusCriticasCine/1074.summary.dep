@@ -1,0 +1,58 @@
+grup-verb/top/(fallan fallar VMIP3P0 -) [
+  sn/subj/(matemáticas matemática NCFP000 -) [
+    espec-fp/espec/(Las el DA0FP0 -)
+  ]
+  neg/modneg/(no no RN -)
+  coor-sp/modnomatch/(y y CC -) [
+    Fc(,)/modnorule/(, , Fc -)
+    grup-sp/modnorule/(en en SPS00 -) [
+      sn/head/(materia materia NCFS000 -) [
+        s-a-fs/qual/(cinematográfica cinematográfico AQ0FS0 -)
+        grup-verb/modnomatch/(dicen decir VMIP3P0 -) [
+          patons/modnomatch/(nos nos PP1CP000 -)
+        ]
+      ]
+    ]
+  ]
+  conj-subord/modnomatch/(que que CS -)
+  subord/modnomatch/(cuando cuando CS -) [
+    grup-verb/modnorule/(suman sumar VMIP3P0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+      sn/obj/(despropósitos despropósito NCMP000 -) [
+        espec-mp/espec/(muchos mucho DI0MP0 -)
+      ]
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(filme filme NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(mismo mismo AQ0MS0 -)
+      grup-verb/modnomatch/(ser ser VSN0000 -) [
+        VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+        sn/subj/(resultado resultado NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+        sadv/cc/(sólo sólo RG -)
+        sn/obj/(bodrio bodrio NCMS000 -) [
+          espec-ms/espec/(un uno DI0MS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(calibre calibre NCMS000 -) [
+              s-a-ms/qual/(enorme enorme AQ0CS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(como como CS -) [
+    grup-verb/modnorule/(resulta resultar VMIP3S0 -)
+  ]
+  grup-verb-inf/modnomatch/(ser ser VSN0000 -)
+  sn/obj/(engendro engendro NCMS000 -) [
+    espec-ms/espec/(este este DD0MS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,62 @@
+grup-verb/top/(constituido constituir VMP00SM -) [
+  vaux/aux/(han haber VAIP3P0 -)
+  coor-n/subj/(y y CC -) [
+    sn/co-n/(Miller miller NP00000 -)
+    sn/co-n/(Snyder snyder NP00000 -)
+  ]
+  sn/obj/(referente referente NCCS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(cinematográfico cinematográfico AQ0MS0 -)
+  ]
+  sadv/cc/(muy muy RG -)
+  grup-sp-inf/iobj/(a a SPS00 -) [
+    grup-verb-inf/head/(tener_en_cuenta tener_en_cuenta VMN0000 -)
+  ]
+  grup-sp/iobj/(para para SPS00 -) [
+    sn/head/(aficionado aficionado NCMS000 -) [
+      espec-ms/espec/(todo todo DI0MS0 -)
+      grup-sp/modnomatch/(a a SPS00 -) [
+        sn/head/(cine_fantástico cine_fantástico NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(faltarán faltar VMIF3P0 -) [
+  neg/modneg/(No no RN -)
+  sn/obj/(voces voz NCFP000 -) [
+    espec-fp/espec/(las el DA0FP0 -)
+    s-a-fp/qual/(criticonas criticón AQ0FP0 -)
+  ]
+  grup-sp/modnomatch/(respecto_a respecto_a SPS00 -) [
+    sn/head/(300 300 Z -) [
+      espec-ms/espec/(este este DD0MS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-sp/top/(Entre entre SPS00 -) [
+  sn/head/(ellos ellos PP3MP000 -)
+  F-term/modnomatch/(? ? Fit -)
+  sn/head/(mayoría mayoría NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    F-no-c/modnomatch/(- - Fg -)
+  ]
+  sn/head/(críticos crítico NCMP000 -) [
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(siguen seguir VMIP3P0 -)
+    ]
+    grup-sp/modnomatch/(en en SPS00 -) [
+      sn/head/(pasado pasado NCMS000 -) [
+        espec-ms/espec/(lo el DA0NS0 -)
+      ]
+      F-no-c/modnomatch/(... ... Fs -)
+    ]
+  ]
+  parti-flex/modnomatch/(anclados anclar VMP00PM -)
+]
+

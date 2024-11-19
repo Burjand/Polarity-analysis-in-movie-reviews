@@ -1,0 +1,58 @@
+grup-verb/top/(aprueba aprobar VMIP3S0 -) [
+  sn/subj/(Roth roth NP00000 -)
+  grup-sp-inf/modnomatch/(por por SPS00 -) [
+    grup-verb-inf/head/(hacer hacer VMN0000 -) [
+      PP*/modnomatch/(se se PP3CN000 -)
+      PP*/modnomatch/(lo lo PP3CNA00 -)
+    ]
+  ]
+  grup-verb-inf/modnomatch/(pasar pasar VMN0000 -)
+  sadv/cc/(mal mal RG -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(chicas chico NCFP000 -) [
+      espec-fp/espec/(las el DA0FP0 -)
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  subord/modnomatch/(porque porque CS -) [
+    grup-verb/modnorule/(tiene tener VMIP3S0 -) [
+      sn/obj/(potencial potencial NCMS000 -)
+    ]
+  ]
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(ser ser VSN0000 -)
+    sn/modnomatch/(grande grande AQ0CS0 -) [
+      indef-ms/modnomatch/(un uno DI0MS0 -)
+      grup-verb/modnomatch/(pensaba pensar VMII1S0 -) [
+        coor-n/subj/(y y CC -) [
+          sn/co-n/(yo yo PP1CSN00 -) [
+            grup-verb/modnomatch/(llegado llegar VMP00SM -) [
+              vaux/aux/(ha haber VAIP3S0 -)
+              sadv/cc/(todavía todavía RG -)
+              neg/modneg/(no no RN -)
+            ]
+          ]
+        ]
+        subord/modnomatch/(que que CS -) [
+          grup-verb/modnorule/(sería ser VSIC1S0 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(aunque aunque CC -)
+  espec-ms/modnomatch/(su su DP3CS0 -)
+  s-adj/modnomatch/(gran gran AQ0CS0 -) [
+    s-a-ms/modnorule/(peli peli AQ0CN0 -)
+  ]
+  F-no-c/modnomatch/(( ( Fpa -)
+  espec-fs/modnomatch/(esta este DD0FS0 -)
+  F-no-c/modnomatch/() ) Fpt -)
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(desesperéis desesperar VMSP2P0 -) [
+  neg/modneg/(No no RN -)
+  F-term/term/(. . Fp -)
+]
+

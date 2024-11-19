@@ -1,0 +1,54 @@
+grup-verb/top/(gana ganar VMIP3S0 -) [
+  sn/subj/(trabajo trabajo NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Viscarret viscarret NP00000 -)
+    ]
+  ]
+  sn/obj/(enteros entero NCMP000 -)
+  grup-sp/modnomatch/(gracias_a gracias_a SPS00 -) [
+    sn/head/(interpretaciones interpretación NCFP000 -) [
+      espec-fp/espec/(las el DA0FP0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(actores actor NCMP000 -) [
+          espec-mp/espec/(sus su DP3CP0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-sp/top/(Sobre sobre SPS00 -) [
+  sn/head/(todo todo PI0MS000 -) [
+    grup-sp/modnomatch/(a a SPS00 -) [
+      sn/head/(Alberto_San_Juan alberto_san_juan NP00000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(logra lograr VMIP3S0 -)
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(tocar tocar VMN0000 -) [
+      VMS*<llegar>/modnomatch/(llegue llegar VMSP1S0 -)
+      SPS00(a)/modnomatch/(a a SPS00 -)
+      sn/subj/(sinvergüenza sinvergüenza NCCS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(calaña calaña NCFS000 -) [
+            espec-fs/espec/(su su DP3CS0 -)
+          ]
+        ]
+      ]
+      sn/obj/(fibra fibra NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        s-a-fs/qual/(sensible sensible AQ0CS0 -)
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

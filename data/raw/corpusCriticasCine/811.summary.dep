@@ -1,0 +1,54 @@
+grup-verb/top/(Digan decir VMM03P0 -) [
+  sadv/cc/(después después RG -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(visto ver VMP00SM -) [
+      vaux/aux/(han haber VAIP3P0 -)
+      sn/obj/(cosas cosa NCFP000 -)
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(visto ver VMP00SM -) [
+      vaux/aux/(ha haber VAIP3S0 -)
+      sn/subj/(nadie nadie PI0CS000 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(precipitan precipitar VMIP3P0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+      grup-sp/modnomatch/(más_allá_de más_allá_de SPS00 -) [
+        sn/head/(Orión orión NP00000 -)
+      ]
+      sn/subj/(naves nave NCFP000 -)
+      grup-sp/cc/(en en SPS00 -) [
+        sn/head/(llamas llama NCFP000 -)
+      ]
+      grup-sp/modnomatch/(como como CS -) [
+        sn/head/(lágrimas lágrima NCFP000 -) [
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(dioses dios NCMP000 -)
+          ]
+        ]
+      ]
+      grup-sp/modnomatch/(sobre sobre SPS00 -) [
+        sn/head/(tierra tierra NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          s-a-fs/qual/(quemada quemar VMP00SF -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(desesperación desesperación NCFS000 -) [
+              espec-fs/espec/(la el DA0FS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-n/top/(O o CC -) [
+  sn/co-n/(algo algo PI0CS000 -)
+  sadv/modnomatch/(así así RG -)
+  F-term/modnomatch/(. . Fp -)
+]
+

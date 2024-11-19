@@ -1,0 +1,73 @@
+grup-verb/top/(vapuleó vapulear VMIS3S0 -) [
+  sn/subj/(crítica crítica NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+    grup-verb/modnomatch/(respondió responder VMIS3S0 -) [
+      sp-de/modnomatch/(de de SPS00 -) [
+        sn/gen/(forma forma NCFS000 -) [
+          espec-fs/espec/(una uno DI0FS0 -)
+          s-a-fs/qual/(entusiasta entusiasta AQ0CS0 -)
+        ]
+      ]
+    ]
+  ]
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  coor-n/obj/(pero pero CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(público público NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(ser ser VSN0000 -) [
+  VMI*<volver>/modnomatch/(volvió volver VMIS3S0 -)
+  SPS00(a)/modnomatch/(a a SPS00 -)
+  grup-sp/modnomatch/(A_partir_de a_partir_de SPS00 -) [
+    sadv/modnomatch/(entonces entonces RG -)
+  ]
+  sn/subj/(western western NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    s-a-ms/qual/(norteamericano norteamericano AQ0MS0 -)
+  ]
+  neg/modneg/(no no RN -)
+  s-adj/att/(igual igual AQ0CS0 -)
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(fue ser VSIS3S0 -) [
+  patons/modnomatch/(lo lo PP3CNA00 -)
+  grup-sp/modnomatch/(Como como CS -) [
+    sadv/modnomatch/(tampoco tampoco RG -)
+  ]
+  sn/obj/(carrera carrera NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Clint clint NP00000 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(actor actor NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(logrado lograr VMP00SM -) [
+        vaux/aux/(había haber VAII1S0 -)
+        sadv/cc/(aún aun RG -)
+        neg/modneg/(no no RN -)
+      ]
+    ]
+  ]
+  grup-verb-inf/modnomatch/(obtener obtener VMN0000 -)
+  sn/obj/(reconocimiento reconocimiento NCMS000 -)
+  sn/obj/(alguno alguno PI0MS000 -) [
+    grup-sp/modnomatch/(en en SPS00 -) [
+      sn/head/(país país NCMS000 -) [
+        espec-ms/espec/(su su DP3CS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

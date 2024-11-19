@@ -1,0 +1,56 @@
+grup-verb/top/(ser ser VSN0000 -) [
+  VMI*<deber>/modnomatch/(debería deber VMIC1S0 -)
+  sn/subj/(Arma_Fatal arma_fatal NP00000 -)
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    s-a-fs/qual/(típica típico AQ0FS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(recetar recetar VMN0000 -) [
+        VMI*<deber>/modnomatch/(deberían deber VMIC3P0 -)
+      ]
+    ]
+  ]
+  sn/obj/(psicólogos psicólogo NCMP000 -) [
+    espec-mp/espec/(los el DA0MP0 -)
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(pacientes paciente NCCP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+      s-a-mp/qual/(aquejados aquejar VMP00PM -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(depresión depresión NCFS000 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  conj-subord/modnomatch/(porque porque CS -)
+  grup-sp/modnomatch/(tras tras SPS00 -) [
+    sn/head/(horas hora NCFP000 -) [
+      numero-nopart/quant/(dos 2 Z -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(carcajadas carcajada NCFP000 -) [
+          grup-verb/modnomatch/(alegra alegrar VMIP3S0 -) [
+            morfema-verbal/modnomatch/(se se P0000000 -)
+            patons/modnomatch/(le le PP3CSD00 -)
+            grup-sp/modnomatch/(a a SPS00 -) [
+              sn/head/(quién quién PT0CS000 -)
+            ]
+            neg/modneg/(no no RN -)
+            coor-n/obj/(y y CC -) [
+              sn/co-n/(ánimo ánimo NCMS000 -) [
+                espec-ms/espec/(el el DA0MS0 -)
+              ]
+              sn/co-n/(espíritu espíritu NCMS000 -) [
+                espec-ms/espec/(el el DA0MS0 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  F-no-c/modnomatch/(¿ ¿ Fia -)
+  F-term/term/(? ? Fit -)
+]
+

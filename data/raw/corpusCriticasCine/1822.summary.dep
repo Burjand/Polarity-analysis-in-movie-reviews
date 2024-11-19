@@ -1,0 +1,72 @@
+sn/top/(film film NCMS000 -) [
+  espec-ms/espec/(Un uno DI0MS0 -)
+  s-a-ms/qual/(interesante interesante AQ0CS0 -)
+  F-no-c/modnomatch/(; ; Fx -)
+  sn/modnomatch/(manera manera NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(y y CC -) [
+      s-a-fs/modnorule/(distinta distinto AQ0FS0 -)
+      s-a-fs/modnorule/(original original AQ0CS0 -)
+    ]
+  ]
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(contar contar VMN0000 -)
+    sn/modnomatch/(historia historia NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      grup-sp/modnomatch/(en en SPS00 -) [
+        sn/head/(ocasiones ocasión NCFP000 -) [
+          espec-fp/espec/(varias varios DI0FP0 -)
+          grup-sp/modnomatch/(en en SPS00 -) [
+            sn/head/(pantalla pantalla NCFS000 -) [
+              espec-fs/espec/(la el DA0FS0 -)
+              s-a-fs/qual/(grande grande AQ0CS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  sadv/modnomatch/(ya ya RG -)
+  parti-flex/modnomatch/(vista ver VMP00SF -)
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(crítica crítica NCFS000 -) [
+  espec-fs/espec/(Una uno DI0FS0 -)
+  coor-sp/modnomatch/(y y CC -) [
+    grup-sp/modnorule/(a a SPS00 -) [
+      sn/head/(juventud juventud NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        s-a-fs/qual/(vacía vacío AQ0FS0 -)
+      ]
+    ]
+    grup-sp/modnorule/(sin sin SPS00 -) [
+      sn/head/(aspiraciones aspiración NCFP000 -)
+    ]
+  ]
+  F-no-c/modnomatch/(; ; Fx -)
+  sn/modnomatch/(de de SPS00 -) [
+    j-fs/modnomatch/(la el DA0FS0 -)
+    sn/modnomatch/(adolescentes adolescente NCCP000 -) [
+      espec-mp/espec/(aquellos aquel DD0MP0 -)
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(tenido tener VMP00SM -) [
+        patons/modnomatch/(lo lo PP3CNA00 -)
+        vaux/aux/(han haber VAIP3P0 -)
+      ]
+    ]
+  ]
+  sn/modnomatch/(todo todo PI0MS000 -) [
+    grup-sp/modnomatch/(desde desde SPS00 -) [
+      sn/head/(infancia infancia NCFS000 -) [
+        espec-fs/espec/(su su DP3CS0 -)
+        s-a-fs/qual/(tierna tierno AQ0FS0 -) [
+          sadv/modnorule/(más más RG -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

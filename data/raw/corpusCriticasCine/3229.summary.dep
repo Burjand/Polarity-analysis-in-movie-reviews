@@ -1,0 +1,38 @@
+grup-verb/top/(fue ser VSIS3S0 -) [
+  sn/subj/(sensación sensación NCFS000 -) [
+    espec-fs/espec/(Mi mi DP1CSS -)
+    s-a-fs/qual/(primera 1 AO0FS0 -)
+    prep/modnomatch/(a a SPS00 -)
+    espec-ms/espec/(el el DA0MS0 -)
+    grup-verb-inf/modnomatch/(ver ver VMN0000 -) [
+      VMN0000(terminar)/modnomatch/(terminar terminar VMN0000 -)
+      SPS00(de)/modnomatch/(de de SPS00 -)
+    ]
+  ]
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  espec-fs/modnomatch/(la el DA0FS0 -)
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(visto ver VMP00SM -) [
+      infaux/modnomatch/(haber haber VAN0000 -)
+    ]
+  ]
+  s-adj/att/(bueno bueno AQ0MS0 -) [
+    sadv/modnorule/(algo algo RG -)
+  ]
+  coord/modnomatch/(pero pero CC -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(haber haber VMN0000 -) [
+      VMI*<poder>/modnomatch/(podía poder VMII1S0 -)
+      sadv/cc/(ciertamente ciertamente RG -)
+      sadv/cc/(aún aun RG -)
+    ]
+  ]
+  parti-ser/modnomatch/(sido ser VSP00SM -)
+  s-adj/att/(mejor mejor AQ0CS0 -) [
+    sadv/modnorule/(mucho mucho RG -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,72 @@
+grup-verb/top/(gustará gustar VMIF3S0 -) [
+  patons/modnomatch/(Te te PP2CS000 -)
+  F-no-c/modnomatch/(: : Fd -)
+  subord/modnomatch/(Si si CS -) [
+    grup-verb/modnorule/(eres ser VSIP2S0 -) [
+      sn/obj/(snob snob NCCS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        Fe/modnomatch/(" " Fe -)
+        Fe/modnomatch/(" " Fe -)
+      ]
+    ]
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(gafas gafas NCFP000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(pasta pasta NCFS000 -)
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(vas ir VMIP2S0 -)
+  ]
+  grup-sp/modnomatch/(por por SPS00 -) [
+    sn/head/(vida vida NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  grup-sp/modnomatch/(como como CS -) [
+    sn/head/(sobrao sobrao NP00000 -) [
+      Fe/modnomatch/(" " Fe -)
+      Fe/modnomatch/(" " Fe -)
+      grup-verb/modnomatch/(gustará gustar VMIF3S0 -) [
+        patons/modnomatch/(te te PP2CS000 -)
+        neg/modneg/(no no RN -)
+        subord/modnomatch/(si si CS -) [
+          grup-verb/modnorule/(importan importar VMIP3P0 -) [
+            patons/modnomatch/(te te PP2CS000 -)
+            sn/subj/(historias historia NCFP000 -) [
+              espec-fp/espec/(las el DA0FP0 -)
+              subord/modnomatch/(que que PR0CN000 -) [
+                grup-verb/modnorule/(ver ver VMN0000 -) [
+                  VMI*<tener>/modnomatch/(tienen tener VMIP3P0 -)
+                  CS(que)/modnomatch/(que que CS -)
+                ]
+              ]
+            ]
+            grup-sp/cc/(con con SPS00 -) [
+              sn/head/(vida vida NCFS000 -) [
+                espec-fs/espec/(la el DA0FS0 -)
+                sp-de/mod/(de de SPS00 -) [
+                  sn/gen/(mequetrefe mequetrefe NCCS000 -) [
+                    espec-ms/espec/(un uno DI0MS0 -)
+                    s-a-ms/qual/(estúpido estúpido AQ0MS0 -)
+                  ]
+                ]
+              ]
+            ]
+            sadv/cc/(menos menos RG -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  prep/modnomatch/(de de SPS00 -)
+  espec-ms/modnomatch/(lo el DA0NS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(imaginas imaginar VMIP2S0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

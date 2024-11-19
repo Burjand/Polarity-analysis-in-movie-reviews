@@ -1,0 +1,48 @@
+grup-verb/top/(Cuenta contar VMIP3S0 -) [
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(ingredientes ingrediente NCMP000 -) [
+      espec-mp/espec/(todos todo DI0MP0 -) [
+        j-mp/modnorule/(los el DA0MP0 -)
+      ]
+      s-a-mp/qual/(básicos básico AQ0MP0 -)
+    ]
+  ]
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(obtener obtener VMN0000 -)
+  ]
+  grup-sp/modnomatch/(como como CS -) [
+    sn/head/(resultado resultado NCMS000 -)
+  ]
+  sn/obj/(comedia comedia NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(romántica romántico AQ0FS0 -)
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(uso uso NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(película película NCFS000 -) [
+  espec-fs/espec/(Una uno DI0FS0 -)
+  s-a-fs/qual/(sincera sincero AQ0FS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(promete prometer VMIP3S0 -) [
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  sadv/modnomatch/(más más RG -)
+  conj-subord/modnomatch/(que que CS -)
+  espec-ms/espec/(lo el DA0NS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(da dar VMIP3S0 -)
+  ]
+  coord/modnomatch/(y y CC -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(funciona funcionar VMIP3S0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

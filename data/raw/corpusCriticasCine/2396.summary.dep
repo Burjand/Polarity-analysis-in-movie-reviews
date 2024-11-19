@@ -1,0 +1,71 @@
+grup-verb/top/(habrá haber VMIF3S0 -) [
+  grup-sp/modnomatch/(A_través_de a_través_de SPS00 -) [
+    sn/head/(itinerario itinerario NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(y y CC -) [
+        s-a-ms/modnorule/(detectivesco detectivesco AQ0MS0 -)
+        s-a-ms/modnorule/(auto-revelador auto-revelador AQ0MS0 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(Clint clint NP00000 -)
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(sanar sanar VMN0000 -)
+    sn/modnomatch/(herida herida NCFS000 -) [
+      espec-fs/espec/(esa ese DD0FS0 -)
+    ]
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(producido producir VMP00SM -) [
+      patons/modnomatch/(le le PP3CSD00 -)
+      vaux/aux/(han haber VAIP3P0 -)
+      coor-n/subj/(y y CC -) [
+        sn/co-n/(abandono abandono NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+        sn/co-n/(soledad soledad NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(y y CC -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(hace hacer VMIP3S0 -)
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(aproxime aproximar VMSP1S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+    ]
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(burdeles burdel NCMP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+      grup-sp/modnomatch/(más_allá_de más_allá_de SPS00 -) [
+        sn/head/(línea línea NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(pasar pasar VMN0000 -) [
+      VMI*<deber>/modnomatch/(debería deber VMIC1S0 -)
+      SPS00(de)/modnomatch/(de de SPS00 -)
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  sn/obj/(policía policía NCCS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(busca buscar VMIP3S0 -) [
+        sadv/cc/(sólo sólo RG -)
+        sn/obj/(respuestas respuesta NCFP000 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

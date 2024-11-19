@@ -1,0 +1,32 @@
+grup-sp-inf/top/(Para para SPS00 -) [
+  grup-verb-inf/head/(ver ver VMN0000 -)
+  grup-sp/modnomatch/(en en SPS00 -) [
+    sn/head/(Versión_Original_Subtitulada versión_original_subtitulada NP00000 -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+coor-vb/top/(y y CC -) [
+  grup-verb/co-v/(Produce producir VMIP3S0 -) [
+    sn/obj/(Ben_Stiller ben_stiller NP00000 -)
+  ]
+  grup-verb/co-v/(está estar VAIP3S0 -) [
+    sadv/cc/(ya ya RG -)
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(estantería estantería NCFS000 -) [
+        espec-fs/espec/(mi mi DP1CSS -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(entre entre SPS00 -) [
+    sn/head/(Hot_Fuzz hot_fuzz NP00000 -)
+    CC(y)/modnomatch/(y y CC -)
+    sn/head/(Blades blades NP00000 -)
+  ]
+  sn/modnomatch/(of of NC00000 -) [
+    w-ms/modnomatch/(Glory glory NP00000 -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

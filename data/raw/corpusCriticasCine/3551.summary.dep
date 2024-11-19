@@ -1,0 +1,56 @@
+grup-verb/top/(resulta resultar VMIP3S0 -) [
+  sn/subj/(Rec rec NP00000 -)
+  grup-verb-inf/modnomatch/(ser ser VSN0000 -)
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(buena bueno AQ0FS0 -)
+    grup-sp/modnomatch/(sobre sobre SPS00 -) [
+      sn/head/(tema tema NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        grup-sp/modnomatch/(dentro_de dentro_de SPS00 -) [
+          sn/head/(realista realista AQ0CS0 -) [
+            j-ms/modnomatch/(lo el DA0NS0 -)
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    s-adj/qual/(realista realista AQ0CS0 -) [
+      sadv/modnorule/(bastante bastante RG -)
+    ]
+    F-no-c/modnomatch/(( ( Fpa -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(ser ser VSN0000 -) [
+        VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+      ]
+    ]
+  ]
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    grup-sp/modnomatch/(sobre sobre SPS00 -) [
+      sn/head/(muertos muerto NCMP000 -) [
+        s-a-mp/qual/(vivientes viviente AQ0CP0 -)
+      ]
+      F-no-c/modnomatch/() ) Fpt -)
+    ]
+  ]
+  sadv/cc/(bien bien RG -)
+  parti-flex/modnomatch/(llevada llevar VMP00SF -)
+  coor-sp/modnomatch/(y y CC -) [
+    grup-sp/modnorule/(con con SPS00 -) [
+      sn/head/(intensidad intensidad NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+      ]
+    ]
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(tensión tensión NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+    ]
+  ]
+  sadv/cc/(más más RG -)
+  conj-subord/modnomatch/(que que CS -)
+  parti-flex/modnomatch/(logradas lograr VMP00PF -)
+  F-term/term/(. . Fp -)
+]
+

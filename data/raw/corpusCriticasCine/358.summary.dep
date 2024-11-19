@@ -1,0 +1,35 @@
+grup-verb/top/(parecerá parecer VMIF3S0 -) [
+  patons/modnomatch/(les les PP3CPD00 -)
+  sn/subj/(cinta cinta NCFS000 -) [
+    espec-fs/espec/(Una uno DI0FS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(gustará gustar VMIF3S0 -)
+    ]
+    grup-sp/modnomatch/(a a SPS00 -) [
+      sn/head/(fans fan NCCP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(director director NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+            w-ms/modnomatch/(Indio indio NP00000 -)
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  grup-sp/modnomatch/(a a SPS00 -) [
+    sn/head/(resto resto NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+    F-no-c/modnomatch/(... ... Fs -)
+  ]
+  sadv/cc/(más más RG -) [
+    SPS00(de)/modnorule/(de de SPS00 -)
+    sn/modnorule/(mismo mismo AQ0MS0 -) [
+      j-ms/modnomatch/(lo el DA0NS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

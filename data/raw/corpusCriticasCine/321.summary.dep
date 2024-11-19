@@ -1,0 +1,34 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(impresión impresión NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+    s-a-fs/qual/(global global AQ0CS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(deja dejar VMIP3S0 -)
+    ]
+  ]
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  grup-sp/modnomatch/(como como CS -) [
+    sn/head/(de de SPS00 -) [
+      j-fs/modnomatch/(la el DA0FS0 -)
+      sn/modnomatch/(café café NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        s-a-ms/qual/(descafeinado descafeinar VMP00SM -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  neg/modneg/(no no RN -)
+  s-adj/att/(satisfactoria satisfactorio AQ0FS0 -) [
+    sadv/modnorule/(muy muy RG -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(pero pero CC -)
+  sadv/cc/(tampoco tampoco RG -)
+  s-adj/att/(desagradable desagradable AQ0CS0 -) [
+    sadv/modnorule/(totalmente totalmente RG -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

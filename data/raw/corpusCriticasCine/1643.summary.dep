@@ -1,0 +1,78 @@
+grup-verb/top/(hará hacer VMIF3S0 -) [
+  sn/subj/(guión guión NCMS000 -) [
+    espec-ms/espec/(Su su DP3CS0 -)
+  ]
+  sn/obj/(delicias delicia NCFP000 -) [
+    espec-fp/espec/(las el DA0FP0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(amantes amante NCCP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(cine cine NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(acción acción NCFS000 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(puesto puesto NCMS000 -) [
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(presenta presentar VMIP3S0 -)
+    ]
+  ]
+  sn/obj/(ingredientes ingrediente NCMP000 -) [
+    espec-mp/espec/(todos todo DI0MP0 -) [
+      j-mp/modnorule/(los el DA0MP0 -)
+    ]
+  ]
+  prep/modnomatch/(para para SPS00 -)
+  neg/modneg/(no no RN -)
+  grup-verb-inf/modnomatch/(dejar dejar VMN0000 -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(indiferente indiferente AQ0CS0 -) [
+      pindef-ms/modnomatch/(nadie nadie PI0CS000 -)
+    ]
+  ]
+  coor-n/obj/(y y CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(escenas escena NCFP000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(saga saga NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  sadv/cc/(tan tan RG -)
+  s-adj/modnomatch/(y y CC -) [
+    s-a-fp/modnorule/(variadas variar VMP00PF -)
+    s-a-fp/modnorule/(clásicas clásico AQ0FP0 -) [
+      sadv/modnorule/(ya ya RG -)
+    ]
+  ]
+  sn/obj/(007 7 Z -) [
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(es ser VSIP3S0 -)
+    ]
+    s-adj/qual/(imposible imposible AQ0CS0 -)
+  ]
+  grup-verb-inf/modnomatch/(olvidar olvidar VMN0000 -) [
+    PP*/modnomatch/(se se PP3CN000 -)
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  espec-ms/modnomatch/(lo el DA0NS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(tenemos tener VMIP1P0 -)
+  ]
+  grup-sp/modnomatch/(ante ante SPS00 -) [
+    sn/head/(ojos ojo NCMP000 -) [
+      espec-mp/espec/(nuestros nuestro DP1MPP -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

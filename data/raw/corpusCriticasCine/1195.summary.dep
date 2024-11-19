@@ -1,0 +1,39 @@
+coor-n/top/(y y CC -) [
+  sn/co-n/(Espéctaculo espéctaculo NP00000 -)
+  sn/co-n/(cinéfilo cinéfilo NCMS000 -) [
+    s-a-ms/qual/(protagonizado protagonizar VMP00SM -)
+    grup-sp/modnomatch/(por por SPS00 -) [
+      sn/head/(Kevin_Costner kevin_costner NP00000 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/co-n/(Ashton_Kutcher ashton_kutcher NP00000 -)
+  sn/co-n/(secundario secundario NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    s-a-ms/qual/(televisivo televisivo AQ0MS0 -)
+    s-a-ms/qual/(habitual habitual AQ0CS0 -)
+  ]
+  sadv/modnomatch/(ultimamente ultimamente RG -)
+  grup-sp/modnomatch/(en en SPS00 -) [
+    sn/head/(cine cine NCMS000 -) [
+      espec-ms/espec/(todo todo DI0MS0 -) [
+        j-ms/modnorule/(el el DA0MS0 -)
+      ]
+      w-ms/modnomatch/(Neal_McDonough neal_mcdonough NP00000 -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+coor-n/top/(y y CC -) [
+  sn/co-n/(Cine cine NCMS000 -) [
+    grup-sp-inf/modnomatch/(para para SPS00 -) [
+      grup-verb-inf/head/(comer comer VMN0000 -)
+    ]
+  ]
+  sn/co-n/(palomitas palomita NCFP000 -)
+  sn/co-n/(poco poco PI0MS000 -)
+  sadv/modnomatch/(más más RG -)
+  F-no-c/modnomatch/(... ... Fs -)
+]
+

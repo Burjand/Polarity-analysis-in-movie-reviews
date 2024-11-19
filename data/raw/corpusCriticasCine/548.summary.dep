@@ -1,0 +1,84 @@
+coor-vb/top/(y y CC -) [
+  sn/subj/(búsqueda búsqueda NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+    s-a-fs/qual/(constante constante AQ0CS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(lágrima lágrima NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(espectador espectador NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+            grup-sp/modnomatch/(por por SPS00 -) [
+              sn/head/(parte parte NCFS000 -) [
+                sp-de/mod/(de de SPS00 -) [
+                  sn/gen/(director director NCMS000 -) [
+                    espec-ms/espec/(el el DA0MS0 -)
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(alarga alargar VMIP3S0 -) [
+    sn/obj/(película película NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  grup-verb/co-v/(hace hacer VMIP3S0 -) [
+    patons/modnomatch/(la lo PP3FSA00 -)
+  ]
+  s-adj/modnomatch/(insufrible insufrible AQ0CS0 -)
+  F-term/modnomatch/(. . Fp -)
+]
+
+sadv/top/(En_todo_caso en_todo_caso RG -) [
+  coor-sp/modnorule/(y y CC -) [
+    Fc(,)/modnorule/(, , Fc -)
+    grup-sp/modnorule/(a_pesar_de a_pesar_de SPS00 -) [
+      sn/head/(error error NCMS000 -) [
+        espec-ms/espec/(este este DD0MS0 -)
+        s-a-ms/qual/(final final AQ0CS0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  F-term/modnorule/(? ? Fit -)
+]
+
+s-adj/top/(Salvador salvador AQ0MS0 -) [
+  F-term/modnorule/(? ? Fit -)
+  grup-verb/modnorule/(contiene contener VMIP3S0 -) [
+    sn/obj/(virtudes virtud NCFP000 -) [
+      s-a-fp/qual/(grandes grande AQ0CP0 -)
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(convierten convertir VMIP3P0 -) [
+          patons/modnomatch/(la lo PP3FSA00 -)
+        ]
+      ]
+    ]
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(uno uno PI0MS000 -) [
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(films film NCMP000 -) [
+            espec-mp/espec/(los el DA0MP0 -)
+            s-a-mp/qual/(nacionales nacional AQ0CP0 -)
+          ]
+        ]
+      ]
+    ]
+    sn/obj/(destacados destacar VMP00PM -) [
+      espec-mp/espec/(más más RG -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(año año NCMS000 -) [
+          espec-ms/espec/(este este DD0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

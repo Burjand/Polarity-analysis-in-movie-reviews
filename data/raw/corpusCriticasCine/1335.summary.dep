@@ -1,0 +1,54 @@
+forma-ger/top/(Quedando quedar VMG0000 -) [
+  grup-verb/modnorule/(decir decir VMN0000 -) [
+    VMI*<tener>/modnomatch/(tengo tener VMIP1S0 -)
+    CS(que)/modnomatch/(que que CS -)
+    sadv/cc/(claro claro RG -)
+    sn/subj/(desfavoritismo desfavoritismo NCMS000 -) [
+      espec-ms/espec/(mi mi DP1CSS -)
+      grup-sp/modnomatch/(por por SPS00 -) [
+        sn/head/(película película NCFS000 -) [
+          espec-fs/espec/(esta este DD0FS0 -)
+        ]
+      ]
+      Fc(,)/modnomatch/(, , Fc -)
+    ]
+    subord/modnomatch/(que que CS -) [
+      grup-verb/modnorule/(creo crear VMIP1S0 -) [
+        neg/modneg/(no no RN -)
+      ]
+    ]
+    subord/modnomatch/(que que CS -) [
+      grup-verb/modnorule/(vaya ir VMSP1S0 -) [
+        patons/modnomatch/(le le PP3CSD00 -)
+      ]
+    ]
+    sadv/cc/(mal mal RG -)
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(taquilla taquilla NCFS000 -)
+    ]
+    subord/modnomatch/(ya_que ya_que CS -) [
+      grup-verb/modnorule/(digeridos digerir VMP00PM -) [
+        VMI*<soler>/modnomatch/(suelen soler VMIP3P0 -)
+        infaux-ser/modnomatch/(ser ser VSN0000 -)
+        sn/subj/(juegos juego NCMP000 -) [
+          espec-mp/espec/(sus su DP3CP0 -)
+          s-a-mp/qual/(dinámicos dinámico AQ0MP0 -)
+          s-a-mp/qual/(visuales visual AQ0CP0 -)
+        ]
+        grup-sp/modnomatch/(con con SPS00 -) [
+          sn/head/(facilidad facilidad NCFS000 -) [
+            espec-fs/espec/(bastante bastante DI0CS0 -)
+          ]
+        ]
+        grup-sp/modnomatch/(por por SPS00 -) [
+          sn/head/(población población NCFS000 -) [
+            espec-fs/espec/(la el DA0FS0 -)
+            s-a-fs/qual/(adolescente adolescente AQ0CS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

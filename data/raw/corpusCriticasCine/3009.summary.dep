@@ -1,0 +1,49 @@
+grup-verb/top/(Parece parecer VMIP3S0 -) [
+  sadv/cc/(más más RG -)
+  sn/obj/(telefilme telefilme NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+  ]
+  conj-subord/modnomatch/(que que CS -)
+  sn/obj/(trabajo trabajo NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    grup-sp/modnomatch/(para para SPS00 -) [
+      sn/head/(pantalla pantalla NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        s-a-fs/qual/(gran gran AQ0CS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+s-adj/top/(digerible digerible AQ0CS0 -) [
+  sadv/modnorule/(Más más RG -)
+  subord/modnorule/(si si CS -) [
+    grup-verb/modnorule/(va ir VMIP3S0 -)
+  ]
+  parti-flex/modnorule/(acompañada acompañar VMP00SF -)
+  sp-de/modnorule/(de de SPS00 -) [
+    sn/gen/(anuncios anuncio NCMP000 -) [
+      s-a-mp/qual/(publicitarios publicitario AQ0MP0 -)
+    ]
+  ]
+  grup-sp/modnorule/(entre entre SPS00 -) [
+    sn/head/(minutos minuto NCMP000 -) [
+      numero-nopart/quant/(veinte 20 Z -)
+    ]
+    CC(y)/modnomatch/(y y CC -)
+    sn/head/(minutos minuto NCMP000 -) [
+      numero-nopart/quant/(veinte 20 Z -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(metraje metraje NCMS000 -)
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+sn/top/(lástima lástima NCFS000 -) [
+  espec-fs/espec/(Una uno DI0FS0 -)
+  F-term/term/(. . Fp -)
+]
+

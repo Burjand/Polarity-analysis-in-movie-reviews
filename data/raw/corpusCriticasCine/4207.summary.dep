@@ -1,0 +1,65 @@
+grup-verb/top/(ser ser VSN0000 -) [
+  VMI*<dejar>/modnomatch/(deja dejar VMIP3S0 -)
+  SPS00(de)/modnomatch/(de de SPS00 -)
+  grup-sp/modnomatch/(Bajo bajo SPS00 -) [
+    sn/head/(novedad novedad NCFS000 -) [
+      espec-fs/espec/(su su DP3CS0 -)
+      s-a-fs/qual/(aparente aparente AQ0CS0 -)
+    ]
+    coor-n/head/(y y CC -) [
+      sn/co-n/(promoción promoción NCFS000 -) [
+        espec-fs/espec/(su su DP3CS0 -)
+        s-a-fs/qual/(tremenda tremendo AQ0FS0 -)
+        s-a-fs/qual/(viral viral AQ0CS0 -)
+        grup-verb/modnomatch/(salva salvar VMIP3S0 -) [
+          sn/subj/(chico chico NCMS000 -)
+          grup-sp/iobj/(a a SPS00 -) [
+            sn/head/(chica chico NCFS000 -) [
+              sp-de/mod/(de de SPS00 -) [
+                sn/gen/(monstruo monstruo NCMS000 -) [
+                  espec-ms/espec/(el el DA0MS0 -)
+                ]
+              ]
+            ]
+          ]
+          F-no-c/modnomatch/(' ' Fe -)
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(Monstruoso monstruoso NP00000 -) [
+    Fe/modnomatch/(' ' Fe -)
+    Fe/modnomatch/(' ' Fe -)
+  ]
+  neg/modneg/(no no RN -)
+  coor-n/obj/(aunque aunque CC -) [
+    sn/co-n/(entretenida entretenida NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+    ]
+    sn/co-n/(historia historia NCFS000 -) [
+      s-a-fs/qual/(típica típico AQ0FS0 -)
+    ]
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  F-no-c/modnomatch/(' ' Fe -)
+  parti-flex/modnomatch/(filmada filmar VMP00SF -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(hiperrealismo hiperrealismo NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(cámara cámara NCFS000 -) [
+          grup-sp/modnomatch/(en en SPS00 -) [
+            sn/head/(mano mano NCFS000 -) [
+              s-a-fs/qual/(mareante mareante AQ0CS0 -) [
+                sadv/modnorule/(algo algo RG -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

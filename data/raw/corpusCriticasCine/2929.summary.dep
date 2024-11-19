@@ -1,0 +1,78 @@
+grup-verb/top/(Imagina imaginar VMIP3S0 -) [
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(musical musical AQ0CS0 -)
+  ]
+  prep/modnomatch/(en en SPS00 -)
+  espec-fs/modnomatch/(la el DA0FS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(hay haber VMIP3S0 -) [
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  coord/modnomatch/(ni ni CC -)
+  espec-ms/modnomatch/(un uno DI0MS0 -)
+  sadv/cc/(sólo sólo RG -)
+  coor-n/obj/(ni ni CC -) [
+    sn/co-n/(momento momento NCMS000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(descanso descanso NCMS000 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(momento momento NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(solo solo AQ0MS0 -)
+    ]
+  ]
+  prep/modnomatch/(en en SPS00 -)
+  espec-ms/modnomatch/(el el DA0MS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(decaiga decaer VMSP1S0 -) [
+      sn/subj/(ritmo ritmo NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  coord/modnomatch/(y y CC -)
+  prep/modnomatch/(en en SPS00 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(entren entrar VMSP3P0 -) [
+      patons/modnomatch/(te te PP2CS000 -)
+      sadv/cc/(casi casi RG -)
+      sn/subj/(parte parte NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        s-a-fs/qual/(mayor mayor AQ0CS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(metraje metraje NCMS000 -) [
+            espec-ms/espec/(su su DP3CS0 -)
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(butaca butaca NCFS000 -) [
+                espec-fs/espec/(la el DA0FS0 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+      sn/cc/(ganas gana NCFP000 -) [
+        espec-fp/espec/(unas uno DI0FP0 -)
+        s-a-fp/qual/(terribles terrible AQ0CP0 -)
+      ]
+    ]
+  ]
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(levantar levantar VMN0000 -) [
+      PP*/modnomatch/(te te PP2CS000 -)
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  grup-verb-inf/modnomatch/(poner poner VMN0000 -) [
+    PP*/modnomatch/(te te PP2CS000 -)
+  ]
+  grup-sp-inf/iobj/(a a SPS00 -) [
+    grup-verb-inf/head/(bailar bailar VMN0000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

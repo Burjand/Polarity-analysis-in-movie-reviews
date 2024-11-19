@@ -1,0 +1,30 @@
+grup-verb/top/(queda quedar VMIP3S0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  sn/subj/(Eastwood eastwood NP00000 -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(camino camino NCMS000 -) [
+      s-a-ms/qual/(medio medio AQ0MS0 -)
+    ]
+  ]
+  grup-sp/modnomatch/(entre entre SPS00 -) [
+    sn/head/(obra obra NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(maestra maestro AQ0FS0 -)
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(pretendido pretender VMP00SM -) [
+      vaux/aux/(ha haber VAIP3S0 -)
+    ]
+  ]
+  grup-verb-inf/modnomatch/(filmar filmar VMN0000 -)
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(mensaje mensaje NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(transmite transmitir VMIP3S0 -)
+  ]
+]
+

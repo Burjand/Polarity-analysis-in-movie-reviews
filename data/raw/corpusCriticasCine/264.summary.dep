@@ -1,0 +1,57 @@
+F-no-c/top/(¡ ¡ Faa -) [
+  grup-verb/modnorule/(lleven llevar VMSP3P0 -) [
+    neg/modneg/(No no RN -)
+    grup-sp/iobj/(a a SPS00 -) [
+      sn/head/(pipiolos pipiolo NCMP000 -) [
+        espec-mp/espec/(sus su DP3CP0 -)
+      ]
+    ]
+    grup-sp/iobj/(a a SPS00 -) [
+      sn/head/(cine cine NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+    grup-sp-inf/iobj/(a a SPS00 -) [
+      grup-verb-inf/head/(ver ver VMN0000 -)
+      sn/modnomatch/(película película NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+  ]
+  F-term/modnorule/(! ! Fat -)
+]
+
+grup-sp-inf/top/(Además_de además_de SPS00 -) [
+  grup-verb-inf/head/(cansar cansar VMN0000 -) [
+    PP*/modnomatch/(se se PP3CN000 -)
+  ]
+  coord/modnomatch/(y y CC -)
+  grup-verb-inf/head/(dar dar VMN0000 -) [
+    PP*/modnomatch/(les les PP3CPD00 -)
+  ]
+  grup-verb/modnomatch/(dejar dejar VMN0000 -) [
+    VMI*<ir>/modnomatch/(van ir VMIP3P0 -)
+    SPS00(a)/modnomatch/(a a SPS00 -)
+    sn/subj/(tarde tarde NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      Fc(,)/modnomatch/(, , Fc -)
+    ]
+    neg/modneg/(no no RN -)
+  ]
+  grup-verb-inf/head/(disfrutar disfrutar VMN0000 -)
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(película película NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  grup-sp/modnomatch/(a a SPS00 -) [
+    sn/head/(compañeros compañero NCMP000 -) [
+      espec-mp/espec/(sus su DP3CP0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(butaca butaca NCFS000 -)
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

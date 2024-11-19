@@ -1,0 +1,44 @@
+grup-verb/top/(confunden confundir VMIP3P0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  sn/subj/(postales postal NCFP000 -) [
+    s-a-fp/qual/(Preciosas precioso AQ0FP0 -)
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(folletos folleto NCMP000 -)
+  ]
+  grup-sp/modnomatch/(sin sin SPS00 -) [
+    sn/head/(valor valor NCMS000 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(buzón buzón NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(memoria memoria NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          s-a-fs/qual/(cinematográfica cinematográfico AQ0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(Son ser VSIP3P0 -) [
+  sn/obj/(consecuencias consecuencia NCFP000 -) [
+    espec-fp/espec/(las el DA0FP0 -)
+  ]
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(afrontar afrontar VMN0000 -)
+    sn/modnomatch/(desafío desafío NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(atractivo atractivo AQ0MS0 -) [
+        sadv/modnorule/(tan tan RG -)
+      ]
+    ]
+  ]
+  grup-sp/modnomatch/(como como CS -) [
+    s-a-ms/modnomatch/(heterogéneo heterogéneo AQ0MS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,76 @@
+coor-vb/top/(ni ni CC -) [
+  grup-verb/co-v/(parece parecer VMIP3S0 -) [
+    sn/subj/(puesta puesta NCFS000 -) [
+      espec-fs/espec/(La el DA0FS0 -)
+    ]
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(escena escena NCFS000 -)
+    ]
+    sn/obj/(de de SPS00 -) [
+      j-fs/modnomatch/(la el DA0FS0 -)
+      sn/modnomatch/(telefilme telefilme NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        s-a-ms/qual/(vulgar vulgar AQ0CS0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(son ser VSIP3P0 -) [
+    sn/subj/(efectos_especiales efecto_especial NCMP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+    ]
+    sp-de/modnomatch/(de de SPS00 -) [
+      sn/gen/(chiste chiste NCMS000 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/subj/(fotografía fotografía NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    s-a-fs/qual/(inexistente inexistente AQ0CS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(guión guión NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+  ]
+  grup-verb/co-v/(entiende entender VMIP3S0 -) [
+    morfema-verbal/modnomatch/(se se P0000000 -)
+  ]
+  forma-ger/modnomatch/(demostrando demostrar VMG0000 -)
+  sn/modnomatch/(bajada bajada NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    grup-sp/modnomatch/(en en SPS00 -) [
+      sn/head/(picado picado NCMS000 -) [
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(director director NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+            s-a-ms/qual/(maravilloso maravilloso AQ0MS0 -) [
+              sadv/modnorule/(otrora otrora RG -)
+            ]
+          ]
+        ]
+      ]
+    ]
+    subord/modnomatch/(si si CS -) [
+      grup-verb/modnorule/(recuerda recordar VMIP3S0 -) [
+        morfema-verbal/modnomatch/(se se P0000000 -)
+        sn/obj/(títulos título NCMP000 -) [
+          espec-mp/espec/(otros otro DI0MP0 -)
+          s-a-mp/qual/(mediocres mediocre AQ0CP0 -) [
+            s-a-mp/modnorule/(rodados rodar VMP00PM -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  sadv/modnomatch/(últimamente últimamente RG -)
+  grup-sp/modnomatch/(como como CS -) [
+    sn/head/(Jugador jugador NP00000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  coor-n/modnomatch/(o o CC -) [
+    sn/co-n/(Insomnio insomnio NP00000 -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

@@ -1,0 +1,64 @@
+grup-verb/top/(supongo suponer VMIP1S0 -) [
+  sn/subj/(Película película NCFS000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(musculitos músculo NCMP00D -)
+    ]
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(pretensiones pretensión NCFP000 -) [
+      espec-fp/espec/(pocas poco DI0FP0 -)
+    ]
+    F-no-c/modnomatch/(( ( Fpa -)
+  ]
+  F-no-c/modnomatch/() ) Fpt -)
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(minotauro minotauro NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(alimentado alimentar VMP00SM -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(mancebas mancebo NCFP000 -)
+      ]
+    ]
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(mancebos mancebo NCMP000 -) [
+      s-a-mp/qual/(virginales virginal AQ0CP0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(bellezas belleza NCFP000 -) [
+      s-a-fp/qual/(tatuadas tatuar VMP00PF -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-sp/top/(Para para SPS00 -) [
+  sn/head/(día día NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(tonto tonto AQ0MS0 -)
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  espec-mp/modnomatch/(esos ese DD0MP0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(sabes saber VMIP2S0 -) [
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  conj-subord/modnomatch/(si si CS -)
+  grup-verb-inf/modnomatch/(cortar cortar VMN0000 -) [
+    PP*/modnomatch/(te te PP2CS000 -)
+  ]
+  sn/head/(venas vena NCFP000 -) [
+    espec-fp/espec/(las el DA0FP0 -)
+  ]
+  coord/modnomatch/(o o CC -)
+  grup-verb-inf/modnomatch/(dejar dejar VMN0000 -) [
+    PP*/modnomatch/(te te PP2CS000 -)
+    PP*/modnomatch/(las los PP3FPA00 -)
+  ]
+  s-adj/modnomatch/(largas largo AQ0FP0 -)
+  F-term/modnomatch/(. . Fp -)
+]
+

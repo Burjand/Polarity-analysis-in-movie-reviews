@@ -1,0 +1,51 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(Disturbia disturbia NP00000 -)
+  sn/obj/(thriller thriller NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    w-ms/modnomatch/(teenager teenager NP00000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(dibujo dibujo NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(inquietante inquietante AQ0CS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(soledad soledad NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(individuo individuo NCMS000 -) [
+            espec-ms/espec/(un uno DI0MS0 -)
+          ]
+        ]
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(confinado confinar VMP00SM -) [
+        vaux/aux/(ha haber VAIP3S0 -)
+        sn/subj/(Justicia justicia NP00000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+        ]
+        grup-sp/cc/(en en SPS00 -) [
+          sn/head/(domicilio domicilio NCMS000 -) [
+            espec-ms/espec/(su su DP3CS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(Hitchcock hitchcock NP00000 -) [
+  s-a-ms/qual/(pensado pensar VMP00SM -)
+  grup-sp/modnomatch/(para para SPS00 -) [
+    sn/head/(adolescentes adolescente NCCP000 -) [
+      grup-sp/modnomatch/(de de SPS00 -) [
+        data/modnomatch/(siglo_XXI [s:xxi] W -) [
+          espec-ms/modnorule/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

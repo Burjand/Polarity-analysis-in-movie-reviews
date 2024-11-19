@@ -1,0 +1,66 @@
+grup-verb/top/(hecho hacer VMP00SM -) [
+  vaux/aux/(ha haber VAIP3S0 -)
+  sn/subj/(Esto este PD0NS000 -)
+  neg/modneg/(no no RN -)
+  sadv/cc/(más más RG -)
+  conj-subord/modnomatch/(que que CS -)
+  grup-verb-inf/modnomatch/(empezar empezar VMN0000 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(porque porque CS -) [
+    grup-verb/modnorule/(tendremos tener VMIF1P0 -) [
+      grup-sp/cc/(en en SPS00 -) [
+        s-a-ms/modnomatch/(breve breve AQ0CS0 -)
+      ]
+      grup-sp/cc/(en en SPS00 -) [
+        sn/head/(pantallas pantalla NCFP000 -) [
+          espec-fp/espec/(nuestras nuestro DP1FPP -)
+        ]
+      ]
+      sn/obj/(parte parte NCFS000 -) [
+        espec-fs/espec/(otra otro DI0FS0 -) [
+          j-fs/modnorule/(la el DA0FS0 -)
+        ]
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(historia historia NCFS000 -) [
+            espec-fs/espec/(la el DA0FS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(batalla batalla NCFS000 -) [
+  espec-fs/espec/(La el DA0FS0 -)
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(Iwo_Jima iwo_jima NP00000 -)
+  ]
+  sn/modnomatch/(vista vista NCFS000 -) [
+    grup-sp/modnomatch/(desde desde SPS00 -) [
+      sn/head/(lado lado NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        s-a-ms/qual/(japonés japonés AQ0MS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sp-de/top/(De de SPS00 -) [
+  sn/gen/(momento momento NCMS000 -)
+  coor-vb/modnomatch/(y y CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/subj/(todos todo PI0MP000 -)
+    grup-verb/co-v/(lloramos llorar VMIP1P0 -)
+    grup-verb/co-v/(buscamos buscar VMIP1P0 -) [
+      grup-sp/iobj/(a a SPS00 -) [
+        sn/head/(Iggy iggy NP00000 -) [
+          espec-ms/espec/(nuestro nuestro DP1MSP -)
+        ]
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

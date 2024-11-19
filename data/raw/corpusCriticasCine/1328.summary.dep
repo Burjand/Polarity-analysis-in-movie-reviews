@@ -1,0 +1,71 @@
+sn/top/(Película película NCFS000 -) [
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(nivel nivel NCMS000 -) [
+      s-a-ms/qual/(alto alto AQ0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(cine cine NCMS000 -) [
+          s-a-ms/qual/(español español AQ0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(demuestra demostrar VMIP3S0 -) [
+      patons/modnomatch/(nos nos PP1CP000 -)
+    ]
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(tener tener VMN0000 -) [
+      VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+      sn/subj/(idea idea NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        s-a-fs/qual/(buena bueno AQ0FS0 -)
+      ]
+      sn/obj/(presupuesto presupuesto NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        s-a-ms/qual/(bajo bajo AQ0MS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(y y CC -) [
+  sn/subj/(Crítica crítica NCFS000 -) [
+    s-a-fs/qual/(social social AQ0CS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(hace hacer VMIP3S0 -) [
+        patons/modnomatch/(nos nos PP1CP000 -)
+      ]
+    ]
+    grup-verb-inf/modnomatch/(sentir sentir VMN0000 -)
+    s-adj/qual/(vivos vivo AQ0MP0 -) [
+      sadv/modnorule/(muy muy RG -)
+    ]
+  ]
+  grup-verb/co-v/(muestra mostrar VMIP3S0 -) [
+    patons/modnomatch/(nos nos PP1CP000 -)
+    sn/obj/(mundo mundo NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(desconocido desconocer VMP00SM -)
+    ]
+    grup-sp/modnomatch/(por por SPS00 -) [
+      sn/head/(mayoría mayoría NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+sp-de/top/(De de SPS00 -) [
+  sn/gen/(utopías utopía NCFP000 -)
+  s-adj/modnomatch/(y y CC -) [
+    s-a-mp/modnorule/(imposibles imposible AQ0CP0 -)
+    s-a-mp/modnorule/(utópicos utópico AQ0MP0 -) [
+      s-a-mp/modnorule/(imprescindibles imprescindible AQ0CP0 -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

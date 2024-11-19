@@ -1,0 +1,48 @@
+grup-verb/top/(trata tratar VMIP3S0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  neg/modneg/(No no RN -)
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(película película NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(carcajadas carcajada NCFP000 -)
+      ]
+    ]
+  ]
+  subord/modnomatch/(como como CS -) [
+    grup-verb/modnorule/(ser ser VSN0000 -) [
+      VMI*<poder>/modnomatch/(pudo poder VMIS3S0 -)
+      sn/obj/(Shrek shrek NP00000 -) [
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(comedia comedia NCFS000 -) [
+            espec-fs/espec/(una uno DI0FS0 -)
+            s-a-fs/qual/(amable amable AQ0CS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(sino sino CC -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(momentos momento NCMP000 -) [
+      s-a-mp/qual/(graciosos gracioso AQ0MP0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(chapeau chapeau NP00000 -) [
+  espec-ms/espec/(Un uno DI0MS0 -)
+  grup-sp/modnomatch/(a a SPS00 -) [
+    sn/head/(Pixar pixar NP00000 -) [
+      grup-sp/modnomatch/(por por SPS00 -) [
+        sn/head/(maravilla maravilla NCFS000 -) [
+          espec-fs/espec/(esta este DD0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

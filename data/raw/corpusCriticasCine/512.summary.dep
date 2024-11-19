@@ -1,0 +1,55 @@
+grup-verb/top/(son ser VSIP3P0 -) [
+  sn/subj/(gags gag NCMP000 -) [
+    espec-mp/espec/(Los el DA0MP0 -)
+  ]
+  neg/modneg/(no no RN -)
+  s-adj/att/(ni ni CC -) [
+    s-a-mp/modnorule/(graciosos gracioso AQ0MP0 -)
+    s-a-mp/modnorule/(originales original AQ0CP0 -) [
+      sadv/modnorule/(siquiera siquiera RG -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(y y CC -) [
+  grup-verb/co-v/(Es ser VSIP3S0 -) [
+    sn/obj/(comedia comedia NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(mala malo AQ0FS0 -)
+    ]
+  ]
+  grup-verb/co-v/(es ser VSIP3S0 -) [
+    sn/subj/(peor peor AQ0CS0 -) [
+      j-ms/modnomatch/(lo el DA0NS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(todo todo PI0MS000 -)
+      ]
+    ]
+    sn/obj/(oportunidad oportunidad NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(malgastada malgastar VMP00SF -)
+    ]
+  ]
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(hacer hacer VMN0000 -)
+    sn/modnomatch/(interesante interesante AQ0CS0 -) [
+      pindef-ms/modnomatch/(algo algo PI0CS000 -)
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(verdad verdad NCFS000 -)
+  ]
+  s-adj/modnomatch/(gracioso gracioso AQ0MS0 -)
+  F-term/modnomatch/(. . Fp -)
+]
+
+grup-verb/top/(pierdan perder VMSP3P0 -) [
+  neg/modneg/(No no RN -)
+  sn/obj/(tiempo tiempo NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

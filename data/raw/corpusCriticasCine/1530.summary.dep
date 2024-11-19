@@ -1,0 +1,37 @@
+sn/top/(Tremenda tremenda NP00000 -) [
+  grup-sp/modnomatch/(en en SPS00 -) [
+    sn/head/(explendor explendor NCMS000 -) [
+      espec-ms/espec/(todo todo DI0MS0 -) [
+        pos-ms/modnorule/(su su DP3CS0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/modnomatch/(cinta cinta NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(deja dejar VMIP3S0 -) [
+        neg/modneg/(no no RN -)
+      ]
+    ]
+    grup-sp/modnomatch/(a a SPS00 -) [
+      sn/head/(indiferente indiferente AQ0CS0 -) [
+        pindef-ms/modnomatch/(nadie nadie PI0CS000 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(obligatorio obligatorio NCMS000 -) [
+            s-a-ms/qual/(visionado visionar VMP00SM -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(ser ser VSN0000 -) [
+      VMI*<tener>/modnomatch/(tendría tener VMIC1S0 -)
+      CS(que)/modnomatch/(que que CS -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

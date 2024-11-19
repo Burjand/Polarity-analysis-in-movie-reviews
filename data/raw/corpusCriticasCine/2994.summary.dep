@@ -1,0 +1,62 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  neg/modneg/(No no RN -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(todo todo PI0MS000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(despreciable despreciable AQ0CS0 -)
+  ]
+  espec-fs/modnomatch/(esta este DD0FS0 -)
+  F-term/term/(? ? Fit -)
+]
+
+grup-verb/top/(está estar VAIP3S0 -) [
+  sn/subj/(Cabeza cabeza NCFS000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(muerte muerte NCFS000 -)
+    ]
+    F-term/term/(? ? Fit -)
+    F-no-c/modnomatch/(: : Fd -)
+    sn/modnomatch/(atmósfera atmósfera NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(terror terror NCMS000 -) [
+          s-a-ms/qual/(telúrico telúrico AQ0MS0 -)
+          grup-sp/modnomatch/(en en SPS00 -) [
+            sn/head/(bosques bosque NCMP000 -) [
+              espec-mp/espec/(los el DA0MP0 -)
+              s-a-mp/qual/(, , Fc -) [
+                s-a-mp/modnorule/(inmensos inmenso AQ0MP0 -)
+                s-a-mp/modnorule/(primordiales primordial AQ0CP0 -)
+              ]
+              s-a-mp/qual/(irlandeses irlandés AQ0MP0 -)
+              grup-verb/modnomatch/(sigue seguir VMIP3S0 -) [
+                morfema-verbal/modnomatch/(se se P0000000 -)
+                coor-n/subj/(y y CC -) [
+                  Fc(,)/modnomatch/(, , Fc -)
+                  sn/co-n/(acción acción NCFS000 -) [
+                    espec-fs/espec/(la el DA0FS0 -)
+                  ]
+                ]
+                grup-sp/modnomatch/(con con SPS00 -) [
+                  sn/head/(interés interés NCMS000 -)
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+      Fc(,)/modnomatch/(, , Fc -)
+    ]
+    sadv/modnomatch/(espléndidamente espléndidamente RG -)
+    parti-flex/modnomatch/(apoyada apoyar VMP00SF -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sadv/cc/(bien bien RG -)
+  parti-flex/modnomatch/(conseguida conseguir VMP00SF -)
+  F-term/term/(. . Fp -)
+]
+

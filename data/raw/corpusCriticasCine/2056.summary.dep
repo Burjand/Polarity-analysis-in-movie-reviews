@@ -1,0 +1,46 @@
+grup-verb/top/(espero esperar VMIP1S0 -) [
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(Una uno DI0FS0 -)
+    s-a-fs/qual/(estupenda estupendo AQ0FS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(defraude defraudar VMSP1S0 -) [
+        sadv/cc/(quizás quizás RG -)
+      ]
+    ]
+    prep/modnomatch/(a a SPS00 -)
+    espec-mp/espec/(los el DA0MP0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(busquen buscar VMSP3P0 -)
+    ]
+    sn/modnomatch/(thriller thriller NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      grup-sp/modnomatch/(como como CS -) [
+        sn/head/(demás demás PI0CP000 -) [
+          j-mp/modnomatch/(los el DA0MP0 -)
+        ]
+      ]
+    ]
+    coord/modnomatch/(pero pero CC -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(gustará gustar VMIF3S0 -)
+      Fc(,)/modnorule/(, , Fc -)
+    ]
+  ]
+  conj-subord/modnomatch/(que que CS -)
+  sadv/cc/(mucho mucho RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  prep/modnomatch/(a a SPS00 -)
+  espec-mp/modnomatch/(los el DA0MP0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(busquen buscar VMSP3P0 -)
+  ]
+  sn/obj/(cine cine NCMS000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(bueno bueno AQ0MS0 -) [
+        j-ms/modnomatch/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

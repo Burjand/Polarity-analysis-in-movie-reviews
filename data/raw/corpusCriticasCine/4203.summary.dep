@@ -1,0 +1,46 @@
+grup-verb/top/(Trace trazar VMSP1S0 -) [
+  sn/obj/(Slobotkin slobotkin NP00000 -)
+  grup-sp/modnomatch/(tras tras SPS00 -) [
+    sn/head/(carrera carrera NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(larga largo AQ0FS0 -)
+      s-a-fs/qual/(dedicada dedicar VMP00SF -)
+    ]
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(guiones guión NCMP000 -) [
+      s-a-mp/qual/(televisivos televisivo AQ0MP0 -)
+      grup-verb/modnomatch/(debuta debutar VMIP3S0 -) [
+        grup-sp/cc/(en en SPS00 -) [
+          sn/head/(dirección dirección NCFS000 -) [
+            espec-fs/espec/(la el DA0FS0 -)
+          ]
+        ]
+        coor-n/obj/(y y CC -) [
+          sn/co-n/(verdad verdad NCFS000 -) [
+            espec-fs/espec/(la el DA0FS0 -)
+            grup-verb/modnomatch/(pediría pedir VMIC1S0 -) [
+              patons/modnomatch/(le le PP3CSD00 -)
+              sn/subj/(horror horror NCMS000 -) [
+                espec-ms/espec/(ese ese DD0MS0 -)
+              ]
+              subord/modnomatch/(que que CS -) [
+                grup-verb/modnorule/(aparque aparcar VMSP1S0 -) [
+                  sn/obj/(carrera carrera NCFS000 -) [
+                    espec-fs/espec/(su su DP3CS0 -)
+                  ]
+                ]
+              ]
+              grup-sp/modnomatch/(como como CS -) [
+                sn/head/(realizador realizador NCMS000 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  forma-ger/modnomatch/(viendo ver VMG0000 -)
+  F-term/term/(. . Fp -)
+]
+

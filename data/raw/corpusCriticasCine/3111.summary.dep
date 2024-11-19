@@ -1,0 +1,61 @@
+grup-verb/top/(Asistimos asistir VMIP1P0 -) [
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(clase clase NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(maestra maestro AQ0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(dirección dirección NCFS000 -) [
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(actuaciones actuación NCFP000 -) [
+              espec-fp/espec/(unas uno DI0FP0 -)
+              s-a-fp/qual/(impresionantes impresionante AQ0CP0 -)
+              grup-verb/modnomatch/(encontramos encontrar VMIP1P0 -) [
+                patons/modnomatch/(nos nos PP1CP000 -)
+                grup-sp/modnomatch/(con con SPS00 -) [
+                  sn/head/(historia historia NCFS000 -) [
+                    espec-fs/espec/(una uno DI0FS0 -)
+                  ]
+                ]
+                subord/modnomatch/(que que PR0CN000 -) [
+                  grup-verb/modnorule/(cuenta contar VMIP3S0 -) [
+                    patons/modnomatch/(nos nos PP1CP000 -)
+                  ]
+                ]
+                sn/obj/(mismo mismo AQ0MS0 -) [
+                  j-ms/modnomatch/(lo el DA0NS0 -)
+                ]
+                grup-sp/modnomatch/(de de SPS00 -) [
+                  sadv/modnomatch/(siempre siempre RG -)
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  parti-flex/modnomatch/(acompañada acompañar VMP00SF -)
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(pero pero CC -)
+  sadv/cc/(a_la_vez a_la_vez RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(como como CS -) [
+    sadv/modnomatch/(siempre siempre RG -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(y y CC -)
+  prep/modnomatch/(con con SPS00 -)
+  espec-ms/modnomatch/(un uno DI0MS0 -)
+  sn/obj/(final final NCFS000 -)
+  sn/obj/(y y CC -) [
+    indef-ms/modnomatch/(un uno DI0MS0 -)
+    s-a-ms/qual/(flojo flojo AQ0MS0 -) [
+      sadv/modnorule/(tanto tanto RG -)
+    ]
+    s-a-ms/qual/(decepcionante decepcionante AQ0CS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

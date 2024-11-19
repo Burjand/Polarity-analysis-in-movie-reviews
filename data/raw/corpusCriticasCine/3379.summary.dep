@@ -1,0 +1,51 @@
+F-no-c/top/(' ' Fe -) [
+  grup-verb/modnorule/(es ser VSIP3S0 -) [
+    sn/subj/(Luna luna NP00000 -) [
+      espec-fs/espec/(La el DA0FS0 -)
+    ]
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(Botella botella NP00000 -)
+      F-no-c/modnomatch/(' ' Fe -)
+    ]
+    sn/obj/(carta carta NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(notable notable AQ0CS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(presentación presentación NCFS000 -) [
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(Grojo grojo NP00000 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  sn/modnorule/(tipo tipo NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(luchado luchar VMP00SM -) [
+        vaux/aux/(ha haber VAIP3S0 -)
+      ]
+    ]
+  ]
+  sadv/modnorule/(contra_viento_y_marea contra_viento_y_marea RG -)
+  grup-sp-inf/modnorule/(para para SPS00 -) [
+    grup-verb-inf/head/(ver ver VMN0000 -)
+  ]
+  parti-flex/modnorule/(realizada realizar VMP00SF -)
+  espec-ms/modnorule/(su su DP3CS0 -)
+  s-adj/modnorule/(propia propio AQ0FS0 -)
+  sn/modnorule/(utopía utopía NCFS000 -) [
+    Fe/modnomatch/(" " Fe -)
+    Fe/modnomatch/(" " Fe -)
+    s-a-fs/qual/(cósmica cósmico AQ0FS0 -)
+    F-no-c/modnomatch/(: : Fd -)
+  ]
+  grup-verb-inf/modnorule/(estrenar estrenar VMN0000 -)
+  sn/modnorule/(largo largo NCMS000 -) [
+    espec-ms/espec/(su su DP3CS0 -)
+    s-a-ms/qual/(primer 1 AO0MS0 -)
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

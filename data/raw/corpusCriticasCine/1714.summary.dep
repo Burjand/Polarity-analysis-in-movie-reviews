@@ -1,0 +1,79 @@
+grup-verb/top/(conforman conformar VMIP3P0 -) [
+  coor-n/subj/(así_como así_como CC -) [
+    sn/co-n/(Escenas escena NCFP000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(plasticidad plasticidad NCFS000 -) [
+          espec-fs/espec/(una uno DI0FS0 -)
+        ]
+      ]
+      s-adj/qual/(bellísimas bello AQSFP0 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(crudas crudo AQ0FP0 -) [
+      pindef-fp/modnomatch/(otras otro PI0FP000 -)
+      sadv/modnomatch/(más más RG -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(obra obra NCFS000 -) [
+    espec-fs/espec/(esta este DD0FS0 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  prep/modnomatch/(en en SPS00 -)
+  espec-fs/modnomatch/(la el DA0FS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(mueven mover VMIP3P0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+      sn/subj/(combates combate NCMP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+      ]
+      grup-sp/cc/(a a SPS00 -) [
+        sn/head/(caballo caballo NCMS000 -)
+      ]
+      grup-sp/cc/(entre entre SPS00 -) [
+        sn/head/(cámara cámara NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          s-a-fs/qual/(lenta lento AQ0FS0 -)
+        ]
+        CC(y)/modnomatch/(y y CC -)
+        sn/head/(trucos truco NCMP000 -) [
+          espec-mp/espec/(otros otro DI0MP0 -)
+        ]
+      ]
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(harán hacer VMIF3P0 -)
+  ]
+  sn/obj/(delicias delicia NCFP000 -) [
+    espec-fp/espec/(las el DA0FP0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(aficionados aficionado NCMP000 -) [
+        espec-mp/espec/(todos todo DI0MP0 -) [
+          j-mp/modnorule/(los el DA0MP0 -)
+        ]
+        grup-sp/modnomatch/(a a SPS00 -) [
+          sn/head/(películas película NCFP000 -) [
+            espec-fp/espec/(las el DA0FP0 -)
+            s-a-fp/qual/(épicas épico AQ0FP0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(película película NCFS000 -) [
+  espec-fs/espec/(Una uno DI0FS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(perder perder VMN0000 -) [
+      patons/modnomatch/(se se PP3CN000 -)
+      VMI*<deber>/modnomatch/(debe deber VMIP3S0 -)
+      sn/subj/(nadie nadie PI0CS000 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

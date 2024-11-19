@@ -1,0 +1,59 @@
+grup-verb/top/(Confieso confesar VMIP1S0 -) [
+  sadv/cc/(abiertamente abiertamente RG -)
+  conj-subord/modnomatch/(que que CS -)
+  vaux/aux/(estuve estar VAIS1S0 -)
+  grup-sp-inf/modnomatch/(a_punto_de a_punto_de SPS00 -) [
+    grup-verb-inf/head/(lanzar lanzar VMN0000 -) [
+      PP*/modnomatch/(me me PP1CS000 -)
+    ]
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(pasillo pasillo NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(sala sala NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(pegar pegar VMN0000 -) [
+      PP*/modnomatch/(me me PP1CS000 -)
+    ]
+    sn/modnomatch/(meneos meneo NCMP000 -) [
+      numero-nopart/quant/(cuatro 4 Z -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(Hacía hacer VMII1S0 -) [
+  sn/obj/(tiempo tiempo NCMS000 -) [
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(disfrutaba disfrutar VMII1S0 -) [
+        neg/modneg/(no no RN -)
+      ]
+    ]
+  ]
+  sadv/cc/(tanto tanto RG -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(cine cine NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(cuestión cuestión NCFS000 -) [
+      s-a-fs/qual/(musical musical AQ0CS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(película película NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

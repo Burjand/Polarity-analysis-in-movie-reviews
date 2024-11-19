@@ -1,0 +1,57 @@
+grup-verb/top/(reside residir VMIP3S0 -) [
+  sn/subj/(verdadera verdadero AQ0FS0 -) [
+    j-fs/modnomatch/(La el DA0FS0 -)
+    s-a-fs/qual/(gozada gozar VMP00SF -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(película película NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(estilazo estilo NCMS00A -) [
+            espec-ms/espec/(el el DA0MS0 -)
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(Tykwer tykwer NP00000 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  grup-sp-inf/modnomatch/(en en SPS00 -) [
+    grup-verb-inf/head/(disfrutar disfrutar VMN0000 -)
+  ]
+  grup-sp/modnomatch/(tras tras SPS00 -) [
+    sn/head/(cámara cámara NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(huelen oler VMIP3P0 -) [
+  sn/subj/(planos plano NCMP000 -) [
+    espec-mp/espec/(Esos ese DD0MP0 -)
+    s-a-mp/qual/(primerísimos primerísimo AQ0MP0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/modnomatch/(recreación recreación NCFS000 -) [
+      espec-fs/espec/(esa ese DD0FS0 -)
+      s-a-fs/qual/(soberbia soberbio AQ0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(época época NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+        ]
+      ]
+      Fc(,)/modnomatch/(, , Fc -)
+    ]
+    sn/modnomatch/(imágenes imagen NCFP000 -) [
+      espec-fp/espec/(esas ese DD0FP0 -)
+    ]
+    prel/modnomatch/(que que PR0CN000 -)
+    sadv/modnomatch/(hasta hasta RG -) [
+      cuantif/modnorule/(casi casi RG -)
+    ]
+    F-term/term/(? ? Fit -)
+  ]
+  F-term/term/(? ? Fit -)
+  F-no-c/modnomatch/(... ... Fs -)
+]
+

@@ -1,0 +1,39 @@
+grup-verb/top/(inundan inundar VMIP3P0 -) [
+  sn/subj/(serpientes serpiente NCFP000 -) [
+    espec-fp/espec/(Las el DA0FP0 -)
+  ]
+  sn/obj/(avión avión NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(cantidad cantidad NCFS000 -) [
+      s-a-fs/qual/(, , Fc -) [
+        s-a-fs/modnorule/(desmesurada desmesurar VMP00SF -)
+        s-a-fs/modnorule/(carnavalesca carnavalesco AQ0FS0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(hace hacer VMIP3S0 -) [
+      patons/modnomatch/(te te PP2CS000 -)
+      grup-sp/modnomatch/(a a SPS00 -) [
+        sn/head/(veces vez NCFP000 -)
+      ]
+      sadv/cc/(casi casi RG -)
+    ]
+  ]
+  grup-verb-inf/modnomatch/(sonreír sonreír VMN0000 -)
+  grup-sp/modnomatch/(por por SPS00 -) [
+    sn/head/(tamaño tamaño NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(disparate disparate NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+    F-no-c/modnomatch/(... ... Fs -)
+  ]
+]
+

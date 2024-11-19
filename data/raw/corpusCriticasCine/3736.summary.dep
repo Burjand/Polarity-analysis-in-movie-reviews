@@ -1,0 +1,73 @@
+grup-verb/top/(Gasten gastar VMSP3P0 -) [
+  sn/obj/(horas hora NCFP000 -) [
+    numero-nopart/quant/(2 2 Z -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(tiempo tiempo NCMS000 -) [
+        espec-ms/espec/(su su DP3CS0 -)
+      ]
+    ]
+  ]
+  grup-sp-inf/modnomatch/(en en SPS00 -) [
+    grup-verb-inf/head/(leer leer VMN0000 -)
+    sn/modnomatch/(cosa cosa NCFS000 -) [
+      espec-fs/espec/(cualquier cualquiera DI0CS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  prep/modnomatch/(desde desde SPS00 -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(Kafka kafka NP00000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(hasta hasta SPS00 -) [
+    sn/head/(Marca marca NP00000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(semana semana NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          s-a-fs/qual/(pasada pasar VMP00SF -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(pero pero CC -)
+  F-term/term/(! ! Fat -)
+  F-term/term/(! ! Fat -)
+]
+
+grup-verb/top/(gasten gastar VMSP3P0 -) [
+  grup-sp/modnomatch/(Por por SPS00 -) [
+    sn/head/(Dios dios NP00000 -) [
+      grup-verb/modnomatch/(hagan hacer VMM03P0 -) [
+        patons/modnomatch/(me me PP1CS000 -)
+        sn/obj/(caso caso NCMS000 -)
+        grup-sp/modnomatch/(por por SPS00 -) [
+          sn/head/(vez vez NCFS000 -) [
+            espec-fs/espec/(una uno DI0FS0 -)
+          ]
+        ]
+        grup-sp/cc/(en en SPS00 -) [
+          sn/head/(vida vida NCFS000 -) [
+            espec-fs/espec/(su su DP3CS0 -)
+          ]
+        ]
+        F-no-c/modnomatch/() ) Fpt -)
+      ]
+    ]
+  ]
+  neg/modneg/(no no RN -)
+  sn/obj/(tiempo tiempo NCMS000 -) [
+    espec-ms/espec/(su su DP3CS0 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(bodrio bodrio NCMS000 -) [
+      espec-ms/espec/(semejante semejante DD0CS0 -)
+    ]
+  ]
+  F-term/term/(! ! Fat -)
+  F-term/term/(! ! Fat -)
+  F-no-c/modnomatch/(( ( Fpa -)
+  F-term/term/(. . Fp -)
+]
+

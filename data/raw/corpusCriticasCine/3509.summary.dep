@@ -1,0 +1,42 @@
+grup-verb/top/(Reduce reducir VMIP3S0 -) [
+  sn/obj/(alma alma NCFS000 -) [
+    espec-ms-E/espec/(el el DA0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Beowulf beowulf NP00000 -)
+    ]
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(popurrí popurrí NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(plagios plagio NCMP000 -) [
+          s-a-mp/qual/(visuales visual AQ0CP0 -)
+        ]
+      ]
+    ]
+  ]
+  prep/modnomatch/(en en SPS00 -)
+  espec-ms/modnomatch/(el el DA0MS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(existe existir VMIP3S0 -) [
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  coor-n/obj/(sino sino CC -) [
+    sn/co-n/(cineasta cineasta NCCS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(producción producción NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(idea idea NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(prefabricada prefabricar VMP00SF -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

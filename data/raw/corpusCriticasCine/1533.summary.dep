@@ -1,0 +1,62 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  coor-n/subj/(y y CC -) [
+    sn/co-n/(Humor humor NCMS000 -) [
+      s-a-ms/qual/(fresco fresco AQ0MS0 -)
+    ]
+    sn/co-n/(divertido divertir VMP00SM -) [
+      espec-ms/espec/(muy muy RG -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(bebe beber VMIP3S0 -)
+    ]
+    sp-de/modnomatch/(de de SPS00 -) [
+      sn/gen/(comedias comedia NCFP000 -) [
+        espec-fp/espec/(las el DA0FP0 -)
+        s-a-fp/qual/(británicas británico AQ0FP0 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(pega pega NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    s-a-fs/qual/(única único AQ0FS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(encuentro encontrar VMIP1S0 -) [
+        patons/modnomatch/(le le PP3CSD00 -)
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(haya haber VMSP3S0 -) [
+      sadv/cc/(tal_vez tal_vez RG -)
+      sn/obj/(cosas cosa NCFP000 -) [
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(humor humor NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+            s-a-ms/qual/(inglés inglés AQ0MS0 -) [
+              s-a-ms/modnorule/(ácido ácido AQ0MS0 -) [
+                Fpa/modnorule/(( ( Fpa -)
+                Fpt/modnorule/() ) Fpt -)
+                sadv/modnorule/(bastante bastante RG -)
+              ]
+            ]
+          ]
+        ]
+        subord/modnomatch/(que que PR0CN000 -) [
+          grup-verb/modnorule/(hay haber VMIP3S0 -)
+        ]
+      ]
+    ]
+  ]
+  conj-subord/modnomatch/(que que CS -)
+  grup-verb-inf/modnomatch/(poner poner VMN0000 -)
+  sn/obj/(atención atención NCFS000 -) [
+    espec-fs/espec/(bastante bastante DI0CS0 -)
+    grup-sp/modnomatch/(en en SPS00 -) [
+      sn/head/(ellas ellos PP3FP000 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

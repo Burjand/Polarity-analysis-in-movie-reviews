@@ -1,0 +1,55 @@
+grup-verb/top/(sean ser VSSP3P0 -) [
+  sn/subj/(pasos paso NCMP000 -) [
+    numero-nopart/quant/(Cuatro 4 Z -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(mundo mundo NCMS000 -) [
+        espec-ms/espec/(nuestro nuestro DP1MSP -)
+        s-a-ms/qual/(interior interior AQ0CS0 -)
+      ]
+    ]
+  ]
+  sadv/cc/(tal_vez tal_vez RG -)
+  sn/obj/(distancia distancia NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(separa separar VMIP3S0 -) [
+        patons/modnomatch/(nos nos PP1CP000 -)
+      ]
+    ]
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(fecilidad fecilidad NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        s-a-fs/qual/(soñada soñar VMP00SF -)
+      ]
+    ]
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(real real AQ0CS0 -) [
+      j-fs/modnomatch/(la el DA0FS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(exterior exterior NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(genialidad genialidad NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(autismo autismo NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(incompresión incompresión NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

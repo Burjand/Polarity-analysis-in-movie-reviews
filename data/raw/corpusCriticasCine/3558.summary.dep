@@ -1,0 +1,52 @@
+grup-verb/top/(confirma confirmar VMIP3S0 -) [
+  sn/subj/(Canciones_de_Amor canción_de_amor NCFP000 -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(Lolita´s_Club lolita´s_club NP00000 -)
+  ]
+  sn/obj/(datos dato NCMP000 -) [
+    numero-nopart/quant/(dos 2 Z -)
+    s-a-mp/qual/(preocupantes preocupante AQ0CP0 -) [
+      sadv/modnorule/(muy muy RG -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(por por SPS00 -) [
+    sn/head/(lado lado NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+    ]
+  ]
+  sn/obj/(incapacidad incapacidad NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    s-a-fs/qual/(absoluta absoluto AQ0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Vicente_Aranda vicente_aranda NP00000 -)
+    ]
+  ]
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(hacer hacer VMN0000 -)
+    sn/modnomatch/(cine cine NCMS000 -)
+  ]
+  coor-sp/modnomatch/(y y CC -) [
+    Fc(,)/modnorule/(, , Fc -)
+    grup-sp/modnorule/(por por SPS00 -) [
+      sn/head/(descenso descenso NCMS000 -) [
+        espec-ms/espec/(otro otro DI0MS0 -) [
+          j-ms/modnorule/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(picado picado NCMS000 -) [
+      grup-sp/modnomatch/(como como CS -) [
+        sn/head/(actor actor NCMS000 -) [
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(Eduardo_Noriega eduardo_noriega NP00000 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,49 @@
+grup-verb/top/(inhibe inhibir VMIP3S0 -) [
+  sn/subj/(Carrey carrey NP00000 -)
+  sn/obj/(energía energía NCFS000 -) [
+    espec-fs/espec/(toda todo DI0FS0 -) [
+      pos-fs/modnorule/(su su DP3CS0 -)
+    ]
+    s-a-fs/qual/(cómica cómico AQ0FS0 -)
+  ]
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(hacer hacer VMN0000 -)
+    sn/modnomatch/(rol rol NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(hombre hombre NCMS000 -) [
+          espec-ms/espec/(un uno DI0MS0 -)
+          s-a-ms/qual/(y y CC -) [
+            s-a-ms/modnorule/(atraído atraer VMP00SM -)
+            s-a-ms/modnorule/(repelido repeler VMP00SM -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(tiempo tiempo NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(mismo mismo AQ0MS0 -)
+      grup-sp/modnomatch/(por por SPS00 -) [
+        sn/head/(espíritu espíritu NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          s-a-ms/qual/(libre libre AQ0CS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(Winslet winslet NP00000 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(Sorprendente sorprendente NP00000 -) [
+  coord/modnomatch/(y y CC -)
+  s-adj/qual/(original original AQ0CS0 -) [
+    sadv/modnorule/(muy muy RG -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

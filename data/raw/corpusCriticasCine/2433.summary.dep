@@ -1,0 +1,74 @@
+grup-verb/top/(James jamar VMSP2S0 -) [
+  sn/subj/(Película película NCFS000 -) [
+    prep/modnomatch/(de de SPS00 -)
+    coor-sp/modnomatch/(y y CC -) [
+      grup-sp/modnorule/(bajo bajo SPS00 -) [
+        sn/head/(costo costo NCMS000 -) [
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(escuela escuela NCFS000 -) [
+              espec-fs/espec/(una uno DI0FS0 -)
+              sp-de/mod/(de de SPS00 -) [
+                sn/gen/(cine cine NCMS000 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+      grup-sp/modnorule/(con con SPS00 -) [
+        sn/head/(director director NCMS000 -) [
+          espec-ms/espec/(un uno DI0MS0 -)
+          s-a-ms/qual/(debutante debutante AQ0CS0 -)
+        ]
+      ]
+    ]
+    F-no-c/modnomatch/(- - Fg -)
+  ]
+  sn/obj/(Wan wan NP00000 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  sadv/cc/(recién recién RG -)
+  parti-flex/modnomatch/(salido salir VMP00SM -)
+  s-adj/modnomatch/(australiana australiano AQ0FS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(colaboró colaborar VMIS3S0 -) [
+      sadv/cc/(también también RG -)
+      grup-sp/cc/(en en SPS00 -) [
+        sn/head/(historia historia NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+        ]
+      ]
+      F-no-c/modnomatch/(- - Fg -)
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(brinda brindar VMIP3S0 -) [
+          patons/modnomatch/(nos nos PP1CP000 -)
+        ]
+      ]
+      sn/obj/(esperanzas esperanza NCFP000 -)
+      grup-sp/iobj/(para para SPS00 -) [
+        sn/head/(género género NCMS000 -) [
+          espec-ms/espec/(un uno DI0MS0 -)
+        ]
+      ]
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(hace hacer VMIP3S0 -) [
+      sn/subj/(vez vez NCFS000 -) [
+        espec-fs/espec/(cada cada DI0CS0 -)
+      ]
+      sn/obj/(esfuerzo esfuerzo NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        s-a-ms/qual/(mejor mejor AQ0CS0 -)
+      ]
+    ]
+  ]
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(ser ser VSN0000 -)
+  ]
+  espec-ms/modnomatch/(lo el DA0NS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(era ser VSII1S0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

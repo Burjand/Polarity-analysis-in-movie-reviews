@@ -1,0 +1,39 @@
+coor-n/top/(y y CC -) [
+  sn/co-n/(película película NCFS000 -) [
+    espec-fs/espec/(Una uno DI0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(culto culto NCMS000 -)
+    ]
+  ]
+  sn/co-n/(ejemplo ejemplo NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(excelente excelente AQ0CS0 -)
+  ]
+  grup-sp/modnomatch/(de de SPS00 -) [
+    sadv/modnomatch/(cómo cómo PT000000 -)
+  ]
+  grup-verb-inf/modnomatch/(crear crear VMN0000 -)
+  sn/co-n/(miedos miedo NCMP000 -) [
+    grup-sp/modnomatch/(sin sin SPS00 -) [
+      sn/head/(medios medio NCMP000 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    subord/modnomatch/(mientras mientras CS -) [
+      grup-verb/modnorule/(continúa continuar VMIP3S0 -) [
+        sn/subj/(historia historia NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+        ]
+        grup-sp/modnomatch/(bajo bajo SPS00 -) [
+          sn/head/(títulos título NCMP000 -) [
+            espec-mp/espec/(los el DA0MP0 -)
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(crédito crédito NCMS000 -)
+            ]
+          ]
+        ]
+        F-no-c/modnomatch/(... ... Fs -)
+      ]
+    ]
+  ]
+]
+

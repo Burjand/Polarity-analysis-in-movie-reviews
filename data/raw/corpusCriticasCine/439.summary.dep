@@ -1,0 +1,54 @@
+sn/top/(Cine cine NCMS000 -) [
+  grup-sp-inf/modnomatch/(para para SPS00 -) [
+    grup-verb-inf/head/(meter meter VMN0000 -)
+  ]
+  grup-sp/modnomatch/(a a SPS00 -) [
+    sn/head/(personajes personaje NCMP000 -) [
+      espec-mp/espec/(sus su DP3CP0 -)
+      grup-sp/modnomatch/(hasta hasta SPS00 -) [
+        sn/head/(cuello cuello NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          grup-sp/modnomatch/(a a SPS00 -) [
+            sn/head/(espectador espectador NCMS000 -) [
+              espec-ms/espec/(el el DA0MS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  grup-sp-inf/modnomatch/(para para SPS00 -) [
+    grup-verb-inf/head/(involucrar involucrar VMN0000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(Y y CC -) [
+  grup-verb/co-v/(es ser VSIP3S0 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(es ser VSIP3S0 -) [
+      sn/subj/(Michael_Mann michael_mann NP00000 -)
+      neg/modneg/(no no RN -)
+      sn/obj/(David_Mammet david_mammet NP00000 -)
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  grup-verb/co-v/(hace hacer VMIP3S0 -) [
+    neg/modneg/(no no RN -)
+    sn/obj/(pasatiempos pasatiempo NCMP000 -) [
+      s-a-mp/qual/(intelectuales intelectual AQ0CP0 -)
+    ]
+  ]
+  prep/modnomatch/(para para SPS00 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(admiremos admirar VMSP1P0 -) [
+      patons/modnomatch/(lo lo PP3CNA00 -)
+    ]
+  ]
+  grup-sp/modnomatch/(desde desde SPS00 -) [
+    sadv/modnomatch/(lejos lejos RG -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

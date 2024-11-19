@@ -1,0 +1,55 @@
+coor-vb/top/(pero pero CC -) [
+  sn/subj/(idea idea NCFS000 -) [
+    espec-fs/espec/(Una uno DI0FS0 -)
+    s-a-fs/qual/(buena bueno AQ0FS0 -) [
+      sadv/modnorule/(muy muy RG -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    sadv/modnomatch/(mal mal RG -)
+    parti-flex/modnomatch/(aprovechada aprovechar VMP00SF -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(pierde perder VMIP3S0 -)
+    ]
+  ]
+  sn/subj/(fuelle fuelle NCMS000 -) [
+    espec-ms/espec/(tanto tanto DI0MS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(frenar frenar VMN0000 -) [
+        patons/modnomatch/(se se PP3CN000 -)
+        VMI*<llegar>/modnomatch/(llega llegar VMIP3S0 -)
+        SPS00(a)/modnomatch/(a a SPS00 -)
+      ]
+    ]
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(todo todo PI0MS000 -) [
+        j-ms/modnomatch/(el el DA0MS0 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(pena pena NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(pedir pedir VMN0000 -) [
+    morfema-verbal/modnomatch/(se se P0000000 -)
+    VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+    neg/modneg/(no no RN -)
+  ]
+  sadv/modnomatch/(más más RG -)
+  grup-sp/modnomatch/(a a SPS00 -) [
+    sn/head/(estreno estreno NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(veraniego veraniego AQ0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(características característica NCFP000 -) [
+          s-a-fp/qual/(efímeras efímero AQ0FP0 -) [
+            sadv/modnorule/(tan tan RG -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

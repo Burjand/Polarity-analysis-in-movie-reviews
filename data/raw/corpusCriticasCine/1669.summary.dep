@@ -1,0 +1,43 @@
+grup-verb/top/(crean crear VMIP3P0 -) [
+  sn/subj/(comedia comedia NCFS000 -) [
+    s-a-fs/qual/(Irreverente irreverente AQ0CS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Winterbottom winterbottom NP00000 -)
+    ]
+    subord/modnomatch/(que que CS -) [
+      grup-verb/modnorule/(llama llamar VMIP3S0 -) [
+        grup-sp/modnomatch/(desde desde SPS00 -) [
+          sn/head/(principio principio NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+          ]
+        ]
+        neg/modneg/(no no RN -)
+        grup-sp/iobj/(a a SPS00 -) [
+          sn/head/(engaño engaño NCMS000 -)
+        ]
+      ]
+    ]
+    prep/modnomatch/(a a SPS00 -)
+    quien-p/modnomatch/(quienes quien PR0CP000 -)
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(ver ver VMN0000 -) [
+      VMI*<ir>/modnomatch/(van ir VMIP3P0 -)
+      SPS00(a)/modnomatch/(a a SPS00 -)
+      sn/obj/(adaptación adaptación NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        s-a-fs/qual/(fidedigna fidedigno AQ0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(libro libro NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(Sterne sterne NP00000 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

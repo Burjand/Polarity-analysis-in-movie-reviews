@@ -1,0 +1,40 @@
+grup-verb/top/(anda andar VMIP3S0 -) [
+  sn/subj/(loco loco NCMS000 -) [
+    espec-ms/espec/(Un uno DI0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(carretera carretera NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+  ]
+  s-adj/modnomatch/(suelto suelto AQ0MS0 -)
+  coor-n/cc/(y y CC -) [
+    sn/co-n/(busca busca NCFS000 -)
+  ]
+  s-adj/modnomatch/(presas preso AQ0FP0 -) [
+    s-a-fp/modnorule/(sexys sexy AQ0CP0 -)
+  ]
+  F-no-c/modnomatch/(( ( Fpa -)
+  sn/cc/(intento intento NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+  ]
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(resumir resumir VMN0000 -)
+    sn/modnomatch/(película película NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+    ]
+  ]
+  coor-sp/modnomatch/(y y CC -) [
+    grup-sp/modnorule/(sin sin SPS00 -) [
+      sn/head/(sentido sentido NCMS000 -)
+    ]
+    grup-sp/modnorule/(con con SPS00 -) [
+      sn/head/(argumento argumento NCMS000 -) [
+        espec-ms/espec/(poco poco DI0MS0 -)
+      ]
+    ]
+  ]
+  F-no-c/modnomatch/(... ... Fs -)
+  F-no-c/modnomatch/() ) Fpt -)
+]
+

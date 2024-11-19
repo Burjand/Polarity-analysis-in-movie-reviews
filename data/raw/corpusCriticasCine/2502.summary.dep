@@ -1,0 +1,45 @@
+sn/top/(ofensa ofensa NCFS000 -) [
+  espec-fs/espec/(Una uno DI0FS0 -)
+  s-a-fs/qual/(gratuita gratuito AQ0FS0 -)
+  grup-sp/modnomatch/(a a SPS00 -) [
+    sn/head/(juventud juventud NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(tiene tener VMIP3S0 -) [
+      sadv/cc/(ya ya RG -)
+      sadv/cc/(de_por_sí de_por_sí RG -)
+      sn/obj/(problemas problema NCMP000 -) [
+        espec-mp/espec/(bastantes bastante DI0CP0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(y y CC -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(merece merecer VMIP3S0 -) [
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(venga venir VMSP1S0 -) [
+      sn/subj/(paniaguado paniaguado VMP00SM -) [
+        indef-ms/modnomatch/(un uno DI0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(subvenciones subvención NCFP000 -) [
+            espec-fp/espec/(las el DA0FP0 -)
+            s-a-fp/qual/(estatales estatal AQ0CP0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  grup-sp-inf/modnomatch/(a a SPS00 -) [
+    grup-verb-inf/head/(estigmatizar estigmatizar VMN0000 -) [
+      PP*/modnomatch/(la lo PP3FSA00 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

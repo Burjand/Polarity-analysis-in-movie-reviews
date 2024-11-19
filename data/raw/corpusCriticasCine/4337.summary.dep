@@ -1,0 +1,39 @@
+grup-verb/top/(hace hacer VMIP3S0 -) [
+  sn/subj/(director director NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+  ]
+  grup-verb-inf/modnomatch/(pasar pasar VMN0000 -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(actores actor NCMP000 -) [
+      espec-mp/espec/(sus su DP3CP0 -)
+      grup-sp/modnomatch/(por por SPS00 -) [
+        sn/head/(Port_Aventura port_aventura NP00000 -) [
+          espec-ms/espec/(un uno DI0MS0 -)
+          grup-sp/modnomatch/(en en SPS00 -) [
+            sn/head/(Laos laos NP00000 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(tortura tortura NCFS000 -) [
+  espec-fs/espec/(Una uno DI0FS0 -)
+  s-a-fs/qual/(auténtica auténtico AQ0FS0 -)
+  s-a-fs/qual/(y y CC -) [
+    s-a-fs/modnorule/(física físico AQ0FS0 -)
+    s-a-fs/modnorule/(psicológica psicológico AQ0FS0 -)
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(impresiona impresionar VMIP3S0 -)
+  ]
+  grup-sp/modnomatch/(a a SPS00 -) [
+    sn/head/(espectador espectador NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

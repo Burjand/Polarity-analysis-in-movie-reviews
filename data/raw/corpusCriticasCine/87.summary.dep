@@ -1,0 +1,26 @@
+grup-verb/top/(considerar considerar VMN0000 -) [
+  VMI*<deber>/modnomatch/(debería deber VMIC1S0 -)
+  sn/subj/(Balagueró balagueró NP00000 -)
+  sn/obj/(reparto reparto NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(español español AQ0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(calidad calidad NCFS000 -) [
+        s-a-fs/qual/(buena bueno AQ0FS0 -)
+      ]
+    ]
+    subord/modnomatch/(si si CS -) [
+      grup-verb/modnorule/(tiene tener VMIP3S0 -) [
+        neg/modneg/(no no RN -)
+        sn/obj/(dinero dinero NCMS000 -)
+      ]
+    ]
+  ]
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(contratar contratar VMN0000 -) [
+      PP*/modnomatch/(lo lo PP3CNA00 -)
+    ]
+  ]
+  sadv/cc/(fuera fuera RG -)
+]
+

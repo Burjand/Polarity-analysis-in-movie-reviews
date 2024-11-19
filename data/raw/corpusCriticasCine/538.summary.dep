@@ -1,0 +1,65 @@
+grup-verb/top/(utiliza utilizar VMIP3S0 -) [
+  sn/subj/(protagonista protagonista NCCS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(mando mando NCMS000 -) [
+    espec-ms/espec/(su su DP3CS0 -)
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(distancia distancia NCFS000 -)
+  ]
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(saltar saltar VMN0000 -) [
+      PP*/modnomatch/(se se PP3CN000 -)
+    ]
+    sn/modnomatch/(escenas escena NCFP000 -) [
+      espec-fp/espec/(las el DA0FP0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(vida vida NCFS000 -) [
+          espec-fs/espec/(su su DP3CS0 -)
+        ]
+      ]
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(gustan gustar VMIP3P0 -) [
+          patons/modnomatch/(le le PP3CSD00 -)
+          neg/modneg/(no no RN -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sadv/cc/(así así RG -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(vive vivir VMIP3S0 -) [
+      patons/modnomatch/(las los PP3FPA00 -)
+      sadv/cc/(tampoco tampoco RG -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(pasamos pasar VMIP1P0 -) [
+  sn/subj/(Nosotros nosotros PP1MP000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(público público NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(piloto piloto NCCS000 -) [
+      s-a-ms/qual/(automático automático AQ0MS0 -)
+    ]
+  ]
+  sn/obj/(mitad mitad NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(vida vida NCFS000 -) [
+        espec-fs/espec/(nuestra nuestro DP1FSP -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

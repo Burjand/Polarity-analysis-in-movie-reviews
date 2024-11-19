@@ -1,0 +1,53 @@
+grup-verb/top/(transcurre transcurrir VMIP3S0 -) [
+  sn/subj/(Casino_Royale casino_royale NP00000 -) [
+    grup-verb/modnomatch/(mantiene mantener VMIP3S0 -) [
+      sn/obj/(pulso pulso NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        s-a-ms/qual/(interesante interesante AQ0CS0 -)
+      ]
+      grup-sp/modnomatch/(con con SPS00 -) [
+        sn/head/(espectador espectador NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+      grup-sp/modnomatch/(durante durante SPS00 -) [
+        sn/head/(partida partida NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(poker poker NCMN000 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(ritmo ritmo NCMS000 -) [
+      s-a-ms/qual/(buen bueno AQ0MS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(convirtió convertir VMIS3S0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  sn/subj/(guión guión NCMS000 -) [
+    espec-ms/espec/(Un uno DI0MS0 -)
+    sn/modnomatch/(acertado acertar VMP00SM -) [
+      espec-ms/espec/(muy muy RG -)
+    ]
+    grup-sp-inf/modnomatch/(para para SPS00 -) [
+      grup-verb-inf/head/(mostrar mostrar VMN0000 -) [
+        PP*/modnomatch/(nos nos PP1CP000 -)
+      ]
+    ]
+  ]
+  grup-sp/modnomatch/(como como CS -) [
+    sn/head/(James james NP00000 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(Bond bond NP00000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

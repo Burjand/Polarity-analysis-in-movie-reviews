@@ -1,0 +1,48 @@
+grup-verb/top/(construye construir VMIP3S0 -) [
+  sn/subj/(Kitano kitano NP00000 -)
+  sn/obj/(fábula fábula NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(y y CC -) [
+      s-a-fs/modnorule/(preciosa precioso AQ0FS0 -)
+      s-a-fs/modnorule/(minimalista minimalista AQ0CS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(exento exentar VMIP1S0 -) [
+  sn/subj/(film film NCMS000 -) [
+    espec-ms/espec/(Un uno DI0MS0 -)
+    s-a-ms/qual/(delicioso delicioso AQ0MS0 -)
+    coord/modnomatch/(y y CC -)
+    sadv/modnomatch/(tremendamente tremendamente RG -)
+    parti-flex/modnomatch/(divertido divertir VMP00SM -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  neg/modneg/(no no RN -)
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(momentos momento NCMP000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(cine cine NCMS000 -) [
+          s-a-ms/qual/(gran gran AQ0CS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sp-de/top/(De de SPS00 -) [
+  sn/gen/(mejorcito mejorcito NCMS000 -) [
+    espec-ms/espec/(lo el DA0NS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(cine cine NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        s-a-ms/qual/(reciente reciente AQ0CS0 -)
+        s-a-ms/qual/(japonés japonés AQ0MS0 -)
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

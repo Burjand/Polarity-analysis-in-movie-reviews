@@ -1,0 +1,67 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(mérito mérito NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+    s-a-ms/qual/(mayor mayor AQ0CS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(filme filme NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  sn/obj/(creación creación NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(imagen imagen NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        s-a-fs/qual/(dual dual AQ0CS0 -) [
+          s-a-fs/modnorule/(representada representar VMP00SF -)
+        ]
+      ]
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(paralelismo paralelismo NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  coor-n/obj/(o o CC -) [
+    sn/co-n/(simbiosis simbiosis NCFN000 -) [
+      s-a-fs/qual/(surgida surgir VMP00SF -)
+    ]
+  ]
+  grup-sp/modnomatch/(entre entre SPS00 -) [
+    sn/head/(Clifford clifford NP00000 -)
+    CC(y)/modnomatch/(y y CC -)
+    sn/head/(Howard_Hugues howard_hugues NP00000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(tenemos tener VMIP1P0 -) [
+  sadv/cc/(Aquí aquí RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/modnomatch/(era ser VSII1S0 -) [
+    sadv/cc/(ya ya RG -)
+    sn/obj/(hora hora NCFS000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    s-a-fs/qual/(primera 1 AO0FS0 -)
+    s-a-fs/qual/(gran gran AQ0CS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(temporada temporada NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(pierdan perder VMSP3P0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  patons/modnomatch/(la lo PP3FSA00 -)
+  neg/modneg/(No no RN -)
+  F-term/term/(. . Fp -)
+]
+

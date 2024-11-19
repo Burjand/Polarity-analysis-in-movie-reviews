@@ -1,0 +1,68 @@
+grup-verb/top/(sido ser VSP00SM -) [
+  vaux/aux/(ha haber VAIP3S0 -)
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(Esta este DD0FS0 -)
+  ]
+  sn/obj/(sorpresa sorpresa NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(auténtica auténtico AQ0FS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(y y CC -) [
+  grup-verb/co-v/(esperaba esperar VMII1S0 -) [
+    patons/modnomatch/(Me me PP1CS000 -)
+    coor-n/obj/(y y CC -) [
+      sn/co-n/(peli peli NP00000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        s-a-fs/qual/(infantil infantil AQ0CS0 -) [
+          s-a-fs/modnorule/(llena lleno AQ0FS0 -)
+        ]
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(efectos_especiales efecto_especial NCMP000 -)
+        ]
+      ]
+      sn/co-n/(caras cara NCFP000 -) [
+        s-a-fp/qual/(conocidas conocer VMP00PF -)
+      ]
+    ]
+  ]
+  grup-verb/co-v/(encontrado encontrar VMP00SM -) [
+    patons/modnomatch/(me me PP1CS000 -)
+    vaux/aux/(he haber VAIP1S0 -)
+    grup-sp/modnomatch/(con con SPS00 -) [
+      sn/head/(peli peli NP00000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        s-a-fs/qual/(juvenil juvenil AQ0CS0 -) [
+          sadv/modnorule/(bien bien RG -) [
+            cuantif/modnorule/(más más RG -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(humor humor NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(e e CC -) [
+        s-a-ms/modnorule/(adulto adulto AQ0MS0 -)
+        s-a-ms/modnorule/(irónico irónico AQ0MS0 -)
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(recuerda recordar VMIP3S0 -)
+  ]
+  grup-sp/modnomatch/(a a SPS00 -) [
+    sn/head/(princesa princesa NCFS000 -) [
+      Fe/modnomatch/(" " Fe -)
+      Fe/modnomatch/(" " Fe -)
+      espec-fs/espec/(La el DA0FS0 -)
+      s-a-fs/qual/(prometida prometer VMP00SF -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

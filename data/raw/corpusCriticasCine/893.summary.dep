@@ -1,0 +1,69 @@
+grup-verb/top/(somos ser VSIP1P0 -) [
+  sn/subj/(Todos todo PI0MP000 -)
+  s-adj/att/(, , Fc -) [
+    s-a-mp/modnorule/(ciegos ciego AQ0MP0 -)
+    s-a-mp/modnorule/(y y CC -) [
+      s-a-mp/modnorule/(cojos cojo AQ0MP0 -)
+      s-a-mp/modnorule/(sordos sordo AQ0MP0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(porque porque CS -) [
+    grup-verb/modnorule/(tenemos tener VMIP1P0 -) [
+      sn/subj/(todos todo PI0MP000 -)
+      sn/obj/(carencias carencia NCFP000 -) [
+        s-a-fp/qual/(y y CC -) [
+          s-a-fp/modnorule/(emocionales emocional AQ0CP0 -)
+          s-a-fp/modnorule/(sentimentales sentimental AQ0CP0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(somos ser VSIP1P0 -) [
+  grup-sp/modnomatch/(A a SPS00 -) [
+    sn/head/(veces vez NCFP000 -)
+  ]
+  s-adj/att/(sordos sordo AQ0MP0 -)
+  grup-sp/modnomatch/(ante ante SPS00 -) [
+    sn/head/(cosas cosa NCFP000 -) [
+      espec-fp/espec/(las el DA0FP0 -)
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(oír oír VMN0000 -) [
+      VMI*<tener>/modnomatch/(tenemos tener VMIP1P0 -)
+      CS(que)/modnomatch/(que que CS -)
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  s-adj/att/(ciegos ciego AQ0MP0 -)
+  grup-sp/modnomatch/(ante ante SPS00 -) [
+    sn/head/(cosas cosa NCFP000 -) [
+      espec-fp/espec/(las el DA0FP0 -)
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(ver ver VMN0000 -) [
+      VMI*<querer>/modnomatch/(queremos querer VMIP1P0 -)
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  coor-n/obj/(y y CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(cojos cojo NCMP000 -)
+  ]
+  subord/modnomatch/(porque porque CS -) [
+    grup-verb/modnorule/(llegamos llegar VMIP1P0 -)
+  ]
+  sadv/cc/(tarde tarde RG -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(sitios sitio NCMP000 -) [
+      espec-mp/espec/(muchos mucho DI0MP0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

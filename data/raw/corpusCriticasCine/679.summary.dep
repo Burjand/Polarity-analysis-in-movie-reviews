@@ -1,0 +1,54 @@
+grup-verb/top/(sabido saber VMP00SM -) [
+  vaux/aux/(ha haber VAIP3S0 -)
+  sn/subj/(Martin martin NP00000 -)
+  grup-sp-inf/modnomatch/(como como CS -) [
+    grup-verb-inf/head/(arrimar arrimar VMN0000 -)
+  ]
+  espec-ms/modnomatch/(el el DA0MS0 -)
+  sn/obj/(ascua ascua NCFS000 -) [
+    grup-sp/modnomatch/(a a SPS00 -) [
+      sn/head/(sardina sardina NCFS000 -) [
+        espec-fs/espec/(su su DP3CS0 -)
+      ]
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  Fc(,)/modnomatch/(, , Fc -)
+  ger/modnomatch/(basando basar VMG0000 -) [
+    PP*/modnorule/(se se PP3CN000 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(idea idea NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(ajena ajeno AQ0FS0 -)
+      grup-verb/modnomatch/(puesto poner VMP00SM -) [
+        vaux/aux/(ha haber VAIP3S0 -)
+        grup-sp/cc/(en en SPS00 -) [
+          sn/head/(imágenes imagen NCFP000 -)
+        ]
+        coor-n/obj/(y y CC -) [
+          sn/co-n/(parte parte NCFS000 -) [
+            s-a-fs/qual/(buena bueno AQ0FS0 -)
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(obsesiones obsesión NCFP000 -) [
+                espec-fp/espec/(sus su DP3CP0 -)
+              ]
+            ]
+          ]
+          Fc(,)/modnomatch/(, , Fc -)
+          sn/co-n/(querencias querencia NCFP000 -)
+          Fc(,)/modnomatch/(, , Fc -)
+          sn/co-n/(demonios demonio NCMP000 -) [
+            s-a-mp/qual/(internos interno AQ0MP0 -)
+          ]
+          Fc(,)/modnomatch/(, , Fc -)
+          sn/co-n/(filias filia NCFP000 -)
+          sn/co-n/(fobias fobia NCFP000 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(. . Fp -)
+]
+

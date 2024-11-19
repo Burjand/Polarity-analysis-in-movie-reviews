@@ -1,0 +1,56 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(Barcelona barcelona NP00000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(interpretaciones interpretación NCFP000 -) [
+        espec-fp/espec/(las el DA0FP0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(actores actor NCMP000 -) [
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(talla talla NCFS000 -) [
+                espec-fs/espec/(la el DA0FS0 -)
+                sp-de/mod/(de de SPS00 -) [
+                  sn/gen/(Josep_María_Pou josep_maría_pou NP00000 -)
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  sn/subj/(Mapa mapa NP00000 -) [
+    Fpa/modnomatch/(( ( Fpa -)
+    Fpt/modnomatch/() ) Fpt -)
+    espec-ms/espec/(Un uno DI0MS0 -)
+  ]
+  sn/obj/(disertación disertación NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(fallida fallir VMP00SF -)
+  ]
+  grup-sp/modnomatch/(sobre sobre SPS00 -) [
+    sn/head/(vida vida NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(moderna moderno AQ0FS0 -)
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(ciudad ciudad NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(gran gran AQ0CS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(pero pero CC -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(permite permitir VMIP3S0 -)
+  ]
+  grup-verb-inf/modnomatch/(disfrutar disfrutar VMN0000 -)
+  coor-n/obj/(o o CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(Núria_Espert núria_espert NP00000 -)
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(Rosa_María_Sardà rosa_maría_sardà NP00000 -)
+    sn/co-n/(María_Botto maría_botto NP00000 -)
+  ]
+]
+

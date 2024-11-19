@@ -1,0 +1,77 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(Sorprendente sorprendente NP00000 -) [
+    grup-verb/modnomatch/(bava bava VMIP3S0 -) [
+      coor-n/obj/(o o CC -) [
+        sn/co-n/(Dario_Argento dario_argento NP00000 -)
+      ]
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(aspectos aspecto NCMP000 -) [
+      espec-mp/espec/(todos todo DI0MP0 -) [
+        j-mp/modnorule/(los el DA0MP0 -)
+      ]
+    ]
+  ]
+  sn/obj/(guiallo guiallo NCMS000 -) [
+    espec-ms/espec/(este este DD0MS0 -)
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(características característica NCFP000 -) [
+      espec-fp/espec/(todas todo DI0FP0 -) [
+        j-fp/modnorule/(las el DA0FP0 -)
+      ]
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(género género NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          s-a-ms/qual/(encumbrado encumbrar VMP00SM -)
+        ]
+      ]
+    ]
+  ]
+  grup-sp/modnomatch/(por por SPS00 -) [
+    sn/head/(gente gente NCFS000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(calibre calibre NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(Mario mario NP00000 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(sangre sangre NCFS000 -)
+  sadv/cc/(a_borbotones a_borbotones RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(muertes muerte NCFP000 -)
+  sadv/cc/(bien bien RG -)
+  parti-flex/modnomatch/(realizadas realizar VMP00PF -)
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(intriga intriga NCFS000 -) [
+    s-a-fs/qual/(llevada llevar VMP00SF -)
+    grup-sp/modnomatch/(con con SPS00 -) [
+      sn/head/(sabiduría sabiduría NCFS000 -) [
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(guión guión NCMS000 -) [
+            espec-ms/espec/(un uno DI0MS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  sadv/cc/(magníficamente magníficamente RG -)
+  parti-flex/modnomatch/(estructurado estructurar VMP00SM -)
+  grup-sp/modnomatch/(sin sin SPS00 -) [
+    sn/head/(fisuras fisura NCFP000 -) [
+      grup-sp/modnomatch/(en en SPS00 -) [
+        sn/head/(trayectoria trayectoria NCFS000 -) [
+          espec-fs/espec/(su su DP3CS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,75 @@
+grup-verb/top/(Resulta resultar VMIP3S0 -) [
+  s-adj/modnomatch/(atractivo atractivo AQ0MS0 -)
+  sn/obj/(cine cine NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(charla charla NCFS000 -) [
+        s-a-fs/qual/(interior interior AQ0CS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(? ? Fit -)
+  F-term/term/(? ? Fit -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(propone proponer VMIP3S0 -) [
+      sn/obj/(Cesc_Gay cesc_gay NP00000 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+parti-flex/top/(Narrado narrar VMP00SM -) [
+  grup-sp/modnorule/(desde desde SPS00 -) [
+    sn/head/(reposo reposo NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  forma-ger/modnorule/(primando primar VMG0000 -)
+  espec-ms/modnorule/(el el DA0MS0 -)
+  grup-verb-inf/modnorule/(fluir fluir VMN0000 -)
+  sp-de/modnorule/(de de SPS00 -) [
+    sn/gen/(conversaciones conversación NCFP000 -) [
+      espec-fp/espec/(las el DA0FP0 -)
+    ]
+  ]
+  grup-sp/modnorule/(con con SPS00 -) [
+    sn/head/(mismo mismo AQ0MS0 -) [
+      pindef-ms/modnomatch/(uno uno PI0MS000 -)
+    ]
+  ]
+  subord/modnorule/(que que PR0CN000 -) [
+    grup-verb/modnorule/(oímos oír VMIP1P0 -) [
+      neg/modneg/(no no RN -)
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  grup-verb/modnorule/(incomoda incomodar VMIP3S0 -) [
+    sn/subj/(Ficción ficción NP00000 -) [
+      espec-ms/espec/(su su DP3CS0 -)
+    ]
+    neg/modneg/(no no RN -)
+    coor-n/obj/(y y CC -) [
+      sn/co-n/(eso ese PD0NS000 -)
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(muestra mostrar VMIP3S0 -)
+    ]
+    sn/obj/(triste triste AQ0CS0 -) [
+      pindef-ms/modnomatch/(algo algo PI0CS000 -)
+      sadv/modnomatch/(tan tan RG -)
+    ]
+    grup-sp/modnomatch/(como como CS -) [
+      sn/head/(historia historia NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+      ]
+    ]
+    grup-sp/modnomatch/(sobre sobre SPS00 -) [
+      sn/head/(pasiones pasión NCFP000 -) [
+        s-a-fp/qual/(refrenadas refrenar VMP00PF -)
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

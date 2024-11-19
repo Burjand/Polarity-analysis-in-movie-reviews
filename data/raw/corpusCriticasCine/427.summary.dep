@@ -1,0 +1,51 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(argumento argumento NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+  ]
+  sn/obj/(historia historia NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    s-a-fs/qual/(trilladísima trillado AQSFS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(superación superación NCFS000 -) [
+        s-a-fs/qual/(personal personal AQ0CS0 -)
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(gusta gustar VMIP3S0 -) [
+      sadv/cc/(tanto tanto RG -)
+      grup-sp/iobj/(a a SPS00 -) [
+        sn/head/(americanos americano NCMP000 -) [
+          espec-mp/espec/(los el DA0MP0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sp-de/top/(De de SPS00 -) [
+  sn/gen/(hecho hecho NCMS000 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/modnomatch/(es ser VSIP3S0 -) [
+    sn/subj/(peli peli NP00000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  s-adj/modnomatch/(americanísima americano AQSFS0 -)
+  F-no-c/modnomatch/(... ... Fs -)
+  grup-sp/modnomatch/(desde desde SPS00 -) [
+    sn/head/(punto punto NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(vista vista NCFS000 -)
+      ]
+    ]
+  ]
+  s-adj/modnomatch/(zafio zafio AQ0MS0 -)
+  coord/modnomatch/(y y CC -)
+  sadv/modnomatch/(bipolarmente bipolarmente RG -)
+  parti-flex/modnomatch/(improvisado improvisar VMP00SM -)
+  F-term/modnomatch/(. . Fp -)
+]
+

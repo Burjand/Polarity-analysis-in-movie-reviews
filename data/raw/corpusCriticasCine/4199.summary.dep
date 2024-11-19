@@ -1,0 +1,38 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(Lamentable lamentable NP00000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    s-adj/qual/(, , Fc -) [
+      s-a-fs/modnorule/(mala malo AQ0FS0 -)
+      s-a-fs/modnorule/(pretenciosa pretencioso AQ0FS0 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-sp/modnomatch/(con con SPS00 -) [
+      sn/head/(fallos fallo NCMP000 -) [
+        s-a-mp/qual/(enormes enorme AQ0CP0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(guión guión NCMS000 -) [
+            grup-verb/modnomatch/(pasado pasar VMP00SM -) [
+              vaux/aux/(ha haber VAIP3S0 -)
+              coor-n/subj/(y y CC -) [
+                sn/co-n/(aqui aqui NCMS000 -)
+              ]
+              neg/modneg/(no no RN -)
+              sn/obj/(nada nada PI0CS000 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(espectáculo espectáculo NCMS000 -) [
+    s-a-ms/qual/(ideal ideal AQ0CS0 -)
+  ]
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(ver ver VMN0000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb-inf/modnomatch/(olvidar olvidar VMN0000 -)
+  F-term/term/(. . Fp -)
+]
+

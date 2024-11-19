@@ -1,0 +1,42 @@
+grup-verb/top/(alargar alargar VMN0000 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+  sn/subj/(ejemplo ejemplo NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+    s-a-ms/qual/(mejor mejor AQ0CS0 -)
+    prep/modnomatch/(de de SPS00 -)
+    espec-ms/espec/(lo el DA0NS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(llama llamar VMIP3S0 -) [
+        morfema-verbal/modnomatch/(se se P0000000 -)
+      ]
+    ]
+    F-term/term/(? ? Fit -)
+    sn/modnomatch/(bodrio bodrio NCMS000 -) [
+      s-a-ms/qual/(cinematográfico cinematográfico AQ0MS0 -)
+    ]
+    F-term/term/(? ? Fit -)
+    F-no-c/modnomatch/(: : Fd -)
+    sn/modnomatch/(historia historia NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(base base NCCS000 -) [
+          espec-fs/espec/(una uno DI0FS0 -)
+          s-a-fs/qual/(intragable intragable AQ0CS0 -)
+        ]
+      ]
+    ]
+    conj-subord/modnomatch/(que que CS -)
+    forma-ger/modnomatch/(partiendo partir VMG0000 -)
+  ]
+  grup-sp/modnomatch/(durante durante SPS00 -) [
+    sadv/modnomatch/(más más RG -) [
+      SPS00(de)/modnorule/(de de SPS00 -)
+      sn/modnorule/(hora hora NCFS000 -)
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  s-adj/modnomatch/(media medio AQ0FS0 -)
+  F-term/term/(. . Fp -)
+]
+

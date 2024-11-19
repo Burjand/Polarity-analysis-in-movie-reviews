@@ -1,0 +1,65 @@
+F-no-c/top/(¿ ¿ Fia -) [
+  grup-verb/modnorule/(conocido conocer VMP00SM -) [
+    vaux/aux/(Han haber VAIP3P0 -)
+    sn/obj/(vez vez NCFS000 -) [
+      espec-fs/espec/(alguna alguno DI0FS0 -)
+    ]
+    grup-sp/iobj/(a a SPS00 -) [
+      sn/head/(alguien alguien PI0CS000 -)
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(ponga poner VMSP1S0 -)
+    ]
+    sn/obj/(mejilla mejilla NCFS000 -) [
+      espec-fs/espec/(otra otro DI0FS0 -) [
+        j-fs/modnorule/(la el DA0FS0 -)
+      ]
+      grup-verb/modnomatch/(reciba recibir VMSP1S0 -) [
+        sn/obj/(bofetada bofetada NCFS000 -) [
+          espec-fs/espec/(una uno DI0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/modnorule/(? ? Fit -)
+]
+
+grup-verb/top/(pregunto preguntar VMIP1S0 -) [
+  morfema-verbal/modnomatch/(Se se P0000000 -)
+  patons/modnomatch/(lo lo PP3CNA00 -)
+  conj-subord/modnomatch/(porque porque CS -)
+  subord/modnomatch/(si si CS -) [
+    grup-verb/modnorule/(es ser VSIP3S0 -) [
+      sn/subj/(respuesta respuesta NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        grup-verb/modnomatch/(es ser VSIP3S0 -)
+      ]
+      sadv/cc/(sí sí RG -)
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  s-adj/modnomatch/(probable probable AQ0CS0 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(sea ser VSSP1S0 -) [
+      sn/subj/(conocido conocido NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+      sn/obj/(protagonista protagonista NCCS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  F-term/term/(? ? Fit -)
+]
+
+sn/top/(Luces luz NCFP000 -) [
+  grup-sp/modnomatch/(a a SPS00 -) [
+    sn/head/(atardecer atardecer NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  F-term/term/(? ? Fit -)
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,25 @@
+grup-verb/top/(ser ser VSN0000 -) [
+  patons/modnomatch/(lo lo PP3CNA00 -)
+  VMI*<volver>/modnomatch/(volvió volver VMIS3S0 -)
+  SPS00(a)/modnomatch/(a a SPS00 -)
+  sn/subj/(Nada nada PI0CS000 -) [
+    grup-verb/modnomatch/(ser ser VSN0000 -) [
+      VMI*<volver>/modnomatch/(volvió volver VMIS3S0 -)
+      SPS00(a)/modnomatch/(a a SPS00 -)
+      sn/subj/(nadie nadie PI0CS000 -)
+    ]
+  ]
+  s-adj/att/(mismo mismo AQ0MS0 -)
+  coord/modnomatch/(y y CC -)
+  espec-ms/modnomatch/(lo el DA0NS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(es ser VSIP3S0 -)
+  ]
+  s-adj/att/(importante importante AQ0CS0 -) [
+    sadv/modnorule/(más más RG -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  s-adj/att/(igual igual AQ0CS0 -)
+  F-term/term/(. . Fp -)
+]
+

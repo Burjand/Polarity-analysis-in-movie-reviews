@@ -1,0 +1,78 @@
+grup-verb/top/(transcurre transcurrir VMIP3S0 -) [
+  grup-sp/modnomatch/(Con con SPS00 -) [
+    sn/head/(momento momento NCMS000 -) [
+      espec-ms/espec/(algún alguno DI0MS0 -)
+      s-a-ms/qual/(inquietante inquietante AQ0CS0 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  grup-sp/modnomatch/(por por SPS00 -) [
+    sn/head/(senda senda NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(normalidad normalidad NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp-inf/modnomatch/(sin sin SPS00 -) [
+    grup-verb-inf/head/(ser ser VSN0000 -) [
+      VMN0000(llegar)/modnomatch/(llegar llegar VMN0000 -)
+      SPS00(a)/modnomatch/(a a SPS00 -)
+    ]
+    sn/modnomatch/(nada nada PI0CS000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(mundo mundo NCMS000 -) [
+          espec-ms/espec/(otro otro DI0MS0 -) [
+            j-ms/modnorule/(el el DA0MS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(y y CC -)
+  ger/modnomatch/(desinflando desinflar VMG0000 -) [
+    PP*/modnorule/(se se PP3CN000 -)
+  ]
+  sadv/cc/(poco_a_poco poco_a_poco RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp-inf/modnomatch/(hasta hasta SPS00 -) [
+    grup-verb-inf/head/(llegar llegar VMN0000 -)
+  ]
+  prep/modnomatch/(a a SPS00 -)
+  espec-ms/modnomatch/(un uno DI0MS0 -)
+  F-term/term/(? ? Fit -)
+  sn/obj/(final final NCFS000 -)
+  F-term/term/(? ? Fit -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(sorpresa sorpresa NCFS000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/iobj/(para para SPS00 -) [
+    sadv/modnomatch/(posteriormente posteriormente RG -)
+  ]
+  grup-verb-inf/modnomatch/(dejar dejar VMN0000 -) [
+    PP*/modnomatch/(nos nos PP1CP000 -)
+  ]
+  sn/obj/(edulcorado edulcorar VMP00SM -) [
+    j-ms/modnomatch/(el el DA0MS0 -)
+  ]
+  F-term/term/(? ? Fit -)
+]
+
+sn/top/(The_End the_end NP00000 -) [
+  F-term/term/(? ? Fit -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(gusta gustar VMIP3S0 -) [
+      sadv/cc/(tanto tanto RG -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

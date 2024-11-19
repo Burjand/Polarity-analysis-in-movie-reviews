@@ -1,0 +1,56 @@
+prep/top/(Para para SPS00 -) [
+  quien-s/modnorule/(quien quien PR0CS000 -)
+  grup-verb/modnorule/(vea ver VMSP1S0 -) [
+    patons/modnomatch/(la lo PP3FSA00 -)
+    grup-sp/modnomatch/(sin sin SPS00 -) [
+      sn/head/(tipo tipo NCMS000 -) [
+        espec-ms/espec/(ningún ninguno DI0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(prejuicio prejuicio NCMS000 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(será ser VSIF3S0 -) [
+    sn/obj/(maravilla maravilla NCFS000 -) [
+      espec-fs/espec/(toda todo DI0FS0 -) [
+        indef-fs/modnorule/(una uno DI0FS0 -)
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+coor-vb/top/(Aunque aunque CC -) [
+  grup-verb/co-v/(quedo quedar VMIP1S0 -) [
+    patons/modnomatch/(me me PP1CS000 -)
+    grup-sp/modnomatch/(con con SPS00 -) [
+      sn/head/(sensación sensación NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(sido ser VSP00SM -) [
+      vaux/aux/(ha haber VAIP3S0 -)
+      sn/subj/(vez vez NCFS000 -) [
+        espec-fs/espec/(esta este DD0FS0 -)
+      ]
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  s-adj/modnomatch/(genial genial AQ0CS0 -) [
+    sadv/modnorule/(tan tan RG -)
+  ]
+  conj-subord/modnomatch/(como como CS -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(Amores_Perros amores_perros NP00000 -)
+  ]
+  coor-n/modnomatch/(y y CC -) [
+    sn/co-n/(21_gramos WG_g:21 Zu -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

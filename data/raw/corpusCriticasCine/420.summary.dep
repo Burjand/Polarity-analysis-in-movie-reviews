@@ -1,0 +1,58 @@
+grup-verb/top/(sé saber VMIP1S0 -) [
+  neg/modneg/(No no RN -)
+  subord/modnomatch/(si si CS -) [
+    grup-verb/modnorule/(disfrutar disfrutar VMN0000 -) [
+      vaux/aux/(hubiera haber VASI1S0 -)
+      VMP00SM(llegado)/modnomatch/(llegado llegar VMP00SM -)
+      SPS00(a)/modnomatch/(a a SPS00 -)
+      grup-sp/modnomatch/(con con SPS00 -) [
+        sn/head/(visión visión NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(director director NCMS000 -) [
+              espec-ms/espec/(otro otro DI0MS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  sadv/cc/(más más RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(pero pero CC -)
+  conj-subord/modnomatch/(si si CS -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(faltado faltar VMP00SM -) [
+      patons/modnomatch/(me me PP1CS000 -)
+      vaux/aux/(ha haber VAIP3S0 -)
+      sn/obj/(chispa chispa NCFS000 -) [
+        espec-fs/espec/(esa ese DD0FS0 -)
+      ]
+    ]
+  ]
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(visto ver VMP00SM -) [
+      infaux/modnomatch/(haber haber VAN0000 -)
+    ]
+  ]
+  s-adj/modnomatch/(espectacular espectacular AQ0CS0 -) [
+    sadv/modnorule/(algo algo RG -)
+  ]
+  coord/modnomatch/(y y CC -)
+  sadv/cc/(a_la_vez a_la_vez RG -)
+  grup-verb-inf/modnomatch/(reflejado reflejar VMP00SM -) [
+    infaux/modnomatch/(haber haber VAN0000 -)
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(España españa NP00000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(siglo siglo NCMS000 -) [
+          espec-ms/espec/(ese ese DD0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

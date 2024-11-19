@@ -1,0 +1,45 @@
+sn/top/(Thriller thriller NCMS000 -) [
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(acción acción NCFS000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(resultar resultar VMN0000 -) [
+      VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+    ]
+  ]
+  s-adj/qual/(cansina cansino AQ0FS0 -)
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(Aunque aunque CC -) [
+  grup-verb/co-v/(es ser VSIP3S0 -)
+  s-adj/modnomatch/(trepidante trepidante AQ0CS0 -)
+  coor-vb/modnomatch/(y y CC -) [
+    grup-verb/co-v/(está estar VAIP3S0 -)
+  ]
+  s-adj/modnomatch/(llena lleno AQ0FS0 -)
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(acción acción NCFS000 -) [
+      s-a-fs/qual/(buena bueno AQ0FS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(es ser VSIP3S0 -) [
+    neg/modneg/(no no RN -)
+  ]
+  s-adj/modnomatch/(cierto cierto AQ0MS0 -) [
+    sadv/modnorule/(menos menos RG -)
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(hay haber VMIP3S0 -) [
+      sadv/cc/(apenas apenas RG -)
+      sn/obj/(nada nada PI0CS000 -)
+      sadv/cc/(más más RG -)
+    ]
+  ]
+  conj-subord/modnomatch/(que que CS -)
+  sn/modnomatch/(eso ese PD0NS000 -)
+  F-term/modnomatch/(. . Fp -)
+]
+

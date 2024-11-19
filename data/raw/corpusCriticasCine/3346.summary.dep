@@ -1,0 +1,44 @@
+grup-verb/top/(recibir recibir VMN0000 -) [
+  VMI*<deber>/modnomatch/(debería deber VMIC1S0 -)
+  sn/subj/(Edgar_Wright edgar_wright NP00000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    subord/modnomatch/(si si CS -) [
+      grup-verb/modnorule/(permiten permitir VMIP3P0 -) [
+        patons/modnomatch/(me me PP1CS000 -)
+        sn/obj/(osadía osadía NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+        ]
+      ]
+      Fc(,)/modnorule/(, , Fc -)
+    ]
+  ]
+  sn/obj/(trofeo trofeo NCMS000 -) [
+    espec-ms/espec/(algún alguno DI0MS0 -)
+    s-a-ms/qual/(simbólico simbólico AQ0MS0 -)
+  ]
+  grup-sp/modnomatch/(por por SPS00 -) [
+    sn/head/(desfachatez desfachatez NCFS000 -) [
+      s-a-fs/qual/(tremenda tremendo AQ0FS0 -)
+    ]
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(gracia gracia NCFS000 -)
+  ]
+  coord/modnomatch/(y y CC -)
+  grup-verb-inf/modnomatch/(coronado coronar VMP00SM -) [
+    infaux-ser/modnomatch/(ser ser VSN0000 -)
+  ]
+  sadv/cc/(definitivamente definitivamente RG -)
+  grup-sp/modnomatch/(como como CS -) [
+    sn/head/(rey rey NCMS000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(parodia parodia NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          s-a-fs/qual/(gamberra gamberro AQ0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

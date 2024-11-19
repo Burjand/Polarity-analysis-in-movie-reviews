@@ -1,0 +1,55 @@
+grup-verb/top/(logrado lograr VMP00SM -) [
+  vaux/aux/(ha haber VAIP3S0 -)
+  sn/subj/(Cuarón cuarón NP00000 -)
+  sn/obj/(equilibrio equilibrio NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+  ]
+  grup-sp/modnomatch/(entre entre SPS00 -) [
+    sn/head/(mensaje mensaje NCMS000 -)
+    CC(y)/modnomatch/(y y CC -)
+    sn/head/(espectáculo espectáculo NCMS000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  s-adj/modnomatch/(raro raro AQ0MS0 -) [
+    sadv/modnorule/(tan tan RG -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(días día NCMP000 -) [
+      espec-mp/espec/(estos este DD0MP0 -)
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(resulta resultar VMIP3S0 -)
+  ]
+  s-adj/modnomatch/(hipnotizante hipnotizante AQ0CS0 -)
+  F-term/term/(. . Fp -)
+]
+
+subord/top/(Si si CS -) [
+  grup-verb/modnorule/(filmado filmar VMP00SM -) [
+    patons/modnomatch/(la lo PP3FSA00 -)
+    vaux/aux/(hubiera haber VASI1S0 -)
+    sn/subj/(película película NCFS000 -) [
+      espec-fs/espec/(esta este DD0FS0 -)
+    ]
+    sn/obj/(maestro maestro NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(consagrado consagrar VMP00SM -)
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(hablarían hablar VMIC3P0 -) [
+    grup-sp/modnomatch/(a a SPS00 -) [
+      sn/head/(alturas altura NCFP000 -) [
+        espec-fp/espec/(estas este DD0FP0 -)
+      ]
+    ]
+    sn/subj/(muchos mucho PI0MP000 -)
+    sadv/cc/(ya ya RG -)
+    grup-sp/modnomatch/(de de SPS00 -) [
+      s-a-ms/modnomatch/(clásico clásico AQ0MS0 -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

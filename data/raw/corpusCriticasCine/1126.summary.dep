@@ -1,0 +1,57 @@
+subord/top/(Si si CS -) [
+  grup-verb/modnorule/(vais ir VMIP2P0 -)
+  grup-sp/modnorule/(con con SPS00 -) [
+    sn/head/(hijos hijo NCMP000 -) [
+      espec-mp/espec/(vuestros vuestro DP2MPP -)
+      grup-sp/modnomatch/(a a SPS00 -) [
+        sn/head/(cine cine NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  grup-sp-inf/modnorule/(a a SPS00 -) [
+    grup-verb-inf/head/(ver ver VMN0000 -)
+  ]
+  F-term/modnorule/(? ? Fit -)
+]
+
+grup-verb/top/(pasaréis pasar VMIF2P0 -) [
+  coor-n/subj/(y y CC -) [
+    sn/co-n/(Arthur arthur NP00000 -)
+    sn/co-n/(Minimoys minimoys NP00000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+    ]
+    F-term/modnomatch/(? ? Fit -)
+  ]
+  sn/obj/(tarde tarde NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(divertida divertir VMP00SF -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(disfrutad disfrutar VMM02P0 -) [
+  patons/modnomatch/(la lo PP3FSA00 -)
+  sn/subj/(Eso ese PD0NS000 -) [
+    sadv/modnomatch/(sí sí RG -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(espíritu espíritu NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(ojos ojo NCMP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(niño niño NCMS000 -) [
+          espec-ms/espec/(un uno DI0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

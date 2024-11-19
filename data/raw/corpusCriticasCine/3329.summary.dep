@@ -1,0 +1,62 @@
+sn/top/(título título NCMS000 -) [
+  espec-ms/espec/(El el DA0MS0 -)
+  s-a-ms/qual/(capital capital AQ0CS0 -)
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(cine_de_terror cine_de_terror NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(nuevo nuevo AQ0MS0 -)
+      s-a-ms/qual/(moderno moderno AQ0MS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(convierte convertir VMIP3S0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  grup-sp/modnomatch/(A_partir_de a_partir_de SPS00 -) [
+    sadv/modnomatch/(aquí aquí RG -)
+    coor-vb/modnomatch/(y y CC -) [
+      grup-verb/co-v/(caído caer VMP00SM -) [
+        vaux/aux/(ha haber VAIP3S0 -)
+        sn/cc/(bazofia bazofia NCFS000 -)
+      ]
+      grup-verb/co-v/(sonado sonar VMP00SM -) [
+        vaux/aux/(han haber VAIP3P0 -)
+        coor-n/obj/(y y CC -) [
+          sn/co-n/(trompetas trompeta NCFP000 -)
+          sn/co-n/(clarínes clarínes NCCP000 -)
+        ]
+      ]
+    ]
+    prep/modnomatch/(de de SPS00 -)
+    espec-fp/modnomatch/(las el DA0FP0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(suenan sonar VMIP3P0 -)
+    ]
+    conj-subord/modnomatch/(cuando cuando CS -)
+    sn/head/(cine cine NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      Fc(,)/modnomatch/(, , Fc -)
+      grup-sp/modnomatch/(encima_de encima_de SPS00 -) [
+        sn/head/(consideraciones consideración NCFP000 -) [
+          s-a-fp/qual/(personales personal AQ0CP0 -) [
+            sadv/modnorule/(meramente meramente RG -)
+          ]
+        ]
+      ]
+    ]
+    prep/modnomatch/(por por SPS00 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(notario notario NCMS000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(época época NCFS000 -) [
+          espec-fs/espec/(una uno DI0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-no-c/modnomatch/(... ... Fs -)
+]
+

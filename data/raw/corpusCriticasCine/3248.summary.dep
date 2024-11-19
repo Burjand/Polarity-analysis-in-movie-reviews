@@ -1,0 +1,74 @@
+grup-verb/top/(contiene contener VMIP3S0 -) [
+  sn/subj/(Batacazo batacazo NCMS000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(proporciones proporción NCFP000 -) [
+        s-a-fp/qual/(siderales sideral AQ0CP0 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(Sunshine sunshine NP00000 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(no_obstante no_obstante CC -)
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(detalles detalle NCMP000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(cine cine NCMS000 -) [
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(altura altura NCFS000 -) [
+            grup-sp/modnomatch/(con con SPS00 -) [
+              sn/head/(factura factura NCFS000 -) [
+                espec-fs/espec/(una uno DI0FS0 -)
+                s-a-fs/qual/(técnica técnico AQ0FS0 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  sn/obj/(soberbia soberbia NCFS000 -)
+  F-term/term/(. . Fp -)
+]
+
+F-no-c/top/(¿ ¿ Fia -) [
+  grup-verb/modnorule/(está estar VAIP3S0 -) [
+    sadv/cc/(Dónde dónde PT000000 -)
+    sn/obj/(fallo fallo NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  F-term/modnorule/(? ? Fit -)
+]
+
+grup-sp/top/(En en SPS00 -) [
+  sn/head/(interés interés NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    s-a-ms/qual/(escaso escaso AQ0MS0 -)
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  espec-ms/modnomatch/(lo el DA0NS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(cuenta contar VMIP3S0 -)
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  prep/modnomatch/(en en SPS00 -)
+  neg/modnomatch/(no no RN -)
+  grup-verb-inf/modnomatch/(creer creer VMN0000 -) [
+    PP*/modnomatch/(nos nos PP1CP000 -)
+  ]
+  sn/head/(propuesta propuesta NCFS000 -) [
+    espec-fs/espec/(su su DP3CS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-sp/modnomatch/(en en SPS00 -) [
+      sn/head/(revoltillo revoltillo NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(tópicos tópico NCMP000 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

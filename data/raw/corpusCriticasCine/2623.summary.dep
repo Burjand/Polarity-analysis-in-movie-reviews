@@ -1,0 +1,63 @@
+grup-verb/top/(creen creer VMIP3P0 -) [
+  sn/subj/(ejercicio ejercicio NCMS000 -) [
+    s-a-ms/qual/(Fascinante fascinante AQ0CS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(cine cine NCMS000 -) [
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(altura altura NCFS000 -) [
+            espec-fs/espec/(mucha mucho DI0FS0 -)
+          ]
+        ]
+      ]
+    ]
+    prel/modnomatch/(que que PR0CN000 -)
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-sp-inf/modnomatch/(sin sin SPS00 -) [
+      grup-verb-inf/head/(ser ser VSN0000 -) [
+        VMN0000(llegar)/modnomatch/(llegar llegar VMN0000 -)
+        SPS00(a)/modnomatch/(a a SPS00 -)
+      ]
+      sn/modnomatch/(Obra_Maestra obra_maestra NP00000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+    subord/modnomatch/(que que CS -) [
+      grup-verb/modnorule/(lea leer VMM03S0 -) [
+        patons/modnomatch/(se se PP3CN000 -)
+        sn/subj/(críticos crítico NCMP000 -) [
+          espec-mp/espec/(muchos mucho DI0MP0 -)
+          F-no-c/modnomatch/(( ( Fpa -)
+          grup-verb/modnomatch/(convierte convertir VMIP3S0 -) [
+            morfema-verbal/modnomatch/(se se P0000000 -)
+            grup-sp/cc/(en en SPS00 -) [
+              sn/head/(película película NCFS000 -) [
+                espec-fs/espec/(la el DA0FS0 -)
+                s-a-fs/qual/(mejor mejor AQ0CS0 -)
+                sp-de/mod/(de de SPS00 -) [
+                  sn/gen/(verano verano NCMS000 -) [
+                    espec-ms/espec/(el el DA0MS0 -)
+                  ]
+                ]
+              ]
+            ]
+            F-no-c/modnomatch/(: : Fd -)
+            sadv/cc/(inapelablemente inapelablemente RG -)
+          ]
+        ]
+        sn/obj/(introito introito NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(reseña reseña NCFS000 -) [
+              espec-fs/espec/(la el DA0FS0 -)
+            ]
+          ]
+        ]
+        F-no-c/modnomatch/() ) Fpt -)
+      ]
+    ]
+  ]
+  grup-verb-inf/modnomatch/(ver ver VMN0000 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(. . Fp -)
+]
+

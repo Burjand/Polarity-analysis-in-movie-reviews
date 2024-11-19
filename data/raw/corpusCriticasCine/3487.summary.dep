@@ -1,0 +1,61 @@
+grup-verb/top/(oscila oscilar VMIP3S0 -) [
+  grup-sp/modnomatch/(A_partir_de a_partir_de SPS00 -) [
+    sn/head/(momento momento NCMS000 -) [
+      s-a-ms/qual/(cierto cierto AQ0MS0 -)
+    ]
+  ]
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  grup-sp/modnomatch/(entre entre SPS00 -) [
+    sn/head/(terrorífico terrorífico AQ0MS0 -) [
+      j-ms/modnomatch/(lo el DA0NS0 -)
+    ]
+  ]
+  coor-n/obj/(o o CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(aburrido aburrir VMP00SM -) [
+      j-ms/modnomatch/(lo el DA0NS0 -)
+    ]
+    sn/co-n/(ridículo ridículo NCMS000 -) [
+      espec-ms/espec/(lo el DA0NS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(ofrece ofrecer VMIP3S0 -) [
+  sadv/cc/(Aún_así aún_así RG -) [
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  sn/subj/(espectáculo espectáculo NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(entretenimiento entretenimiento NCMS000 -)
+    ]
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(cantidad cantidad NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(buena bueno AQ0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(sustos susto NCMP000 -)
+      ]
+    ]
+    sn/co-n/(momentos momento NCMP000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(impacto impacto NCMS000 -)
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(aseguran asegurar VMIP3P0 -)
+  ]
+  sn/obj/(hora hora NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+  ]
+  coord/modnomatch/(y y CC -)
+  s-adj/modnomatch/(media medio AQ0FS0 -)
+  F-term/term/(. . Fp -)
+]
+

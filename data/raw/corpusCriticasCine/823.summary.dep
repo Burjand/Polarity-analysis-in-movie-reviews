@@ -1,0 +1,46 @@
+grup-verb/top/(Transcurre transcurrir VMM02S0 -) [
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(tensión tensión NCFS000 -) [
+      s-a-fs/qual/(constante constante AQ0CS0 -)
+      grup-verb/modnomatch/(deparará deparar VMIF3S0 -) [
+        sn/subj/(qué qué PT0CN000 -)
+        sn/obj/(futuro futuro NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  neg/modneg/(no no RN -)
+  grup-verb-inf/modnomatch/(saber saber VMN0000 -)
+  coor-sp/modnomatch/(y y CC -) [
+    grup-sp/modnorule/(a a SPS00 -) [
+      sn/head/(Owen owen NP00000 -)
+    ]
+    grup-sp/modnorule/(a a SPS00 -) [
+      sn/head/(protegida protegido NCFS000 -) [
+        espec-fs/espec/(su su DP3CS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sadv/top/(mal mal RG -) [
+  cuantif/modnorule/(Menos menos RG -)
+  subord/modnorule/(que que CS -) [
+    grup-verb/modnorule/(ocupa ocupar VMIP3S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+      sn/subj/(Michael_Caine michael_caine NP00000 -)
+    ]
+  ]
+  grup-sp-inf/modnorule/(de de SPS00 -) [
+    grup-verb-inf/head/(ofrecer ofrecer VMN0000 -)
+    sn/modnomatch/(nota nota NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(humorística humorístico AQ0FS0 -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

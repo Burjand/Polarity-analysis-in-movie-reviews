@@ -1,0 +1,62 @@
+grup-verb/top/(Da dar VMIP3S0 -) [
+  sn/obj/(poco poco PI0MS000 -) [
+    indef-ms/modnomatch/(un uno DI0MS0 -)
+  ]
+  sn/obj/(sensación sensación NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(querido querer VMP00SM -) [
+      vaux/aux/(haya haber VASP1S0 -)
+      sn/subj/(director director NCMS000 -) [
+        espec-ms/espec/(su su DP3CS0 -)
+        Fc(,)/modnomatch/(, , Fc -)
+      ]
+      sn/subj/(Andreas_Prochaska andreas_prochaska NP00000 -) [
+        Fc(,)/modnomatch/(, , Fc -)
+      ]
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  grup-verb-inf/modnomatch/(arriesgar arriesgar VMN0000 -)
+  coor-n/obj/(ni ni CC -) [
+    sn/co-n/(fotograma fotograma NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(solo solo AQ0MS0 -)
+    ]
+  ]
+  prep/modnomatch/(con_tal_de con_tal_de SPS00 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(salir salir VMN0000 -) [
+      VMS*<poder>/modnomatch/(pueda poder VMSP1S0 -)
+      sn/subj/(cinta cinta NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+      sp-de/modnomatch/(de de SPS00 -) [
+        sn/gen/(Austria austria NP00000 -)
+      ]
+      grup-sp/cc/(hacia hacia SPS00 -) [
+        sn/head/(países país NCMP000 -) [
+          espec-mp/espec/(todos todo DI0MP0 -) [
+            j-mp/modnorule/(los el DA0MP0 -)
+          ]
+        ]
+      ]
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(leído leer VMP00SM -) [
+          vaux/aux/(hayan haber VASP3P0 -)
+        ]
+      ]
+      sn/cc/(manual manual NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        w-ms/modnomatch/(slasher slasher NP00000 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(Hollywood hollywood NP00000 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

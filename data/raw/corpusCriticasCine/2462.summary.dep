@@ -1,0 +1,46 @@
+grup-verb/top/(tenido tener VMP00SM -) [
+  vaux/aux/(ha haber VAIP3S0 -)
+  sn/subj/(Transformers transformers NP00000 -)
+  sn/obj/(capacidad capacidad NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(haber haber VAN0000 -) [
+      PP*/modnomatch/(me me PP1CS000 -)
+    ]
+  ]
+  parti-flex/modnomatch/(hecho hacer VMP00SM -)
+  grup-verb-inf/modnomatch/(disfrutar disfrutar VMN0000 -)
+  grup-sp/modnomatch/(como como CS -) [
+    sn/head/(niño niño NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(pequeño pequeño AQ0MS0 -)
+      grup-sp/modnomatch/(en en SPS00 -) [
+        sn/head/(sala sala NCFS000 -) [
+          espec-fs/espec/(una uno DI0FS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(cine cine NCMS000 -) [
+              grup-verb/modnomatch/(hecho hacer VMP00SM -) [
+                patons/modnomatch/(lo lo PP3CNA00 -)
+                vaux/aux/(ha haber VAIP3S0 -)
+                grup-sp/modnomatch/(como como CS -) [
+                  sn/head/(película película NCFS000 -) [
+                    espec-fs/espec/(ninguna ninguno DI0FS0 -)
+                  ]
+                ]
+                grup-sp/modnomatch/(desde desde SPS00 -) [
+                  sn/head/(hace hacer VMIP3S0 -) [
+                    sn-tmp/modnomatch/(tiempo tiempo NCMS000 -)
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,72 @@
+sn/top/(triunfo triunfo NCMS000 -) [
+  espec-ms/espec/(El el DA0MS0 -)
+  s-a-ms/qual/(gran gran AQ0CS0 -)
+  prep/modnomatch/(de de SPS00 -)
+  F-term/term/(? ? Fit -)
+]
+
+grup-verb/top/(son ser VSIP3P0 -) [
+  sn/subj/(Amanecer amanecer NCMS000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(muertos muerto NCMP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+      ]
+    ]
+    F-term/term/(? ? Fit -)
+  ]
+  sn/obj/(personajes personaje NCMP000 -) [
+    espec-mp/espec/(los el DA0MP0 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(arquetipos arquetipo NCMP000 -)
+  prep/modnomatch/(con con SPS00 -)
+  espec-mp/modnomatch/(los el DA0MP0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(sentir sentir VMN0000 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+      VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+      sn/subj/(mundo mundo NCMS000 -) [
+        espec-ms/espec/(todo todo DI0MS0 -) [
+          j-ms/modnorule/(el el DA0MS0 -)
+        ]
+        grup-verb/modnomatch/(son ser VSIP3P0 -) [
+          sn/subj/(todos todo PI0MP000 -)
+          sn/obj/(personajes personaje NCMP000 -) [
+            s-a-mp/qual/(, , Fc -) [
+              s-a-mp/modnorule/(creíbles creíble AQ0CP0 -)
+              s-a-mp/modnorule/(y y CC -) [
+                s-a-mp/modnorule/(humanos humano AQ0MP0 -)
+                s-a-mp/modnorule/(sólidos sólido AQ0MP0 -) [
+                  sadv/modnorule/(bastante bastante RG -)
+                ]
+              ]
+            ]
+            subord/modnomatch/(si si CS -) [
+              grup-verb/modnorule/(tenemos_en_cuenta tener_en_cuenta VMIP1P0 -) [
+                sn/obj/(género género NCMS000 -) [
+                  espec-ms/espec/(el el DA0MS0 -)
+                  sp-de/mod/(de de SPS00 -) [
+                    sn/gen/(película película NCFS000 -) [
+                      espec-fs/espec/(la el DA0FS0 -)
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  parti-flex/modnomatch/(identificado identificar VMP00SM -)
+  F-no-c/modnomatch/(... ... Fs -)
+  coord/modnomatch/(y y CC -)
+  espec-ms/modnomatch/(lo el DA0NS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(trasmitir trasmitir VMN0000 -) [
+      VMI*<querer>/modnomatch/(quiere querer VMIP3S0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

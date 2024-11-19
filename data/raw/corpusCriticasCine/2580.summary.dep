@@ -1,0 +1,77 @@
+grup-verb/top/(cabe caber VMIP3S0 -) [
+  grup-sp/modnomatch/(Bajo bajo SPS00 -) [
+    sn/head/(dirección dirección NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(Greg_McLean greg_mclean NP00000 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  grup-verb-inf/modnomatch/(destacar destacar VMN0000 -)
+  sn/obj/(tramo tramo NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    s-a-ms/qual/(final final AQ0CS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(película película NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(persigue perseguir VMIP3S0 -) [
+  grup-sp/modnomatch/(A a SPS00 -) [
+    sn/head/(luz luz NCFS000 -) [
+      s-a-fs/qual/(plena pleno AQ0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(día día NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  sn/subj/(cazador cazador NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(presa presa NCFS000 -) [
+      espec-fs/espec/(su su DP3CS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-sp/top/(Y y CC -) [
+  Fc(,)/modnorule/(, , Fc -)
+  grup-sp/modnorule/(a a SPS00 -) [
+    sn/head/(falta falta NCFS000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(cine cine NCMS000 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  sn/modnorule/(vísceras víscera NCFP000 -)
+  F-term/modnorule/(. . Fp -)
+]
+
+grup-verb/top/(digiriendo digerir VMG0000 -) [
+  VMI*<seguir>/modnomatch/(sigue seguir VMIP3S0 -)
+  coor-n/subj/(Y y CC -) [
+    sn/co-n/(espectador espectador NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  sn/obj/(crueldad crueldad NCFS000 -) [
+    espec-fs/espec/(tanta tanto DI0FS0 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  F-no-c/modnomatch/(¿ ¿ Fia -)
+  grup-sp/modnomatch/(hasta hasta SPS00 -) [
+    sadv/modnomatch/(cuándo cuándo PT000000 -)
+  ]
+  F-term/term/(? ? Fit -)
+]
+

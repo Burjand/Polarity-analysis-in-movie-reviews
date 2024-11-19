@@ -1,0 +1,74 @@
+grup-verb/top/(cela celar VMIP3S0 -) [
+  sn/subj/(Szabo szabo NP00000 -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(mimo mimo NCMS000 -)
+  ]
+  sn/obj/(cultura cultura NCFS000 -) [
+    espec-fs/espec/(su su DP3CS0 -)
+    s-a-fs/qual/(socialista socialista AQ0CS0 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(legado legado NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(escuela escuela NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        s-a-fs/qual/(rusa ruso AQ0FS0 -)
+      ]
+    ]
+  ]
+  parti-flex/modnomatch/(plasmado plasmar VMP00SM -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(planos plano NCMP000 -) [
+      s-a-mp/qual/(, , Fc -) [
+        s-a-mp/modnorule/(fijos fijo AQ0MP0 -)
+        s-a-mp/modnorule/(cortos corto AQ0MP0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(austeridad austeridad NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(atrezzo atrezzo NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(sobre sobre SPS00 -) [
+    sn/head/(todo todo PI0MS000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(reconstitutivo reconstitutivo NCMS000 -) [
+      s-a-ms/qual/(cierto cierto AQ0MS0 -)
+      s-a-ms/qual/(afecto afecto AQ0MS0 -)
+      grup-sp/modnomatch/(por por SPS00 -) [
+        sn/head/(verbal verbal AQ0CS0 -) [
+          j-ms/modnomatch/(lo el DA0NS0 -)
+          grup-sp/modnomatch/(sobre sobre SPS00 -) [
+            sn/head/(icónico icónico AQ0MS0 -) [
+              j-ms/modnomatch/(lo el DA0NS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(Cine cine NCMS000 -) [
+  s-a-ms/qual/(político político AQ0MS0 -)
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(altura altura NCFS000 -) [
+      espec-fs/espec/(mucha mucho DI0FS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

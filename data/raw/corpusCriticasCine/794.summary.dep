@@ -1,0 +1,45 @@
+grup-verb/top/(dejado dejar VMP00SM -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  vaux/aux/(han haber VAIP3P0 -)
+  sn/subj/(creadores creador NCMP000 -) [
+    espec-mp/espec/(Sus su DP3CP0 -)
+  ]
+  grup-verb-inf/modnomatch/(llevar llevar VMN0000 -)
+  grup-sp/cc/(por por SPS00 -) [
+    sn/head/(conformista conformista AQ0CS0 -) [
+      j-ms/modnomatch/(lo el DA0NS0 -)
+      sadv/modnomatch/(meramente meramente RG -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sadv/cc/(posiblemente posiblemente RG -)
+  sadv/cc/(a_sabiendas a_sabiendas RG -)
+  prep/modnomatch/(de de SPS00 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(hacer hacer VMN0000 -) [
+      VMI*<tener>/modnomatch/(tienen tener VMIP3P0 -)
+      CS(que)/modnomatch/(que que CS -)
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  sadv/cc/(mucho mucho RG -)
+  prep/modnomatch/(para para SPS00 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(ser ser VSN0000 -) [
+      VMS*<volver>/modnomatch/(vuelva volver VMSP1S0 -)
+      SPS00(a)/modnomatch/(a a SPS00 -)
+      sn/subj/(película película NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+      sn/obj/(éxito éxito NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        s-a-ms/qual/(considerable considerable AQ0CS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(taquilla taquilla NCFS000 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

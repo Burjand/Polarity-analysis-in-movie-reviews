@@ -1,0 +1,39 @@
+grup-verb/top/(propone proponer VMIP3S0 -) [
+  sn/subj/(Marc_Forster marc_forster NP00000 -) [
+    grup-verb/modnomatch/(ocurriría ocurrir VMIC1S0 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(filme filme NCMS000 -) [
+      espec-ms/espec/(su su DP3CS0 -)
+      s-a-ms/qual/(último último AO0MS0 -)
+    ]
+  ]
+  sn/obj/(experimento experimento NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(interesante interesante AQ0CS0 -)
+  ]
+  F-no-c/modnomatch/(: : Fd -)
+  F-no-c/modnomatch/(¿ ¿ Fia -)
+  sn/obj/(Qué qué PT0CN000 -)
+  conj-subord/modnomatch/(si si CS -)
+  sn/obj/(personaje personaje NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(novela novela NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        s-a-fs/qual/(consciente consciente AQ0CS0 -) [
+          sadv/modnorule/(fuera fuera RG -)
+        ]
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(ella él PP3FS000 -)
+        ]
+      ]
+    ]
+  ]
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(estar estar VAN0000 -)
+  ]
+  forma-ger/modnomatch/(formando_parte formar_parte VMG0000 -)
+  F-term/term/(? ? Fit -)
+]
+

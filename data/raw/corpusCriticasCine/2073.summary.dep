@@ -1,0 +1,54 @@
+grup-verb/top/(admitiré admitir VMIF1S0 -) [
+  sn/subj/(Asi asi NP00000 -) [
+    prel/modnomatch/(que que PR0CN000 -)
+    conj-subord/modnomatch/(si si CS -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(gustado gustar VMP00SM -) [
+      patons/modnomatch/(me me PP1CS000 -)
+      vaux/aux/(ha haber VAIP3S0 -)
+      grup-sp/modnomatch/(como como CS -) [
+        sn/head/(profe profe NCFS000 -) [
+          Fe/modnomatch/(" " Fe -)
+          Fe/modnomatch/(" " Fe -)
+        ]
+      ]
+    ]
+  ]
+  sadv/cc/(mucho mucho RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(y y CC -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(dejado dejar VMP00SM -) [
+      patons/modnomatch/(me me PP1CS000 -)
+      vaux/aux/(ha haber VAIP3S0 -)
+      sn/obj/(sabor sabor NCMS000 -) [
+        s-a-ms/qual/(buen bueno AQ0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(boca boca NCFS000 -) [
+            grup-verb/modnomatch/(hay haber VMIP3S0 -) [
+              sadv/cc/(siempre siempre RG -)
+              sn/obj/(peros pero NCMP000 -)
+              grup-sp/cc/(en en SPS00 -) [
+                sn/head/(esto este PD0NS000 -) [
+                  sp-de/mod/(de de SPS00 -) [
+                    sn/gen/(cine cine NCMS000 -) [
+                      espec-ms/espec/(el el DA0MS0 -)
+                    ]
+                  ]
+                ]
+              ]
+              F-no-c/modnomatch/() ) Fpt -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  coord/modnomatch/(pero pero CC -)
+  F-no-c/modnomatch/(... ... Fs -)
+  F-no-c/modnomatch/(( ( Fpa -)
+  F-term/term/(. . Fp -)
+]
+

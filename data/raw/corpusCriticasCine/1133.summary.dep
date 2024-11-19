@@ -1,0 +1,40 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(Caja_Kovak caja_kovak NP00000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+  ]
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(intriga intriga NCFS000 -) [
+        s-a-fs/qual/(notable notable AQ0CS0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(cumple cumplir VMIP3S0 -)
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(función función NCFS000 -) [
+      espec-fs/espec/(su su DP3CS0 -)
+    ]
+  ]
+  sadv/cc/(a_la_perfección a_la_perfección RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb-inf/modnomatch/(mantener mantener VMN0000 -)
+  sn/obj/(intigrado intigrado NCMS000 -) [
+    grup-sp/modnomatch/(a a SPS00 -) [
+      sn/head/(público público NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        grup-sp/modnomatch/(hasta hasta SPS00 -) [
+          sn/head/(momento momento NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+            s-a-ms/qual/(último último AO0MS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

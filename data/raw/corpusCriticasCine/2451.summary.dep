@@ -1,0 +1,52 @@
+grup-verb/top/(posicionar posicionar VMN0000 -) [
+  patons/modnomatch/(se se PP3CN000 -)
+  VMI*<volver>/modnomatch/(vuelve volver VMIP3S0 -)
+  SPS00(a)/modnomatch/(a a SPS00 -)
+  sn/subj/(Pixar pixar NP00000 -)
+  grup-sp/cc/(como como CS -) [
+    sn/head/(factoría factoría NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(gran gran AQ0CS0 -)
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(consigue conseguir VMIP3S0 -)
+  ]
+  sn/obj/(victoria victoria NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(gran gran AQ0CS0 -)
+  ]
+  grup-sp/cc/(sobre sobre SPS00 -) [
+    sn/head/(Dreamworks dreamworks NP00000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(supera superar VMIP3S0 -) [
+  grup-sp/modnomatch/(En_cuanto_a en_cuanto_a SPS00 -) [
+    sn/head/(calidad calidad NCFS000 -) [
+      s-a-fs/qual/(cinematográfica cinematográfico AQ0FS0 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(producto producto NCMS000 -) [
+    espec-ms/espec/(su su DP3CS0 -)
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(Shrek shrek NP00000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(mismísimo mismo AQSMS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(buque buque NCMS000 -) [
+    n-fs/modnomatch/(insignia insignia NCFS000 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(rival rival NCCS000 -) [
+        espec-ms/espec/(su su DP3CS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

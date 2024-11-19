@@ -1,0 +1,43 @@
+grup-verb/top/(esperar esperar VMN0000 -) [
+  VMI*<poder>/modnomatch/(Podéis poder VMIP2P0 -)
+  grup-verb-inf/modnomatch/(pasar pasar VMN0000 -)
+  sn/obj/(rato rato NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    grup-sp/modnomatch/(con con SPS00 -) [
+      sn/head/(ella él PP3FS000 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  coord/modnomatch/(pero pero CC -)
+  prel/modnomatch/(que que PR0CN000 -)
+  sadv/cc/(desde_luego desde_luego RG -)
+  sn/obj/(yo yo PP1CSN00 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-verb/modnomatch/(ver ver VMN0000 -) [
+      patons/modnomatch/(la lo PP3FSA00 -)
+      vaux/aux/(habría haber VAIC1S0 -)
+      VMP00SM(ido)/modnomatch/(ido ir VMP00SM -)
+      SPS00(a)/modnomatch/(a a SPS00 -)
+      neg/modneg/(no no RN -)
+      grup-sp/iobj/(a a SPS00 -) [
+        sn/head/(cine cine NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(broma broma NCFS000 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(haber haber VAN0000 -) [
+      PP*/modnomatch/(lo lo PP3CNA00 -)
+    ]
+  ]
+  parti-flex/modnomatch/(sabido saber VMP00SM -)
+  sadv/cc/(antes antes RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(ni ni CC -)
+  F-term/term/(. . Fp -)
+]
+

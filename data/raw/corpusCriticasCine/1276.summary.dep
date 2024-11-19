@@ -1,0 +1,83 @@
+grup-verb/top/(Es ser VSIP3S0 -) [
+  sn/obj/(producto producto NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(digno digno AQ0MS0 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(terminar terminar VMN0000 -)
+    sn/modnomatch/(saga saga NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(enamorado enamorar VMP00SM -) [
+          vaux/aux/(ha haber VAIP3S0 -)
+        ]
+      ]
+    ]
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(millones millón NCMP000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(espectadores espectador NCMP000 -) [
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(manera manera NCFS000 -) [
+              espec-fs/espec/(esta este DD0FS0 -)
+              grup-verb/modnomatch/(ve ver VMIP3S0 -) [
+                morfema-verbal/modnomatch/(se se P0000000 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(y y CC -)
+  conj-subord/modnomatch/(que que CS -)
+  parti-flex/modnomatch/(recompensada recompensar VMP00SF -)
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(pretende pretender VMIP3S0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  patons/modnomatch/(nos nos PP1CP000 -)
+  grup-sp/cc/(En en SPS00 -) [
+    sn/head/(momento momento NCMS000 -) [
+      espec-ms/espec/(ningún ninguno DI0MS0 -)
+    ]
+  ]
+  grup-verb-inf/modnomatch/(engañar engañar VMN0000 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(ya_que ya_que CS -) [
+    grup-verb/modnorule/(sabemos saber VMIP1P0 -) [
+      sn/subj/(todos todo PI0MP000 -) [
+        grup-verb/modnomatch/(es ser VSIP3S0 -) [
+          coor-n/subj/(y y CC -) [
+            Fc(,)/modnomatch/(, , Fc -)
+            sn/co-n/(verdad verdad NCFS000 -) [
+              espec-fs/espec/(la el DA0FS0 -)
+            ]
+          ]
+          subord/modnomatch/(que que CS -) [
+            grup-verb/modnorule/(agradece agradecer VMIP3S0 -) [
+              morfema-verbal/modnomatch/(se se P0000000 -)
+              sn/obj/(gesto gesto NCMS000 -) [
+                espec-ms/espec/(este este DD0MS0 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  espec-ms/modnomatch/(lo el DA0NS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(encontrar encontrar VMN0000 -) [
+      patons/modnomatch/(nos nos PP1CP000 -)
+      VMI*<ir>/modnomatch/(vamos ir VMIP1P0 -)
+      SPS00(a)/modnomatch/(a a SPS00 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

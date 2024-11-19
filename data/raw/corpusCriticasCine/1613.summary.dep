@@ -1,0 +1,48 @@
+grup-verb/top/(hecho hacer VMP00SM -) [
+  vaux/aux/(ha haber VAIP3S0 -)
+  sn/subj/(realización realización NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Tim_Burton tim_burton NP00000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        s-a-ms/qual/(capaz capaz AQ0CS0 -)
+      ]
+    ]
+    grup-sp-inf/modnomatch/(de de SPS00 -) [
+      grup-verb-inf/head/(crear crear VMN0000 -)
+      sn/modnomatch/(delirios delirio NCMP000 -) [
+        s-a-mp/qual/(auténticos auténtico AQ0MP0 -)
+        s-a-mp/qual/(visuales visual AQ0CP0 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  grup-sp/modnomatch/(como como CS -) [
+    sadv/modnomatch/(ya ya RG -)
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(anterioridad anterioridad NCFS000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-sp-inf/top/(Sin sin SPS00 -) [
+  grup-verb-inf/head/(desmerecer desmerecer VMN0000 -)
+  sn/modnomatch/(resultado resultado NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    s-a-ms/qual/(final final AQ0CS0 -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+sn/top/(imagen imagen NCFS000 -) [
+  espec-fs/espec/(La el DA0FS0 -)
+  s-a-fs/qual/(viva vivo AQ0FS0 -)
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(padre padre NCMS000 -) [
+      espec-ms/espec/(mi mi DP1CSS -)
+    ]
+  ]
+  F-no-c/modnomatch/(... ... Fs -)
+]
+

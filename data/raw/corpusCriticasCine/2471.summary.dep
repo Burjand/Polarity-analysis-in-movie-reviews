@@ -1,0 +1,49 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(Red_Road red_road NP00000 -) [
+    grup-verb/modnomatch/(consigo conseguir VMIP1S0 -) [
+      sn/subj/(película película NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        s-a-fs/qual/(honesta honesto AQ0FS0 -) [
+          sadv/modnorule/(poco poco RG -)
+        ]
+      ]
+    ]
+  ]
+  prep/modnomatch/(ante ante SPS00 -)
+  espec-ms/modnomatch/(todo todo DI0MS0 -)
+  s-adj/att/(misma mismo AQ0FS0 -)
+  coor-sp/modnomatch/(y y CC -) [
+    grup-sp/modnorule/(con con SPS00 -) [
+      sn/head/(espectador espectador NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(trucos truco NCMP000 -) [
+            s-a-mp/qual/(artificiales artificial AQ0CP0 -) [
+              s-a-mp/modnorule/(innecesarios innecesario AQ0MP0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  s-adj/att/(llena lleno AQ0FS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(desvían desviar VMIP3P0 -)
+  ]
+  sn/obj/(atención atención NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(virtud virtud NCFS000 -) [
+        espec-fs/espec/(su su DP3CS0 -)
+        s-a-fs/qual/(principal principal AQ0CS0 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(historia historia NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

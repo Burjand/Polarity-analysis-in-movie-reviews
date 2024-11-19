@@ -1,0 +1,35 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(historia historia NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(y y CC -) [
+        s-a-fs/modnorule/(divertida divertir VMP00SF -)
+        s-a-fs/modnorule/(emocionante emocionante AQ0CS0 -)
+      ]
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(atracadores atracador NCMP000 -)
+      ]
+    ]
+    sn/co-n/(policías policía NCCP000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+s-adj/top/(recomendable recomendable AQ0CS0 -) [
+  sadv/modnorule/(Muy muy RG -)
+  grup-sp-inf/modnorule/(para para SPS00 -) [
+    grup-verb-inf/head/(pasar pasar VMN0000 -)
+    sn/modnomatch/(rato rato NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(buen bueno AQ0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(calidad calidad NCFS000 -)
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

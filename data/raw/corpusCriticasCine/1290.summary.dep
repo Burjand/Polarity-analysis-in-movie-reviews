@@ -1,0 +1,53 @@
+grup-verb/top/(quito quitar VMIP1S0 -) [
+  patons/modnomatch/(Me me PP1CS000 -)
+  sn/obj/(sombrero sombrero NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+  ]
+  grup-sp/modnomatch/(ante ante SPS00 -) [
+    sn/head/(DiCaprio dicaprio NP00000 -) [
+      grup-verb/modnomatch/(estado estar VAP00SM -) [
+        vaux/aux/(ha haber VAIP3S0 -)
+      ]
+    ]
+  ]
+  quien-s/modnomatch/(quien quien PR0CS000 -)
+  forma-ger/modnomatch/(trabajando trabajar VMG0000 -)
+  sadv/cc/(bien bien RG -) [
+    cuantif/modnorule/(muy muy RG -)
+  ]
+  s-adj/modnomatch/(Infiltrados infiltrar VMP00PM -) [
+    Fpa/modnorule/(( ( Fpa -)
+    Fpt/modnorule/() ) Fpt -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(tiempos tiempo NCMP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+      s-a-mp/qual/(últimos último AO0MP0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(gira girar VMIP3S0 -) [
+  sn/subj/(actorazo actor NCMS00A -) [
+    espec-ms/espec/(Un uno DI0MS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(brilla brillar VMIP3S0 -)
+    ]
+    sadv/modnomatch/(tanto tanto RG -)
+    grup-sp/modnomatch/(como como CS -) [
+      sn/head/(diamante diamante NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+    relatiu/modnomatch/(alrededor_de alrededor_de SPS00 -) [
+      j-ms/modnorule/(el el DA0MS0 -)
+      cual-s/modnorule/(cual cual PR0CS000 -)
+    ]
+  ]
+  sn/obj/(historia historia NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

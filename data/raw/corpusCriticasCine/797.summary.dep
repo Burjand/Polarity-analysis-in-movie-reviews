@@ -1,0 +1,57 @@
+coor-vb/top/(pero pero CC -) [
+  grup-verb/co-v/(Puede poder VMIP3S0 -) [
+    conj-subord/modnomatch/(que que CS -)
+  ]
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  grup-verb/co-v/(dado dar VMP00SM -) [
+    vaux/aux/(haya haber VASP1S0 -)
+    sn/obj/(campanada campanada NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(tomar tomar VMN0000 -) [
+    patons/modnomatch/(se se PP3CN000 -)
+    VMI*<deber>/modnomatch/(debería deber VMIC1S0 -)
+    neg/modneg/(no no RN -)
+    grup-sp/modnomatch/(como como CS -) [
+      sn/head/(novedad novedad NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+grup-verb/top/(atiborran atiborrar VMIP3P0 -) [
+  sn/subj/(paletos paleto NCMP000 -) [
+    espec-mp/espec/(Los el DA0MP0 -)
+  ]
+  sn/obj/(pantallas pantalla NCFP000 -) [
+    espec-fp/espec/(las el DA0FP0 -)
+  ]
+  prep/modnomatch/(desde desde SPS00 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(es ser VSIP3S0 -) [
+      sn/subj/(cine cine NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        grup-verb/modnomatch/(es ser VSIP3S0 -) [
+          neg/modneg/(no no RN -)
+          sn/obj/(agudo agudo AQ0MS0 -) [
+            j-ms/modnomatch/(el el DA0MS0 -)
+            sadv/modnomatch/(más más RG -)
+          ]
+        ]
+      ]
+      sn/obj/(cine cine NCMS000 -)
+      coor-n/obj/(y y CC -) [
+        Fc(,)/modnomatch/(, , Fc -)
+        sn/co-n/(éste este PD0MS000 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

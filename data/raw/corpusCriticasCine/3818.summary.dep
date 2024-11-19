@@ -1,0 +1,31 @@
+grup-verb/top/(Repite repetir VMM02S0 -) [
+  sn/obj/(director director NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(manejar manejar VMN0000 -) [
+        VMI*<volver>/modnomatch/(vuelve volver VMIP3S0 -)
+        SPS00(a)/modnomatch/(a a SPS00 -)
+      ]
+    ]
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(eficacia eficacia NCFS000 -)
+  ]
+  sn/obj/(presupuesto presupuesto NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    s-a-ms/qual/(holgado holgar VMP00SM -)
+  ]
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(ofrecer ofrecer VMN0000 -)
+    sn/modnomatch/(entretenimiento entretenimiento NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(y y CC -) [
+        s-a-ms/modnorule/(eficaz eficaz AQ0CS0 -)
+        s-a-ms/modnorule/(poquito poquito AQ0MS0 -)
+      ]
+    ]
+  ]
+  sadv/cc/(más más RG -)
+  F-term/term/(. . Fp -)
+]
+

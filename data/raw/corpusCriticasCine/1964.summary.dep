@@ -1,0 +1,42 @@
+grup-verb/top/(presenta presentar VMIP3S0 -) [
+  morfema-verbal/modnomatch/(Se se P0000000 -)
+  grup-sp/modnomatch/(como como CS -) [
+    sn/head/(opción opción NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+    ]
+  ]
+  grup-sp/iobj/(para para SPS00 -) [
+    sn/head/(amantes amante NCCP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(Zhang_Yimou zhang_yimou NP00000 -) [
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(Gong_Li gong_li NP00000 -) [
+              sp-de/mod/(de de SPS00 -) [
+                sn/gen/(espectacularidad espectacularidad NCFS000 -) [
+                  espec-fs/espec/(la el DA0FS0 -)
+                  s-a-fs/qual/(visual visual AQ0CS0 -)
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(y y CC -)
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(resto resto NCMS000 -) [
+  espec-ms/espec/(El el DA0MS0 -)
+  s-a-ms/qual/(mejor mejor AQ0CS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(abstengan abstener VMSP3P0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

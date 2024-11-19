@@ -1,0 +1,57 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(bosque bosque NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(luto luto NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(bellísima bello AQSFS0 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(interpretaciones interpretación NCFP000 -) [
+      espec-fp/espec/(unas uno DI0FP0 -)
+      s-a-fp/qual/(excelentes excelente AQ0CP0 -)
+    ]
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(fotografía fotografía NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(preciosa precioso AQ0FS0 -)
+    ]
+  ]
+  prel/modnomatch/(que que PR0CN000 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(a_pesar_de a_pesar_de SPS00 -) [
+    sn/head/(lentitud lentitud NCFS000 -) [
+      espec-fs/espec/(su su DP3CS0 -)
+      s-a-fs/qual/(extrema extremo AQ0FS0 -)
+      grup-verb/modnomatch/(hacen hacer VMIP3P0 -) [
+        sp-de/modnomatch/(de de SPS00 -) [
+          sn/gen/(ella él PP3FS000 -)
+        ]
+        coor-n/obj/(y y CC -) [
+          sn/co-n/(despliegue despliegue NCMS000 -) [
+            espec-ms/espec/(un uno DI0MS0 -)
+            s-a-ms/qual/(verdadero verdadero AQ0MS0 -)
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(sentimientos sentimiento NCMP000 -)
+            ]
+          ]
+          sn/co-n/(emociones emoción NCFP000 -) [
+            s-a-fp/qual/(viscerales visceral AQ0CP0 -) [
+              sadv/modnorule/(casi casi RG -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(. . Fp -)
+]
+

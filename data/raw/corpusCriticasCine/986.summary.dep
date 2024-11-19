@@ -1,0 +1,61 @@
+grup-verb/top/(perder perder VMN0000 -) [
+  VMI*<ir>/modnomatch/(vamos ir VMIP1P0 -)
+  SPS00(a)/modnomatch/(a a SPS00 -)
+  neg/modneg/(No no RN -)
+  sn/obj/(tiempo tiempo NCMS000 -)
+  forma-ger/modnomatch/(explicando explicar VMG0000 -)
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(cómos cómos NCMP000 -)
+    sn/co-n/(porqués porqué NCMP000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-sp-inf/top/(Por por SPS00 -) [
+  grup-verb-inf/head/(decir decir VMN0000 -)
+  sn/modnomatch/(algo algo PI0CS000 -)
+  coor-vb/modnomatch/(y y CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-verb/co-v/(tranquilizando tranquilizar VMG0000 -) [
+      patons/modnomatch/(nos nos PP1CP000 -)
+      VMI*<ir>/modnomatch/(vamos ir VMIP1P0 -)
+      sadv/cc/(así así RG -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/modnomatch/(copia copiar VMIP3S0 -) [
+    sn/subj/(Eragon eragon NP00000 -)
+    sadv/cc/(descaradamente descaradamente RG -)
+    sn/obj/(clichés cliché NCMP000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(producciones producción NCFP000 -) [
+          espec-fp/espec/(otras otro DI0FP0 -)
+          s-a-fp/qual/(afortunadas afortunado AQ0FP0 -) [
+            sadv/modnorule/(más más RG -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/modnomatch/(producciones producción NCFP000 -) [
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(merecen merecer VMIP3P0 -) [
+        sadv/cc/(además además RG -)
+        sn/obj/(categoria categoria NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(clásicos clásico NCMP000 -)
+          ]
+        ]
+        grup-sp/cc/(en en SPS00 -) [
+          sn/head/(ámbito ámbito NCMS000 -) [
+            espec-ms/espec/(su su DP3CS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

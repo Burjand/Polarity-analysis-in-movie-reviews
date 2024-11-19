@@ -1,0 +1,51 @@
+grup-sp/top/(A a SPS00 -) [
+  sn/head/(salida salida NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(cine cine NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  s-adj/modnomatch/(, , Fc -) [
+    s-a-fp/modnorule/(caras caro AQ0FP0 -) [
+      s-a-fp/modnorule/(largas largo AQ0FP0 -)
+    ]
+    s-a-fp/modnorule/(miradas mirar VMP00PF -)
+  ]
+  sadv/modnomatch/(de_soslayo de_soslayo RG -)
+  coor-n/head/(y y CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(remordimientos remordimiento NCMP000 -)
+    sn/co-n/(debate debate NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(intenso intenso AQ0MS0 -)
+    ]
+  ]
+  prep/modnomatch/(sobre sobre SPS00 -)
+  subord/modnomatch/(si si CS -) [
+    grup-verb/modnorule/(había haber VMII3S0 -)
+  ]
+  coord/modnomatch/(o o CC -)
+  neg/modnomatch/(no no RN -)
+  sn/head/(puntazo puntazo NCMS000 -) [
+    espec-ms/espec/(algún alguno DI0MS0 -)
+    Fe/modnomatch/(" " Fe -)
+    Fe/modnomatch/(" " Fe -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(mereciera merecer VMSI1S0 -)
+    ]
+  ]
+  sn/head/(pena pena NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+grup-verb/top/(vi ver VMIS1S0 -) [
+  patons/modnomatch/(lo lo PP3CNA00 -)
+  sn/subj/(Yo yo PP1CSN00 -)
+  neg/modneg/(no no RN -)
+  F-term/term/(. . Fp -)
+]
+

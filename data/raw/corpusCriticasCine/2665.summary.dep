@@ -1,0 +1,68 @@
+coor-vb/top/(y y CC -) [
+  grup-verb/co-v/(Espero esperar VMIP1S0 -) [
+    conj-subord/modnomatch/(que que CS -)
+    grup-sp-inf/modnomatch/(de de SPS00 -) [
+      grup-verb-inf/head/(haber haber VAN0000 -)
+      sn/modnomatch/(una_tercera_parte 1/3 Zp -) [
+        grup-verb/modnomatch/(despachen despachar VMSP3P0 -) [
+          sp-de/modnomatch/(de de SPS00 -) [
+            sn/gen/(patada patada NCFS000 -) [
+              espec-fs/espec/(una uno DI0FS0 -)
+            ]
+          ]
+          grup-sp/iobj/(a a SPS00 -) [
+            sn/head/(director director NCMS000 -) [
+              espec-ms/espec/(el el DA0MS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+    espec-ms/modnomatch/(este este DD0MS0 -)
+    coor-sp/modnomatch/(y y CC -) [
+      grup-sp/modnorule/(a a SPS00 -) [
+        sn/head/(equipo equipo NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          n-fs/modnomatch/(guionista guionista NCCS000 -)
+        ]
+      ]
+    ]
+  ]
+  grup-verb/co-v/(ocupe ocupar VMSP1S0 -) [
+    morfema-verbal/modnomatch/(se se P0000000 -)
+    sp-de/modnomatch/(de de SPS00 -) [
+      sn/gen/(franquicia franquicia NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+    sn/obj/(alguien alguien PI0CS000 -) [
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(sepa saber VMSP1S0 -) [
+          patons/modnomatch/(nos nos PP1CP000 -)
+        ]
+      ]
+    ]
+  ]
+  grup-verb-inf/modnomatch/(dar dar VMN0000 -)
+  coor-n/modnomatch/(y y CC -) [
+    sn/co-n/(película película NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(adulta adulto AQ0FS0 -) [
+        sadv/modnorule/(más más RG -)
+      ]
+    ]
+    sn/co-n/(espectáculo espectáculo NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(mejor mejor AQ0CS0 -)
+    ]
+  ]
+  conj-subord/modnomatch/(que que CS -)
+  sn/modnomatch/(visto ver VMP00SM -) [
+    j-ms/modnomatch/(el el DA0MS0 -)
+    grup-sp/modnomatch/(hasta hasta SPS00 -) [
+      sadv/modnomatch/(ahora ahora RG -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

@@ -1,0 +1,712 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(David david NP00000 -)
+  sn/obj/(modelo modelo NCCS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(estudiante estudiante AQ0CS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(ingresa ingresar VMIP3S0 -)
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(escuela escuela NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(prestigiosa prestigioso AQ0FS0 -)
+      s-a-fs/qual/(superior superior AQ0CS0 -) [
+        s-a-fs/modnorule/(universitaria universitario AQ0FS0 -)
+      ]
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(ciudad ciudad NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(Pisa pisa NP00000 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(entretiene entretener VMIP3S0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  grup-sp/modnomatch/(A a SPS00 -) [
+    sn/head/(examen examen NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+    ]
+    grup-sp-inf/modnomatch/(de de SPS00 -) [
+      grup-verb-inf/head/(acabar acabar VMN0000 -)
+      sn/modnomatch/(licenciatura licenciatura NCFS000 -) [
+        espec-fs/espec/(su su DP3CS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(reuniones reunión NCFP000 -) [
+            espec-fp/espec/(las el DA0FP0 -)
+            s-a-fp/qual/(múltiples múltiple AQ0CP0 -)
+            s-a-fp/qual/(estudiantiles estudiantil AQ0CP0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(Física física NP00000 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(reunión reunión NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+    ]
+  ]
+  prep/modnomatch/(con con SPS00 -)
+  espec-fs/modnomatch/(una uno DI0FS0 -)
+  sn/obj/(izquierdistas izquierdista NCCP000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(universidad universidad NCFS000 -) [
+        espec-fs/espec/(su su DP3CS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+prep/top/(A_pesar_de a_pesar_de SPS00 -) [
+  subord/modnorule/(que que CS -) [
+    grup-verb/modnorule/(es ser VSIP3S0 -) [
+      sn/subj/(David david NP00000 -)
+      neg/modneg/(no no RN -)
+      sn/obj/(aficionado aficionado NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        s-a-ms/qual/(gran gran AQ0CS0 -)
+      ]
+      grup-sp/iobj/(a a SPS00 -) [
+        sn/head/(política política NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+        ]
+      ]
+      subord/modnomatch/(si si CS -) [
+        grup-verb/modnorule/(es ser VSIP3S0 -) [
+          patons/modnomatch/(lo lo PP3CNA00 -)
+        ]
+      ]
+      grup-sp/iobj/(a a SPS00 -) [
+        sn/head/(Viola viola NP00000 -)
+      ]
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  espec-fs/modnorule/(una uno DI0FS0 -)
+  sp-de/modnorule/(de de SPS00 -) [
+    sn/gen/(integristas integrista NCCP000 -) [
+      espec-fp/espec/(las el DA0FP0 -)
+    ]
+  ]
+  coord/modnorule/(y y CC -)
+  subord/modnorule/(dado_que dado_que CS -) [
+    grup-verb/modnorule/(suspende suspender VMIP3S0 -) [
+      sn/obj/(examen examen NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  prep/modnorule/(a a SPS00 -)
+  espec-ms/modnorule/(el el DA0MS0 -)
+  neg/modnorule/(no no RN -)
+  grup-verb-inf/modnorule/(haber haber VAN0000 -) [
+    PP*/modnomatch/(se se PP3CN000 -)
+  ]
+  parti-flex/modnorule/(presentado presentar VMP00SM -)
+  grup-verb/modnorule/(pasará pasar VMIF3S0 -) [
+    patons/modnomatch/(lo lo PP3CNA00 -)
+    sn/subj/(resto resto NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(verano verano NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+    grup-sp/cc/(junto_con junto_con SPS00 -) [
+      sn/head/(amigos amigo NCMP000 -) [
+        espec-mp/espec/(sus su DP3CP0 -)
+        s-a-mp/qual/(nuevos nuevo AQ0MP0 -)
+      ]
+    ]
+    sn/obj/(preocupado preocupar VMP00SM -) [
+      espec-ms/espec/(más más RG -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(inquietudes inquietud NCFP000 -) [
+          espec-fp/espec/(las el DA0FP0 -)
+          s-a-fp/qual/(sociales social AQ0CP0 -) [
+            s-a-fp/modnorule/(prestadas prestar VMP00PF -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  prel/modnorule/(que que PR0CN000 -)
+  sp-de/modnorule/(de de SPS00 -) [
+    sn/gen/(libros libro NCMP000 -) [
+      espec-mp/espec/(sus su DP3CP0 -)
+      s-a-mp/qual/(propios propio AQ0MP0 -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+espec-ms/top/(Lo el DA0NS0 -) [
+  subord/modnorule/(que que PR0CN000 -) [
+    grup-verb/modnorule/(parece parecer VMIP3S0 -)
+  ]
+  grup-verb/modnorule/(es ser VSIP3S0 -) [
+    sn/subj/(película película NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-adj/qual/(adolescentes adolescente AQ0CP0 -) [
+        sadv/modnorule/(más más RG -) [
+          SPS00(de)/modnorule/(de de SPS00 -)
+          sn/modnorule/(amores amor NCMP000 -)
+        ]
+      ]
+    ]
+    grup-sp/modnomatch/(con con SPS00 -) [
+      sn/head/(trasfondo trasfondo NCMS000 -) [
+        s-a-ms/qual/(cierto cierto AQ0MS0 -)
+        s-a-ms/qual/(político político AQ0MS0 -)
+      ]
+    ]
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(realidad realidad NCFS000 -) [
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(películas película NCFP000 -) [
+            espec-fp/espec/(pocas poco DI0FP0 -) [
+              j-fp/modnorule/(las el DA0FP0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(atreven atrever VMIP3P0 -) [
+        morfema-verbal/modnomatch/(se se P0000000 -)
+      ]
+    ]
+    grup-sp-inf/iobj/(a a SPS00 -) [
+      grup-verb-inf/head/(narrar narrar VMN0000 -)
+      sn/modnomatch/(pedacito pedazo NCMS00D -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(historia historia NCFS000 -) [
+            s-a-fs/qual/(reciente reciente AQ0CS0 -)
+          ]
+        ]
+        subord/modnomatch/(que que PR0CN000 -) [
+          grup-verb/modnorule/(fue ser VSIS3S0 -)
+        ]
+      ]
+      sn/modnomatch/(cumbre cumbre NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(G8 G8 Z -) [
+            espec-ms/espec/(el el DA0MS0 -)
+          ]
+        ]
+      ]
+    ]
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(Génova génova NP00000 -)
+    ]
+    coor-n/obj/(y y CC -) [
+      sn/co-n/(sucesos suceso NCMP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(desarrollaron desarrollar VMIS3P0 -) [
+        morfema-verbal/modnomatch/(se se P0000000 -)
+      ]
+    ]
+    sadv/cc/(allí allí RG -)
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+grup-verb/top/(contar contar VMN0000 -) [
+  VMI*<ir>/modnomatch/(voy ir VMIP1S0 -)
+  SPS00(a)/modnomatch/(a a SPS00 -)
+  sadv/cc/(Ahora ahora RG -)
+  sn/obj/(batallita batalla NCFS00D -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+subord/top/(Cuando cuando CS -) [
+  grup-verb/modnorule/(celebró celebrar VMIS3S0 -) [
+    morfema-verbal/modnomatch/(se se P0000000 -)
+  ]
+  grup-sp/modnorule/(en en SPS00 -) [
+    sn/head/(19 19 Z -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  sn/modnorule/(20 20 Z -) [
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/modnorule/(21 21 Z -)
+  coord/modnorule/(y y CC -)
+  data/modnorule/(22_de_julio_de_2001 [??:22/7/2001:??.??:??] W -)
+  vaux/modnorule/(estaba estar VAII1S0 -)
+  grup-sp/modnorule/(en en SPS00 -) [
+    sn/head/(Roma roma NP00000 -)
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(decidió decidir VMIS3S0 -) [
+    sn/subj/(amigo amigo NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(alemán alemán AQ0MS0 -)
+    ]
+  ]
+  grup-verb-inf/modnorule/(coger coger VMN0000 -)
+  sn/modnorule/(tren tren NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+  ]
+  coord/modnorule/(y y CC -)
+  grup-verb-inf/modnorule/(dirigir dirigir VMN0000 -) [
+    PP*/modnomatch/(se se PP3CN000 -)
+  ]
+  grup-sp/modnorule/(a a SPS00 -) [
+    sn/head/(manifestación manifestación NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(pacífica pacífico AQ0FS0 -)
+      grup-sp/modnomatch/(contra contra SPS00 -) [
+        sn/head/(cumbre cumbre NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+espec-fs/top/(Una uno DI0FS0 -) [
+  sp-de/modnorule/(de de SPS00 -) [
+    sn/gen/(profesoras profesor NCFP000 -) [
+      espec-fp/espec/(las el DA0FP0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(escuela escuela NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  grup-verb/modnorule/(intentó intentar VMIS3S0 -)
+  grup-verb-inf/modnorule/(explicar explicar VMN0000 -) [
+    PP*/modnomatch/(le le PP3CSD00 -)
+  ]
+  subord/modnorule/(que que CS -) [
+    grup-verb/modnorule/(ser ser VSN0000 -) [
+      VMI*<ir>/modnomatch/(iba ir VMII1S0 -)
+      SPS00(a)/modnomatch/(a a SPS00 -)
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  s-adj/modnorule/(seguro seguro AQ0MS0 -)
+  F-term/modnorule/(. . Fp -)
+]
+
+grup-verb/top/(pusieron poner VMIS3P0 -) [
+  sn/subj/(semana semana NCFS000 -) [
+    espec-fs/espec/(Esa ese DD0FS0 -)
+    grup-verb/modnomatch/(atrincheraba atrincherar VMII1S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+    ]
+    grup-verb/modnomatch/(bloqueaban bloquear VMII3P0 -) [
+      sn/subj/(puertas puerta NCFP000 -) [
+        s-a-fp/qual/(metálicas metálico AQ0FP0 -)
+        grup-verb/modnomatch/(ejercito ejercitar VMIP1S0 -)
+      ]
+      sn/obj/(accesos acceso NCMP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+      ]
+    ]
+  ]
+  sn/subj/(telediarios telediario NCMP000 -) [
+    espec-mp/espec/(los el DA0MP0 -)
+  ]
+  sn/obj/(escenas escena NCFP000 -)
+  grup-sp/cc/(de de SPS00 -) [
+    sadv/modnomatch/(cómo cómo PT000000 -)
+  ]
+  sn/obj/(centro centro NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(ciudad ciudad NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(y y CC -)
+  prep/modnomatch/(hasta hasta SPS00 -)
+  espec-ms/modnomatch/(el el DA0MS0 -)
+  verb-pass/modnomatch/(convocado convocar VMP00SM -) [
+    vser/modnomatch/(era ser VSII1S0 -)
+  ]
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(velar velar VMN0000 -)
+  ]
+  grup-sp/cc/(por por SPS00 -) [
+    sn/head/(seguridad seguridad NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      grup-verb/modnomatch/(lideres liderar VMSP2S0 -) [
+        sn/obj/(mundiales mundial NCMP000 -)
+      ]
+    ]
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  espec-mp/modnomatch/(los el DA0MP0 -)
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(y y CC -) [
+  grup-verb/co-v/(regresó regresar VMIS3S0 -) [
+    grup-sp/cc/(A a SPS00 -) [
+      sn/head/(días día NCMP000 -) [
+        espec-mp/espec/(tres 3 Z -) [
+          j-mp/modnorule/(los el DA0MP0 -)
+        ]
+      ]
+    ]
+    sn/subj/(amigo amigo NCMS000 -) [
+      espec-ms/espec/(nuestro nuestro DP1MSP -)
+    ]
+    grup-sp/cc/(con con SPS00 -) [
+      sn/head/(brecha brecha NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(puntos punto NCMP000 -) [
+            numero-nopart/quant/(quince 15 Z -)
+          ]
+        ]
+      ]
+    ]
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(cabeza cabeza NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+    conj-subord/modnomatch/(porque porque CS -)
+    sn/cc/(nada nada PI0CS000 -)
+    sadv/cc/(más más RG -)
+    grup-verb-inf/modnomatch/(llegar llegar VMN0000 -)
+    grup-sp/cc/(a a SPS00 -) [
+      sn/head/(ciudad ciudad NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+  ]
+  grup-verb/co-v/(recibió recibir VMIS3S0 -) [
+    sn/obj/(porrazo porrazo NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+    ]
+    F-no-c/modnomatch/(( ( Fpa -)
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(sentido_literal sentido_literal NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(palabra palabra NCFS000 -) [
+            espec-fs/espec/(la el DA0FS0 -)
+          ]
+        ]
+      ]
+    ]
+    F-no-c/modnomatch/() ) Fpt -)
+  ]
+  grup-verb/co-v/(acabó acabar VMIS3S0 -) [
+    grup-sp/modnomatch/(en_menos_de en_menos_de SPS00 -) [
+      sn/head/(hora hora NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+      ]
+    ]
+    grup-sp/modnomatch/(desde desde SPS00 -) [
+      sn/head/(descenso descenso NCMS000 -) [
+        espec-ms/espec/(su su DP3CS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(tren tren NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+          ]
+        ]
+      ]
+    ]
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(hospital hospital NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+      ]
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  ger/modnomatch/(entrevistando entrevistar VMG0000 -) [
+    PP*/modnorule/(se se PP3CN000 -)
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(policía policía NCCS000 -) [
+      s-a-fs/qual/(media medio AQ0FS0 -)
+      w-fs/modnomatch/(Genovesa genovesa NP00000 -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+coor-sp/top/(o o CC -) [
+  grup-sp/modnorule/(En en SPS00 -) [
+    sn/head/(película película NCFS000 -) [
+      espec-fs/espec/(esta este DD0FS0 -)
+    ]
+    sadv/modnomatch/(casi casi RG -)
+    vaux/modnomatch/(estaba estar VAII1S0 -)
+    forma-ger/modnomatch/(esperando esperar VMG0000 -)
+    grup-verb-inf/modnomatch/(encontrar encontrar VMN0000 -) [
+      PP*/modnomatch/(lo lo PP3CNA00 -)
+    ]
+  ]
+  grup-sp/modnorule/(en en SPS00 -) [
+    sn/head/(imágenes imagen NCFP000 -) [
+      espec-fp/espec/(las el DA0FP0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(archivo archivo NCMS000 -)
+      ]
+    ]
+  ]
+  grup-sp/modnorule/(en en SPS00 -) [
+    sn/head/(parte parte NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(propia propio AQ0FS0 -)
+    ]
+  ]
+  sp-de/modnorule/(de de SPS00 -) [
+    sn/gen/(ficción ficción NCFS000 -)
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+grup-verb/top/(parece parecer VMIP3S0 -) [
+  patons/modnomatch/(me me PP1CS000 -)
+  sadv/cc/(Quizás quizás RG -)
+  grup-sp/modnomatch/(por por SPS00 -) [
+    sn/head/(eso ese PD0NS000 -)
+  ]
+  coor-n/obj/(o o CC -) [
+    sn/co-n/(atractivo atractivo NCMS000 -) [
+      w-ms/modnomatch/(Ora ora NP00000 -)
+    ]
+    sn/co-n/(Mai_Piu mai_piu NP00000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  prep/modnomatch/(a_pesar_de a_pesar_de SPS00 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(ser ser VSN0000 -) [
+      VMI*<dejar>/modnomatch/(deja dejar VMIP3S0 -)
+      SPS00(de)/modnomatch/(de de SPS00 -)
+      sn/subj/(periplo periplo NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        s-a-ms/qual/(genovés genovés AQ0CS0 -)
+        grup-verb/modnomatch/(es ser VSIP3S0 -) [
+          sn/obj/(parte parte NCFS000 -) [
+            espec-fs/espec/(una uno DI0FS0 -)
+            s-a-fs/qual/(importante importante AQ0CS0 -)
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(historia historia NCFS000 -) [
+                espec-fs/espec/(la el DA0FS0 -)
+                s-a-fs/qual/(y y CC -) [
+                  s-a-fs/modnorule/(cultural cultural AQ0CS0 -)
+                  s-a-fs/modnorule/(política político AQ0FS0 -) [
+                    s-a-fs/modnorule/(reciente reciente AQ0CS0 -)
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+      neg/modneg/(no no RN -)
+      sn/obj/(anécdota anécdota NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+      ]
+      sadv/cc/(más más RG -)
+      grup-sp/cc/(en en SPS00 -) [
+        sn/head/(historia historia NCFS000 -) [
+          espec-fs/espec/(toda todo DI0FS0 -) [
+            j-fs/modnorule/(la el DA0FS0 -)
+          ]
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(David david NP00000 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  sadv/cc/(bastante bastante RG -)
+  sadv/cc/(poco poco RG -)
+  parti-flex/modnomatch/(tratada tratar VMP00SF -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(Europa europa NP00000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(Ora ora CC -) [
+  grup-verb/co-v/(traducir traducir VMN0000 -) [
+    morfema-verbal/modnomatch/(se se P0000000 -)
+    VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+    coor-n/subj/(o o CC -) [
+      sn/co-n/(Mai_Piu mai_piu NP00000 -)
+    ]
+    sadv/cc/(literalmente literalmente RG -)
+  ]
+  conj-subord/modnomatch/(como como CS -)
+  F-no-c/modnomatch/(& & Fz -)
+  coor-n/modnomatch/(o o CC -) [
+    sn/co-n/(ldquo ldquo NCMS000 -) [
+      F-no-c/modnomatch/(; ; Fx -)
+    ]
+    sn/co-n/(Ahora ahora NP00000 -)
+    sn/co-n/(Nunca nunca NP00000 -)
+  ]
+  F-no-c/modnomatch/(& & Fz -)
+  s-adj/modnomatch/(rdquo rdquo AQ0MS0 -)
+  F-no-c/modnomatch/(; ; Fx -)
+  coor-vb/modnomatch/(y y CC -) [
+    grup-verb/co-v/(es ser VSIP3S0 -) [
+      subord/modnomatch/(como como CS -) [
+        grup-verb/modnorule/(describe describir VMIP3S0 -) [
+          sn/obj/(uno uno PI0MS000 -) [
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(jóvenes joven NCCP000 -) [
+                espec-mp/espec/(los el DA0MP0 -)
+              ]
+            ]
+          ]
+          sn/obj/(necesidad necesidad NCFS000 -) [
+            espec-fs/espec/(la el DA0FS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(actuar actuar VMN0000 -)
+  ]
+  grup-sp-inf/modnomatch/(para para SPS00 -) [
+    grup-verb-inf/head/(cambiar cambiar VMN0000 -)
+    sn/modnomatch/(mundo mundo NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+coor-vb/top/(aunque aunque CC -) [
+  grup-verb/co-v/(Es ser VSIP3S0 -) [
+    sn/obj/(Leif_Motif leif_motif NP00000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(perfecto perfecto AQ0MS0 -)
+    ]
+    grup-sp/iobj/(para para SPS00 -) [
+      sn/head/(cinta cinta NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+  ]
+  grup-verb/co-v/(falta faltar VMIP3S0 -) [
+    sn/obj/(poco poco PI0MS000 -) [
+      indef-ms/modnomatch/(un uno DI0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(entusiasmo entusiasmo NCMS000 -)
+      ]
+    ]
+  ]
+  grup-sp-inf/modnomatch/(para para SPS00 -) [
+    grup-verb-inf/head/(llevar llevar VMN0000 -) [
+      PP*/modnomatch/(lo lo PP3CNA00 -)
+    ]
+  ]
+  grup-sp/modnomatch/(hasta hasta SPS00 -) [
+    sn/head/(consecuencias consecuencia NCFP000 -) [
+      espec-fp/espec/(las el DA0FP0 -)
+      s-a-fp/qual/(últimas último AO0FP0 -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+grup-verb/top/(es ser VSIP3S0 -) [
+  sadv/cc/(De_todos_modos de_todos_modos RG -) [
+    coord/modnorule/(y y CC -)
+    prep/modnorule/(a_pesar_de a_pesar_de SPS00 -)
+    subord/modnorule/(que que CS -) [
+      grup-verb/modnorule/(flaquee flaquear VMSP1S0 -) [
+        grup-sp/cc/(en en SPS00 -) [
+          sn/head/(ocasiones ocasión NCFP000 -)
+        ]
+      ]
+    ]
+    coor-sp/modnorule/(o o CC -) [
+      grup-sp/modnorule/(en en SPS00 -) [
+        sn/head/(ideas idea NCFP000 -) [
+          espec-fp/espec/(las el DA0FP0 -)
+        ]
+      ]
+      grup-sp/modnorule/(en en SPS00 -) [
+        sn/head/(modo modo NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+    grup-sp-inf/modnorule/(de de SPS00 -) [
+      grup-verb-inf/head/(tratar tratar VMN0000 -) [
+        PP*/modnomatch/(las los PP3FPA00 -)
+      ]
+    ]
+  ]
+  sn/obj/(cinta cinta NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(entretenida entretener VMP00SF -)
+  ]
+  prep/modnomatch/(en en SPS00 -)
+  espec-fs/modnomatch/(la el DA0FS0 -)
+  prel/modnomatch/(que que PR0CN000 -)
+  subord/modnomatch/(si si CS -) [
+    grup-verb/modnorule/(medido medir VMP00SM -) [
+      vaux/aux/(hubiesen haber VASI3P0 -)
+      sn/obj/(parte parte NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        s-a-fs/qual/(y y CC -) [
+          s-a-fs/modnorule/(personal personal AQ0CS0 -)
+          s-a-fs/modnorule/(romántica romántico AQ0FS0 -)
+        ]
+        grup-verb/modnomatch/(logrado lograr VMP00SM -) [
+          VMI*<poder>/modnomatch/(podrían poder VMIC3P0 -)
+          infaux/modnomatch/(haber haber VAN0000 -)
+          grup-sp/modnomatch/(con con SPS00 -) [
+            sn/head/(tino tino NCMS000 -) [
+              espec-ms/espec/(más más RG -)
+            ]
+          ]
+          sn/obj/(combinación combinación NCFS000 -) [
+            espec-fs/espec/(una uno DI0FS0 -)
+          ]
+          sadv/cc/(casi casi RG -)
+          grup-sp-inf/modnomatch/(de de SPS00 -) [
+            grup-verb-inf/head/(quitar quitar VMN0000 -) [
+              PP*/modnomatch/(se se PP3CN000 -)
+            ]
+            sn/modnomatch/(sombrero sombrero NCMS000 -) [
+              espec-ms/espec/(el el DA0MS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,64 @@
+sp-de/top/(De de SPS00 -) [
+  sn/gen/(calidad calidad NCFS000 -) [
+    s-a-fs/qual/(altísima alto AQSFS0 -)
+    s-a-fs/qual/(técnica técnico AQ0FS0 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/modnomatch/(destaca destacar VMIP3S0 -) [
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(todos todo PI0MP000 -)
+    ]
+    coor-n/obj/(y y CC -) [
+      sn/co-n/(uno uno PI0MS000 -) [
+        indef-ms/modnomatch/(cada cada DI0CS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(aspectos aspecto NCMP000 -) [
+            espec-mp/espec/(los el DA0MP0 -)
+            s-a-mp/qual/(posibles posible AQ0CP0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+geraux-ser/top/(Siendo ser VSG0000 -) [
+  grup-verb/modnorule/(tiene tener VMIP3S0 -) [
+    sn/subj/(película película NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(dirigida dirigir VMP00SF -)
+      grup-sp/modnomatch/(hacia hacia SPS00 -) [
+        sn/head/(público público NCMS000 -) [
+          espec-ms/espec/(un uno DI0MS0 -)
+          s-a-ms/qual/(menudo menudo AQ0MS0 -)
+        ]
+      ]
+      Fc(,)/modnomatch/(, , Fc -)
+    ]
+    sn/obj/(infinidad infinidad NCFS000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(guiños guiño NCMP000 -) [
+          s-a-mp/qual/(cómicos cómico AQ0MP0 -)
+        ]
+      ]
+    ]
+    grup-sp/modnomatch/(hacia hacia SPS00 -) [
+      sn/head/(mayores mayor NCCP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  ger/modnorule/(haciendo hacer VMG0000 -) [
+    PP*/modnorule/(la lo PP3FSA00 -)
+  ]
+  s-adj/modnorule/(imprescindible imprescindible AQ0CS0 -)
+  grup-sp/modnorule/(en en SPS00 -) [
+    sn/head/(verano verano NCMS000 -) [
+      espec-ms/espec/(este este DD0MS0 -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

@@ -1,0 +1,54 @@
+grup-verb/top/(disfrutar disfrutar VMN0000 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+  grup-sp/modnomatch/(Con con SPS00 -) [
+    sn/head/(amigos amigo NCMP000 -)
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/head/(cervezas cerveza NCFP000 -)
+    coord/modnomatch/(y y CC -)
+    forma-ger/modnomatch/(dejando dejar VMG0000 -)
+  ]
+  sn/subj/(cerebro cerebro NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(punto punto NCMS000 -) [
+      s-a-ms/qual/(muerto morir VMP00SM -)
+    ]
+  ]
+  sadv/cc/(de_lo_lindo de_lo_lindo RG -)
+  grup-sp-inf/modnomatch/(sin sin SPS00 -) [
+    grup-verb-inf/head/(intentar intentar VMN0000 -)
+  ]
+  grup-verb-inf/modnomatch/(dar dar VMN0000 -) [
+    PP*/modnomatch/(le le PP3CSD00 -)
+  ]
+  sn/obj/(sentido sentido NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    s-a-ms/qual/(mínimo mínimo AQ0MS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(uno uno PI0MS000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(filmes filme NCMP000 -) [
+        espec-mp/espec/(estos este DD0MP0 -)
+        s-a-mp/qual/(desastrosos desastroso AQ0MP0 -)
+        coor-sp/modnomatch/(pero pero CC -) [
+          grup-sp/modnorule/(con con SPS00 -) [
+            sn/head/(frescura frescura NCFS000 -) [
+              espec-fs/espec/(una uno DI0FS0 -)
+              s-a-fs/qual/(impagable impagable AQ0CS0 -)
+              grup-sp/modnomatch/(en en SPS00 -) [
+                sn/head/(escena escena NCFS000 -) [
+                  espec-fs/espec/(cada cada DI0CS0 -)
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

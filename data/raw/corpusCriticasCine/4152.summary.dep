@@ -1,0 +1,55 @@
+grup-verb/top/(entremezcla entremezclar VMIP3S0 -) [
+  sn/subj/(sentido_de_el_humor sentido_del_humor NCMS000 -) [
+    espec-ms/espec/(Su su DP3CS0 -)
+  ]
+  sn/obj/(cafre cafre NCCS000 -) [
+    espec-ms/espec/(lo el DA0NS0 -)
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(refinado refinado NCMS000 -) [
+      espec-ms/espec/(lo el DA0NS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(modo modo NCMS000 -) [
+          espec-ms/espec/(un uno DI0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  sn/obj/(acertado acertar VMP00SM -) [
+    espec-ms/espec/(muy muy RG -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(gracias gracia NCFP000 -) [
+    grup-sp/modnomatch/(en en SPS00 -) [
+      sn/head/(medida medida NCFS000 -) [
+        s-a-fs/qual/(buena bueno AQ0FS0 -)
+        grup-sp/modnomatch/(a a SPS00 -) [
+          sn/head/(Jean_Dujardin jean_dujardin NP00000 -) [
+            espec-ms/espec/(un uno DI0MS0 -)
+            s-a-ms/qual/(excelente excelente AQ0CS0 -)
+            grup-sp/modnomatch/(a a SPS00 -) [
+              sn/head/(estereotipo estereotipo NCMS000 -) [
+                espec-ms/espec/(el el DA0MS0 -)
+                sp-de/mod/(de de SPS00 -) [
+                  sn/gen/(agente agente NCCS000 -) [
+                    n-ms/modnomatch/(secreto secreto NCMS000 -)
+                    grup-sp/modnomatch/(hasta hasta SPS00 -) [
+                      sn/head/(límites límite NCMP000 -) [
+                        s-a-mp/qual/(insospechados insospechado AQ0MP0 -)
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(ridiculiza ridiculizar VMIP3S0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

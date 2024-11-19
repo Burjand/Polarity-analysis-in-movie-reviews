@@ -1,0 +1,63 @@
+grup-verb/top/(contemporanea contemporanea VMIP3S0 -) [
+  sn/subj/(película película NCFS000 -) [
+    s-a-fs/qual/(Durísima duro AQSFS0 -)
+    s-a-fs/qual/(imprescindible imprescindible AQ0CS0 -)
+    grup-sp-inf/modnomatch/(de de SPS00 -) [
+      grup-verb-inf/head/(ver ver VMN0000 -)
+    ]
+    subord/modnomatch/(si si CS -) [
+      grup-verb/modnorule/(desea desear VMIP3S0 -) [
+        morfema-verbal/modnomatch/(se se P0000000 -)
+      ]
+    ]
+    grup-verb-inf/modnomatch/(conocer conocer VMN0000 -)
+  ]
+  sn/subj/(trozos trozo NCMP000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(historia historia NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+  ]
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(España españa NP00000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(Advierto advertir VMIP1S0 -) [
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(salen salir VMIP3P0 -) [
+      sn/cc/(escenas escena NCFP000 -) [
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(personas persona NCFP000 -)
+        ]
+      ]
+    ]
+  ]
+  ger/modnomatch/(inyectando inyectar VMG0000 -) [
+    PP*/modnorule/(se se PP3CN000 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(vena vena NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(resultar resultar VMN0000 -) [
+      VMI*<poder>/modnomatch/(pueden poder VMIP3P0 -)
+    ]
+  ]
+  s-adj/modnomatch/(violentas violento AQ0FP0 -)
+  prep/modnomatch/(de de SPS00 -)
+  espec-mp/modnomatch/(los el DA0MP0 -)
+  s-adj/modnomatch/(y y CC -) [
+    s-a-fp/modnorule/(crudas crudo AQ0FP0 -)
+    s-a-fp/modnorule/(naturales natural AQ0CP0 -)
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(parecen parecer VMIP3P0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

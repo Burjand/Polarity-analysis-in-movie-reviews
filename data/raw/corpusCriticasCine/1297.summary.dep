@@ -1,0 +1,60 @@
+prep/top/(Para para SPS00 -) [
+  subord/modnorule/(que que CS -) [
+    grup-verb/modnorule/(destrocen destrozar VMSP3P0 -) [
+      patons/modnomatch/(le le PP3CSD00 -)
+      sn/subj/(figuras figura NCFP000 -) [
+        espec-fp/espec/(sus su DP3CP0 -)
+      ]
+      neg/modneg/(no no RN -)
+      sn/obj/(museo museo NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  grup-verb/modnorule/(investigar investigar VMN0000 -) [
+    VMI*<tener>/modnomatch/(tiene tener VMIP3S0 -)
+    CS(que)/modnomatch/(que que CS -)
+    grup-sp/modnomatch/(sobre sobre SPS00 -) [
+      sn/head/(ellas ellos PP3FP000 -) [
+        grup-verb/modnomatch/(aprender aprender VMN0000 -) [
+          VMI*<tener>/modnomatch/(tiene tener VMIP3S0 -)
+          CS(que)/modnomatch/(que que CS -)
+          sn/obj/(historia historia NCFS000 -)
+        ]
+      ]
+    ]
+    F-no-c/modnomatch/(: : Fd -)
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  sn/modnorule/(paleontología paleontología NCFS000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/modnorule/(ciencias ciencia NCFP000 -) [
+    s-a-fp/qual/(naturales natural AQ0CP0 -)
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+grup-verb/top/(convierte convertir VMIP3S0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  sn/subj/(cultura cultura NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(fórmula fórmula NCFS000 -) [
+      espec-fs/espec/(esta este DD0FS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(kit kit NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(supervivencia supervivencia NCFS000 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

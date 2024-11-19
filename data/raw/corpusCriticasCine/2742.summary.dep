@@ -1,0 +1,47 @@
+coor-vb/top/(pero pero CC -) [
+  grup-verb/co-v/(parece parecer VMIP3S0 -) [
+    grup-sp/modnomatch/(A a SPS00 -) [
+      sn/head/(ratos rato NCMP000 -)
+    ]
+    sn/obj/(Instinto_Básico instinto_básico NP00000 -)
+    coor-sp/modnomatch/(y y CC -) [
+      grup-sp/modnorule/(a a SPS00 -) [
+        sn/head/(ratos rato NCMP000 -)
+      ]
+    ]
+  ]
+  sn/subj/(peli peli AQ0CN0 -) [
+    indef-ms/modnomatch/(cualquier cualquiera DI0CS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Demi_Moore demi_moore NP00000 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(funcionar funcionar VMN0000 -) [
+    VMI*<terminar>/modnomatch/(termina terminar VMIP3S0 -)
+    SPS00(de)/modnomatch/(de de SPS00 -)
+    neg/modneg/(no no RN -)
+    grup-sp/modnomatch/(a_pesar_de a_pesar_de SPS00 -) [
+      sn/head/(trama trama NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        s-a-fs/qual/(rebuscada rebuscar VMP00SF -) [
+          Fpa/modnorule/(( ( Fpa -)
+          Fpt/modnorule/() ) Fpt -)
+        ]
+        s-a-fs/qual/(policial policial AQ0CS0 -)
+      ]
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  subord/modnomatch/(porque porque CS -) [
+    grup-verb/modnorule/(es ser VSIP3S0 -) [
+      sn/subj/(factor factor NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        n-fs/modnomatch/(sorpresa sorpresa NCFS000 -)
+      ]
+    ]
+  ]
+  s-adj/modnomatch/(nulo nulo AQ0MS0 -)
+  F-no-c/modnomatch/(... ... Fs -)
+]
+

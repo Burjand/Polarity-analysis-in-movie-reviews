@@ -1,0 +1,55 @@
+grup-verb/top/(perdido perder VMP00SM -) [
+  vaux/aux/(ha haber VAIP3S0 -)
+  sn/subj/(cine cine NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+    s-a-ms/qual/(español español AQ0MS0 -)
+  ]
+  sn/obj/(oportunidad oportunidad NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(histórica histórico AQ0FS0 -)
+  ]
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(crear crear VMN0000 -)
+    sn/modnomatch/(joya joya NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(exportable exportable AQ0CS0 -) [
+        sadv/modnorule/(fácilmente fácilmente RG -)
+      ]
+    ]
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(parte parte NCFS000 -) [
+      s-a-fs/qual/(buena bueno AQ0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(planeta planeta NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+vaux/top/(Había haber VAII1S0 -) [
+  s-adj/modnorule/(material material AQ0CS0 -)
+  grup-sp-inf/modnorule/(para para SPS00 -) [
+    grup-verb-inf/head/(hacer hacer VMN0000 -) [
+      PP*/modnomatch/(lo lo PP3CNA00 -)
+    ]
+  ]
+  coor-vb/modnorule/(y y CC -) [
+    grup-verb/co-v/(sabido saber VMP00SM -) [
+      vaux/aux/(hemos haber VAIP1P0 -)
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+grup-verb/top/(será ser VSIF3S0 -) [
+  sn/subj/(vez vez NCFS000 -) [
+    espec-fs/espec/(Otra otro DI0FS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

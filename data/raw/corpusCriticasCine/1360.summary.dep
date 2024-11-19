@@ -1,0 +1,49 @@
+grup-verb/top/(realiza realizar VMIP3S0 -) [
+  sn/subj/(Gibson gibson NP00000 -)
+  sn/obj/(tipo tipo NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(cine cine NCMS000 -)
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(atiende atender VMIP3S0 -)
+    ]
+  ]
+  sadv/cc/(mucho mucho RG -)
+  sadv/cc/(más más RG -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(instinto instinto NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  prel/modnomatch/(que que PR0CN000 -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(inteligencia inteligencia NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(pero pero CC -) [
+  grup-verb/co-v/(es ser VSIP3S0 -) [
+    neg/modneg/(No no RN -)
+    sn/obj/(película película NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(extraordinaria extraordinario AQ0FS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(es ser VSIP3S0 -) [
+    sadv/cc/(sí sí RG -)
+    sn/obj/(experiencia experiencia NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(, , Fc -) [
+        s-a-fs/modnorule/(gran gran AQ0CS0 -)
+        s-a-fs/modnorule/(gran gran AQ0CS0 -)
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

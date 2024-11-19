@@ -1,0 +1,39 @@
+grup-verb/top/(compuesto componer VMP00SM -) [
+  vaux/aux/(ha haber VAIP3S0 -)
+  sn/subj/(David_Slade david_slade NP00000 -)
+  sn/obj/(uno uno PI0MS000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(thrillers thriller NCMP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+        s-a-mp/qual/(mejores mejor AQ0CP0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(tiempos tiempo NCMP000 -) [
+            espec-mp/espec/(todos todo DI0MP0 -) [
+              j-mp/modnorule/(los el DA0MP0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  s-adj/modnomatch/(capaz capaz AQ0CS0 -)
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(provocar provocar VMN0000 -)
+    sn/modnomatch/(taquicardias taquicardia NCFP000 -)
+  ]
+  coor-sp/modnomatch/(o o CC -) [
+    grup-sp/modnorule/(a a SPS00 -) [
+      sn/head/(personas persona NCFP000 -) [
+        s-a-fp/qual/(sensibles sensible AQ0CP0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(corazón corazón NCMS000 -)
+        ]
+      ]
+    ]
+    grup-sp/modnorule/(con con SPS00 -) [
+      sn/head/(problemas problema NCMP000 -)
+    ]
+  ]
+]
+

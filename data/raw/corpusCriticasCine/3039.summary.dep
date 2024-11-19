@@ -1,0 +1,50 @@
+coor-vb/top/(pero pero CC -) [
+  grup-verb/co-v/(leído leer VMP00SM -) [
+    vaux/aux/(he haber VAIP1S0 -)
+    neg/modneg/(No no RN -)
+    sn/obj/(novela novela NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(original original AQ0CS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(Arturo_Pérez-Reverte arturo_pérez-reverte NP00000 -)
+      ]
+    ]
+    prep/modnomatch/(en en SPS00 -)
+    espec-fs/modnomatch/(la el DA0FS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(basa basar VMIP3S0 -) [
+        morfema-verbal/modnomatch/(se se P0000000 -)
+      ]
+    ]
+  ]
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(esta este DD0FS0 -)
+  ]
+  grup-verb/co-v/(pensar pensar VMN0000 -) [
+    VMI*<empezar>/modnomatch/(empiezo empezar VMIP1S0 -)
+    SPS00(a)/modnomatch/(a a SPS00 -)
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(gafado gafar VMP00SM -) [
+      vaux/aux/(está estar VAIP3S0 -)
+      sn/subj/(Arturo arturo NP00000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        s-a-ms/qual/(pobre pobre AQ0CS0 -)
+        Fc(,)/modnomatch/(, , Fc -)
+      ]
+      sn/subj/(escritor escritor NCMS000 -) [
+        s-a-ms/qual/(despreciable despreciable AQ0CS0 -) [
+          sadv/modnorule/(nada nada RG -)
+        ]
+        Fc(,)/modnomatch/(, , Fc -)
+      ]
+      grup-sp/iobj/(para para SPS00 -) [
+        sn/head/(cine cine NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

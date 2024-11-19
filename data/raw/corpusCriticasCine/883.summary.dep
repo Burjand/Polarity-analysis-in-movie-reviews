@@ -1,0 +1,42 @@
+grup-verb/top/(parece parecer VMIP3S0 -) [
+  sn/subj/(Tony_Scott tony_scott NP00000 -) [
+    grup-verb/modnomatch/(olvidado olvidar VMP00SM -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+      vaux/aux/(ha haber VAIP3S0 -)
+    ]
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(perdido perder VMP00SM -) [
+      vaux/aux/(ha haber VAIP3S0 -)
+      sn/obj/(fundamentos fundamento NCMP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+        s-a-mp/qual/(escasos escaso AQ0MP0 -)
+        s-a-mp/qual/(cinematográficos cinematográfico AQ0MP0 -)
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(tenía tener VMII1S0 -)
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(Denzel_Wasghington denzel_wasghington NP00000 -)
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(fue ser VSIS3S0 -) [
+      sn/subj/(día día NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+      ]
+      sn/obj/(actor actor NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-sp-inf/top/(Para para SPS00 -) [
+  grup-verb-inf/head/(olvidar olvidar VMN0000 -)
+  F-term/modnomatch/(. . Fp -)
+]
+

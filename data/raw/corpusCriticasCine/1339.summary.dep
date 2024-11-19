@@ -1,0 +1,51 @@
+grup-verb/top/(pivota pivotar VMIP3S0 -) [
+  sn/subj/(cinta cinta NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+  ]
+  grup-sp/modnomatch/(entre entre SPS00 -) [
+    sn/head/(homenaje homenaje NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(legado legado NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(ideológico ideológico AQ0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(Bobby_Kennedy bobby_kennedy NP00000 -)
+      ]
+    ]
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(recuerdo recuerdo NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(nostálgico nostálgico AQ0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(años año NCMP000 -) [
+          espec-mp/espec/(unos uno DI0MP0 -)
+          n-fs/modnomatch/(clave clave NCFS000 -)
+        ]
+      ]
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(historia historia NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(norteamericana norteamericano AQ0FS0 -)
+    ]
+  ]
+  grup-sp/modnomatch/(desde desde SPS00 -) [
+    sn/head/(punto punto NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(vista vista NCFS000 -)
+      ]
+    ]
+  ]
+  s-adj/modnomatch/(y y CC -) [
+    s-a-ms/modnorule/(político político AQ0MS0 -)
+    s-a-ms/modnorule/(social social AQ0CS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

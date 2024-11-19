@@ -1,0 +1,67 @@
+prep/top/(A a SPS00 -) [
+  espec-ms/modnorule/(mi mi DP1CSS -)
+  grup-verb/modnorule/(daba dar VMII1S0 -) [
+    patons/modnomatch/(me me PP1CS000 -)
+    sn/obj/(miedo miedo NCMS000 -)
+  ]
+  grup-verb-inf/modnorule/(pensar pensar VMN0000 -)
+  subord/modnorule/(que que CS -) [
+    grup-verb/modnorule/(derrumbara derrumbar VMSI1S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+      sn/subj/(película película NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+  ]
+  grup-sp-inf/modnorule/(por por SPS00 -) [
+    grup-verb-inf/head/(tener tener VMN0000 -)
+    sn/modnomatch/(capacidad capacidad NCFS000 -) [
+      espec-fs/espec/(esa ese DD0FS0 -)
+      s-a-fs/qual/(sosa soso AQ0FS0 -) [
+        sadv/modnorule/(increíblemente increíblemente RG -)
+      ]
+    ]
+  ]
+  grup-sp-inf/modnorule/(para para SPS00 -) [
+    grup-verb-inf/head/(contar contar VMN0000 -)
+  ]
+  coor-n/modnorule/(o o CC -) [
+    sn/co-n/(hechos hecho NCMP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(fotografía fotografía NCFS000 -) [
+      espec-fs/espec/(esa ese DD0FS0 -)
+      s-a-fs/qual/(impersonal impersonal AQ0CS0 -) [
+        sadv/modnorule/(totalmente totalmente RG -)
+      ]
+    ]
+    sn/co-n/(gags gag NCMP000 -) [
+      espec-mp/espec/(muchos mucho DI0MP0 -)
+    ]
+  ]
+  F-no-c/modnorule/(( ( Fpa -)
+  sn/modnorule/(divertidos divertir VMP00PM -) [
+    pindef-mp/modnomatch/(algunos alguno PI0MP000 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/modnorule/(eso ese PD0NS000 -)
+  ptonic/modnorule/(sí sí PP3CNO00 -)
+  F-no-c/modnorule/() ) Fpt -)
+  subord/modnorule/(que que PR0CN000 -) [
+    grup-verb/modnorule/(vale valer VMIP3S0 -) [
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  coor-n/modnorule/(ni ni CC -) [
+    sn/co-n/(pena pena NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  grup-verb-inf/modnorule/(reir reir VMN0000 -)
+  grup-sp/modnorule/(por por SPS00 -) [
+    sn/head/(ellos ellos PP3MP000 -)
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

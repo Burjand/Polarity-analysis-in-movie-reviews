@@ -1,0 +1,49 @@
+grup-verb/top/(estar estar VAN0000 -) [
+  VMI*<terminar>/modnomatch/(termina terminar VMIP3S0 -)
+  SPS00(de)/modnomatch/(de de SPS00 -)
+  sadv/cc/(Aquí aquí RG -)
+  neg/modneg/(no no RN -)
+  sadv/cc/(claro claro RG -) [
+    cuantif/modnorule/(muy muy RG -)
+  ]
+  sn/obj/(cojones cojón NCMP000 -) [
+    espec-mp/espec/(qué qué DT0CN0 -)
+    grup-verb/modnomatch/(quiere querer VMIP3S0 -) [
+      sn/obj/(uno uno PI0MS000 -) [
+        indef-ms/modnomatch/(cada cada DI0CS0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp-inf/modnomatch/(sin sin SPS00 -) [
+    grup-verb-inf/head/(entrar entrar VMN0000 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(tema tema NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(sexualidad sexualidad NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(madre madre NCFS000 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sadv/cc/(tan tan RG -)
+  parti-flex/modnomatch/(pasado pasar VMP00SM -)
+  grup-sp/modnomatch/(como como CS -) [
+    sn/head/(De_Palma de_palma NP00000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      sp-de/mod/(De de SPS00 -) [
+        sn/gen/(Saldo saldo NP00000 -)
+      ]
+    ]
+    F-no-c/modnomatch/(" " Fe -)
+    F-no-c/modnomatch/(" " Fe -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

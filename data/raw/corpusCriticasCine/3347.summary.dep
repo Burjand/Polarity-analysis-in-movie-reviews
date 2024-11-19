@@ -1,0 +1,71 @@
+grup-verb/top/(declarada declarar VMP00SF -) [
+  VMI*<deber>/modnomatch/(debería deber VMIC1S0 -)
+  infaux-ser/modnomatch/(ser ser VSN0000 -)
+  sn/subj/(Shaun shaun NP00000 -)
+  sn/subj/(of of NC00000 -) [
+    w-ms/modnomatch/(The_Dead the_dead NP00000 -)
+  ]
+  sn/obj/(Film_de_Culto film_de_culto NP00000 -)
+  grup-sp/iobj/(para para SPS00 -) [
+    sn/head/(posteridad posteridad NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(definir definir VMN0000 -) [
+  patons/modnomatch/(la lo PP3FSA00 -)
+  VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+  sadv/cc/(Sólo sólo RG -)
+  sn/subj/(lema lema NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(todo todo PI0MS000 -) [
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(todos todo PI0MP000 -) [
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(clichés cliché NCMP000 -) [
+                espec-mp/espec/(los el DA0MP0 -)
+                sp-de/mod/(de de SPS00 -) [
+                  sn/gen/(tópicos tópico NCMP000 -) [
+                    espec-mp/espec/(los el DA0MP0 -)
+                    sp-de/mod/(de de SPS00 -) [
+                      sn/gen/(zombies zombies NCCP000 -) [
+                        espec-mp/espec/(los el DA0MP0 -)
+                        s-a-mp/qual/(lentos lento AQ0MP0 -)
+                        sp-de/mod/(de de SPS00 -) [
+                          sn/gen/(pelis pelis NCFN000 -) [
+                            espec-fp/espec/(las el DA0FP0 -)
+                            s-a-fp/qual/(serias serio AQ0FP0 -)
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-no-c/modnomatch/(: : Fd -)
+  grup-verb-inf/modnomatch/(reír reír VMN0000 -) [
+    PP*/modnomatch/(se se PP3CN000 -)
+  ]
+  coord/modnomatch/(y y CC -)
+  F-no-c/modnomatch/(: : Fd -)
+  Fc(,)/modnomatch/(, , Fc -)
+  Fc(,)/modnomatch/(, , Fc -)
+  Fc(,)/modnomatch/(, , Fc -)
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(. . Fp -)
+]
+
+s-adj/top/(perfecto perfecto AQ0MS0 -) [
+  sadv/modnorule/(Maquiavélicamente Maquiavélicamente RG -)
+  F-term/modnorule/(. . Fp -)
+]
+

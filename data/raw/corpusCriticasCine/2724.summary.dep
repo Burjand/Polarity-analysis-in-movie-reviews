@@ -1,0 +1,48 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(Club_de_los_Suicidas club_de_los_suicidas NP00000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+  ]
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(, , Fc -) [
+      s-a-fs/modnorule/(zafia zafio AQ0FS0 -)
+      s-a-fs/modnorule/(vulgar vulgar AQ0CS0 -)
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(tiene tener VMIP3S0 -) [
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  sn/obj/(gracia gracia NCFS000 -) [
+    espec-fs/espec/(ninguna ninguno DI0FS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(es ser VSIP3S0 -) [
+  grup-sp/cc/(En en SPS00 -) [
+    s-a-fs/modnomatch/(definitiva definitivo AQ0FS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(ejemplo ejemplo NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(perfecto perfecto AQ0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(estado estado NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(cine cine NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+            s-a-ms/qual/(español español AQ0MS0 -) [
+              s-a-ms/modnorule/(comercial comercial AQ0CS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

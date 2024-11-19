@@ -1,0 +1,58 @@
+sn/top/(película película NCFS000 -) [
+  espec-fs/espec/(Una uno DI0FS0 -)
+  s-a-fs/qual/(buena bueno AQ0FS0 -)
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(terror terror NCMS000 -) [
+      s-a-ms/qual/(y y CC -) [
+        s-a-ms/modnorule/(sanguinario sanguinario AQ0MS0 -) [
+          s-a-ms/modnorule/(puro puro AQ0MS0 -)
+        ]
+        s-a-ms/modnorule/(duro duro AQ0MS0 -)
+      ]
+      grup-sp/modnomatch/(con con SPS00 -) [
+        sn/head/(Béatrice_Dalle béatrice_dalle NP00000 -) [
+          espec-fs/espec/(una uno DI0FS0 -)
+          grup-sp/modnomatch/(a a SPS00 -) [
+            sn/head/(mala malo AQ0FS0 -) [
+              j-fs/modnomatch/(la el DA0FS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sadv/modnomatch/(realmente realmente RG -)
+  s-adj/qual/(e e CC -) [
+    s-a-fs/modnorule/(desequilibrada desequilibrar VMP00SF -)
+    s-a-fs/modnorule/(implacable implacable AQ0CS0 -)
+  ]
+  forma-ger/modnomatch/(encarnando encarnar VMG0000 -)
+  sn/modnomatch/(malísima mal NCMS000 -) [
+    coor-sp/modnomatch/(y y CC -) [
+      grup-sp/modnorule/(con con SPS00 -) [
+        sn/head/(tintes tinte NCMP000 -) [
+          s-a-mp/qual/(indudables indudable AQ0CP0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(película película NCFS000 -) [
+              sp-de/mod/(de de SPS00 -) [
+                sn/gen/(culto culto NCMS000 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(merece merecer VMIP3S0 -) [
+        sadv/cc/(bien bien RG -)
+        sn/obj/(pena pena NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  grup-verb-inf/modnomatch/(destacar destacar VMN0000 -)
+  F-term/term/(. . Fp -)
+]
+

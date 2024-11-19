@@ -1,0 +1,65 @@
+subord/top/(a_el_igual_que al_igual_que CS -) [
+  grup-verb/modnorule/(imitar imitar VMN0000 -) [
+    VMI*<querer>/modnomatch/(quiso querer VMIS3S0 -)
+    sn/subj/(Soderbergh soderbergh NP00000 -)
+    sn/obj/(cine cine NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(clásico clásico AQ0MS0 -)
+    ]
+    grup-sp/iobj/(a a SPS00 -) [
+      sn/head/(Casablanca casablanca NP00000 -) [
+        espec-ms/espec/(lo el DA0NS0 -)
+      ]
+    ]
+    grup-sp/modnomatch/(con con SPS00 -) [
+      sn/head/(El el NP00000 -) [
+        s-a-ms/qual/(buen bueno AQ0MS0 -) [
+          s-a-ms/modnorule/(alemán alemán AQ0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  coor-vb/modnorule/(y y CC -) [
+    sn/subj/(Tarantino tarantino NP00000 -)
+    grup-verb/co-v/(cae caer VMIP3S0 -) [
+      grup-sp/cc/(en en SPS00 -) [
+        sn/head/(error error NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          s-a-ms/qual/(mismo mismo AQ0MS0 -)
+        ]
+      ]
+    ]
+    grup-verb/co-v/(hacer hacer VMN0000 -) [
+      VMI*<querer>/modnomatch/(quiere querer VMIP3S0 -)
+      sn/obj/(homenaje homenaje NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+      ]
+      subord-ger/modnomatch/(saltando saltar VMG0000 -) [
+        PP*/modnorule/(se se PP3CN000 -)
+        sn/modnorule/(muchos mucho PI0MP000 -) [
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(elementos elemento NCMP000 -) [
+              espec-mp/espec/(los el DA0MP0 -)
+            ]
+          ]
+        ]
+      ]
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(caracterizaban caracterizar VMII3P0 -)
+      ]
+      sn/obj/(obras obra NCFP000 -) [
+        espec-fp/espec/(aquellas aquel DD0FP0 -)
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+coor-vb/top/(Y y CC -) [
+  sadv/modnomatch/(además además RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(aburre aburrir VMIP3S0 -)
+  F-term/modnomatch/(. . Fp -)
+]
+

@@ -1,0 +1,55 @@
+coor-vb/top/(y y CC -) [
+  grup-verb/co-v/(hacen hacer VMIP3P0 -) [
+    sn/subj/(minutos minuto NCMP000 -) [
+      espec-mp/espec/(Los el DA0MP0 -)
+      s-a-mp/qual/(primeros 1 AO0MP0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(Engaño_de_Lujo engaño_de_lujo NP00000 -) [
+          espec-ms/espec/(Un uno DI0MS0 -)
+        ]
+      ]
+    ]
+    neg/modneg/(no no RN -)
+    coord/modnomatch/(sino sino CC -)
+    grup-verb-inf/modnomatch/(augurar augurar VMN0000 -)
+  ]
+  sn/subj/(peor peor AQ0CS0 -) [
+    j-ms/modnomatch/(el el DA0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(desastres desastre NCMP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+        coor-sp/modnomatch/(pero pero CC -) [
+          Fc(,)/modnorule/(, , Fc -)
+          grup-sp/modnorule/(hacia hacia SPS00 -) [
+            sn/head/(mitad mitad NCFS000 -) [
+              espec-fs/espec/(la el DA0FS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  grup-verb/co-v/(transforma transformar VMIP3S0 -) [
+    morfema-verbal/modnomatch/(se se P0000000 -)
+  ]
+  grup-verb/co-v/(remonta remontar VMIP3S0 -)
+  grup-sp-inf/modnomatch/(hasta hasta SPS00 -) [
+    grup-verb-inf/head/(convertir convertir VMN0000 -) [
+      PP*/modnomatch/(se se PP3CN000 -)
+    ]
+  ]
+  grup-sp/modnomatch/(en en SPS00 -) [
+    sn/head/(producto producto NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(aceptable aceptable AQ0CS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(entretenimiento entretenimiento NCMS000 -)
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

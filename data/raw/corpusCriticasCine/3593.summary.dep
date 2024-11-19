@@ -1,0 +1,47 @@
+grup-verb/top/(tiene tener VMIP3S0 -) [
+  sn/subj/(filme filme NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+  ]
+  sn/obj/(momentos momento NCMP000 -) [
+    s-a-mp/qual/(divertidos divertir VMP00PM -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(humor humor NCMS000 -) [
+        s-a-ms/qual/(buen bueno AQ0MS0 -)
+        s-a-ms/qual/(negro negro AQ0MS0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(susto susto NCMS000 -) [
+    espec-ms/espec/(algún alguno DI0MS0 -)
+  ]
+  sadv/cc/(bien bien RG -)
+  parti-flex/modnomatch/(conseguido conseguir VMP00SM -)
+  coor-n/obj/(o o CC -) [
+    sn/co-n/(escenas escena NCFP000 -) [
+      s-a-fp/qual/(ciertas cierto AQ0FP0 -)
+      n-mp/modnomatch/(gores gores NCMP000 -)
+    ]
+  ]
+  sadv/cc/(bien bien RG -)
+  parti-flex/modnomatch/(resueltas resolver VMP00PF -)
+  coor-sp/modnomatch/(pero pero CC -) [
+    grup-sp/modnorule/(en en SPS00 -) [
+      sn/head/(conjunto conjunto NCMS000 -) [
+        grup-verb/modnomatch/(resiente resentir VMIP3S0 -) [
+          morfema-verbal/modnomatch/(se se P0000000 -)
+          sp-de/modnomatch/(de de SPS00 -) [
+            sn/gen/(maquillaje maquillaje NCMS000 -) [
+              espec-ms/espec/(un uno DI0MS0 -)
+              s-a-ms/qual/(mediocre mediocre AQ0CS0 -) [
+                sadv/modnorule/(ciertamente ciertamente RG -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

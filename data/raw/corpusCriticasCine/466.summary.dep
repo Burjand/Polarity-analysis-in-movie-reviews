@@ -1,0 +1,57 @@
+grup-verb/top/(vacía vaciar VMIP3S0 -) [
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(Una uno DI0FS0 -)
+    s-a-fs/qual/(fallida fallir VMP00SF -)
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/modnomatch/(intento intento NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(erróneo erróneo AQ0MS0 -)
+      grup-sp/modnomatch/(a a SPS00 -) [
+        sn/head/(cine cine NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          s-a-ms/qual/(español español AQ0MS0 -)
+        ]
+      ]
+    ]
+    grup-sp-inf/modnomatch/(de de SPS00 -) [
+      grup-verb-inf/head/(querer querer VMN0000 -)
+    ]
+    grup-verb-inf/modnomatch/(dar dar VMN0000 -)
+    F-term/term/(? ? Fit -)
+    sn/modnomatch/(superproducción superproducción NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(definitiva definitivo AQ0FS0 -)
+      grup-sp/modnomatch/(en_cuanto_a en_cuanto_a SPS00 -) [
+        sn/head/(pretensiones pretensión NCFP000 -) [
+          espec-fp/espec/(sus su DP3CP0 -)
+        ]
+      ]
+    ]
+    F-term/term/(? ? Fit -)
+    subord/modnomatch/(que que CS -) [
+      grup-verb/modnorule/(queda quedar VMIP3S0 -) [
+        morfema-verbal/modnomatch/(se se P0000000 -)
+      ]
+    ]
+    s-adj/qual/(corta corto AQ0FS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  grup-sp/modnomatch/(en_cuanto_a en_cuanto_a SPS00 -) [
+    sn/head/(narración narración NCFS000 -)
+  ]
+  coord/modnomatch/(y y CC -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(llegar llegar VMN0000 -) [
+      VMI*<terminar>/modnomatch/(termina terminar VMIP3S0 -)
+      SPS00(de)/modnomatch/(de de SPS00 -)
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(espectador espectador NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

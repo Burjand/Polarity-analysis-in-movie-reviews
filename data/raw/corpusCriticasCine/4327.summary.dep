@@ -1,0 +1,63 @@
+grup-verb/top/(lee leer VMIP3S0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  sn/subj/(historia historia NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+  ]
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(forma forma NCFS000 -) [
+      s-a-fs/qual/(igual igual AQ0CS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(derecho derecho NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  prel/modnomatch/(que que PR0CN000 -)
+  sadv/cc/(de_el_revés del_revés RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  sadv/cc/(igual igual RG -)
+  conj-subord/modnomatch/(que que CS -)
+  sn/obj/(nombre nombre NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(protagonistas protagonista NCCP000 -) [
+        espec-mp/espec/(sus su DP3CP0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(atrapa atrapar VMIP3S0 -) [
+  patons/modnomatch/(Te te PP2CS000 -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(poesía poesía NCFS000 -) [
+      espec-fs/espec/(su su DP3CS0 -)
+      s-a-fs/qual/(y y CC -) [
+        s-a-fs/modnorule/(visual visual AQ0CS0 -)
+        s-a-fs/modnorule/(onírica onírico AQ0FS0 -) [
+          s-a-fs/modnorule/(llena lleno AQ0FS0 -)
+        ]
+      ]
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(fuerza fuerza NCFS000 -)
+      ]
+    ]
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(misterio misterio NCMS000 -)
+  ]
+  coor-n/obj/(y y CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(enigmas enigma NCFP000 -)
+    sn/co-n/(casualidades casualidad NCFP000 -)
+  ]
+  coor-n/obj/(y y CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(amor amor NCMS000 -)
+    sn/co-n/(odio odio NCMS000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

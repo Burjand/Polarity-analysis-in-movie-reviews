@@ -1,0 +1,70 @@
+grup-verb/top/(posee poseer VMIP3S0 -) [
+  sn/subj/(parte parte NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+    s-a-fs/qual/(primera 1 AO0FS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sadv/cc/(aproximadamente aproximadamente RG -)
+  sn/subj/(primeros 1 AO0MP0 -) [
+    j-mp/modnomatch/(los el DA0MP0 -)
+  ]
+  sn/subj/(minutos minuto NCMP000 -) [
+    numero-nopart/quant/(40 40 Z -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(factura factura NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(impecable impecable AQ0CS0 -)
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(dosis dosis NCFN000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(justa justo AQ0FS0 -)
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(hace hacer VMIP3S0 -)
+  ]
+  grup-verb-inf/modnomatch/(presagiar presagiar VMN0000 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(veremos ver VMIF1P0 -) [
+      sn/obj/(film film NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        s-a-ms/qual/(gran gran AQ0CS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(suspense suspense NCMS000 -)
+        ]
+      ]
+    ]
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(tensión tensión NCFS000 -)
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(deshace deshacer VMIP3S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+    ]
+  ]
+  sn/obj/(aire aire NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+  ]
+  ger/modnomatch/(quedando quedar VMG0000 -) [
+    PP*/modnorule/(se se PP3CN000 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(manojo manojo NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(tópicos tópico NCMP000 -) [
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(cine_de_terror cine_de_terror NCMS000 -) [
+              espec-ms/espec/(el el DA0MS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

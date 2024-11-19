@@ -1,0 +1,77 @@
+coor-vb/top/(y y CC -) [
+  grup-verb/co-v/(presenta presentar VMIP3S0 -) [
+    morfema-verbal/modnomatch/(se se P0000000 -)
+    patons/modnomatch/(nos nos PP1CP000 -)
+    sn/subj/(The_Host the_host NP00000 -)
+    conj-subord/modnomatch/(como como CS -)
+    espec-ms/modnomatch/(un uno DI0MS0 -)
+  ]
+  grup-verb/co-v/(quiero querer VMIP1S0 -)
+  grup-verb/co-v/(puedo poder VMIP1S0 -) [
+    neg/modneg/(no no RN -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sadv/modnomatch/(por_lo_menos por_lo_menos RG -)
+  grup-sp/modnomatch/(en en SPS00 -) [
+    sn/head/(occidente occidente NCMS000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(y y CC -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(tiene tener VMIP3S0 -)
+  ]
+  subord/modnomatch/(como como CS -) [
+    grup-verb/modnorule/(losa losar VMIP3S0 -)
+  ]
+  espec-ms/modnomatch/(el el DA0MS0 -)
+  grup-verb-inf/modnomatch/(haber haber VAN0000 -) [
+    PP*/modnomatch/(nos nos PP1CP000 -)
+  ]
+  parti-flex/modnomatch/(hecho hacer VMP00SM -)
+  grup-verb-inf/modnomatch/(creer creer VMN0000 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(disfrutar disfrutar VMN0000 -) [
+      VMI*<ir>/modnomatch/(íbamos ir VMII1P0 -)
+      SPS00(a)/modnomatch/(a a SPS00 -)
+    ]
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(tipo tipo NCMS000 -) [
+      espec-ms/espec/(otro otro DI0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(película película NCFS000 -)
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+grup-verb/top/(queda quedar VMIP3S0 -) [
+  patons/modnomatch/(me me PP1CS000 -)
+  sadv/cc/(Sólo sólo RG -)
+  grup-verb-inf/modnomatch/(recomendar recomendar VMN0000 -)
+  sn/obj/(selección selección NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(otra otro PI0FS000 -) [
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(propuestas propuesta NCFP000 -) [
+            espec-fp/espec/(muchas mucho DI0FP0 -) [
+              j-fp/modnorule/(las el DA0FP0 -)
+            ]
+            grup-sp/modnomatch/(en en SPS00 -) [
+              sn/head/(carteleras cartelera NCFP000 -) [
+                espec-fp/espec/(las el DA0FP0 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(hay haber VMIP3S0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

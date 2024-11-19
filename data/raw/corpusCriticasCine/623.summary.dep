@@ -1,0 +1,24 @@
+grup-verb/top/(recuperar recuperar VMN0000 -) [
+  VMI*<volver>/modnomatch/(Vuelvo volver VMIP1S0 -)
+  SPS00(a)/modnomatch/(a a SPS00 -)
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(golpe golpe NCMS000 -)
+  ]
+  sn/obj/(confianza confianza NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(perdido perder VMP00SM -) [
+        vaux/aux/(había haber VAII1S0 -)
+      ]
+    ]
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(Gangs gangs NP00000 -)
+  ]
+  F-no-c/modnomatch/(... ... Fs -)
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(The_Aviator the_aviator NP00000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

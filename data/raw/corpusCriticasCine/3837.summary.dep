@@ -1,0 +1,46 @@
+grup-verb/top/(muestra mostrar VMIP3S0 -) [
+  sn/subj/(Excelente excelente NP00000 -)
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(cine cine NCMS000 -) [
+      s-a-ms/qual/(negro negro AQ0MS0 -) [
+        s-a-ms/modnorule/(actual actual AQ0CS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(Será ser VSIF3S0 -) [
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(sin sin SPS00 -) [
+    sn/head/(duda duda NCFS000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(películas película NCFP000 -) [
+          espec-fp/espec/(las el DA0FP0 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  espec-fs/modnomatch/(una uno DI0FS0 -)
+  prel/modnomatch/(que que PR0CN000 -)
+  vaux/aux/(estén estar VASP3P0 -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(terna terna NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      grup-sp/modnomatch/(para para SPS00 -) [
+        sn/head/(ceremonia ceremonia NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          s-a-fs/qual/(próxima próximo AQ0FS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(Óscars_de_Hollywood óscars_de_hollywood NP00000 -) [
+              espec-mp/espec/(los el DA0MP0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

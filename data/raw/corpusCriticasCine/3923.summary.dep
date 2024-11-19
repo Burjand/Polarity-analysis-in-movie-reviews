@@ -1,0 +1,59 @@
+grup-verb/top/(inspiró inspirar VMIS3S0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  sn/subj/(Tarantino tarantino NP00000 -) [
+    grup-verb/modnomatch/(está estar VAIP3S0 -) [
+      sn/obj/(serie serie NCFS000 -) [
+        n-fs/modnomatch/(b b NCFS000 -)
+      ]
+    ]
+  ]
+  sadv/cc/(descaradamente descaradamente RG -)
+  grup-sp/iobj/(para para SPS00 -) [
+    sn/head/(Kill_Bill kill_bill NP00000 -)
+  ]
+  prep/modnomatch/(en en SPS00 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(joya joya NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(verdadera verdadero AQ0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Grindhouse grindhouse NP00000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        grup-sp/modnomatch/(con con SPS00 -) [
+          sn/head/(elementos elemento NCMP000 -) [
+            espec-mp/espec/(todos todo DI0MP0 -) [
+              pos-mp/modnorule/(sus su DP3CP0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(Es ser VSIP3S0 -) [
+  grup-verb-inf/modnomatch/(decir decir VMN0000 -)
+  sn/obj/(violencia violencia NCFS000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(sexo sexo NCMS000 -) [
+    s-a-ms/qual/(explícito explícito AQ0MS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(artes arte NCCP000 -) [
+    s-a-mp/qual/(marciales marcial AQ0CP0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-sp/modnomatch/(en en SPS00 -) [
+      sn/head/(universo universo NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        s-a-ms/qual/(lleno lleno AQ0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(suciedad suciedad NCFS000 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

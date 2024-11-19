@@ -1,0 +1,46 @@
+grup-verb/top/(decir decir VMN0000 -) [
+  VMI*<ir>/modnomatch/(voy ir VMIP1S0 -)
+  SPS00(a)/modnomatch/(a a SPS00 -)
+  neg/modneg/(No no RN -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(esperaba esperar VMII1S0 -) [
+      patons/modnomatch/(me me PP1CS000 -)
+    ]
+  ]
+  sadv/cc/(más más RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(dado_que dado_que CS -) [
+    grup-verb/modnorule/(mentiría mentir VMIC1S0 -)
+  ]
+  sadv/cc/(vilmente vilmente RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/modnomatch/(ser ser VSN0000 -) [
+    VMI*<ir>/modnomatch/(voy ir VMIP1S0 -)
+    SPS00(a)/modnomatch/(a a SPS00 -)
+    grup-sp/modnomatch/(por por SPS00 -) [
+      sn/head/(eso ese PD0NS000 -)
+    ]
+    neg/modneg/(no no RN -)
+  ]
+  s-adj/modnomatch/(cruel cruel AQ0CS0 -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(película película NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(deja dejar VMIP3S0 -) [
+  morfema-verbal/modnomatch/(Se se P0000000 -)
+  grup-verb-inf/modnomatch/(ver ver VMN0000 -)
+  coor-sp/modnomatch/(pero pero CC -) [
+    grup-sp/modnorule/(sin sin SPS00 -) [
+      sn/head/(pretensiones pretensión NCFP000 -) [
+        espec-fp/espec/(muchas mucho DI0FP0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

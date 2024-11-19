@@ -1,0 +1,53 @@
+grup-verb/top/(convence convencer VMIP3S0 -) [
+  sn/subj/(Resident_Evil resident_evil NP00000 -)
+  neg/modneg/(no no RN -)
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(Es ser VSIP3S0 -) [
+  sadv/cc/(más más RG -) [
+    SPS00(de)/modnorule/(de de SPS00 -)
+    sn/modnorule/(e e CC -) [
+      j-ms/modnomatch/(lo el DA0NS0 -)
+      s-a-ms/qual/(mismo mismo AQ0MS0 -)
+      s-a-ms/qual/(peor peor AQ0CS0 -) [
+        sadv/modnorule/(incluso incluso RG -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(Intenta intentar VMIP3S0 -) [
+  sn/obj/(vueltas vuelta NCFP000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(tuerca tuerca NCFS000 -)
+    ]
+  ]
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(sorprender sorprender VMN0000 -)
+  ]
+  s-adj/modnomatch/(espectador espectador AQ0MS0 -) [
+    sadv/modnorule/(aun aun RG -)
+  ]
+  parti-flex/modnomatch/(acostumbrado acostumbrar VMP00SM -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(giros giro NCMP000 -)
+  ]
+  sn/obj/(elaborados elaborar VMP00PM -) [
+    espec-mp/espec/(más más RG -)
+    coor-sp/modnomatch/(y y CC -) [
+      grup-sp/modnorule/(a a SPS00 -) [
+        sn/head/(guiones guión NCMP000 -)
+      ]
+    ]
+  ]
+  sn/obj/(poco poco PI0MS000 -) [
+    indef-ms/modnomatch/(un uno DI0MS0 -)
+  ]
+  sn/obj/(manidos manir VMP00PM -) [
+    espec-mp/espec/(menos menos RG -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,63 @@
+coor-vb/top/(pero pero CC -) [
+  sn/subj/(ciencia ciencia NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(sueño sueño NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  grup-verb/co-v/(puesto poner VMP00SM -) [
+    vaux/aux/(ha haber VAIP3S0 -)
+    sn/obj/(expectativas expectativa NCFP000 -) [
+      espec-fp/espec/(sus su DP3CP0 -)
+    ]
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(presentación presentación NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(fotogramas fotograma NCMP000 -) [
+            s-a-mp/qual/(animados animar VMP00PM -)
+          ]
+        ]
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(plastificaran plastificar VMSI3P0 -)
+    ]
+    sn/obj/(mundo mundo NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(interior interior AQ0CS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(personaje personaje NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+    grup-sp/cc/(con con SPS00 -) [
+      sn/head/(imaginación imaginación NCFS000 -)
+    ]
+    coor-n/obj/(y y CC -) [
+      sn/co-n/(optimismo optimismo NCMS000 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(consigue conseguir VMIP3S0 -) [
+    patons/modnomatch/(lo lo PP3CNA00 -)
+    neg/modneg/(no no RN -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+sadv/top/(bien bien RG -) [
+  cuantif/modnorule/(Más más RG -)
+  coor-vb/modnorule/(y y CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-verb/co-v/(aturde aturdir VMIP3S0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-verb/co-v/(desconcierta desconcertar VMIP3S0 -)
+    grup-verb/co-v/(agota agotar VMIP3S0 -)
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

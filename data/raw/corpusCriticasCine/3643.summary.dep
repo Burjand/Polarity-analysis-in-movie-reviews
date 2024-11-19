@@ -1,0 +1,29 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(Brújula_Dorada brújula_dorada NP00000 -) [
+    Fe/modnomatch/(" " Fe -)
+    Fe/modnomatch/(" " Fe -)
+    espec-fs/espec/(La el DA0FS0 -)
+  ]
+  sn/obj/(producción producción NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(súper súper AQ0CN0 -)
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(ingredientes ingrediente NCMP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+    ]
+  ]
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(entretener entretener VMN0000 -)
+  ]
+  coord/modnomatch/(pero pero CC -)
+  grup-sp-inf/modnomatch/(sin sin SPS00 -) [
+    grup-verb-inf/head/(emocionar emocionar VMN0000 -) [
+      VMN0000(llegar)/modnomatch/(llegar llegar VMN0000 -)
+      SPS00(a)/modnomatch/(a a SPS00 -)
+    ]
+  ]
+  sadv/cc/(demasiado demasiado RG -)
+  F-term/term/(. . Fp -)
+]
+

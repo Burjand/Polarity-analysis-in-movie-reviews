@@ -1,0 +1,70 @@
+coor-vb/top/(pero pero CC -) [
+  sn/subj/(filme filme NCMS000 -) [
+    espec-ms/espec/(Un uno DI0MS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(ofrece ofrecer VMIP3S0 -)
+    ]
+  ]
+  sn/subj/(espectáculo espectáculo NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(banal banal AQ0CS0 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(entretiene entretener VMIP3S0 -) [
+    sp-de/modnomatch/(de de SPS00 -) [
+      sn/gen/(principio principio NCMS000 -)
+    ]
+    grup-sp/iobj/(a a SPS00 -) [
+      sn/head/(fin fin NCMS000 -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+grup-verb/top/(necesitan necesitar VMIP3P0 -) [
+  grup-sp/cc/(En en SPS00 -) [
+    sn/head/(verdad verdad NCFS000 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(fans fan NCCP000 -) [
+    espec-mp/espec/(los el DA0MP0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(John_McClane john_mcclane NP00000 -)
+    ]
+  ]
+  neg/modneg/(no no RN -)
+  sadv/cc/(mucho mucho RG -)
+  sadv/cc/(más más RG -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(carece carecer VMIP3S0 -) [
+      coor-n/subj/(pero pero CC -) [
+        sn/co-n/(esto este PD0NS000 -) [
+          grup-verb/modnomatch/(son ser VSIP3P0 -) [
+            sn/obj/(estereotipo estereotipo NCMS000 -) [
+              s-a-ms/qual/(puro puro AQ0MS0 -)
+            ]
+            grup-sp/modnomatch/(sin sin SPS00 -) [
+              sn/head/(personalidad personalidad NCFS000 -) [
+                s-a-fs/qual/(propia propio AQ0FS0 -)
+              ]
+            ]
+          ]
+        ]
+        Fc(,)/modnomatch/(, , Fc -)
+        sn/co-n/(guión guión NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+      sp-de/modnomatch/(de de SPS00 -) [
+        sn/gen/(ingenio ingenio NCMS000 -)
+      ]
+      coor-n/obj/(y y CC -) [
+        sn/co-n/(personajes personaje NCMP000 -) [
+          espec-mp/espec/(los el DA0MP0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

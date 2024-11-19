@@ -1,0 +1,76 @@
+sn/top/(Oscarizada oscarizada NP00000 -) [
+  sn/modnomatch/(película película NCFS000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Scorsese scorsese NP00000 -) [
+        grup-sp/modnomatch/(sobre sobre SPS00 -) [
+          sn/head/(agentes agente NCCP000 -) [
+            s-a-mp/qual/(dobles doble AQ0CP0 -)
+            grup-sp/modnomatch/(por por SPS00 -) [
+              sn/head/(lados lado NCMP000 -) [
+                espec-mp/espec/(todos todo DI0MP0 -) [
+                  j-mp/modnorule/(los el DA0MP0 -)
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(guión guión NCMS000 -) [
+  espec-ms/espec/(Un uno DI0MS0 -)
+  s-a-ms/qual/(gran gran AQ0CS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(pierde perder VMIP3S0 -)
+  ]
+  sn/modnomatch/(fuerza fuerza NCFS000 -) [
+    grup-sp/modnomatch/(por por SPS00 -) [
+      sn/head/(trio trio NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        s-a-ms/qual/(amoroso amoroso AQ0MS0 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  prep/modnomatch/(por por SPS00 -)
+  espec-ms/espec/(lo el DA0NS0 -)
+  s-adj/qual/(larga largo AQ0FS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(hace hacer VMIP3S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+    ]
+  ]
+  sn/modnomatch/(película película NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  coord/modnomatch/(y y CC -)
+  prep/modnomatch/(por por SPS00 -)
+  espec-ms/espec/(un uno DI0MS0 -)
+  sn/modnomatch/(final final NCFS000 -) [
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(desmerece desmerecer VMIP3S0 -)
+    ]
+    grup-sp/modnomatch/(a a SPS00 -) [
+      sn/head/(resto resto NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(cinta cinta NCFS000 -) [
+            espec-fs/espec/(la el DA0FS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+s-adj/top/(Recomendable recomendable AQ0CS0 -) [
+  grup-sp/modnorule/(con con SPS00 -) [
+    sn/head/(reservas reserva NCFP000 -)
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

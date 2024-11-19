@@ -1,0 +1,73 @@
+grup-verb/top/(Llenará llenar VMIF3S0 -) [
+  sn/obj/(corazón corazón NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(amante amante NCCS000 -) [
+        espec-ms/espec/(mucho mucho DI0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(cine cine NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+          ]
+        ]
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(busca buscar VMIP3S0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(entre entre SPS00 -) [
+    sn/head/(morralla morralla NCFS000 -) [
+      espec-fs/espec/(tanta tanto DI0FS0 -)
+    ]
+    CC(y)/modnomatch/(y y CC -)
+    sn/head/(fuego fuego NCMS000 -) [
+      espec-ms/espec/(tanto tanto DI0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(artificio artificio NCMS000 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(viaje viaje NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(reposado reposar VMP00SM -)
+    grup-sp/modnomatch/(a a SPS00 -) [
+      sn/head/(mundo mundo NCMS000 -) [
+        espec-ms/espec/(otro otro DI0MS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(Corran correr VMM03P0 -) [
+  grup-sp/cc/(a a SPS00 -) [
+    sn/head/(cine cine NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(y y CC -) [
+  grup-verb/co-v/(Vaya ir VMM03S0 -) [
+    subord/modnomatch/(que que CS -) [
+      grup-verb/modnorule/(quiten quitar VMSP3P0 -) [
+        patons/modnomatch/(la lo PP3FSA00 -)
+      ]
+    ]
+  ]
+  grup-verb/co-v/(pongan poner VMSP3P0 -) [
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(lugar lugar NCMS000 -) [
+        espec-ms/espec/(su su DP3CS0 -)
+      ]
+    ]
+    sn/obj/(mamarrachada mamarrachada NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

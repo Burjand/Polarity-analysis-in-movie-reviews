@@ -1,0 +1,50 @@
+coor-vb/top/(ni ni CC -) [
+  sn/subj/(cinta cinta NCFS000 -) [
+    espec-fs/espec/(Una uno DI0FS0 -)
+    s-a-fs/qual/(simplona simplón AQ0FS0 -)
+    s-a-fs/qual/(televisiva televisivo AQ0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(consumo consumo NCMS000 -) [
+        s-a-ms/qual/(rápido rápido AQ0MS0 -)
+      ]
+    ]
+    coord/modnomatch/(y y CC -)
+    subord/modnomatch/(donde donde PR000000 -) [
+      grup-verb/modnorule/(luce lucir VMIP3S0 -) [
+        sadv/cc/(solo solo RG -)
+        F-no-c/modnomatch/(" " Fe -)
+        sadv/cc/(algo algo RG -)
+        F-no-c/modnomatch/(" " Fe -)
+        sn/obj/(Kyra_Sedgwick kyra_sedgwick NP00000 -)
+      ]
+      Fc(,)/modnorule/(, , Fc -)
+    ]
+  ]
+  sn/subj/(resto resto NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+  ]
+  grup-verb/co-v/(sirven servir VMIP3P0 -) [
+    sadv/cc/(tan_siquiera tan_siquiera RG -)
+  ]
+  grup-sp-inf/modnomatch/(para para SPS00 -) [
+    grup-verb-inf/head/(destacar destacar VMN0000 -) [
+      PP*/modnomatch/(los los PP3MPA00 -)
+    ]
+    sn/modnomatch/(mínimo mínimo AQ0MS0 -) [
+      j-ms/modnomatch/(lo el DA0NS0 -)
+      sadv/modnomatch/(más más RG -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(aburre aburrir VMIP3S0 -)
+  coor-sp/modnomatch/(y y CC -) [
+    grup-sp/modnorule/(a a SPS00 -) [
+      s-a-mp/modnomatch/(propios propio AQ0MP0 -)
+    ]
+    grup-sp/modnorule/(a a SPS00 -) [
+      sn/head/(extraños extraño NCMP000 -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

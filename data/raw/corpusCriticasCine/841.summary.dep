@@ -1,0 +1,90 @@
+grup-verb/top/(consiste consistir VMIP3S0 -) [
+  sn/subj/(broma broma NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+    s-adj/qual/(difícil difícil AQ0CS0 -)
+    grup-sp-inf/modnomatch/(de de SPS00 -) [
+      grup-verb-inf/head/(reír reír VMN0000 -)
+    ]
+    subord/modnomatch/(porque porque CS -) [
+      grup-verb/modnorule/(dura durar VMIP3S0 -) [
+        sn/obj/(horas hora NCFP000 -) [
+          numero-nopart/quant/(dos 2 Z -)
+        ]
+      ]
+      Fc(,)/modnorule/(, , Fc -)
+    ]
+    coord/modnomatch/(y y CC -)
+    subord/modnomatch/(porque porque CS -) [
+      grup-verb/modnorule/(es ser VSIP3S0 -) [
+        sadv/cc/(además además RG -)
+        sn/obj/(poco poco PI0MS000 -) [
+          indef-ms/modnomatch/(un uno DI0MS0 -)
+        ]
+      ]
+    ]
+    s-adj/qual/(filosófica filosófico AQ0FS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  prep/modnomatch/(en en SPS00 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(es ser VSIP3S0 -) [
+      sn/subj/(amor amor NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        Fc(,)/modnomatch/(, , Fc -)
+      ]
+      sn/subj/(cosa cosa NCFS000 -) [
+        espec-fs/espec/(esa ese DD0FS0 -)
+        subord/modnomatch/(que que PR0CN000 -) [
+          grup-verb/modnorule/(gusta gustar VMIP3S0 -) [
+            patons/modnomatch/(nos nos PP1CP000 -)
+            sadv/cc/(tanto tanto RG -)
+          ]
+        ]
+        Fc(,)/modnomatch/(, , Fc -)
+      ]
+      sn/obj/(mentira mentira NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(amar amar VMN0000 -) [
+  patons/modnomatch/(nos nos PP1CP000 -)
+  VMI*<ir>/modnomatch/(va ir VMIP3S0 -)
+  SPS00(a)/modnomatch/(a a SPS00 -)
+  sn/subj/(Nadie nadie PI0CS000 -)
+  sadv/cc/(nunca nunca RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  conj-subord/modnomatch/(porque porque CS -)
+  sn/obj/(único único AQ0MS0 -) [
+    j-ms/modnomatch/(lo el DA0NS0 -)
+    subord/modnomatch/(que que CS -) [
+      grup-verb/modnorule/(percibir percibir VMN0000 -) [
+        VMI*<poder>/modnomatch/(pueden poder VMIP3P0 -)
+        sn/subj/(demás demás PI0CP000 -) [
+          j-mp/modnomatch/(los el DA0MP0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(nosotros nosotros PP1MP000 -) [
+              grup-verb/modnomatch/(es ser VSIP3S0 -) [
+                sn/obj/(perfume perfume NCMS000 -) [
+                  espec-ms/espec/(nuestro nuestro DP1MSP -)
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  grup-verb-inf/modnomatch/(experimentar experimentar VMN0000 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb-inf/modnomatch/(desear desear VMN0000 -)
+  coord/modnomatch/(o o CC -)
+  grup-verb-inf/modnomatch/(amar amar VMN0000 -)
+  F-term/term/(. . Fp -)
+]
+

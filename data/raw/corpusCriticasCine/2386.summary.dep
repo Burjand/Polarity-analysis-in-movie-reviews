@@ -1,0 +1,84 @@
+grup-verb/top/(encuentro encontrar VMIP1S0 -) [
+  patons/modnomatch/(Me me PP1CS000 -)
+  prep/modnomatch/(entre entre SPS00 -)
+  espec-mp/modnomatch/(los el DA0MP0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(alaban alabar VMIP3P0 -) [
+      patons/modnomatch/(la lo PP3FSA00 -)
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  espec-mp/modnomatch/(los el DA0MP0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(dicen decir VMIP3P0 -)
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(es ser VSIP3S0 -) [
+      neg/modneg/(no no RN -)
+      sn/obj/(nada nada PI0CS000 -) [
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(mundo mundo NCMS000 -) [
+            espec-ms/espec/(otro otro DI0MS0 -) [
+              j-ms/modnorule/(el el DA0MS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(Y y CC -) [
+  grup-verb/co-v/(es ser VSIP3S0 -)
+  conj-subord/modnomatch/(que que CS -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(como como CS -) [
+    sn/head/(película película NCFS000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(esperaba esperar VMII1S0 -) [
+    patons/modnomatch/(me me PP1CS000 -)
+    sadv/cc/(más más RG -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+grup-verb/top/(sé saber VMIP1S0 -) [
+  neg/modneg/(No no RN -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/modnomatch/(imaginaba imaginar VMII1S0 -) [
+    patons/modnomatch/(me me PP1CS000 -)
+    patons/modnomatch/(la lo PP3FSA00 -)
+  ]
+  s-adj/modnomatch/(diferente diferente AQ0CS0 -)
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(tiene tener VMIP3S0 -) [
+  coor-n/subj/(Pero pero CC -) [
+    sn/co-n/(ello él PP3NS000 -)
+  ]
+  neg/modneg/(no no RN -)
+  sn/obj/(nada nada PI0CS000 -)
+  conj-subord/modnomatch/(que que CS -)
+  grup-verb-inf/modnomatch/(ver ver VMN0000 -)
+  prep/modnomatch/(con con SPS00 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(sea ser VSSP1S0 -) [
+      sn/subj/(película película NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+      sn/obj/(producto producto NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(calidad calidad NCFS000 -) [
+            s-a-fs/qual/(gran gran AQ0CS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

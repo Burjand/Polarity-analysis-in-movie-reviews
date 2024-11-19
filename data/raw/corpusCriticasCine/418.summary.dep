@@ -1,0 +1,41 @@
+grup-sp-inf/top/(Para para SPS00 -) [
+  grup-verb-inf/head/(relajar relajar VMN0000 -) [
+    PP*/modnomatch/(se se PP3CN000 -)
+  ]
+  grup-sp/modnomatch/(en en SPS00 -) [
+    sn/head/(butaca butaca NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb-inf/head/(abrir abrir VMN0000 -)
+  sn/modnomatch/(mente mente NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  coord/modnomatch/(y y CC -)
+  neg/modnomatch/(no no RN -)
+  grup-verb-inf/head/(plantear plantear VMN0000 -) [
+    PP*/modnomatch/(se se PP3CN000 -)
+  ]
+  sn/modnomatch/(cosas cosa NCFP000 -) [
+    espec-fp/espec/(demasiadas demasiado DI0FP0 -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+sadv/top/(Sólo sólo RG -) [
+  grup-verb-inf/modnorule/(disfrutar disfrutar VMN0000 -)
+  grup-sp/modnorule/(con con SPS00 -) [
+    sn/head/(personajes personaje NCMP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+    ]
+  ]
+  coor-n/modnorule/(y y CC -) [
+    sn/co-n/(fantástico fantástico AQ0MS0 -) [
+      j-ms/modnomatch/(lo el DA0NS0 -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

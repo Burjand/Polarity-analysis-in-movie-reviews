@@ -1,0 +1,59 @@
+grup-verb/top/(mece mecer VMIP3S0 -) [
+  patons/modnomatch/(te te PP2CS000 -)
+  sn/subj/(film film NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+    grup-verb/modnomatch/(duda dudar VMIP3S0 -) [
+      sn/obj/(experiencia experiencia NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        grup-verb/modnomatch/(arrepentir arrepentir VMN0000 -) [
+          patons/modnomatch/(te te PP2CS000 -)
+          VMI*<ir>/modnomatch/(vas ir VMIP2S0 -)
+          SPS00(a)/modnomatch/(a a SPS00 -)
+          neg/modneg/(no no RN -)
+          grup-verb/modnomatch/(digan decir VMSP3P0 -)
+        ]
+      ]
+    ]
+  ]
+  grup-sp/modnomatch/(entre entre SPS00 -) [
+    sn/head/(comedia comedia NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+    CC(y)/modnomatch/(y y CC -)
+    sn/head/(drama drama NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(forma forma NCFS000 -) [
+          espec-fs/espec/(una uno DI0FS0 -)
+          s-a-fs/qual/(deliciosa delicioso AQ0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  prep/modnomatch/(sin sin SPS00 -)
+  relatiu/modnomatch/(de de SPS00 -) [
+    j-fs/modnorule/(la el DA0FS0 -)
+    cual-s/modnorule/(cual cual PR0CS000 -)
+  ]
+  espec-ms/modnomatch/(lo el DA0NS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(digan decir VMSP3P0 -)
+  ]
+  sn/obj/(algunos alguno PI0MP000 -)
+  F-term/term/(. . Fp -)
+]
+
+espec-ms/top/(Tu tu DP2CSS -) [
+  grup-verb/modnorule/(haz hacer VMM02S0 -) [
+    patons/modnomatch/(le le PP3CSD00 -)
+    sn/obj/(caso caso NCMS000 -)
+    grup-sp/iobj/(a a SPS00 -) [
+      sn/head/(ironcita ironcita NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+    F-no-c/modnomatch/(... ... Fs -)
+  ]
+]
+

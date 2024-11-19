@@ -1,0 +1,48 @@
+coor-vb/top/(y y CC -) [
+  grup-verb/co-v/(Vengo vengar VMIP1S0 -) [
+    grup-sp-inf/modnomatch/(de de SPS00 -) [
+      grup-verb-inf/head/(presenciar presenciar VMN0000 -)
+      sn/modnomatch/(parte parte NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        s-a-fs/qual/(horripilante horripilante AQ0CS0 -)
+        s-a-fs/qual/(cuarta 4 AO0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(Saw saw NP00000 -)
+        ]
+      ]
+    ]
+  ]
+  grup-verb/co-v/(digo decir VMIP1S0 -) [
+    patons/modnomatch/(lo lo PP3CNA00 -)
+    neg/modneg/(no no RN -)
+  ]
+  sadv/modnomatch/(precisamente precisamente RG -)
+  grup-sp-inf/modnomatch/(por por SPS00 -) [
+    grup-verb-inf/head/(provocar provocar VMN0000 -)
+    sn/modnomatch/(terror terror NCMS000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(provocó provocar VMIS3S0 -) [
+    patons/modnomatch/(me me PP1CS000 -)
+    sadv/cc/(en_todo_caso en_todo_caso RG -)
+    sn/obj/(aburrimiento aburrimiento NCMS000 -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+grup-verb/top/(estar estar VAN0000 -) [
+  VMI*<deber>/modnomatch/(debe deber VMIP3S0 -)
+  sn/subj/(David_Cronemberg david_cronemberg NP00000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+    s-a-ms/qual/(pobre pobre AQ0CS0 -)
+  ]
+  forma-ger/modnomatch/(jurando jurar VMG0000 -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(lenguas lengua NCFP000 -) [
+      espec-fp/espec/(varias varios DI0FP0 -)
+      s-a-fp/qual/(muertas morir VMP00PF -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

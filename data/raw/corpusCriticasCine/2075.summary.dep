@@ -1,0 +1,52 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  grup-sp/modnomatch/(A_pesar_de a_pesar_de SPS00 -) [
+    sn/head/(fallos fallo NCMP000 -) [
+      espec-mp/espec/(sus su DP3CP0 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(Piratas_de_el_Caribe piratas_de_el_caribe NP00000 -) [
+    F-no-c/modnomatch/(: : Fd -)
+  ]
+  grup-sp/cc/(En en SPS00 -) [
+    sn/head/(Fin_de_el_Mundo fin_de_el_mundo NP00000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(aventuras aventura NCFP000 -)
+    ]
+  ]
+  s-adj/att/(aceptable aceptable AQ0CS0 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(entretiene entretener VMIP3S0 -)
+  ]
+  sadv/cc/(más más RG -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(aburre aburrir VMIP3S0 -)
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  coord/modnomatch/(y y CC -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(hará hacer VMIF3S0 -)
+  ]
+  sn/obj/(delicias delicia NCFP000 -) [
+    espec-fp/espec/(las el DA0FP0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(admiradores admirador NCMP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(saga saga NCFS000 -) [
+            espec-fs/espec/(esta este DD0FS0 -)
+            s-a-fs/qual/(popular popular AQ0CS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

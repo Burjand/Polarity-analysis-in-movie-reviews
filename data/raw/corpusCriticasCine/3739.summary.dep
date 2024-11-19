@@ -1,0 +1,47 @@
+grup-verb/top/(gore gore VMSP3S0 -) [
+  sn/subj/(película película NCFS000 -) [
+    s-a-fs/qual/(Nueva nuevo AQ0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(vampiros vampiro NCMP000 -)
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  s-adj/modnomatch/(prescindible prescindible AQ0CS0 -)
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(y y CC -) [
+  grup-verb/co-v/(gustará gustar VMIF3S0 -) [
+    patons/modnomatch/(Te te PP2CS000 -)
+    subord/modnomatch/(si si CS -) [
+      grup-verb/modnorule/(eres ser VSIP2S0 -) [
+        sn/obj/(amante amante NCCS000 -) [
+          espec-ms/espec/(un uno DI0MS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(género género NCMS000 -) [
+              espec-ms/espec/(el el DA0MS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+    grup-sp/modnomatch/(sin sin SPS00 -) [
+      sn/head/(prejuicios prejuicio NCMP000 -)
+    ]
+  ]
+  grup-verb/co-v/(detestarás detestar VMIF2S0 -) [
+    patons/modnomatch/(la lo PP3FSA00 -)
+  ]
+  conj-subord/modnomatch/(si si CS -)
+  sn/modnomatch/(buscas busca NCFP000 -)
+  sn/modnomatch/(algo algo PI0CS000 -)
+  sadv/modnomatch/(más más RG -)
+  conj-subord/modnomatch/(que que CS -)
+  sn/modnomatch/(entretenimiento entretenimiento NCMS000 -) [
+    grup-sp/modnomatch/(en en SPS00 -) [
+      sn/head/(ella él PP3FS000 -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

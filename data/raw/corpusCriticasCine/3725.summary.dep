@@ -1,0 +1,78 @@
+coor-vb/top/(ni ni CC -) [
+  grup-verb/co-v/(pasa pasar VMIP3S0 -) [
+    sn/subj/(cinta cinta NCFS000 -) [
+      espec-fs/espec/(La el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(cintas cinta NCFP000 -) [
+          espec-fp/espec/(esas ese DD0FP0 -)
+        ]
+      ]
+    ]
+    neg/modneg/(no no RN -)
+    sp-de/modnomatch/(de de SPS00 -) [
+      sn/gen/(entretenimiento entretenimiento NCMS000 -) [
+        s-a-ms/qual/(mero mero AQ0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(tarde tarde NCFS000 -) [
+            espec-fs/espec/(una uno DI0FS0 -)
+            s-a-fs/qual/(lluviosa lluvioso AQ0FS0 -)
+          ]
+        ]
+      ]
+    ]
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(DVD dvd NP00000 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    subord/modnomatch/(donde donde PR000000 -) [
+      grup-verb/modnorule/(levantar levantar VMN0000 -) [
+        patons/modnomatch/(se se PP3CN000 -)
+        VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+        sn/subj/(uno uno PI0MS000 -)
+        sn/obj/(veces vez NCFP000 -) [
+          espec-fp/espec/(varias varios DI0FP0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(sofá sofá NCMS000 -) [
+              espec-ms/espec/(el el DA0MS0 -)
+            ]
+          ]
+        ]
+      ]
+      Fc(,)/modnorule/(, , Fc -)
+    ]
+    conj-subord/modnomatch/(que que CS -)
+    prep/modnomatch/(a a SPS00 -)
+    espec-ms/modnomatch/(el el DA0MS0 -)
+    grup-verb-inf/modnomatch/(reenganchar reenganchar VMN0000 -) [
+      PP*/modnomatch/(se se PP3CN000 -)
+    ]
+    grup-sp/cc/(a a SPS00 -) [
+      sn/head/(misma mismo AQ0FS0 -) [
+        j-fs/modnomatch/(la el DA0FS0 -)
+        grup-verb/modnomatch/(perdido perder VMP00SM -) [
+          vaux/aux/(habrá haber VAIF3S0 -)
+          neg/modneg/(no no RN -)
+          sn/obj/(hilo hilo NCMS000 -)
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    Fc(,)/modnomatch/(, , Fc -)
+    coord/modnomatch/(ni ni CC -)
+    s-adj/modnomatch/(comba combo AQ0FS0 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(molestará molestar VMIF3S0 -) [
+    patons/modnomatch/(le le PP3CSD00 -)
+  ]
+  grup-verb-inf/modnomatch/(haber haber VAN0000 -) [
+    PP*/modnomatch/(se se PP3CN000 -)
+  ]
+  parti-flex/modnomatch/(perdido perder VMP00SM -)
+  coor-n/modnomatch/(o o CC -) [
+    sn/co-n/(10 10 Z -)
+    sn/co-n/(20_min TM_min:20 Zu -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

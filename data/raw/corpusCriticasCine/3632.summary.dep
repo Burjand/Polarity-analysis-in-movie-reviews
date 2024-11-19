@@ -1,0 +1,70 @@
+sn/top/(Película película NCFS000 -) [
+  grup-sp/modnomatch/(sobre sobre SPS00 -) [
+    sn/head/(rata rata NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(ser ser VSN0000 -) [
+      VMI*<querer>/modnomatch/(quiere querer VMIP3S0 -)
+    ]
+  ]
+  sn/modnomatch/(chef chef NP00000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(muchacho muchacho NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+      ]
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(sabe saber VMIP3S0 -) [
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  espec-ms/espec/(lo el DA0NS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(quiere querer VMIP3S0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-n/top/(y y CC -) [
+  sn/co-n/(obra obra NCFS000 -) [
+    espec-fs/espec/(Otra otro DI0FS0 -)
+    s-a-fs/qual/(pequeña pequeño AQ0FS0 -)
+    s-a-fs/qual/(maestra maestro AQ0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(superación superación NCFS000 -)
+    ]
+  ]
+  sn/co-n/(amor amor NCMS000 -)
+  grup-sp/modnomatch/(hacia hacia SPS00 -) [
+    sn/head/(familia familia NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(encantará encantar VMIF3S0 -)
+  ]
+  grup-sp/modnomatch/(a a SPS00 -) [
+    sn/head/(pequeños pequeño AQ0MP0 -) [
+      j-mp/modnomatch/(los el DA0MP0 -)
+      sadv/modnomatch/(más más RG -)
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(dará dar VMIF3S0 -)
+  ]
+  sn/co-n/(hambre hambre NCFS000 -) [
+    grup-sp/modnomatch/(a a SPS00 -) [
+      sn/head/(mayores mayor AQ0CP0 -) [
+        j-mp/modnomatch/(los el DA0MP0 -)
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

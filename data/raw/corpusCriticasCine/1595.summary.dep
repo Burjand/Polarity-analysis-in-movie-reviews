@@ -1,0 +1,51 @@
+grup-verb/top/(saldrás salir VMIF2S0 -) [
+  sn/subj/(Miedo miedo NP00000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(desesperación desesperación NCFS000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(tedio tedio NCMS000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(curiosidad curiosidad NCFS000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(agotamiento agotamiento NCMS000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(intensidad intensidad NCFS000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(frustración frustración NCFS000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(fascinación fascinación NCFS000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(desesperación desesperación NCFS000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(cine cine NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  subord-ger/modnomatch/(dando dar VMG0000 -) [
+    PP*/modnorule/(le le PP3CSD00 -)
+    sn/modnorule/(vueltas vuelta NCFP000 -)
+  ]
+  prep/modnomatch/(a a SPS00 -)
+  espec-ms/modnomatch/(lo el DA0NS0 -)
+  prel/modnomatch/(que que PR0CN000 -)
+  vaux/aux/(has haber VAIP2S0 -)
+  s-adj/modnomatch/(o o CC -) [
+    s-a-ms/modnorule/(visto ver VMP00SM -)
+    s-a-ms/modnorule/(intentado intentar VMP00SM -)
+  ]
+  grup-verb-inf/modnomatch/(olvidar olvidar VMN0000 -) [
+    PP*/modnomatch/(lo lo PP3CNA00 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

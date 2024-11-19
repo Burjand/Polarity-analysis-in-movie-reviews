@@ -1,0 +1,52 @@
+grup-verb/top/(ser ser VSN0000 -) [
+  VMI*<llegar>/modnomatch/(llega llegar VMIP3S0 -)
+  SPS00(a)/modnomatch/(a a SPS00 -)
+  sn/subj/(aparición aparición NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+    s-a-fs/qual/(fugaz fugaz AQ0CS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Chaplin chaplin NP00000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        s-a-ms/qual/(propio propio AQ0MS0 -)
+        grup-sp/modnomatch/(como como CS -) [
+          sn/head/(camarero camarero NCMS000 -) [
+            espec-ms/espec/(un uno DI0MS0 -)
+            s-a-ms/qual/(mareado marear VMP00SM -)
+          ]
+          F-no-c/modnomatch/(- - Fg -)
+        ]
+      ]
+    ]
+    sn/modnomatch/(cameo cameo NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      grup-sp/modnomatch/(de de SPS00 -) [
+        s-a-ms/modnomatch/(solo solo AQ0MS0 -)
+      ]
+    ]
+    sn/modnomatch/(diez_segundos TM_s:10 Zu -)
+    prep/modnomatch/(a a SPS00 -)
+    espec-mp/espec/(los el DA0MP0 -)
+    s-adj/qual/(sumo sumo AQ0MS0 -)
+    F-no-c/modnomatch/(- - Fg -)
+  ]
+  neg/modneg/(no no RN -)
+  coord/modnomatch/(ni ni CC -)
+  sadv/cc/(siquiera siquiera RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(único único AQ0MS0 -) [
+    j-ms/modnomatch/(lo el DA0NS0 -)
+    s-a-ms/qual/(rescatable rescatable AQ0CS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(pastiche pastiche NCMS000 -) [
+        espec-ms/espec/(este este DD0MS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(Telón telón NCMS000 -) [
+  s-a-ms/qual/(lento lento AQ0MS0 -)
+  F-term/term/(. . Fp -)
+]
+

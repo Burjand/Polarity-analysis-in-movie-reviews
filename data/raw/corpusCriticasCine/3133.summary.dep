@@ -1,0 +1,55 @@
+grup-verb/top/(repite repetir VMIP3S0 -) [
+  sn/subj/(Burman burman NP00000 -)
+  sn/obj/(película película NCFS000 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  subord-ger/modnomatch/(contando contar VMG0000 -) [
+    PP*/modnorule/(nos nos PP1CP000 -)
+    sn/modnorule/(historia historia NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(nueva nuevo AQ0FS0 -)
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(es ser VSIP3S0 -) [
+      sadv/cc/(siempre siempre RG -)
+      sn/obj/(misma mismo AQ0FS0 -) [
+        j-fs/modnomatch/(la el DA0FS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(transita transitar VMIP3S0 -) [
+  sn/subj/(director director NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(territorio territorio NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(peligroso peligroso AQ0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(rutina rutina NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb-inf/top/(Adoptar adoptar VMN0000 -) [
+  sn/obj/(estructura estructura NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(misma mismo AQ0FS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(dado dar VMP00SM -) [
+        patons/modnomatch/(le le PP3CSD00 -)
+        vaux/aux/(ha haber VAIP3S0 -)
+      ]
+    ]
+  ]
+  sn/obj/(éxito éxito NCMS000 -)
+  F-term/modnomatch/(. . Fp -)
+]
+

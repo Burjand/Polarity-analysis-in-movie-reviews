@@ -1,0 +1,33 @@
+grup-verb/top/(tocar tocar VMN0000 -) [
+  VMI*<volver>/modnomatch/(vuelve volver VMIP3S0 -)
+  SPS00(a)/modnomatch/(a a SPS00 -)
+  sn/subj/(Abrams abrams NP00000 -)
+  sn/obj/(fibra fibra NCFS000 -) [
+    espec-fs/espec/(nuestra nuestro DP1FSP -)
+    s-a-fs/qual/(sensible sensible AQ0CS0 -) [
+      sadv/modnorule/(más más RG -)
+    ]
+  ]
+  grup-sp/modnomatch/(ante ante SPS00 -) [
+    sn/head/(acontecimiento acontecimiento NCMS000 -) [
+      espec-ms/espec/(otro otro DI0MS0 -)
+      s-a-ms/qual/(asombroso asombroso AQ0MS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  prep/modnomatch/(de de SPS00 -)
+  espec-ms/modnomatch/(el el DA0MS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(sabemos saber VMIP1P0 -) [
+      sadv/cc/(nunca nunca RG -)
+      subord/modnomatch/(como como CS -) [
+        grup-verb/modnorule/(reaccionar reaccionar VMN0000 -) [
+          VMI*<ir>/modnomatch/(vamos ir VMIP1P0 -)
+          SPS00(a)/modnomatch/(a a SPS00 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,39 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(film film NCMS000 -) [
+    espec-ms/espec/(Este este DD0MS0 -)
+  ]
+  sn/obj/(intento intento NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    Fe/modnomatch/(" " Fe -)
+    Fe/modnomatch/(" " Fe -)
+  ]
+  s-adj/att/(y y CC -) [
+    s-a-ms/modnorule/(fallido fallir VMP00SM -)
+    s-a-ms/modnorule/(patético patético AQ0MS0 -)
+  ]
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(hacer hacer VMN0000 -)
+    sn/modnomatch/(parecido parecer VMP00SM -) [
+      pindef-ms/modnomatch/(algo algo PI0CS000 -)
+    ]
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(saga saga NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(gran gran AQ0CS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(Saw saw NP00000 -) [
+          Fe/modnomatch/(" " Fe -)
+          Fe/modnomatch/(" " Fe -)
+          grup-sp/modnomatch/(en en SPS00 -) [
+            sn/head/(versión versión NCFS000 -) [
+              w-fs/modnomatch/(Cutre-Luxe cutre-luxe NP00000 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

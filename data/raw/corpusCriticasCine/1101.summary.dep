@@ -1,0 +1,65 @@
+grup-verb/top/(construye construir VMIP3S0 -) [
+  sn/subj/(Lynch lynch NP00000 -)
+  sn/obj/(universo universo NCMS000 -) [
+    espec-ms/espec/(su su DP3CS0 -)
+    s-a-ms/qual/(onírico onírico AQ0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(manera manera NCFS000 -)
+    ]
+  ]
+  neg/modneg/(no no RN -)
+  s-adj/modnomatch/(caprichosa caprichoso AQ0FS0 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(pero pero CC -)
+  sadv/cc/(sí sí RG -)
+  s-adj/modnomatch/(juguetona juguetón AQ0FS0 -) [
+    sadv/modnorule/(muy muy RG -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sadv/cc/(quizá quizá RG -)
+  sadv/cc/(demasiado demasiado RG -)
+  coor-sp/modnomatch/(y y CC -) [
+    grup-sp/modnorule/(a a SPS00 -) [
+      sn/head/(menudo menudo NCMS000 -) [
+        grup-verb/modnomatch/(da dar VMIP3S0 -) [
+          sn/obj/(impresión impresión NCFS000 -) [
+            espec-fs/espec/(la el DA0FS0 -)
+          ]
+          grup-sp-inf/modnomatch/(de de SPS00 -) [
+            grup-verb-inf/head/(ser ser VSN0000 -)
+            sn/modnomatch/(creación creación NCFS000 -) [
+              espec-fs/espec/(una uno DI0FS0 -)
+              s-a-fs/qual/(improvisada improvisar VMP00SF -)
+            ]
+          ]
+          grup-sp/iobj/(a a SPS00 -) [
+            sn/head/(impulsos impulso NCMP000 -) [
+              s-a-mp/qual/(intuitivos intuitivo AQ0MP0 -)
+              grup-verb/modnomatch/(dar dar VMN0000 -) [
+                VMI*<acertar>/modnomatch/(acertarán acertar VMIF3P0 -)
+                SPS00(a)/modnomatch/(a a SPS00 -)
+                neg/modneg/(no no RN -)
+                sadv/cc/(siempre siempre RG -)
+                sn/obj/(significado significado NCMS000 -) [
+                  espec-ms/espec/(un uno DI0MS0 -)
+                  s-a-ms/qual/(coherente coherente AQ0CS0 -)
+                ]
+                grup-sp/iobj/(para para SPS00 -) [
+                  sn/head/(espectador espectador NCMS000 -) [
+                    espec-ms/espec/(el el DA0MS0 -)
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  relatiu/modnomatch/(cuales cual PR0CP000 -) [
+    j-mp/modnorule/(los el DA0MP0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

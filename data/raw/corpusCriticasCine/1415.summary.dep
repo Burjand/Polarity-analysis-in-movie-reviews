@@ -1,0 +1,81 @@
+grup-verb/top/(late latir VMIP3S0 -) [
+  grup-sp/modnomatch/(Bajo bajo SPS00 -) [
+    sn/head/(apariencia apariencia NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(cruda crudo AQ0FS0 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(producto producto NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(consumo consumo NCMS000 -) [
+        s-a-ms/qual/(, , Fc -) [
+          s-a-ms/modnorule/(gratísimo grato AQSMS0 -)
+          s-a-ms/modnorule/(capaz capaz AQ0CS0 -)
+        ]
+      ]
+    ]
+  ]
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(conmover conmover VMN0000 -)
+  ]
+  coor-sp/modnomatch/(y y CC -) [
+    grup-sp/modnorule/(a a SPS00 -) [
+      sn/head/(público público NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        s-a-ms/qual/(goloso goloso AQ0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(experiencias experiencia NCFP000 -) [
+            s-a-fp/qual/(fuertes fuerte AQ0CP0 -) [
+              sadv/modnorule/(ideológicamente ideológicamente RG -)
+            ]
+          ]
+        ]
+      ]
+    ]
+    grup-sp/modnorule/(a a SPS00 -) [
+      sn/head/(otro otro PI0MS000 -) [
+        j-ms/modnomatch/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  prep/modnomatch/(a a SPS00 -)
+  espec-ms/modnomatch/(el el DA0MS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(apetece apetecer VMIP3S0 -) [
+      patons/modnomatch/(le le PP3CSD00 -)
+      sadv/cc/(sólo sólo RG -)
+    ]
+  ]
+  grup-verb-inf/modnomatch/(ver ver VMN0000 -)
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+  ]
+  sadv/cc/(bien bien RG -)
+  parti-flex/modnomatch/(hecha hacer VMP00SF -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(distraiga distraer VMSP1S0 -) [
+      sn/obj/(horas hora NCFP000 -) [
+        numero-nopart/quant/(dos 2 Z -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(tedio tedio NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+            s-a-ms/qual/(mortal mortal AQ0CS0 -)
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(tardes tarde NCFP000 -) [
+                espec-fp/espec/(algunas alguno DI0FP0 -)
+                sp-de/mod/(de de SPS00 -) [
+                  sn/gen/(invierno invierno NCMS000 -)
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

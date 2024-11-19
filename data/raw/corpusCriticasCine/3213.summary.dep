@@ -1,0 +1,57 @@
+grup-verb/top/(alterna alternar VMIP3S0 -) [
+  sn/subj/(ópera ópera NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+    s-a-fs/qual/(prima primo AQ0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Jota_Bayona jota_bayona NP00000 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(secuencias secuencia NCFP000 -) [
+    s-a-fp/qual/(conseguidas conseguir VMP00PF -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(maestría maestría NCFS000 -) [
+        s-a-fs/qual/(absoluta absoluto AQ0FS0 -)
+        s-a-fs/qual/(cinematográfica cinematográfico AQ0FS0 -)
+      ]
+    ]
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(propias propio AQ0FP0 -) [
+      j-fp/modnomatch/(las el DA0FP0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(experto experto NCMS000 -) [
+          espec-ms/espec/(un uno DI0MS0 -)
+          s-a-ms/qual/(realizador realizador AQ0MS0 -) [
+            s-a-ms/modnorule/(videoclipero videoclipero AQ0MS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(ejemplo ejemplo NCMS000 -) [
+  espec-ms/espec/(Un uno DI0MS0 -)
+  s-a-ms/qual/(claro claro AQ0MS0 -)
+  prep/modnomatch/(en en SPS00 -)
+  espec-ms/espec/(el el DA0MS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(aspira aspirar VMIP3S0 -) [
+      sn/subj/(guión guión NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        s-a-ms/qual/(perfecto perfecto AQ0MS0 -) [
+          sadv/modnorule/(prácticamente prácticamente RG -)
+        ]
+      ]
+      grup-sp/iobj/(a a SPS00 -) [
+        sn/head/(obra obra NCFS000 -) [
+          s-a-fs/qual/(maestra maestro AQ0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

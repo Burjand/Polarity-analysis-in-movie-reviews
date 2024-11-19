@@ -1,0 +1,60 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+  ]
+  sadv/cc/(tan tan RG -)
+  s-adj/att/(mala malo AQ0FS0 -) [
+    sadv/modnorule/(rematadamente rematadamente RG -)
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(tomando tomar VMG0000 -) [
+      patons/modnomatch/(se se PP3CN000 -)
+      patons/modnomatch/(la lo PP3FSA00 -)
+      VMI*<terminar>/modnomatch/(termina terminar VMIP3S0 -)
+      sn/subj/(uno uno PI0MS000 -)
+      grup-sp/iobj/(a a SPS00 -) [
+        sn/head/(coña coña NCFS000 -)
+      ]
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  forma-ger/modnomatch/(logrando lograr VMG0000 -)
+  grup-verb-inf/modnomatch/(pasar pasar VMN0000 -)
+  sn/obj/(rato rato NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(buen bueno AQ0MS0 -)
+    grup-sp/modnomatch/(a a SPS00 -) [
+      sn/head/(costa costa NCFS000 -) [
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(película película NCFS000 -) [
+            espec-fs/espec/(una uno DI0FS0 -)
+            s-a-fs/qual/(mala malo AQ0FS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+F-no-c/top/(¿ ¿ Fia -) [
+  grup-verb/modnorule/(Es ser VSIP3S0 -) [
+    sn/obj/(malo malo AQ0MS0 -) [
+      pdem-ms/modnomatch/(esto este PD0NS000 -)
+    ]
+  ]
+  F-term/modnorule/(? ? Fit -)
+]
+
+interjeccio/top/(Hombre hombre I -) [
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(es ser VSIP3S0 -) [
+    sn/subj/(risa risa NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+    sadv/cc/(nunca nunca RG -)
+  ]
+  s-adj/modnorule/(mala malo AQ0FS0 -)
+  F-term/modnorule/(. . Fp -)
+]
+

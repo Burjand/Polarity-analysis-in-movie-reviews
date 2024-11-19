@@ -1,0 +1,53 @@
+sn/top/(clásico clásico NCMS000 -) [
+  espec-ms/espec/(Un uno DI0MS0 -)
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(cine_fantástico cine_fantástico NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(generado generar VMP00SM -) [
+      vaux/aux/(ha haber VAIP3S0 -)
+    ]
+  ]
+  sn/modnomatch/(secuelas secuela NCFP000 -) [
+    s-a-fp/qual/(innumerables innumerable AQ0CP0 -)
+    grup-sp/modnomatch/(con con SPS00 -) [
+      sn/head/(contraindicaciones contraindicación NCFP000 -)
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(recomendar recomendar VMN0000 -) [
+      patons/modnomatch/(se se PP3CN000 -)
+      VMI*<deber>/modnomatch/(debe deber VMIP3S0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(Es ser VSIP3S0 -) [
+  s-adj/att/(necesaria necesario AQ0FS0 -)
+  sn/obj/(predisposición predisposición NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(buena bueno AQ0FS0 -)
+    coor-sp/modnomatch/(y y CC -) [
+      grup-sp/modnorule/(a a SPS00 -) [
+        sn/head/(espectáculo espectáculo NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          s-a-ms/qual/(cutre cutre AQ0CS0 -)
+          grup-sp/modnomatch/(sin sin SPS00 -) [
+            sn/head/(complejos complejo NCMP000 -)
+          ]
+        ]
+      ]
+      grup-sp/modnorule/(a a SPS00 -) [
+        sn/head/(diversión diversión NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

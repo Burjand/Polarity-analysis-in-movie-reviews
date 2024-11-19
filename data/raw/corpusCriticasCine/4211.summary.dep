@@ -1,0 +1,50 @@
+grup-verb/top/(interpreta interpretar VMIP3S0 -) [
+  sn/subj/(Harry_Dean_Stanton harry_dean_stanton NP00000 -)
+  sadv/cc/(perfectamente perfectamente RG -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(hombre hombre NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(derrotado derrotar VMP00SM -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(aquél aquel PD0MS000 -) [
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(sabe saber VMIP3S0 -)
+    ]
+    subord/modnomatch/(que que CS -) [
+      grup-verb/modnorule/(volverán volver VMIF3P0 -) [
+        sn/subj/(días día NCMP000 -) [
+          espec-mp/espec/(los el DA0MP0 -)
+          s-a-mp/qual/(felices feliz AQ0CP0 -)
+        ]
+        sadv/cc/(ya ya RG -)
+        neg/modneg/(no no RN -)
+        sadv/cc/(jamás jamás RG -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+subord/top/(Si si CS -) [
+  grup-verb/modnorule/(ves ver VMIP2S0 -) [
+    sn/obj/(película película NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+    sn/obj/(ojos ojo NCMP000 -) [
+      espec-mp/espec/(sus su DP3CP0 -)
+      s-a-mp/qual/(tristes triste AQ0CP0 -)
+    ]
+  ]
+  grup-verb/modnorule/(acompañarán acompañar VMIF3P0 -) [
+    patons/modnomatch/(te te PP2CS000 -)
+    sn/obj/(vida vida NCFS000 -) [
+      espec-fs/espec/(toda todo DI0FS0 -) [
+        j-fs/modnorule/(la el DA0FS0 -)
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

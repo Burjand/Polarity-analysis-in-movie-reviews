@@ -1,0 +1,66 @@
+coor-n/top/(y y CC -) [
+  sn/co-n/(Peliculilla película NCFS00D -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(acción acción NCFS000 -)
+    ]
+  ]
+  sn/co-n/(miedo miedo NCMS000 -) [
+    s-a-ms/qual/(medio medio AQ0MS0 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(efectos_especiales efecto_especial NCMP000 -) [
+      s-a-mp/qual/(y y CC -) [
+        s-a-mp/modnorule/(buenos bueno AQ0MP0 -)
+        s-a-mp/modnorule/(correctos correcto AQ0MP0 -)
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(deja dejar VMIP3S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+    ]
+  ]
+  grup-verb-inf/modnomatch/(ver ver VMN0000 -)
+  sadv/modnomatch/(bastante bastante RG -)
+  sadv/modnomatch/(bien bien RG -)
+  F-term/modnomatch/(. . Fp -)
+]
+
+sn/top/(Lástima lástima NCFS000 -) [
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(actores actor NCMP000 -) [
+      s-a-mp/qual/(pasados pasar VMP00PM -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(edad edad NCFS000 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(haber haber VMN0000 -) [
+      VMI*<poder>/modnomatch/(podría poder VMIC1S0 -)
+      sn/subj/(cosa cosa NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+  ]
+  parti-ser/modnomatch/(sido ser VSP00SM -)
+  s-adj/qual/(mejor mejor AQ0CS0 -) [
+    sadv/modnorule/(mucho mucho RG -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(Oye oír VMM02S0 -) [
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(y y CC -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(es ser VSIP3S0 -)
+  ]
+  s-adj/modnomatch/(cortita corto AQDFS0 -) [
+    sadv/modnorule/(bien bien RG -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

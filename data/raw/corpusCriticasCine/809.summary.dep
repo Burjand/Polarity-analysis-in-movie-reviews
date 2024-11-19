@@ -1,0 +1,70 @@
+grup-verb/top/(vivir vivir VMN0000 -) [
+  VMI*<volver>/modnomatch/(volveremos volver VMIF1P0 -)
+  SPS00(a)/modnomatch/(a a SPS00 -)
+  grup-sp/modnomatch/(Durante durante SPS00 -) [
+    sn/head/(dos 2 Z -) [
+      espec-ms/espec/(casi casi RG -)
+    ]
+  ]
+  sn/subj/(horas hora NCFP000 -)
+  sn/obj/(magia magia NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(orquestas orquesta NCFP000 -) [
+        espec-fp/espec/(las el DA0FP0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(años año NCMP000 -) [
+            espec-mp/espec/(los el DA0MP0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  sn/obj/(cincuenta 50 Z -)
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(cambio cambio NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    s-a-ms/qual/(social social AQ0CS0 -) [
+      s-a-ms/modnorule/(estadounidense estadounidense AQ0CS0 -)
+    ]
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(sesenta 60 Z -) [
+        j-mp/modnomatch/(los el DA0MP0 -)
+      ]
+    ]
+  ]
+  coord/modnomatch/(pero pero CC -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(sobre sobre SPS00 -) [
+    sn/head/(todo todo PI0MS000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(ganas gana NCFP000 -) [
+    espec-fp/espec/(las el DA0FP0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(niño niño NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        grup-verb/modnomatch/(superar superar VMN0000 -) [
+          VMI*<poder>/modnomatch/(podría poder VMIC1S0 -)
+          neg/modneg/(no no RN -)
+          sn/obj/(años año NCMP000 -) [
+            espec-mp/espec/(quince 15 Z -) [
+              j-mp/modnorule/(los el DA0MP0 -)
+            ]
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(edad edad NCFS000 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(vivir vivir VMN0000 -)
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(creyó creer VMIS3S0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

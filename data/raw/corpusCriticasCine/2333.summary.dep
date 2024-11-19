@@ -1,0 +1,68 @@
+subord/top/(Si si CS -) [
+  grup-verb/modnorule/(vieron ver VMIS3P0 -) [
+    sadv/cc/(ya ya RG -)
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(día día NCMS000 -) [
+        espec-ms/espec/(su su DP3CS0 -)
+        w-ms/modnomatch/(Truman_Capote truman_capote NP00000 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(dé dar VMSP1S0 -) [
+    patons/modnomatch/(les les PP3CPD00 -)
+    neg/modneg/(no no RN -)
+    sn/obj/(pereza pereza NCFS000 -)
+  ]
+  grup-verb-inf/modnorule/(enfrentar enfrentar VMN0000 -) [
+    PP*/modnomatch/(se se PP3CN000 -)
+  ]
+  grup-sp/modnorule/(a a SPS00 -) [
+    sn/head/(visión visión NCFS000 -) [
+      espec-fs/espec/(esta este DD0FS0 -)
+      s-a-fs/qual/(nueva nuevo AQ0FS0 -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+sn/top/(visión visión NCFS000 -) [
+  espec-fs/espec/(Una uno DI0FS0 -)
+  s-a-fs/qual/(paralela paralelo AQ0FS0 -)
+  coor-sp/modnomatch/(pero pero CC -) [
+    grup-sp/modnorule/(con con SPS00 -) [
+      sn/head/(elementos elemento NCMP000 -) [
+        s-a-mp/qual/(distintos distinto AQ0MP0 -) [
+          sadv/modnorule/(muy muy RG -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(pierdan perder VMSP3P0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  patons/modnomatch/(la lo PP3FSA00 -)
+  neg/modneg/(No no RN -)
+  F-term/term/(. . Fp -)
+]
+
+coor-n/top/(Ni ni CC -) [
+  s-adj/modnomatch/(ni ni CC -) [
+    s-a-ms/modnorule/(mejor mejor AQ0CS0 -)
+    s-a-ms/modnorule/(peor peor AQ0CS0 -)
+  ]
+  prel/modnomatch/(que que PR0CN000 -)
+  sn/co-n/(antecesora antecesor NCFS000 -) [
+    espec-fs/espec/(su su DP3CS0 -)
+    F-no-c/modnomatch/(: : Fd -)
+  ]
+  sadv/modnomatch/(sencillamente sencillamente RG -)
+  sn/co-n/(película película NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(brillante brillante AQ0CS0 -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

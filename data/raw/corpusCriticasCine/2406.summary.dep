@@ -1,0 +1,70 @@
+sn/top/(Película película NCFS000 -) [
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(acción acción NCFS000 -) [
+      s-a-fs/qual/(adolescente adolescente AQ0CS0 -)
+      grup-sp/modnomatch/(a a SPS00 -) [
+        sn/head/(mayores mayor AQ0CP0 -) [
+          j-mp/modnomatch/(los el DA0MP0 -)
+          sadv/modnomatch/(más más RG -)
+        ]
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(gustará gustar VMIF3S0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(deja dejar VMIP3S0 -) [
+  morfema-verbal/modnomatch/(Se se P0000000 -)
+  grup-verb-inf/modnomatch/(ver ver VMN0000 -)
+  sadv/cc/(perfectamente perfectamente RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  prep/modnomatch/(a a SPS00 -)
+  espec-ms/modnomatch/(el el DA0MS0 -)
+  grup-verb-inf/modnomatch/(mezclar mezclar VMN0000 -)
+  sn/obj/(dosis dosis NCFN000 -) [
+    s-a-fp/qual/(grandes grande AQ0CP0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(acción acción NCFS000 -) [
+        grup-sp/modnomatch/(con con SPS00 -) [
+          sn/head/(diálogos diálogo NCMP000 -) [
+            s-a-mp/qual/(interesantes interesante AQ0CP0 -)
+            grup-sp/modnomatch/(en en SPS00 -) [
+              sn/head/(espacio espacio NCMS000 -) [
+                espec-ms/espec/(un uno DI0MS0 -)
+                sp-de/mod/(de de SPS00 -) [
+                  sn/gen/(tiempo tiempo NCMS000 -)
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  sn/obj/(reducido reducir VMP00SM -) [
+    espec-ms/espec/(muy muy RG -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+s-adj/top/(recomendable recomendable AQ0CS0 -) [
+  sadv/modnorule/(Altamente Altamente RG -)
+  grup-sp-inf/modnorule/(para para SPS00 -) [
+    grup-verb-inf/head/(echar echar VMN0000 -)
+    sn/modnomatch/(tarde tarde NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(fresquita fresco AQDFS0 -)
+    ]
+  ]
+  grup-sp/modnorule/(en en SPS00 -) [
+    sn/head/(estío estío NCMS000 -) [
+      espec-ms/espec/(este este DD0MS0 -)
+      s-a-ms/qual/(incipiente incipiente AQ0CS0 -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

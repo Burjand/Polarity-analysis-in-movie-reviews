@@ -1,0 +1,51 @@
+subord/top/(Si si CS -) [
+  grup-verb/modnorule/(hubiera haber VMSI3S0 -)
+  conj-subord/modnorule/(que que CS -)
+  grup-verb-inf/modnorule/(comparar comparar VMN0000 -)
+  grup-sp/modnorule/(a a SPS00 -) [
+    sn/head/(Shrek_Tercero shrek_tercero NP00000 -) [
+      grup-sp/modnomatch/(con con SPS00 -) [
+        sn/head/(cuento cuento NCMS000 -) [
+          espec-ms/espec/(algún alguno DI0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(sería ser VSIC1S0 -) [
+    sn/subj/(éste este PD0MS000 -)
+    grup-sp/modnomatch/(sin sin SPS00 -) [
+      sn/head/(duda duda NCFS000 -)
+    ]
+    sn/obj/(cuento cuento NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(lechera lechera NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  subord/modnorule/(porque porque CS -) [
+    grup-verb/modnorule/(va ir VMIP3S0 -) [
+      sadv/cc/(tanto tanto RG -)
+      sn/cc/(cántaro cántaro NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+      grup-sp/cc/(a a SPS00 -) [
+        sn/head/(fuente fuente NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  prel/modnorule/(que que PR0CN000 -)
+  prep/modnorule/(a a SPS00 -)
+  espec-ms/modnorule/(el el DA0MS0 -)
+  grup-verb/modnorule/(rompe romper VMIP3S0 -) [
+    morfema-verbal/modnomatch/(se se P0000000 -)
+    sn/subj/(final final NCFS000 -)
+  ]
+]
+

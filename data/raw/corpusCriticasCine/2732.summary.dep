@@ -1,0 +1,49 @@
+grup-verb/top/(tiene tener VMIP3S0 -) [
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+    grup-verb/modnomatch/(recomiendo recomendar VMIP1S0 -) [
+      patons/modnomatch/(te te PP2CS000 -)
+      patons/modnomatch/(la lo PP3FSA00 -)
+      neg/modneg/(no no RN -)
+    ]
+    grup-verb/modnomatch/(es ser VSIP3S0 -) [
+      sadv/cc/(así así RG -)
+      subord/modnomatch/(que que CS -) [
+        grup-verb/modnorule/(pierdas perder VMSP2S0 -) [
+          neg/modneg/(no no RN -)
+          sn/obj/(ni ni CC -) [
+            sn/modnomatch/(tiempo tiempo NCMS000 -) [
+              espec-ms/espec/(tu tu DP2CSS -)
+            ]
+            CC(ni)/modnomatch/(ni ni CC -)
+            sn/modnomatch/(dinero dinero NCMS000 -) [
+              espec-ms/espec/(tu tu DP2CSS -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  neg/modneg/(no no RN -)
+  sadv/cc/(absolutamente absolutamente RG -)
+  sn/obj/(nada nada PI0CS000 -) [
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(merezca merecer VMSP1S0 -)
+    ]
+  ]
+  sn/obj/(pena pena NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(ver ver VMN0000 -) [
+      VMN0000(ir)/modnomatch/(ir ir VMN0000 -)
+      SPS00(a)/modnomatch/(a a SPS00 -)
+      PP*/modnomatch/(la lo PP3FSA00 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(. . Fp -)
+]
+

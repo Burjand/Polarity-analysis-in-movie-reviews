@@ -1,0 +1,51 @@
+sn/top/(película película NCFS000 -) [
+  s-a-fs/qual/(Floja flojo AQ0FS0 -)
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(comedia comedia NCFS000 -) [
+      s-a-fs/qual/(española español AQ0FS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(garantizan garantizar VMIP3P0 -) [
+  coor-n/subj/(y y CC -) [
+    sn/co-n/(Santiago_Segura santiago_segura NP00000 -) [
+      grup-verb/modnomatch/(hay haber VMIP3S0 -)
+    ]
+    sn/co-n/(José_Corbacho josé_corbacho NP00000 -)
+  ]
+  neg/modneg/(no no RN -)
+  sn/obj/(risas risa NCFP000 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  conj-subord/modnomatch/(que que CS -)
+  grup-verb-inf/modnomatch/(trabajar trabajar VMN0000 -) [
+    PP*/modnomatch/(se se PP3CN000 -)
+  ]
+  sn/obj/(algo algo PI0CS000 -)
+  sadv/cc/(más más RG -)
+  sn/obj/(situaciones situación NCFP000 -) [
+    espec-fp/espec/(las el DA0FP0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+F-no-c/top/(¿ ¿ Fia -) [
+  coor-vb/modnorule/(O o CC -) [
+    grup-verb/co-v/(es ser VSIP3S0 -) [
+      subord/modnomatch/(que que CS -) [
+        grup-verb/modnorule/(daba dar VMII1S0 -) [
+          neg/modneg/(no no RN -)
+        ]
+      ]
+      grup-sp/iobj/(para para SPS00 -) [
+        sadv/modnomatch/(más más RG -)
+      ]
+      sn/obj/(historia historia NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+  ]
+  F-term/modnorule/(? ? Fit -)
+]
+

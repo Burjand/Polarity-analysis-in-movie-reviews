@@ -1,0 +1,72 @@
+sn/top/(Película película NCFS000 -) [
+  grup-sp/modnomatch/(sobre sobre SPS00 -) [
+    sn/head/(serpientazas serpiente NCFP00A -) [
+      numero-nopart/quant/(dos 2 Z -)
+      grup-sp/modnomatch/(a_través_de a_través_de SPS00 -) [
+        sn/head/(historia historia NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          grup-sp/modnomatch/(a a SPS00 -) [
+            sn/head/(mujer mujer NCFS000 -) [
+              espec-fs/espec/(una uno DI0FS0 -)
+              grup-sp/modnomatch/(en en SPS00 -) [
+                sn/head/(dragón dragón NCMS000 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(persiguen perseguir VMIP3P0 -)
+  ]
+  grup-sp-inf/modnomatch/(para para SPS00 -) [
+    grup-verb-inf/head/(convertir convertir VMN0000 -) [
+      PP*/modnomatch/(se se PP3CN000 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  espec-ms/espec/(el el DA0MS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(mate matar VMSP1S0 -) [
+      patons/modnomatch/(la lo PP3FSA00 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(Argumento argumentar VMIP1S0 -) [
+  sn/subj/(Efectos_especiales efecto_especial NCMP000 -) [
+    sadv/modnomatch/(de_cabo_a_rabo de_cabo_a_rabo RG -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(explosiones explosión NCFP000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(bichos bicho NCMP000 -) [
+    grup-sp/modnomatch/(por por SPS00 -) [
+      sn/head/(lados lado NCMP000 -) [
+        espec-mp/espec/(todos todo DI0MP0 -) [
+          j-mp/modnorule/(los el DA0MP0 -)
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(luchas lucha NCFP000 -) [
+    s-a-fp/qual/(imposibles imposible AQ0CP0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+    F-no-c/modnomatch/(etc. etcétera Fs -)
+    F-no-c/modnomatch/(¿ ¿ Fia -)
+  ]
+  F-term/term/(? ? Fit -)
+]
+
+F-no-c/top/(¿ ¿ Fia -) [
+  grup-verb/modnorule/(da dar VMIP3S0 -) [
+    sn/subj/(Qué qué PT0CN000 -)
+    sadv/cc/(más más RG -)
+  ]
+  F-term/modnorule/(? ? Fit -)
+]
+

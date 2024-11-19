@@ -1,0 +1,68 @@
+grup-verb/top/(cuarta cuartar VMIP3S0 -) [
+  sn/subj/(Película película NP00000 -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(saga saga NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(Rambo rambo NP00000 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(donde donde PR000000 -) [
+    grup-verb/modnorule/(liberar liberar VMN0000 -) [
+      VMI*<tener>/modnomatch/(tiene tener VMIP3S0 -)
+      CS(que)/modnomatch/(que que CS -)
+      sn/subj/(este este PD0MS000 -)
+      grup-sp/iobj/(a a SPS00 -) [
+        sn/head/(médicos médico NCCP000 -) [
+          espec-mp/espec/(unos uno DI0MP0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(garras garra NCFP000 -) [
+              espec-fp/espec/(las el DA0FP0 -)
+              s-a-fp/qual/(birmanas birmano AQ0FP0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+s-adj/top/(violenta violento AQ0FS0 -) [
+  sadv/modnorule/(Tremendamente Tremendamente RG -)
+  Fc(,)/modnorule/(, , Fc -)
+  grup-sp/modnorule/(con con SPS00 -) [
+    sn/head/(recreación recreación NCFS000 -) [
+      s-a-fs/qual/(especial especial AQ0CS0 -)
+      grup-sp/modnomatch/(en en SPS00 -) [
+        sn/head/(vísceras víscera NCFP000 -) [
+          espec-fp/espec/(las el DA0FP0 -)
+        ]
+      ]
+    ]
+  ]
+  coor-n/modnorule/(y y CC -) [
+    sn/co-n/(extremidades extremidad NCFP000 -) [
+      s-a-fp/qual/(amputadas amputar VMP00PF -)
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(resulta resultar VMIP3S0 -)
+  parti-flex/modnorule/(entretenida entretener VMP00SF -)
+  grup-sp-inf/modnorule/(de de SPS00 -) [
+    grup-verb-inf/head/(ver ver VMN0000 -)
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  coord/modnorule/(y y CC -)
+  s-adj/modnorule/(dura duro AQ0FS0 -)
+  grup-sp-inf/modnorule/(de de SPS00 -) [
+    grup-verb-inf/head/(pensar pensar VMN0000 -)
+  ]
+  grup-sp/modnorule/(en en SPS00 -) [
+    sn/head/(ella él PP3FS000 -)
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

@@ -1,0 +1,54 @@
+grup-verb/top/(resulta resultar VMIP3S0 -) [
+  sn/subj/(Huella huella NP00000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+  ]
+  sn/obj/(remake remake NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(, , Fc -) [
+      s-a-ms/modnorule/(estimulante estimulante AQ0CS0 -)
+      s-a-ms/modnorule/(distinto distinto AQ0MS0 -) [
+        sadv/modnorule/(muy muy RG -)
+      ]
+    ]
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(trabajo trabajo NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(original original AQ0CS0 -)
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(sin sin SPS00 -) [
+    sn/head/(embargo embargo NCMS000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  s-adj/modnomatch/(complementario complementario AQ0MS0 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(dirección dirección NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(atrevida atrever VMP00SF -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(actuaciones actuación NCFP000 -) [
+    espec-fp/espec/(unas uno DI0FP0 -)
+  ]
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(recordar recordar VMN0000 -)
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(reinterpretación reinterpretación NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(sorprendente sorprendente AQ0CS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(texto_original texto_original NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

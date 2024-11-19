@@ -1,0 +1,56 @@
+grup-verb/top/(resuelto resolver VMP00SM -) [
+  vaux/aux/(está estar VAIP3S0 -)
+  sn/subj/(film film NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+    grup-verb/modnomatch/(es ser VSIP3S0 -) [
+      sn/subj/(tópicos tópico NCMP000 -) [
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(cine_de_terror cine_de_terror NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+            s-a-ms/qual/(actual actual AQ0CS0 -)
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(películas película NCFP000 -) [
+                espec-fp/espec/(las el DA0FP0 -)
+                s-a-fp/qual/(mejores mejor AQ0CP0 -)
+                sp-de/mod/(de de SPS00 -) [
+                  sn/gen/(terror terror NCMS000 -) [
+                    sp-de/mod/(de de SPS00 -) [
+                      sn/gen/(año año NCMS000 -)
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+        Fc(,)/modnomatch/(, , Fc -)
+      ]
+      grup-sp/iobj/(a a SPS00 -) [
+        sn/head/(parecer parecer NCMS000 -) [
+          espec-ms/espec/(mi mi DP1CSS -)
+        ]
+      ]
+    ]
+  ]
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(manera manera NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(inteligente inteligente AQ0CS0 -) [
+        sadv/modnorule/(totalmente totalmente RG -)
+      ]
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  ger/modnomatch/(saltando saltar VMG0000 -) [
+    PP*/modnorule/(se se PP3CN000 -)
+  ]
+  espec-ms/modnomatch/(lo el DA0NS0 -)
+  espec-fs/modnomatch/(una uno DI0FS0 -)
+  prep/modnomatch/(en en SPS00 -)
+  espec-ms/modnomatch/(lo el DA0NS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(llevamos llevar VMIP1P0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,64 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(Buongiorno buongiorno NP00000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(Notte notte NP00000 -)
+  sn/obj/(cine cine NCMS000 -) [
+    s-a-ms/qual/(y y CC -) [
+      s-a-ms/modnorule/(social social AQ0CS0 -)
+      s-a-ms/modnorule/(político político AQ0MS0 -)
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(estado estado NCMS000 -) [
+      s-a-ms/qual/(puro puro AQ0MS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(Es ser VSIP3S0 -) [
+  coor-n/obj/(e e CC -) [
+    sn/co-n/(cinta cinta NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(claustrofóbica claustrofóbico AQ0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(miedo miedo NCMS000 -) [
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(desesperación desesperación NCFS000 -)
+          ]
+        ]
+      ]
+    ]
+    sn/co-n/(ira ira NCFS000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coor-n/obj/(e e CC -) [
+    sn/co-n/(inquietudes inquietud NCFP000 -)
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(dosis dosis NCFN000 -) [
+      s-a-fp/qual/(iguales igual AQ0CP0 -)
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(trata tratar VMIP3S0 -)
+  ]
+  sn/obj/(tema tema NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    grup-verb/modnomatch/(está estar VAIP3S0 -) [
+      sadv/cc/(aún aun RG -)
+      sp-de/modnomatch/(de de SPS00 -) [
+        sn/gen/(actualidad actualidad NCFS000 -) [
+          s-a-fs/qual/(vigorosa vigoroso AQ0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  prel/modnomatch/(que que PR0CN000 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  sadv/cc/(desafortunadamente desafortunadamente RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(. . Fp -)
+]
+

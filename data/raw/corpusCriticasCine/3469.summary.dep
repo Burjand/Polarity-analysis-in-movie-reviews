@@ -1,0 +1,78 @@
+sn/top/(Película película NCFS000 -) [
+  grup-sp/modnomatch/(sobre sobre SPS00 -) [
+    sn/head/(muchacho muchacho NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      grup-sp/modnomatch/(en en SPS00 -) [
+        sn/head/(vengador vengador NCMS000 -) [
+          espec-ms/espec/(un uno DI0MS0 -)
+          s-a-ms/qual/(tóxico tóxico AQ0MS0 -)
+          grup-sp/modnomatch/(a a SPS00 -) [
+            sn/head/(delincuentes delincuente NCCP000 -) [
+              espec-mp/espec/(todos todo DI0MP0 -) [
+                j-mp/modnorule/(los el DA0MP0 -)
+              ]
+              sp-de/mod/(de de SPS00 -) [
+                sn/gen/(pueblo pueblo NCMS000 -) [
+                  espec-ms/espec/(su su DP3CS0 -)
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(muta mutar VMIP3S0 -)
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(dedicará dedicar VMIF3S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+    ]
+  ]
+  grup-sp-inf/modnomatch/(a a SPS00 -) [
+    grup-verb-inf/head/(exterminar exterminar VMN0000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(Gore gore NP00000 -) [
+  s-a-ms/qual/(cómico cómico AQ0MS0 -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(dosis dosis NCFN000 -) [
+      s-a-fp/qual/(sexuales sexual AQ0CP0 -)
+      grup-sp/modnomatch/(en en SPS00 -) [
+        sn/head/(film film NCMS000 -) [
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(culto culto NCMS000 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(convirtió convertir VMIS3S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+subord/top/(Si si CS -) [
+  grup-verb/modnorule/(ver ver VMN0000 -) [
+    VMI*<querer>/modnomatch/(quieres querer VMIP2S0 -)
+  ]
+  espec-fs/modnorule/(una uno DI0FS0 -)
+  sp-de/modnorule/(de de SPS00 -) [
+    sn/gen/(género género NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  subord/modnorule/(que que CS -) [
+    grup-verb/modnorule/(sea ser VSSP1S0 -)
+  ]
+  espec-fs/modnorule/(esta este DD0FS0 -)
+  F-term/modnorule/(. . Fp -)
+]
+

@@ -1,0 +1,58 @@
+grup-verb/top/(dar dar VMN0000 -) [
+  VMI*<volver>/modnomatch/(vuelve volver VMIP3S0 -)
+  SPS00(a)/modnomatch/(a a SPS00 -)
+  grup-sp/modnomatch/(De de SPS00 -) [
+    s-a-ms/modnomatch/(nuevo nuevo AQ0MS0 -)
+    grup-sp-inf/modnomatch/(sin sin SPS00 -) [
+      grup-verb-inf/head/(salir salir VMN0000 -)
+    ]
+    sp-de/modnomatch/(de de SPS00 -) [
+      sn/gen/(parámetros parámetro NCMP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(videoaficionado videoaficionado NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  sn/subj/(director director NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+  ]
+  sn/obj/(lección lección NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(magistral magistral AQ0CS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(cine cine NCMS000 -) [
+        s-a-ms/qual/(, , Fc -) [
+          s-a-ms/modnorule/(enfermo enfermo AQ0MS0 -)
+          s-a-ms/modnorule/(, , Fc -) [
+            s-a-ms/modnorule/(degradante degradante AQ0CS0 -)
+            s-a-ms/modnorule/(pero pero CC -) [
+              s-a-ms/modnorule/(mugriento mugriento AQ0MS0 -)
+              s-a-ms/modnorule/(bello bello AQ0MS0 -) [
+                sadv/modnorule/(a_la_vez a_la_vez RG -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(obsesiones obsesión NCFP000 -) [
+      espec-fp/espec/(sus su DP3CP0 -)
+    ]
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(poesía poesía NCFS000 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(narración narración NCFS000 -) [
+      espec-fs/espec/(su su DP3CS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

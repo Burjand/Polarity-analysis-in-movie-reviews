@@ -1,0 +1,66 @@
+grup-verb/top/(termina terminar VMM02S0 -) [
+  grup-sp/modnomatch/(Con con SPS00 -) [
+    sn/head/(mitad mitad NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(primera 1 AO0FS0 -)
+      s-a-fs/qual/(redonda redondo AQ0FS0 -) [
+        sadv/modnorule/(bastante bastante RG -)
+      ]
+      grup-sp/modnomatch/(En en SPS00 -) [
+        sn/head/(boca boca NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(miedo miedo NCMS000 -) [
+              espec-ms/espec/(el el DA0MS0 -)
+              sp-de/mod/(de de SPS00 -) [
+                sn/gen/(John_Carpernter john_carpernter NP00000 -)
+              ]
+            ]
+          ]
+        ]
+        F-no-c/modnomatch/(' ' Fe -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    subord/modnomatch/(si si CS -) [
+      grup-verb/modnorule/(recordar recordar VMN0000 -) [
+        VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+        VMN0000(dejar)/modnomatch/(dejar dejar VMN0000 -)
+        SPS00(de)/modnomatch/(de de SPS00 -)
+        sadv/cc/(bien bien RG -)
+        neg/modneg/(no no RN -)
+      ]
+    ]
+    prep/modnomatch/(a a SPS00 -)
+    F-no-c/modnomatch/(' ' Fe -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(1408 1408 Z -) [
+    Fe/modnomatch/(' ' Fe -)
+    Fe/modnomatch/(' ' Fe -)
+  ]
+  grup-sp-inf/modnomatch/(por por SPS00 -) [
+    grup-verb-inf/head/(exasperar exasperar VMN0000 -)
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(espectador espectador NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      grup-sp/modnomatch/(bajo bajo SPS00 -) [
+        sn/head/(fórmula fórmula NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          s-a-fs/qual/(ineficaz ineficaz AQ0CS0 -)
+        ]
+      ]
+    ]
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  espec-ms/modnomatch/(el el DA0MS0 -)
+  F-no-c/modnomatch/(' ' Fe -)
+  s-adj/modnomatch/(difícil difícil AQ0CS0 -) [
+    sadv/modnorule/(más más RG -)
+  ]
+  sadv/cc/(todavía todavía RG -)
+  F-no-c/modnomatch/(' ' Fe -)
+  F-term/term/(. . Fp -)
+]
+

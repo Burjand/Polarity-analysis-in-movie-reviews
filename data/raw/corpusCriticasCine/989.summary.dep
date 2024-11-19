@@ -1,0 +1,52 @@
+grup-verb/top/(hecho hacer VMP00SM -) [
+  vaux/aux/(está estar VAIP3S0 -)
+  sn/subj/(cinta cinta NCFS000 -) [
+    espec-fs/espec/(Una uno DI0FS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(aporta aportar VMIP3S0 -)
+    ]
+    sn/modnomatch/(nuevo nuevo AQ0MS0 -) [
+      pindef-ms/modnomatch/(algo algo PI0CS000 -)
+      grup-sp/modnomatch/(a a SPS00 -) [
+        sn/head/(ciencia ciencia NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          n-fs/modnomatch/(ficción ficción NCFS000 -)
+        ]
+      ]
+      Fc(,)/modnomatch/(, , Fc -)
+    ]
+    forma-ger/modnomatch/(demostrando demostrar VMG0000 -)
+    conj-subord/modnomatch/(que que CS -)
+    sn/modnomatch/(género género NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+    neg/modnomatch/(no no RN -)
+    s-adj/qual/(solo solo AQ0MS0 -)
+  ]
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(desplegar desplegar VMN0000 -)
+    sn/modnomatch/(efectos_especiales efecto_especial NCMP000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(obra obra NCFS000 -) [
+  espec-fs/espec/(Una uno DI0FS0 -)
+  s-a-fs/qual/(, , Fc -) [
+    s-a-fs/modnorule/(maestra maestro AQ0FS0 -)
+    s-a-fs/modnorule/(pero pero CC -) [
+      s-a-fs/modnorule/(futurista futurista AQ0CS0 -)
+      s-a-fs/modnorule/(, , Fc -) [
+        s-a-fs/modnorule/(realista realista AQ0CS0 -)
+        s-a-fs/modnorule/(pero pero CC -) [
+          s-a-fs/modnorule/(dolorosa doloroso AQ0FS0 -)
+          s-a-fs/modnorule/(disfrutable disfrutable AQ0CS0 -) [
+            sadv/modnorule/(muy muy RG -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

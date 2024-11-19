@@ -1,0 +1,53 @@
+grup-verb/top/(soy ser VSIP1S0 -) [
+  neg/modneg/(No no RN -)
+  sn/obj/(experto experto NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(musicales musical NCMP000 -) [
+      grup-verb/modnomatch/(diré decir VMIF1S0 -) [
+        sadv/cc/(solo solo RG -)
+        subord/modnomatch/(que que CS -) [
+          grup-verb/modnorule/(gustó gustar VMIS3S0 -) [
+            patons/modnomatch/(me me PP1CS000 -)
+            neg/modneg/(no no RN -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(aburrió aburrir VMIS3S0 -) [
+      patons/modnomatch/(me me PP1CS000 -)
+    ]
+  ]
+  sadv/cc/(sobremanera sobremanera RG -)
+  coord/modnomatch/(y y CC -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(prefiero preferir VMIP1S0 -)
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(pique picar VMSP1S0 -) [
+      patons/modnomatch/(me me PP1CS000 -)
+      sn/obj/(abeja abeja NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+      ]
+    ]
+  ]
+  conj-subord/modnomatch/(que que CS -)
+  grup-verb-inf/modnomatch/(tener tener VMN0000 -) [
+    PP*/modnomatch/(me me PP1CS000 -)
+  ]
+  conj-subord/modnomatch/(que que CS -)
+  grup-verb-inf/modnomatch/(tragar tragar VMN0000 -)
+  sn/obj/(clase clase NCFS000 -) [
+    espec-fs/espec/(esta este DD0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(películas película NCFP000 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

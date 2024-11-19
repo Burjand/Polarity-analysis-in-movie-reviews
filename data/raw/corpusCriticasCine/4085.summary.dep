@@ -1,0 +1,44 @@
+grup-verb/top/(consigue conseguir VMIP3S0 -) [
+  sn/subj/(Burton burton NP00000 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(tengamos tener VMSP1P0 -) [
+      sn/obj/(ganas gana NCFP000 -) [
+        espec-fp/espec/(unas uno DI0FP0 -)
+        s-a-fp/qual/(locas loco AQ0FP0 -)
+      ]
+    ]
+  ]
+  grup-sp-inf/modnomatch/(por por SPS00 -) [
+    grup-verb-inf/head/(dar dar VMN0000 -) [
+      PP*/modnomatch/(nos nos PP1CP000 -)
+    ]
+    sn/modnomatch/(vuelta vuelta NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+    ]
+  ]
+  grup-sp/modnomatch/(por por SPS00 -) [
+    sn/head/(mundo mundo NCMS000 -) [
+      espec-ms/espec/(otro otro DI0MS0 -) [
+        j-ms/modnorule/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  coord/modnomatch/(o o CC -)
+  grup-verb-inf/modnomatch/(buscar buscar VMN0000 -) [
+    PP*/modnomatch/(nos nos PP1CP000 -)
+  ]
+  sn/obj/(pareja pareja NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(fantasmas fantasma NCMP000 -) [
+        grup-sp/modnomatch/(como como CS -) [
+          sn/head/(amigos amigo NCMP000 -) [
+            s-a-mp/qual/(íntimos íntimo AQ0MP0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

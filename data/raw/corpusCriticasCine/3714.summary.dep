@@ -1,0 +1,50 @@
+grup-verb/top/(sentir sentir VMN0000 -) [
+  patons/modnomatch/(se se PP3CN000 -)
+  VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+  sn/subj/(Uno uno PI0MS000 -)
+  s-adj/modnomatch/(estúpido estúpido AQ0MS0 -) [
+    sadv/modnorule/(completamente completamente RG -)
+  ]
+  subord/modnomatch/(a_la_vez_que a_la_vez_que CS -) [
+    grup-verb/modnorule/(alegro alegrar VMIP1S0 -) [
+      patons/modnomatch/(me me PP1CS000 -)
+      sn/subj/(desubicado desubicado NCMS000 -) [
+        Fc(,)/modnomatch/(, , Fc -)
+      ]
+    ]
+  ]
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(haber haber VAN0000 -) [
+      PP*/modnomatch/(la lo PP3FSA00 -)
+    ]
+  ]
+  parti-flex/modnomatch/(dejado dejar VMP00SM -)
+  parti-flex/modnomatch/(aparcada aparcar VMP00SF -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(estreno estreno NCMS000 -) [
+      espec-ms/espec/(su su DP3CS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(y y CC -)
+  Fc(,)/modnomatch/(, , Fc -)
+  forma-ger/modnomatch/(aprovechando aprovechar VMG0000 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(está estar VAIP3S0 -) [
+      sadv/cc/(ya ya RG -)
+      grup-sp/cc/(en en SPS00 -) [
+        sn/head/(DVD dvd NP00000 -)
+      ]
+    ]
+  ]
+  grup-verb-inf/modnomatch/(retomar retomar VMN0000 -) [
+    PP*/modnomatch/(la lo PP3FSA00 -)
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(calma calma NCFS000 -) [
+      espec-fs/espec/(más más RG -)
+    ]
+    F-no-c/modnomatch/(... ... Fs -)
+  ]
+]
+

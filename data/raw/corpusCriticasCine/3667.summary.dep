@@ -1,0 +1,48 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(Deseo deseo NP00000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(Peligro peligro NP00000 -)
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(peca pecar VMIP3S0 -)
+    ]
+  ]
+  grup-sp/modnomatch/(de de SPS00 -) [
+    s-a-fs/modnomatch/(y y CC -) [
+      s-a-fs/modnorule/(pretenciosa pretencioso AQ0FS0 -)
+      s-a-fs/modnorule/(grandilocuente grandilocuente AQ0CS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(y y CC -)
+  conj-subord/modnomatch/(que que CS -)
+  grup-sp/modnomatch/(a_pesar_de a_pesar_de SPS00 -) [
+    sn/head/(promoción promoción NCFS000 -) [
+      espec-fs/espec/(su su DP3CS0 -)
+      grup-verb/modnomatch/(es ser VSIP3S0 -) [
+        neg/modneg/(no no RN -)
+        sadv/cc/(más más RG -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  conj-subord/modnomatch/(que que CS -)
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(historia historia NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(, , Fc -) [
+        s-a-fs/modnorule/(vulgar vulgar AQ0CS0 -)
+        s-a-fs/modnorule/(carente carente AQ0CS0 -)
+      ]
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(pasión pasión NCFS000 -)
+      ]
+    ]
+    sn/co-n/(emoción emoción NCFS000 -)
+  ]
+  espec-fs/modnomatch/(alguna alguno DI0FS0 -)
+  F-term/term/(. . Fp -)
+]
+

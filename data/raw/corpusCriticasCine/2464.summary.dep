@@ -1,0 +1,75 @@
+grup-verb/top/(perdido perder VMP00SM -) [
+  vaux/aux/(ha haber VAIP3S0 -)
+  sn/subj/(Harry_Potter harry_potter NP00000 -)
+  sn/obj/(sentido_de_el_humor sentido_del_humor NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+  ]
+  coord/modnomatch/(y y CC -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(tiempo tiempo NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(mismo mismo AQ0MS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(arte arte NCCS000 -) [
+    espec-ms/espec/(ese ese DD0MS0 -)
+    s-a-ms/qual/(mágico mágico AQ0MS0 -) [
+      sadv/modnorule/(casi casi RG -)
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(enganchó enganchar VMIS3S0 -)
+    ]
+    grup-sp/modnomatch/(a a SPS00 -) [
+      sn/head/(millones millón NCMP000 -) [
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(espectadores espectador NCMP000 -) [
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(edades edad NCFP000 -) [
+                espec-fp/espec/(todas todo DI0FP0 -) [
+                  j-fp/modnorule/(las el DA0FP0 -)
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(aunque aunque CC -) [
+  grup-verb/co-v/(Hay haber VMIP3S0 -) [
+    conj-subord/modnomatch/(que que CS -)
+    grup-verb-inf/modnomatch/(animar animar VMN0000 -)
+    grup-sp/iobj/(a a SPS00 -) [
+      sn/head/(chico chico NCMS000 -) [
+        espec-ms/espec/(este este DD0MS0 -)
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(está estar VAIP3S0 -) [
+        morfema-verbal/modnomatch/(se se P0000000 -)
+      ]
+    ]
+    forma-ger/modnomatch/(haciendo hacer VMG0000 -)
+    s-adj/modnomatch/(mayor mayor AQ0CS0 -)
+    grup-sp/iobj/(a a SPS00 -) [
+      sn/head/(marchas marcha NCFP000 -) [
+        s-a-fp/qual/(forzadas forzar VMP00PF -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(sea ser VSSP1S0 -) [
+    grup-sp/modnomatch/(a_base_de a_base_de SPS00 -) [
+      sn/head/(Prozac prozac NP00000 -)
+    ]
+  ]
+  coord/modnomatch/(o o CC -)
+  s-adj/modnomatch/(similares similar AQ0CP0 -)
+  F-term/modnomatch/(. . Fp -)
+]
+

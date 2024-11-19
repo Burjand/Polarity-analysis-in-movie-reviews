@@ -1,0 +1,70 @@
+grup-verb/top/(Siento sentar VMIP1S0 -) [
+  sn/obj/(aversión aversión NCFS000 -) [
+    s-a-fs/qual/(y y CC -) [
+      s-a-fs/modnorule/(pura puro AQ0FS0 -)
+      s-a-fs/modnorule/(dura duro AQ0FS0 -)
+    ]
+  ]
+  coor-sp/modnomatch/(y y CC -) [
+    grup-sp/modnorule/(hacia hacia SPS00 -) [
+      sn/head/(especie especie NCFS000 -) [
+        espec-fs/espec/(esta este DD0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(comedia comedia NCFS000 -) [
+            s-a-fs/qual/(grotesca grotesco AQ0FS0 -) [
+              s-a-fs/modnorule/(aburrida aburrir VMP00SF -)
+            ]
+          ]
+        ]
+      ]
+    ]
+    grup-sp/modnorule/(sin sin SPS00 -) [
+      sn/head/(gracia gracia NCFS000 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(conseguido conseguir VMP00SM -) [
+  vaux/aux/(Ha haber VAIP3S0 -)
+  grup-verb-inf/modnomatch/(horrorizar horrorizar VMN0000 -) [
+    PP*/modnomatch/(me me PP1CS000 -)
+  ]
+  sadv/cc/(tanto tanto RG -)
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(hecho hecho NCMS000 -) [
+      grup-verb/modnomatch/(creo crear VMIP1S0 -) [
+        subord/modnomatch/(que que CS -) [
+          grup-verb/modnorule/(pasar pasar VMN0000 -) [
+            VMI*<ir>/modnomatch/(va ir VMIP3S0 -)
+            SPS00(a)/modnomatch/(a a SPS00 -)
+          ]
+        ]
+        grup-sp-inf/iobj/(a a SPS00 -) [
+          grup-verb-inf/head/(ser ser VSN0000 -)
+          sn/modnomatch/(cinta cinta NCFS000 -) [
+            espec-fs/espec/(la el DA0FS0 -)
+            s-a-fs/qual/(peor peor AQ0CS0 -)
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(2007-8 2007-8 Z -) [
+                espec-ms/espec/(el el DA0MS0 -)
+              ]
+            ]
+          ]
+        ]
+        grup-sp/cc/(en en SPS00 -) [
+          sn/head/(lista lista NCFS000 -) [
+            espec-fs/espec/(mi mi DP1CSS -)
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(bodrios bodrio NCMP000 -) [
+                s-a-mp/qual/(insoportables insoportable AQ0CP0 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

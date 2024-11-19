@@ -1,0 +1,63 @@
+coor-vb/top/(y y CC -) [
+  grup-verb/co-v/(negar negar VMN0000 -) [
+    VMI*<poder>/modnomatch/(puedo poder VMIP1S0 -)
+    neg/modneg/(No no RN -)
+    subord/modnomatch/(que que CS -) [
+      grup-verb/modnorule/(es ser VSIP3S0 -) [
+        sn/subj/(factura factura NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          grup-verb/modnomatch/(es ser VSIP3S0 -) [
+            coor-n/subj/(y y CC -) [
+              sn/co-n/(trabajo trabajo NCMS000 -) [
+                espec-ms/espec/(el el DA0MS0 -)
+                sp-de/mod/(de de SPS00 -) [
+                  sn/gen/(elogio elogio NCMS000 -)
+                ]
+              ]
+            ]
+            grup-sp/modnomatch/(detrás_de detrás_de SPS00 -) [
+              sn/head/(propuesta propuesta NCFS000 -) [
+                espec-fs/espec/(esta este DD0FS0 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+    s-adj/modnomatch/(sorprendente sorprendente AQ0CS0 -)
+    s-adj/modnomatch/(digno digno AQ0MS0 -)
+    coor-sp/modnomatch/(y y CC -) [
+      Fc(,)/modnorule/(, , Fc -)
+      grup-sp/modnorule/(por por SPS00 -) [
+        sn/head/(eso ese PD0NS000 -)
+      ]
+    ]
+  ]
+  grup-verb/co-v/(califico calificar VMIP1S0 -) [
+    patons/modnomatch/(la lo PP3FSA00 -)
+    grup-sp/modnomatch/(como como CS -) [
+      s-a-fs/modnomatch/(buena bueno AQ0FS0 -)
+    ]
+  ]
+  grup-verb/co-v/(recomiendo recomendar VMIP1S0 -) [
+    patons/modnomatch/(os os PP2CP000 -)
+    patons/modnomatch/(la lo PP3FSA00 -)
+  ]
+  coor-sp/modnomatch/(pero pero CC -) [
+    Fc(,)/modnorule/(, , Fc -)
+    grup-sp/modnorule/(a a SPS00 -) [
+      sn/head/(entender entender NCMS000 -) [
+        espec-ms/espec/(mi mi DP1CSS -)
+      ]
+    ]
+  ]
+  grup-verb/co-v/(escogido escoger VMP00SM -) [
+    vaux/aux/(han haber VAIP3P0 -)
+    neg/modneg/(no no RN -)
+    sn/obj/(medio medio NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(adecuado adecuar VMP00SM -)
+    ]
+  ]
+]
+

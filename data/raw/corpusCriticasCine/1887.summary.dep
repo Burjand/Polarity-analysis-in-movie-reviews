@@ -1,0 +1,59 @@
+grup-verb/top/(pensé pensar VMIS1S0 -) [
+  sn/subj/(Hace hacer VMIP3S0 -) [
+    sn-tmp/modnomatch/(tiempo tiempo NCMS000 -)
+  ]
+  grup-sp-inf/modnomatch/(en en SPS00 -) [
+    grup-verb-inf/head/(crear crear VMN0000 -)
+    sn/modnomatch/(plataforma plataforma NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+    ]
+  ]
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(defender defender VMN0000 -)
+    sn/modnomatch/(eutanasia eutanasia NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(espectadores espectador NCMP000 -) [
+          espec-mp/espec/(los el DA0MP0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(sería ser VSIC1S0 -) [
+  sn/subj/(lema lema NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+    grup-verb/modnomatch/(queremos querer VMIP1P0 -) [
+      neg/modneg/(No no RN -)
+      subord/modnomatch/(que que CS -) [
+        grup-verb/modnorule/(salven salvar VMSP3P0 -) [
+          patons/modnomatch/(nos nos PP1CP000 -)
+          sn/obj/(películas película NCFP000 -) [
+            espec-fp/espec/(más más RG -)
+            grup-verb/modnomatch/(Queremos querer VMIP1P0 -) [
+              subord/modnomatch/(que que CS -) [
+                grup-verb/modnorule/(dejen dejar VMSP3P0 -) [
+                  patons/modnomatch/(nos nos PP1CP000 -)
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  sn/obj/(algo algo PI0CS000 -)
+  coord/modnomatch/(así_como así_como CC -)
+  F-no-c/modnomatch/(: : Fd -)
+  F-no-c/modnomatch/(" " Fe -)
+  F-term/term/(. . Fp -)
+  grup-verb-inf/modnomatch/(morir morir VMN0000 -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(paz paz NCFS000 -)
+    F-no-c/modnomatch/(" " Fe -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

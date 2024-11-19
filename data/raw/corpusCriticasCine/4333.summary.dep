@@ -1,0 +1,65 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(esperado esperar VMP00SM -) [
+    j-ms/modnomatch/(El el DA0MS0 -)
+  ]
+  sn/subj/(final final NCFS000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(saga saga NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(Madres madres NP00000 -) [
+            espec-fp/espec/(Tres 3 Z -) [
+              j-fp/modnorule/(las el DA0FP0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  neg/modneg/(no no RN -)
+  sn/obj/(retorno retorno NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(giallo giallo NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+    subord/modnomatch/(como como CS -) [
+      grup-verb/modnorule/(hacer hacer VMN0000 -) [
+        patons/modnomatch/(nos nos PP1CP000 -)
+        VMI*<querer>/modnomatch/(querían querer VMII3P0 -)
+      ]
+    ]
+  ]
+  grup-verb-inf/modnomatch/(creer creer VMN0000 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  conj-subord/modnomatch/(si si CS -)
+  neg/modneg/(no no RN -)
+  sn/obj/(puñado puñado NCMS000 -) [
+    espec-ms/espec/(otro otro DI0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(tierra tierra NCFS000 -)
+    ]
+  ]
+  sadv/cc/(más más RG -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(tumba tumba NCFS000 -) [
+      espec-fs/espec/(su su DP3CS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(oigan oír VMSP3P0 -) [
+  sn/subj/(Lamentable lamentable NP00000 -) [
+    espec-ms/espec/(lo el DA0NS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(hecho hacer VMP00SM -) [
+        vaux/aux/(han haber VAIP3P0 -)
+      ]
+      Fc(,)/modnorule/(, , Fc -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

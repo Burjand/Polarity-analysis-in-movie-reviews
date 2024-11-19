@@ -1,0 +1,73 @@
+coor-vb/top/(aunque aunque CC -) [
+  grup-verb/co-v/(Tiene tener VMIP3S0 -) [
+    sn/obj/(ritmo ritmo NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(buen bueno AQ0MS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(sufre sufrir VMIP3S0 -) [
+    sn/obj/(altibajos altibajo NCMP000 -)
+    grup-sp/modnomatch/(a_la_mitad_de a_la_mitad_de SPS00 -) [
+      sn/head/(metraje metraje NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(haga hacer VMSP1S0 -) [
+    sadv/cc/(quizás quizás RG -)
+    sn/subj/(moralina moralina NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(final final AQ0CS0 -)
+      Fc(,)/modnomatch/(, , Fc -)
+    ]
+  ]
+  grup-verb-inf/modnomatch/(dudar dudar VMN0000 -)
+  sn/modnomatch/(algunos alguno PI0MP000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  prep/modnomatch/(a a SPS00 -)
+  espec-ms/modnomatch/(mi mi DP1CSS -)
+  grup-verb/co-v/(hizo hacer VMIS3S0 -) [
+    patons/modnomatch/(me me PP1CS000 -)
+  ]
+  grup-verb-inf/modnomatch/(pensar pensar VMN0000 -)
+  coor-vb/modnomatch/(y y CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-verb/co-v/(gustó gustar VMIS3S0 -) [
+      patons/modnomatch/(me me PP1CS000 -)
+    ]
+  ]
+  sadv/modnomatch/(mucho mucho RG -)
+  espec-ms/modnomatch/(este este DD0MS0 -)
+  sn/modnomatch/(final final NCFS000 -)
+  F-term/modnomatch/(. . Fp -)
+]
+
+sadv/top/(bien bien RG -) [
+  cuantif/modnorule/(Muy muy RG -)
+  s-adj/modnorule/(y y CC -) [
+    s-a-fs/modnorule/(dirigida dirigir VMP00SF -)
+    s-a-fs/modnorule/(escrita escribir VMP00SF -)
+  ]
+  sn/modnorule/(ópera ópera NCFS000 -) [
+    espec-fs/espec/(esta este DD0FS0 -)
+    s-a-fs/qual/(prima primo AQ0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Don_Ben don_ben NP00000 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(ganado ganar VMP00SM -) [
+        morfema-verbal/modnomatch/(se se P0000000 -)
+        vaux/aux/(ha haber VAIP3S0 -)
+      ]
+    ]
+  ]
+  sn/modnorule/(respeto respeto NCMS000 -) [
+    espec-ms/espec/(mi mi DP1CSS -)
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

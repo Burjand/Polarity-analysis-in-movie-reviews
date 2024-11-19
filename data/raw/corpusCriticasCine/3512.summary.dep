@@ -1,0 +1,64 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(Beowulf beowulf NP00000 -)
+  sn/obj/(hito hito NCMS000 -) [
+    espec-ms/espec/(todo todo DI0MS0 -) [
+      indef-ms/modnorule/(un uno DI0MS0 -)
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(evolución evolución NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(desarrollo desarrollo NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(animación animación NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          s-a-fs/qual/(digital digital AQ0CS0 -)
+        ]
+      ]
+    ]
+  ]
+  coor-sp/modnomatch/(pero pero CC -) [
+    Fc(,)/modnorule/(, , Fc -)
+    grup-sp/modnorule/(como como CS -) [
+      sn/head/(película película NCFS000 -) [
+        grup-verb/modnomatch/(resulta resultar VMIP3S0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(forma forma NCFS000 -) [
+            s-a-fs/qual/(sorprendente sorprendente AQ0CS0 -)
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(grandiosidad grandiosidad NCFS000 -) [
+                espec-fs/espec/(la el DA0FS0 -)
+                sp-de/mod/(de de SPS00 -) [
+                  sn/gen/(cantar cantar NCMS000 -) [
+                    espec-ms/espec/(el el DA0MS0 -)
+                    s-a-ms/qual/(épico épico AQ0MS0 -)
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  espec-ms/modnomatch/(lo el DA0NS0 -)
+  s-adj/att/(y y CC -) [
+    s-a-fs/modnorule/(insulsa insulso AQ0FS0 -) [
+      sadv/modnorule/(más más RG -)
+    ]
+    s-a-fs/modnorule/(anodina anodino AQ0FS0 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  prep/modnomatch/(a a SPS00 -)
+  espec-ms/modnomatch/(el el DA0MS0 -)
+  grup-verb-inf/modnomatch/(carecer carecer VMN0000 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(adapta adaptar VMIP3S0 -)
+  ]
+]
+

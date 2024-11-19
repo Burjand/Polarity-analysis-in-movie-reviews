@@ -1,0 +1,76 @@
+sn/top/(Película película NCFS000 -) [
+  grup-sp/modnomatch/(sobre sobre SPS00 -) [
+    sn/head/(robotos robotos NCFP000 -) [
+      grup-sp/modnomatch/(en en SPS00 -) [
+        sn/head/(vehículos vehículo NCMP000 -)
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(tranforman tranforman VMIP3P0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  sadv/modnomatch/(viceversa viceversa RG -)
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(tiene tener VMIP3S0 -) [
+  sn/subj/(Palomitera palomitera NP00000 -) [
+    sadv/modnomatch/(cien_por_cien cien_por_cien RG -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  grup-sp/modnomatch/(como como CS -) [
+    sn/head/(problema problema NCMS000 -)
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(quedar quedar VMN0000 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+      patons/modnomatch/(te te PP2CS000 -)
+      VMI*<ir>/modnomatch/(va ir VMIP3S0 -)
+      SPS00(a)/modnomatch/(a a SPS00 -)
+    ]
+  ]
+  sn/obj/(boca boca NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  grup-sp/modnomatch/(como como CS -) [
+    sn/head/(esparto esparto NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(cantidad cantidad NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(maiz maiz NCCS000 -) [
+              s-a-ms/qual/(explotado explotar VMP00SM -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(da dar VMIP3S0 -) [
+      patons/modnomatch/(te te PP2CS000 -)
+    ]
+  ]
+  sn/obj/(tiempo tiempo NCMS000 -)
+  grup-sp-inf/iobj/(a a SPS00 -) [
+    grup-verb-inf/head/(comer comer VMN0000 -) [
+      PP*/modnomatch/(te te PP2CS000 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-n/top/(y y CC -) [
+  sn/co-n/(rollo rollo NCMS000 -) [
+    espec-ms/espec/(Menos menos RG -)
+  ]
+  sn/co-n/(mamporros mamporro NCMP000 -) [
+    espec-mp/espec/(más más RG -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

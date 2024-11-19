@@ -1,0 +1,29 @@
+grup-verb/top/(toma tomar VMIP3S0 -) [
+  sn/subj/(Brett_Ratner brett_ratner NP00000 -) [
+    grup-verb/modnomatch/(ayuda ayudar VMM02S0 -) [
+      patons/modnomatch/(le le PP3CSD00 -)
+      neg/modneg/(no no RN -)
+      sadv/cc/(demasiado demasiado RG -)
+    ]
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(pulso pulso NCMS000 -) [
+      s-a-ms/qual/(buen bueno AQ0MS0 -)
+    ]
+  ]
+  coor-n/obj/(aunque aunque CC -) [
+    sn/co-n/(saga saga NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(guión guión NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(casos caso NCMP000 -) [
+      espec-mp/espec/(algunos alguno DI0MP0 -)
+    ]
+  ]
+]
+

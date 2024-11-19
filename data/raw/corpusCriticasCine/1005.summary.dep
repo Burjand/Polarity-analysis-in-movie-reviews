@@ -1,0 +1,42 @@
+coor-vb/top/(y y CC -) [
+  sn/subj/(argumento argumento NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+  ]
+  grup-verb/co-v/(pinta pintar VMIP3S0 -) [
+    neg/modneg/(no no RN -)
+    sadv/cc/(mal mal RG -)
+  ]
+  grup-verb/co-v/(funcionado funcionar VMP00SM -) [
+    VMI*<poder>/modnomatch/(podría poder VMIC1S0 -)
+    infaux/modnomatch/(haber haber VAN0000 -)
+  ]
+  sadv/modnomatch/(bien bien RG -)
+  coord/modnomatch/(e e CC -)
+  sadv/modnomatch/(incluso incluso RG -)
+  grup-verb-inf/modnomatch/(ser ser VSN0000 -)
+  sn/modnomatch/(Jóvenes_Ocultos jóvenes_ocultos NP00000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(nueva nuevo AQ0FS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+    subord/modnomatch/(si si CS -) [
+      grup-verb/modnorule/(fuera ser VSSI1S0 -) [
+        neg/modneg/(no no RN -)
+      ]
+    ]
+    subord/modnomatch/(porque porque CS -) [
+      grup-verb/modnorule/(hace hacer VMIP3S0 -) [
+        sn/subj/(película película NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+        ]
+        sn/obj/(aguas agua NCFP000 -)
+        grup-sp/modnomatch/(por por SPS00 -) [
+          sn/head/(partes parte NCFP000 -) [
+            espec-fp/espec/(todas todo DI0FP0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

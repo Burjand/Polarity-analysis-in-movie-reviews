@@ -1,0 +1,46 @@
+grup-verb/top/(forman formar VMIP3P0 -) [
+  coor-n/subj/(o o CC -) [
+    sn/co-n/(reparto reparto NCMS000 -) [
+      espec-ms/espec/(Un uno DI0MS0 -)
+      s-a-ms/qual/(excepcional excepcional AQ0CS0 -)
+      Fc(,)/modnomatch/(, , Fc -)
+    ]
+    sn/co-n/(traza traza NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(historias historia NCFP000 -) [
+          s-a-fp/qual/(, , Fc -) [
+            s-a-fp/modnorule/(entrelazadas entrelazar VMP00PF -)
+            s-a-fp/modnorule/(unidas unir VMP00PF -)
+          ]
+          grup-sp/modnomatch/(por por SPS00 -) [
+            sn/head/(uno uno PI0MS000 -)
+          ]
+        ]
+      ]
+    ]
+    sn/co-n/(nexos nexo NCMP000 -) [
+      espec-mp/espec/(varios varios DI0MP0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(unión unión NCFS000 -)
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(golpean golpear VMIP3P0 -) [
+        patons/modnomatch/(te te PP2CS000 -)
+      ]
+    ]
+    grup-sp/modnomatch/(en en SPS00 -) [
+      sn/head/(estómago estómago NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(espectáculo espectáculo NCMS000 -) [
+    espec-ms/espec/(este este DD0MS0 -)
+    s-a-ms/qual/(singular singular AQ0CS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

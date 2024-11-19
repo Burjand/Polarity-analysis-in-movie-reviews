@@ -1,0 +1,48 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(Juno juno NP00000 -)
+  sn/obj/(cuota cuota NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(cine cine NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        s-a-ms/qual/(independiente independiente AQ0CS0 -)
+      ]
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(temporada temporada NCFS000 -) [
+      espec-fs/espec/(esta este DD0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(premios premio NCMP000 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(porque porque CS -) [
+    grup-verb/modnorule/(tiene tener VMIP3S0 -) [
+      sn/subj/(película película NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        grup-sp/modnomatch/(en en SPS00 -) [
+          ptonic/modnomatch/(sí sí PP3CNO00 -)
+        ]
+        s-adj/qual/(misma mismo AQ0FS0 -)
+      ]
+      neg/modneg/(no no RN -)
+      sn/obj/(nada nada PI0CS000 -) [
+        subord/modnomatch/(que que PR0CN000 -) [
+          grup-verb/modnorule/(haga hacer VMSP1S0 -) [
+            patons/modnomatch/(la lo PP3FSA00 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  grup-verb-inf/modnomatch/(descatar descatar VMN0000 -)
+  grup-sp/modnomatch/(sobre sobre SPS00 -) [
+    sn/head/(demás demás PI0CP000 -) [
+      j-fp/modnomatch/(las el DA0FP0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

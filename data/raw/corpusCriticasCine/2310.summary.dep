@@ -1,0 +1,59 @@
+grup-verb/top/(batalla batallar VMM02S0 -) [
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(Una uno DI0FS0 -)
+    prel/modnomatch/(que que PR0CN000 -)
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-sp-inf/modnomatch/(a_pesar_de a_pesar_de SPS00 -) [
+      grup-verb-inf/head/(llevar llevar VMN0000 -)
+    ]
+    grup-sp/modnomatch/(a a SPS00 -) [
+      sn/head/(extremos extremo NCMP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+      ]
+    ]
+    sn/modnomatch/(recurrente recurrente AQ0CS0 -) [
+      j-fs/modnomatch/(la el DA0FS0 -)
+    ]
+    F-term/term/(? ? Fit -)
+  ]
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(sexos sexo NCMP000 -)
+  ]
+  F-term/term/(? ? Fit -)
+  coord/modnomatch/(y y CC -)
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(contener contener VMN0000 -)
+    sn/modnomatch/(discusión discusión NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(memorable memorable AQ0CS0 -) [
+        sadv/modnorule/(más más RG -)
+      ]
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(Historia_de_el_Cine historia_de_el_cine NP00000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          grup-verb/modnomatch/(tener tener VMN0000 -) [
+            VMI*<llegar>/modnomatch/(llegó llegar VMIS3S0 -)
+            SPS00(a)/modnomatch/(a a SPS00 -)
+            sadv/cc/(nunca nunca RG -)
+            sn/obj/(consideración consideración NCFS000 -) [
+              espec-fs/espec/(la el DA0FS0 -)
+              sp-de/mod/(de de SPS00 -) [
+                sn/gen/(comedias comedia NCFP000 -) [
+                  espec-fp/espec/(otras otro DI0FP0 -)
+                  sp-de/mod/(de de SPS00 -) [
+                    sn/gen/(época época NCFS000 -) [
+                      espec-fs/espec/(su su DP3CS0 -)
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(. . Fp -)
+]
+

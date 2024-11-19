@@ -1,0 +1,44 @@
+verb-pass/top/(gestada gestar VMP00SF -) [
+  vser/modnomatch/(fue ser VSIS3S0 -)
+  sn/subj-pac/(Bogart bogart NP00000 -) [
+    espec-ms/espec/(Un uno DI0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(terror terror NCMS000 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj-pac/(película película NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  grup-sp/modnomatch/(en en SPS00 -) [
+    sn/head/(época época NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+    ]
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(era ser VSII1S0 -) [
+      sn/subj/(Warner warner NP00000 -)
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  subord/modnomatch/(si si CS -) [
+    grup-verb/modnorule/(permite permitir VMIP3S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+      patons/modnomatch/(nos nos PP1CP000 -)
+      sn/obj/(expresión expresión NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  espec-fs/modnomatch/(una uno DI0FS0 -)
+  F-no-c/modnomatch/(" " Fe -)
+  sn/modnomatch/(máquina máquina NCFS000 -)
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(hacer hacer VMN0000 -)
+    sn/modnomatch/(chorizos chorizo NCMP000 -)
+  ]
+  F-no-c/modnomatch/(" " Fe -)
+  F-term/modnomatch/(. . Fp -)
+]
+

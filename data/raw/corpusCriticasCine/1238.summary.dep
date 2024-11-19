@@ -1,0 +1,53 @@
+sn/top/(película película NCFS000 -) [
+  espec-fs/espec/(Una uno DI0FS0 -)
+  s-a-fs/qual/(gran gran AQ0CS0 -)
+  coor-sp/modnomatch/(y y CC -) [
+    grup-sp/modnorule/(con con SPS00 -) [
+      sn/head/(colofón colofón NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        s-a-ms/qual/(gran gran AQ0CS0 -)
+      ]
+    ]
+    grup-sp/modnorule/(con con SPS00 -) [
+      sn/head/(valor valor NCMS000 -) [
+        s-a-ms/qual/(gran gran AQ0CS0 -)
+        s-a-ms/qual/(actual actual AQ0CS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(tiene tener VMIP3S0 -) [
+  sn/subj/(hombre hombre NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(mantiene mantener VMIP3S0 -) [
+        morfema-verbal/modnomatch/(se se P0000000 -)
+      ]
+    ]
+    s-adj/qual/(y y CC -) [
+      s-a-ms/modnorule/(incorruptible incorruptible AQ0CS0 -)
+      s-a-ms/modnorule/(aferrado aferrar VMP00SM -)
+    ]
+  ]
+  grup-sp/modnomatch/(a a SPS00 -) [
+    sn/head/(principios principio NCMP000 -) [
+      espec-mp/espec/(sus su DP3CP0 -)
+    ]
+  ]
+  espec-fp/modnomatch/(todas todo DI0FP0 -) [
+    j-fp/modnorule/(las el DA0FP0 -)
+  ]
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(ganar ganar VMN0000 -)
+  ]
+  F-term/term/(? ? Fit -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(manera manera NCFS000 -) [
+      espec-fs/espec/(su su DP3CS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

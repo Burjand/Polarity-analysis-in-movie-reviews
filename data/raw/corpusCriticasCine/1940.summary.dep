@@ -1,0 +1,76 @@
+grup-verb/top/(apuesta apostar VMIP3S0 -) [
+  sn/subj/(Buena buena NP00000 -)
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(ciencia ciencia NCFS000 -) [
+      n-fs/modnomatch/(ficción ficción NCFS000 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  s-adj/modnomatch/(y y CC -) [
+    s-a-fs/modnorule/(interesante interesante AQ0CS0 -) [
+      sadv/modnorule/(bastante bastante RG -)
+    ]
+    s-a-fs/modnorule/(entretenida entretener VMP00SF -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  conj-subord/modnomatch/(que que CS -)
+  grup-sp-inf/modnomatch/(sin sin SPS00 -) [
+    grup-verb-inf/head/(ser ser VSN0000 -)
+    sn/modnomatch/(película película NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(gran gran AQ0CS0 -)
+      grup-verb/modnomatch/(cumple cumplir VMIP3S0 -) [
+        sn/obj/(cometido cometido NCMS000 -) [
+          espec-ms/espec/(su su DP3CS0 -)
+          grup-verb/modnomatch/(queda quedar VMIP3S0 -) [
+            sadv/cc/(siempre siempre RG -)
+            sn/obj/(duda duda NCFS000 -) [
+              espec-fs/espec/(la el DA0FS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(y y CC -)
+  coord/modnomatch/(aunque aunque CC -)
+  prep/modnomatch/(a a SPS00 -)
+  espec-ms/modnomatch/(el el DA0MS0 -)
+  grup-verb-inf/modnomatch/(ver ver VMN0000 -) [
+    PP*/modnomatch/(la lo PP3FSA00 -)
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  prep/modnomatch/(en en SPS00 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(haber haber VAN0000 -) [
+      patons/modnomatch/(se se PP3CN000 -)
+      VMI*<poder>/modnomatch/(podría poder VMIC1S0 -)
+    ]
+  ]
+  parti-flex/modnomatch/(convertido convertir VMP00SM -)
+  grup-sp/modnomatch/(en_manos_de en_manos_de SPS00 -) [
+    sn/head/(director director NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(distinto distinto AQ0MS0 -)
+      grup-verb/modnomatch/(defraudará defraudar VMIF3S0 -) [
+        neg/modneg/(no no RN -)
+        grup-sp/iobj/(a a SPS00 -) [
+          sn/head/(incondicionales incondicional NCCP000 -) [
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(tipo tipo NCMS000 -) [
+                espec-ms/espec/(este este DD0MS0 -)
+                sp-de/mod/(de de SPS00 -) [
+                  sn/gen/(películas película NCFP000 -)
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,58 @@
+grup-verb/top/(decir decir VMN0000 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+  sadv/cc/(Aún aun RG -) [
+    sadv/modnorule/(asi asi RG -)
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  sadv/cc/(siempre siempre RG -)
+  sn/obj/(aquello aquel PD0NS000 -) [
+    grup-verb/modnomatch/(gustó gustar VMIS3S0 -) [
+      patons/modnomatch/(me me PP1CS000 -)
+      sadv/cc/(más más RG -)
+      sn/obj/(libro libro NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+      F-no-c/modnomatch/(" " Fe -)
+      F-no-c/modnomatch/(¿ ¿ Fia -)
+      sn/obj/(verdad verdad NCFS000 -)
+    ]
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  F-no-c/modnomatch/(" " Fe -)
+  F-term/term/(? ? Fit -)
+]
+
+grup-verb/top/(ahoga ahogar VMIP3S0 -) [
+  sn/subj/(Ale ale NP00000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    sadv/modnomatch/(ahora ahora RG -)
+    sn/modnomatch/(todos todo PI0MP000 -)
+    grup-sp-inf/modnomatch/(a a SPS00 -) [
+      grup-verb-inf/head/(comprar comprar VMN0000 -)
+    ]
+    F-no-c/modnomatch/(" " Fe -)
+  ]
+  sn/subj/(Cándida cándida NCFS000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(memorias memoria NCFP000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(asistenta asistenta NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+      ]
+    ]
+    F-no-c/modnomatch/(: : Fd -)
+    subord/modnomatch/(Cuando cuando CS -) [
+      grup-verb/modnorule/(aprieta apretar VMIP3S0 -) [
+        sn/subj/(Dios dios NP00000 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  coord/modnomatch/(pero pero CC -)
+  sadv/cc/(bien bien RG -)
+  F-no-c/modnomatch/(" " Fe -)
+  F-term/term/(. . Fp -)
+]
+

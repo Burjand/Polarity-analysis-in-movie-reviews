@@ -1,0 +1,58 @@
+grup-verb/top/(cinta cintar VMIP3S0 -) [
+  sn/subj/(Descacharrante descacharrante NP00000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(brillo brillo NCMS000 -)
+    ]
+  ]
+  s-adj/modnomatch/(lleno lleno AQ0MS0 -)
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(nada nada PI0CS000 -)
+  ]
+  s-adj/modnomatch/(pretenciosa pretencioso AQ0FS0 -)
+  F-term/term/(. . Fp -)
+]
+
+s-adj/top/(y y CC -) [
+  s-a-fs/modnorule/(Inteligente inteligente AQ0CS0 -)
+  s-a-fs/modnorule/(absurda absurdo AQ0FS0 -)
+  grup-sp/modnorule/(a a SPS00 -) [
+    sn/head/(partes parte NCFP000 -) [
+      s-a-fp/qual/(iguales igual AQ0CP0 -)
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  sn/modnorule/(cinta cinta NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+  ]
+  prel/modnorule/(que que PR0CN000 -)
+  grup-sp/modnorule/(a_pesar_de a_pesar_de SPS00 -) [
+    sn/head/(personajes personaje NCMP000 -) [
+      espec-mp/espec/(pocos poco DI0MP0 -) [
+        j-mp/modnorule/(los el DA0MP0 -)
+      ]
+    ]
+  ]
+  coor-n/modnorule/(y y CC -) [
+    sn/co-n/(lugares lugar NCMP000 -)
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(mantienen mantener VMIP3P0 -) [
+    patons/modnomatch/(te te PP2CS000 -)
+    sn/obj/(sonrisa sonrisa NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+    ]
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(rostro rostro NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+    grup-sp/modnomatch/(durante durante SPS00 -) [
+      sn/head/(visionado visionar VMP00SM -) [
+        espec-ms/espec/(todo todo DI0MS0 -)
+        espec-ms/espec/(su su DP3CS0 -)
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

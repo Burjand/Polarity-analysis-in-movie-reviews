@@ -1,0 +1,72 @@
+grup-verb/top/(Soy ser VSIP1S0 -) [
+  sn/obj/(Leyenda leyenda NP00000 -) [
+    grup-verb/modnomatch/(resulta resultar VMIP3S0 -) [
+      sn/obj/(película película NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        s-a-fs/qual/(estimable estimable AQ0CS0 -) [
+          sadv/modnorule/(muy muy RG -)
+        ]
+      ]
+      grup-sp/modnomatch/(durante durante SPS00 -) [
+        sn/head/(parte parte NCFS000 -) [
+          s-a-fs/qual/(gran gran AQ0CS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(metraje metraje NCMS000 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(aunque aunque CC -)
+  s-adj/att/(incapaz incapaz AQ0CS0 -)
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(llegar llegar VMN0000 -)
+  ]
+  prep/modnomatch/(a a SPS00 -)
+  espec-ms/modnomatch/(ese ese DD0MS0 -)
+  sn/obj/(algo algo PI0CS000 -)
+  sadv/cc/(más más RG -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(convertiría convertir VMIC1S0 -) [
+      patons/modnomatch/(la lo PP3FSA00 -)
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(clásico clásico AQ0MS0 -) [
+      indef-ms/modnomatch/(un uno DI0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(ciencia ciencia NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          n-fs/modnomatch/(ficción ficción NCFS000 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(lástima lástima NCFS000 -) [
+  espec-fs/espec/(Una uno DI0FS0 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(pues pues CS -) [
+    grup-verb/modnorule/(daban dar VMII3P0 -) [
+      coor-n/subj/(y y CC -) [
+        sn/co-n/(comienzo comienzo NCMS000 -) [
+          espec-ms/espec/(su su DP3CS0 -)
+        ]
+        sn/co-n/(interpretación interpretación NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(Will_Smith will_smith NP00000 -)
+          ]
+        ]
+      ]
+      grup-sp/iobj/(para para SPS00 -) [
+        sadv/modnomatch/(más más RG -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

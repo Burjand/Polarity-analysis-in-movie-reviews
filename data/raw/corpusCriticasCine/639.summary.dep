@@ -1,0 +1,43 @@
+grup-verb/top/(faltar faltar VMN0000 -) [
+  patons/modnomatch/(le le PP3CSD00 -)
+  VMI*<poder>/modnomatch/(Puede poder VMIP3S0 -)
+  sn/obj/(opinión opinión NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(firme firme AQ0CS0 -)
+  ]
+  grup-sp/modnomatch/(sobre sobre SPS00 -) [
+    sn/head/(industria industria NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(tabaquera tabaquero AQ0FS0 -)
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(critica criticar VMIP3S0 -)
+  ]
+  coor-n/obj/(pero pero CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(espectador espectador NCMS000 -) [
+      espec-ms/espec/(cualquier cualquiera DI0CS0 -)
+      grup-verb/modnomatch/(entender entender VMN0000 -) [
+        VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+        sn/obj/(complejidades complejidad NCFP000 -) [
+          espec-fp/espec/(las el DA0FP0 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  prep/modnomatch/(a a SPS00 -)
+  espec-fp/modnomatch/(las el DA0FP0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(enfrentado enfrentar VMP00SM -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+      vaux/aux/(ha haber VAIP3S0 -)
+      sn/subj/(director director NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,45 @@
+sn/top/(thriller thriller NCMS000 -) [
+  espec-ms/espec/(Un uno DI0MS0 -)
+  s-a-ms/qual/(correcto correcto AQ0MS0 -)
+  s-a-ms/qual/(juvenil juvenil AQ0CS0 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(factura factura NCFS000 -) [
+      s-a-fs/qual/(buena bueno AQ0FS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/modnomatch/(interpretaciones interpretación NCFP000 -) [
+    s-a-fp/qual/(pasables pasable AQ0CP0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  coord/modnomatch/(pero pero CC -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(contará contar VMIF3S0 -) [
+      sadv/cc/(seguramente seguramente RG -)
+      grup-sp/modnomatch/(con con SPS00 -) [
+        sn/head/(favor favor NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  espec-mp/espec/(los el DA0MP0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(encuentran encontrar VMIP3P0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+      sadv/cc/(aún aun RG -)
+      grup-sp/cc/(en en SPS00 -) [
+        sn/head/(edad edad NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(pavo pavo NCMS000 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

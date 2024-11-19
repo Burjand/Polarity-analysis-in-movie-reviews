@@ -1,0 +1,64 @@
+sn/top/(Fast fast NP00000 -) [
+  w-ms/modnomatch/(food food NP00000 -)
+  s-adj/qual/(cinematográfico cinematográfico AQ0MS0 -)
+  grup-sp/modnomatch/(en en SPS00 -) [
+    sn/head/(estado estado NCMS000 -) [
+      s-a-ms/qual/(puro puro AQ0MS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(película película NCFS000 -) [
+  espec-fs/espec/(Una uno DI0FS0 -)
+  s-a-fs/qual/(mala malo AQ0FS0 -)
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(solemnidad solemnidad NCFS000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(y y CC -) [
+  grup-verb/co-v/(Escuece escocer VMIP3S0 -) [
+    subord/modnomatch/(cuando cuando CS -) [
+      grup-verb/modnorule/(vemos ver VMIP1P0 -) [
+        patons/modnomatch/(la lo PP3FSA00 -)
+      ]
+    ]
+  ]
+  grup-verb/co-v/(escuece escocer VMIP3S0 -) [
+    sn/obj/(horas hora NCFP000 -)
+  ]
+  sadv/modnomatch/(después después RG -)
+  subord/modnomatch/(cuando cuando CS -) [
+    grup-verb/modnorule/(preguntamos preguntar VMIP1P0 -) [
+      patons/modnomatch/(nos nos PP1CP000 -)
+    ]
+  ]
+  PE000000(qué)/modnomatch/(qué qué PE000000 -)
+  grup-verb/co-v/(mueven mover VMIP3P0 -) [
+    patons/modnomatch/(nos nos PP1CP000 -)
+    sn/subj/(razones razón NCFP000 -) [
+      s-a-fp/qual/(oscuras oscuro AQ0FP0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(en en SPS00 -) [
+    sn/head/(ocasiones ocasión NCFP000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp-inf/modnomatch/(a a SPS00 -) [
+    grup-verb-inf/head/(traicionar traicionar VMN0000 -)
+    sn/modnomatch/(fidelidad fidelidad NCFS000 -) [
+      espec-fs/espec/(nuestra nuestro DP1FSP -)
+    ]
+  ]
+  grup-sp/modnomatch/(a a SPS00 -) [
+    sn/head/(cine cine NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(bueno bueno AQ0MS0 -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

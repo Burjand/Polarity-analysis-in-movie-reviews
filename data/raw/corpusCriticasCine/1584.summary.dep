@@ -1,0 +1,26 @@
+s-adj/top/(Ideal ideal AQ0CS0 -) [
+  grup-sp/modnorule/(para para SPS00 -) [
+    sn/head/(consumo consumo NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(rápido rápido AQ0MS0 -)
+    ]
+  ]
+  coord/modnorule/(y y CC -)
+  Fc(,)/modnorule/(, , Fc -)
+  sp-de/modnorule/(de de SPS00 -) [
+    sn/gen/(paso paso NCMS000 -)
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb-inf/modnorule/(remover remover VMN0000 -)
+  sn/modnorule/(conciencia conciencia NCFS000 -) [
+    espec-fs/espec/(alguna alguno DI0FS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-sp/modnomatch/(entre entre SPS00 -) [
+      sn/head/(palomita palomita NCFS000 -)
+      CC(y)/modnomatch/(y y CC -)
+      sn/head/(palomita palomita NCFS000 -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

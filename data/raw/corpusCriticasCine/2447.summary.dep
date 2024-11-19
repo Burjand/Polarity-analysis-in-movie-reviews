@@ -1,0 +1,81 @@
+sn/top/(Película película NCFS000 -) [
+  grup-sp/modnomatch/(sobre sobre SPS00 -) [
+    sn/head/(problemas problema NCMP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+      s-a-mp/qual/(y y CC -) [
+        s-a-mp/modnorule/(cotidianos cotidiano AQ0MP0 -)
+        s-a-mp/modnorule/(sexuales sexual AQ0CP0 -)
+      ]
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(grupo grupo NCMS000 -) [
+          espec-ms/espec/(un uno DI0MS0 -)
+          s-a-ms/qual/(extraño extraño AQ0MS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(habitantes habitante NCCP000 -) [
+              sp-de/mod/(de de SPS00 -) [
+                sn/gen/(Nueva_York nueva_york NP00000 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(hacer hacer VMN0000 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  VMI*<comenzar>/modnomatch/(comienza comenzar VMIP3S0 -)
+  SPS00(a)/modnomatch/(a a SPS00 -)
+  neg/modneg/(No no RN -) [
+    morfema-verbal/modnorule/(se se P0000000 -)
+    subord/modnorule/(si si CS -) [
+      grup-verb/modnorule/(pretende pretender VMIP3S0 -)
+    ]
+    grup-verb-inf/modnorule/(escandalizar escandalizar VMN0000 -)
+    coor-sp/modnorule/(pero pero CC -) [
+      Fc(,)/modnorule/(, , Fc -)
+      grup-sp/modnorule/(tras tras SPS00 -) [
+        numero/modnomatch/(6 6 Z -)
+      ]
+    ]
+  ]
+  coor-n/subj/(o o CC -) [
+    sn/co-n/(felaciones felación NCFP000 -) [
+      numero-nopart/quant/(7 7 Z -)
+    ]
+  ]
+  parti-flex/modnomatch/(aburrida aburrir VMP00SF -)
+  F-term/term/(. . Fp -)
+]
+
+grup-verb-inf/top/(Escandalizar escandalizar VMN0000 -) [
+  grup-verb/modnomatch/(pesado pesar VMP00SM -) [
+    VMI*<comenzar>/modnomatch/(comienza comenzar VMIP3S0 -)
+    SPS00(a)/modnomatch/(a a SPS00 -)
+    infaux-ser/modnomatch/(ser ser VSN0000 -)
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(base base NCCS000 -) [
+        grup-sp/modnomatch/(a a SPS00 -) [
+          sn/head/(sexo sexo NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+prep/top/(Por por SPS00 -) [
+  espec-ms/modnorule/(lo el DA0NS0 -)
+  coor-n/modnorule/(o o CC -) [
+    sn/co-n/(demás demás PI0CP000 -)
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(poco poco PI0MS000 -)
+    sn/co-n/(nada nada PI0CS000 -)
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

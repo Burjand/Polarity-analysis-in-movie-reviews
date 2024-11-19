@@ -1,0 +1,44 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(meses mes NCMP000 -) [
+    numero-nopart/quant/(4 4 Z -)
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-verb/modnomatch/(resultar resultar VMN0000 -) [
+      VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+      sn/obj/(grato grato AQ0MS0 -) [
+        indef-ms/modnomatch/(un uno DI0MS0 -)
+        s-a-ms/qual/(visionado visionar VMP00SM -)
+      ]
+    ]
+  ]
+  sn/subj/(semanas semana NCFP000 -) [
+    numero-nopart/quant/(3 3 Z -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(días día NCMP000 -) [
+    numero-nopart/quant/(2 2 Z -)
+  ]
+  sn/obj/(ejemplo ejemplo NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(buen bueno AQ0MS0 -)
+  ]
+  grup-sp/modnomatch/(de de SPS00 -) [
+    sadv/modnomatch/(cómo cómo PT000000 -)
+    sp-de/modnomatch/(de de SPS00 -) [
+      sn/gen/(película película NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+      ]
+    ]
+  ]
+  grup-sp/modnomatch/(sin sin SPS00 -) [
+    sn/head/(recursos recurso NCMP000 -) [
+      espec-mp/espec/(demasiados demasiado DI0MP0 -)
+    ]
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(pretensiones pretensión NCFP000 -) [
+      espec-fp/espec/(menos menos RG -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,33 @@
+grup-verb/top/(sirve servir VMIP3S0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  sn/subj/(Mike_Newell mike_newell NP00000 -)
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(reparto reparto NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(inmejorable inmejorable AQ0CS0 -)
+      s-a-ms/qual/(internacional internacional AQ0CS0 -)
+    ]
+  ]
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(llegar llegar VMN0000 -)
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(corazón corazón NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(historia historia NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          s-a-fs/qual/(romántica romántico AQ0FS0 -) [
+            s-a-fs/modnorule/(hermosa hermoso AQ0FS0 -) [
+              sadv/modnorule/(más más RG -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  sadv/cc/(jamás jamás RG -)
+  parti-flex/modnomatch/(escrita escribir VMP00SF -)
+  F-term/term/(. . Fp -)
+]
+

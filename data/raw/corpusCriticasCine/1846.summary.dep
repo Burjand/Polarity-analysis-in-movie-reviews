@@ -1,0 +1,66 @@
+sn/top/(película película NCFS000 -) [
+  espec-fs/espec/(Una uno DI0FS0 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(en en SPS00 -) [
+    sn/head/(fin fin NCMS000 -) [
+      grup-sp/modnomatch/(como como CS -) [
+        sn/head/(suavona suavona NP00000 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  s-adj/qual/(bienintencionada bienintencionado AQ0FS0 -) [
+    sadv/modnorule/(tan tan RG -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  s-adj/qual/(, , Fc -) [
+    s-a-fs/modnorule/(inocente inocente AQ0CS0 -)
+    s-a-fs/modnorule/(y y CC -) [
+      s-a-fs/modnorule/(aséptica aséptico AQ0FS0 -)
+      s-a-fs/modnorule/(sosegada sosegar VMP00SF -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(película película NCFS000 -) [
+  espec-fs/espec/(Una uno DI0FS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(aburre aburrir VMIP3S0 -) [
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(ve ver VMIP3S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+    ]
+  ]
+  grup-sp/modnomatch/(sin sin SPS00 -) [
+    sn/head/(desagrado desagrado NCMS000 -) [
+      grup-sp/modnomatch/(a a SPS00 -) [
+        sn/head/(minutos minuto NCMP000 -) [
+          espec-mp/espec/(dos 2 Z -) [
+            j-mp/modnorule/(los el DA0MP0 -)
+          ]
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(cine cine NCMS000 -) [
+              espec-ms/espec/(el el DA0MS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(olvida olvidar VMIP3S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+    ]
+  ]
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(salir salir VMN0000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

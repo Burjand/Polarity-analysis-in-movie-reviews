@@ -1,0 +1,32 @@
+s-adj/top/(Solo solo AQ0MS0 -) [
+  grup-sp-inf/modnorule/(por por SPS00 -) [
+    grup-verb-inf/head/(ver ver VMN0000 -)
+  ]
+  grup-sp/modnorule/(a a SPS00 -) [
+    sn/head/(Vincent_Price vincent_price NP00000 -)
+  ]
+  prel/modnorule/(que que PR0CN000 -)
+  sadv/modnorule/(elegantemente elegantemente RG -)
+  coor-vb/modnorule/(y y CC -) [
+    grup-verb/co-v/(degolla degolla VMIP3S0 -)
+    grup-verb/co-v/(decapita decapitar VMIP3S0 -) [
+      sn/obj/(críticos crítico NCMP000 -)
+    ]
+  ]
+  subord/modnorule/(mientras mientras CS -) [
+    grup-verb/modnorule/(vale valer VMIP3S0 -) [
+      sn/subj/(cita cita NCFS000 -) [
+        grup-sp/modnomatch/(a a SPS00 -) [
+          sn/head/(Shakespeare shakespeare NP00000 -)
+        ]
+        Fc(,)/modnomatch/(, , Fc -)
+      ]
+      sadv/cc/(ya ya RG -)
+      sn/obj/(pena pena NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

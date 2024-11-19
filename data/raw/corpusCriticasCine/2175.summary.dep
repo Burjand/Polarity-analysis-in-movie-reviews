@@ -1,0 +1,58 @@
+coor-vb/top/(pero pero CC -) [
+  sn/subj/(gente gente NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+  ]
+  grup-verb/co-v/(amó amar VMIS3S0 -) [
+    sn/obj/(Match_Point match_point NP00000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(sabemos saber VMIP1P0 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(es ser VSIP3S0 -) [
+      sn/subj/(gente gente NCFS000 -) [
+        espec-fs/espec/(esa ese DD0FS0 -)
+      ]
+    ]
+  ]
+  espec-fs/modnomatch/(la el DA0FS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(gusta gustar VMIP3S0 -) [
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(Allen allen NP00000 -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(Woody woody NP00000 -)
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(esta este DD0FS0 -)
+  ]
+  coor-sp/modnomatch/(y y CC -) [
+    Fc(,)/modnorule/(, , Fc -)
+    grup-sp/modnorule/(por por SPS00 -) [
+      sn/head/(principios principio NCMP000 -)
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+    grup-sp/modnorule/(por por SPS00 -) [
+      sn/head/(inteligencia inteligencia NCFS000 -)
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+    grup-sp/modnorule/(por por SPS00 -) [
+      sn/head/(cinismo cinismo NCMS000 -)
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+    grup-sp/modnorule/(por por SPS00 -) [
+      sn/head/(esencia esencia NCFS000 -)
+    ]
+    grup-sp/modnorule/(por por SPS00 -) [
+      sn/head/(calidad calidad NCFS000 -)
+    ]
+  ]
+  sadv/cc/(también también RG -)
+  F-term/term/(. . Fp -)
+]
+

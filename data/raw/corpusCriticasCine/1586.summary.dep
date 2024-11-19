@@ -1,0 +1,52 @@
+grup-verb/top/(poner poner VMN0000 -) [
+  patons/modnomatch/(se se PP3CN000 -)
+  VMI*<volver>/modnomatch/(vuelve volver VMIP3S0 -)
+  SPS00(a)/modnomatch/(a a SPS00 -)
+  sn/subj/(Ray_Loriga ray_loriga NP00000 -)
+  grup-sp/cc/(detrás_de detrás_de SPS00 -) [
+    sn/head/(cámara cámara NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  grup-sp/cc/(después_de después_de SPS00 -) [
+    sn/head/(años año NCMP000 -) [
+      numero-nopart/quant/(diez 10 Z -)
+    ]
+  ]
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(ofrecer ofrecer VMN0000 -) [
+      PP*/modnomatch/(nos nos PP1CP000 -)
+    ]
+    sn/modnomatch/(retrato retrato NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(correcto correcto AQ0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(mística mística NCFS000 -) [
+          espec-fs/espec/(nuestra nuestro DP1FSP -)
+        ]
+      ]
+    ]
+    sn/modnomatch/(mentada mentar VMP00SF -) [
+      espec-fs/espec/(más más RG -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(y y CC -) [
+  grup-verb/co-v/(Retrato retratar VMIP1S0 -) [
+    subord/modnomatch/(que que CS -) [
+      grup-verb/modnorule/(emociona emocionar VMIP3S0 -) [
+        neg/modneg/(no no RN -)
+      ]
+    ]
+  ]
+  grup-verb/co-v/(aporta aportar VMIP3S0 -) [
+    sadv/cc/(tampoco tampoco RG -)
+    sn/obj/(nuevo nuevo AQ0MS0 -) [
+      pindef-ms/modnomatch/(nada nada PI0CS000 -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

@@ -1,0 +1,62 @@
+grup-verb/top/(sé saber VMIP1S0 -) [
+  neg/modneg/(No no RN -)
+  subord/modnomatch/(si si CS -) [
+    grup-verb/modnorule/(es ser VSIP3S0 -) [
+      sn/subj/(Lars_Von_Trier lars_von_trier NP00000 -)
+      sn/obj/(genio genio NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(pero pero CC -)
+  prep/modnomatch/(en en SPS00 -)
+  F-term/term/(? ? Fit -)
+]
+
+grup-verb/top/(hizo hacer VMIS3S0 -) [
+  sn/subj/(Dogville dogville NP00000 -) [
+    F-term/term/(? ? Fit -)
+    grup-verb/modnomatch/(demostró demostrar VMIS3S0 -) [
+      subord/modnomatch/(que que CS -) [
+        grup-verb/modnorule/(es ser VSIP3S0 -) [
+          sn/subj/(arte arte NCCS000 -) [
+            espec-ms/espec/(su su DP3CS0 -)
+          ]
+          sn/obj/(catalizador catalizador NCMS000 -) [
+            espec-ms/espec/(un uno DI0MS0 -)
+            s-a-ms/qual/(firme firme AQ0CS0 -)
+          ]
+          grup-sp/iobj/(para para SPS00 -) [
+            sn/head/(inquietudes inquietud NCFP000 -) [
+              espec-fp/espec/(sus su DP3CP0 -)
+              s-a-fp/qual/(profundas profundo AQ0FP0 -)
+              s-a-fp/qual/(espirituales espiritual AQ0CP0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(trabajo trabajo NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(impecable impecable AQ0CS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(creación creación NCFS000 -)
+      ]
+    ]
+    sn/co-n/(realización realización NCFS000 -) [
+      s-a-fs/qual/(y y CC -) [
+        s-a-fs/modnorule/(conceptual conceptual AQ0CS0 -)
+        s-a-fs/modnorule/(técnica técnico AQ0FS0 -)
+      ]
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  Fc(,)/modnomatch/(, , Fc -)
+  sadv/cc/(además además RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(. . Fp -)
+]
+

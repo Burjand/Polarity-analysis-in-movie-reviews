@@ -1,0 +1,46 @@
+grup-verb/top/(trata tratar VMIP3S0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  grup-sp/cc/(En en SPS00 -) [
+    sn/head/(realidad realidad NCFS000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(cantidad cantidad NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          s-a-fs/qual/(importante importante AQ0CS0 -)
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(cinta cinta NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(pequeña pequeño AQ0FS0 -) [
+        Fe/modnorule/(" " Fe -)
+        Fe/modnorule/(" " Fe -)
+      ]
+    ]
+  ]
+  grup-sp/modnomatch/(a_pesar_de a_pesar_de SPS00 -) [
+    sn/head/(argumento argumento NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(calidad calidad NCFS000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(intérpretes intérprete NCCP000 -) [
+          espec-mp/espec/(los el DA0MP0 -)
+        ]
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(intervienen intervenir VMIP3P0 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(ella él PP3FS000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

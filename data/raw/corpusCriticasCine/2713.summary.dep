@@ -1,0 +1,65 @@
+coor-vb/top/(y y CC -) [
+  grup-verb/co-v/(decir decir VMN0000 -) [
+    VMI*<poder>/modnomatch/(puedo poder VMIP1S0 -)
+    neg/modneg/(No no RN -)
+    conj-subord/modnomatch/(que que CS -)
+    sn/obj/(cinta cinta NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      grup-verb/modnomatch/(encantado encantar VMP00SM -) [
+        vaux/aux/(haya haber VASP1S0 -)
+      ]
+    ]
+    P01CS000(me)/modnomatch/(me me P01CS000 -)
+    Fc(,)/modnomatch/(, , Fc -)
+    subord/modnomatch/(ya_que ya_que CS -) [
+      grup-verb/modnorule/(esperaba esperar VMII1S0 -) [
+        sn/obj/(, , Fc -) [
+          pindef-ms/modnomatch/(algo algo PI0CS000 -)
+          s-a-ms/qual/(fuerte fuerte AQ0CS0 -) [
+            sadv/modnorule/(más más RG -)
+          ]
+          s-a-ms/qual/(y y CC -) [
+            s-a-ms/modnorule/(polémico polémico AQ0MS0 -)
+            s-a-ms/modnorule/(voraz voraz AQ0CS0 -)
+          ]
+        ]
+      ]
+    ]
+    grup-sp/modnomatch/(por por SPS00 -) [
+      sn/head/(parte parte NCFS000 -) [
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(Loriga loriga NP00000 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(encontrado encontrar VMP00SM -) [
+    patons/modnomatch/(me me PP1CS000 -)
+    vaux/aux/(he haber VAIP1S0 -)
+    grup-sp/modnomatch/(con con SPS00 -) [
+      sn/head/(algo algo PI0CS000 -)
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(intenta intentar VMIP3S0 -)
+    ]
+  ]
+  grup-verb-inf/modnomatch/(dar dar VMN0000 -)
+  sn/modnomatch/(cera cera NCFS000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  grup-sp-inf/modnomatch/(sin sin SPS00 -) [
+    grup-verb-inf/head/(conseguir conseguir VMN0000 -) [
+      VMN0000(llegar)/modnomatch/(llegar llegar VMN0000 -)
+      SPS00(a)/modnomatch/(a a SPS00 -)
+      PP*/modnomatch/(lo lo PP3CNA00 -)
+    ]
+  ]
+  grup-sp/modnomatch/(en en SPS00 -) [
+    sn/head/(momento momento NCMS000 -) [
+      espec-ms/espec/(ningún ninguno DI0MS0 -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

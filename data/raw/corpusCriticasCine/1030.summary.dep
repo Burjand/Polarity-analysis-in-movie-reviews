@@ -1,0 +1,94 @@
+subord/top/(Si si CS -) [
+  grup-verb/modnorule/(habeis habeis VMSI2P0 -)
+  parti-flex/modnorule/(subido subir VMP00SM -)
+  sn/modnorule/(escaleras escalera NCFP000 -) [
+    grup-sp/modnomatch/(a a SPS00 -) [
+      sn/head/(galope galope NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        grup-sp/modnomatch/(con con SPS00 -) [
+          sn/head/(martilleo martilleo NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+            grup-sp/modnomatch/(en en SPS00 -) [
+              sn/head/(cabeza cabeza NCFS000 -) [
+                espec-fs/espec/(la el DA0FS0 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  prep/modnorule/(de de SPS00 -)
+  espec-ms/modnorule/(el el DA0MS0 -)
+  grup-verb/modnorule/(tanan tanan VMIP3P0 -)
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(tananan tananan VMIP3P0 -) [
+    sp-de/modnomatch/(de de SPS00 -) [
+      sn/gen/(banda banda NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        s-a-fs/qual/(sonora sonoro AQ0FS0 -) [
+          s-a-fs/modnorule/(original original AQ0CS0 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(disfrutareis disfrutar VMSF2P0 -) [
+    grup-sp/modnomatch/(como como CS -) [
+      sn/head/(marranos marrano NCMP000 -)
+    ]
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(charco charco NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+coor-vb/top/(Y y CC -) [
+  conj-subord/modnomatch/(si si CS -)
+  neg/modnomatch/(no no RN -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(tendreis tendreis VMSI2P0 -) [
+    sn/obj/(drama drama NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(deportivo deportivo AQ0MS0 -)
+    ]
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  espec-mp/modnomatch/(esos ese DD0MP0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(hace hacer VMIP3S0 -)
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(odie odiar VMSP1S0 -) [
+      sn/subj/(sector sector NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        s-a-ms/qual/(femenino femenino AQ0MS0 -)
+      ]
+      grup-sp/iobj/(a a SPS00 -) [
+        sn/head/(sector sector NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          s-a-ms/qual/(masculino masculino AQ0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+grup-verb/top/(conseguido conseguir VMP00SM -) [
+  vaux/aux/(ha haber VAIP3S0 -)
+  sadv/cc/(Desde_luego desde_luego RG -) [
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  sn/subj/(Stallone stallone NP00000 -)
+  grup-verb-inf/modnomatch/(emocionar emocionar VMN0000 -) [
+    VMN0000(volver)/modnomatch/(volver volver VMN0000 -)
+    SPS00(a)/modnomatch/(a a SPS00 -)
+    PP*/modnomatch/(me me PP1CS000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

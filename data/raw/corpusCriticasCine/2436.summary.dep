@@ -1,0 +1,32 @@
+prep/top/(A a SPS00 -) [
+  espec-ms/modnorule/(mi mi DP1CSS -)
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(provocado provocar VMP00SM -) [
+    patons/modnomatch/(me me PP1CS000 -)
+    vaux/aux/(ha haber VAIP3S0 -)
+    sn/subj/(verdad verdad NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      Fc(,)/modnomatch/(, , Fc -)
+    ]
+    sn/obj/(sorpresa sorpresa NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(agradable agradable AQ0CS0 -)
+    ]
+  ]
+  grup-verb-inf/modnorule/(saber saber VMN0000 -)
+  subord/modnorule/(que que CS -) [
+    grup-verb/modnorule/(tiene tener VMIP3S0 -) [
+      sadv/cc/(todavía todavía RG -)
+      sn/subj/(saga saga NCFS000 -) [
+        espec-fs/espec/(esta este DD0FS0 -)
+      ]
+      sn/obj/(algo algo PI0CS000 -)
+    ]
+  ]
+  prel/modnorule/(que que PR0CN000 -)
+  grup-verb-inf/modnorule/(ofrecer ofrecer VMN0000 -) [
+    PP*/modnomatch/(nos nos PP1CP000 -)
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

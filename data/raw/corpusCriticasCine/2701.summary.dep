@@ -1,0 +1,59 @@
+grup-verb/top/(queda quedar VMIP3S0 -) [
+  patons/modnomatch/(me me PP1CS000 -)
+  neg/modneg/(No no RN -)
+  sn/obj/(remedio remedio NCMS000 -) [
+    espec-ms/espec/(más más RG -)
+  ]
+  conj-subord/modnomatch/(que que CS -)
+  sn/obj/(NO no NP00000 -)
+  grup-verb-inf/modnomatch/(alquilar alquilar VMN0000 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb-inf/modnomatch/(comprar comprar VMN0000 -)
+  coord/modnomatch/(o o CC -)
+  grup-verb-inf/modnomatch/(bajar bajar VMN0000 -) [
+    PP*/modnomatch/(me me PP1CS000 -)
+  ]
+  sn/obj/(parte parte NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    s-a-fs/qual/(primera 1 AO0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Los los NP00000 -)
+    ]
+  ]
+  sn/obj/(Fantásticos fantásticos NP00000 -) [
+    numero-nopart/quant/(4 4 Z -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(y y CC -) [
+  sn/subj/(Suerte suerte NCFS000 -) [
+    subord/modnomatch/(que que CS -) [
+      grup-verb/modnorule/(es ser VSIP3S0 -) [
+        sn/subj/(segunda 2 AO0FS0 -) [
+          pdem-fs/modnomatch/(esta este PD0FS000 -)
+        ]
+        sadv/cc/(mínimamente mínimamente RG -)
+      ]
+    ]
+    parti-flex/modnomatch/(entretenida entretener VMP00SF -)
+  ]
+  grup-verb/co-v/(tiene tener VMIP3S0 -) [
+    sn/obj/(momentos momento NCMP000 -) [
+      espec-mp/espec/(algunos alguno DI0MP0 -)
+      s-a-mp/qual/(buenos bueno AQ0MP0 -)
+    ]
+  ]
+  F-no-c/modnomatch/(( ( Fpa -)
+  grup-verb/co-v/(son ser VSIP3P0 -) [
+    sn/subj/(resto resto NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  s-adj/modnomatch/(vergonzosos vergonzoso AQ0MP0 -) [
+    sadv/modnorule/(verdaderamente verdaderamente RG -)
+  ]
+  F-no-c/modnomatch/() ) Fpt -)
+  F-term/modnomatch/(. . Fp -)
+]
+

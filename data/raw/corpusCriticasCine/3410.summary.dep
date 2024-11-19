@@ -1,0 +1,68 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(peor peor AQ0CS0 -) [
+    j-ms/modnomatch/(Lo el DA0NS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(experimento experimento NCMS000 -) [
+        espec-ms/espec/(todo todo DI0MS0 -) [
+          j-ms/modnorule/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(enfrascar enfrascar VMN0000 -) [
+      patons/modnomatch/(se se PP3CN000 -)
+      VMI*<comenzar>/modnomatch/(comienza comenzar VMIP3S0 -)
+      SPS00(a)/modnomatch/(a a SPS00 -)
+      sn/subj/(pasado pasado NCMS000 -)
+      sn/subj/(ecuador ecuador NCMS000 -) [
+        espec-ms/espec/(su su DP3CS0 -)
+      ]
+    ]
+  ]
+  coor-sp/modnomatch/(y y CC -) [
+    grup-sp/modnorule/(en en SPS00 -) [
+      sn/head/(dinámica dinámica NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        s-a-fs/qual/(tediosa tedioso AQ0FS0 -)
+      ]
+    ]
+    grup-sp/modnorule/(con con SPS00 -) [
+      sn/head/(brío brío NCMS000 -) [
+        espec-ms/espec/(poco poco DI0MS0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(dirección dirección NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(sosa soso AQ0FS0 -)
+    coor-sp/modnomatch/(y y CC -) [
+      grup-sp/modnorule/(sin sin SPS00 -) [
+        sn/head/(pasión pasión NCFS000 -) [
+          grup-verb/modnomatch/(sea ser VSSP1S0 -) [
+            sn/subj/(slasher slasher NP00000 -) [
+              espec-ms/espec/(un uno DI0MS0 -)
+              s-a-ms/qual/(buen bueno AQ0MS0 -)
+            ]
+            sadv/cc/(mortalmente mortalmente RG -)
+          ]
+        ]
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(hacen hacer VMIP3P0 -)
+    ]
+  ]
+  conj-subord/modnomatch/(que que CS -)
+  espec-ms/modnomatch/(lo el DA0NS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(haber haber VMN0000 -) [
+      VMI*<poder>/modnomatch/(podría poder VMIC1S0 -)
+    ]
+  ]
+  parti-ser/modnomatch/(sido ser VSP00SM -)
+  parti-flex/modnomatch/(aburrido aburrir VMP00SM -)
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,58 @@
+grup-verb/top/(dejado dejar VMP00SM -) [
+  patons/modnomatch/(nos nos PP1CP000 -)
+  vaux/aux/(ha haber VAIP3S0 -)
+  sn/subj/(regreso regreso NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Hannibal hannibal NP00000 -) [
+        w-ms/modnomatch/(the the NP00000 -)
+      ]
+    ]
+    sn/modnomatch/(Cannibal cannibal NP00000 -) [
+      Fc(,)/modnomatch/(, , Fc -)
+      grup-sp/modnomatch/(entre entre SPS00 -) [
+        sn/head/(nosotros nosotros PP1MP000 -) [
+          grup-sp/modnomatch/(como como CS -) [
+            sn/head/(Aníbal_el_Caníbal aníbal_el_caníbal NP00000 -)
+          ]
+        ]
+      ]
+    ]
+    sadv/modnomatch/(popularmente popularmente RG -)
+    parti-flex/modnomatch/(conocido conocer VMP00SM -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(fríos frío NCMP000 -)
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(aburrimiento aburrimiento NCMS000 -) [
+  espec-ms/espec/(Un uno DI0MS0 -)
+  s-a-ms/qual/(notable notable AQ0CS0 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  parti-flex/modnomatch/(salpicado salpicar VMP00SM -)
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(cuajarones cuajarón NCMP000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(sangre sangre NCFS000 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(dejando dejar VMG0000 -) [
+      VMI*<terminar>/modnomatch/(termina terminar VMIP3S0 -)
+      sn/obj/(mal mal NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        n-ms/modnomatch/(sabor sabor NCMS000 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(boca boca NCFS000 -)
+        ]
+      ]
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  sadv/modnomatch/(sinceramente sinceramente RG -)
+  F-term/term/(. . Fp -)
+]
+

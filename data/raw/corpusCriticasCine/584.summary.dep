@@ -1,0 +1,78 @@
+grup-verb/top/(sabe saber VMIP3S0 -) [
+  sn/subj/(guión guión NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+    s-a-ms/qual/(clásico clásico AQ0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Hollywood hollywood NP00000 -)
+    ]
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(basta bastar VMIP3S0 -)
+  ]
+  grup-sp-inf/modnomatch/(con con SPS00 -) [
+    grup-verb-inf/head/(concentrar concentrar VMN0000 -)
+    sn/modnomatch/(pólvora pólvora NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(momentos momento NCMP000 -) [
+      numero-nopart/quant/(tres 3 Z -)
+      n-fs/modnomatch/(clave clave NCFS000 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(giros giro NCMP000 -) [
+    espec-mp/espec/(dos 2 Z -) [
+      j-mp/modnorule/(los el DA0MP0 -)
+    ]
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(acto acto NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        s-a-ms/qual/(y y CC -) [
+          s-a-ms/modnorule/(primer 1 AO0MS0 -)
+          s-a-ms/modnorule/(segundo 2 AO0MS0 -)
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  coord/modnomatch/(y y CC -)
+  espec-ms/modnomatch/(el el DA0MS0 -)
+  sn/obj/(final final NCFS000 -)
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(pero pero CC -) [
+  sn/subj/(olvido olvido NCMS000 -) [
+    espec-ms/espec/(Ese ese DD0MS0 -)
+  ]
+  grup-verb/co-v/(puede poder VMIP3S0 -) [
+    subord/modnomatch/(que que CS -) [
+      grup-verb/modnorule/(explique explicar VMSP1S0 -) [
+        sn/obj/(taquilla taquilla NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(resta restar VMM02S0 -) [
+    patons/modnomatch/(le le PP3CSD00 -)
+    neg/modneg/(no no RN -)
+    sn/obj/(apice apice NCCS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(valor valor NCMS000 -)
+      ]
+    ]
+    grup-sp/iobj/(a a SPS00 -) [
+      sn/head/(película película NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        s-a-fs/qual/(descomunal descomunal AQ0CS0 -)
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

@@ -1,0 +1,34 @@
+grup-verb/top/(fueron ser VSIS3P0 -) [
+  grup-sp/cc/(En en SPS00 -) [
+    sn/head/(ocasiones ocasión NCFP000 -) [
+      espec-fp/espec/(muchas mucho DI0FP0 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(partes parte NCFP000 -) [
+    espec-fp/espec/(las el DA0FP0 -)
+    s-a-fp/qual/(segundas 2 AO0FP0 -)
+  ]
+  sadv/cc/(nunca nunca RG -)
+  s-adj/att/(buenas bueno AQ0FP0 -)
+  coor-sp/modnomatch/(pero pero CC -) [
+    Fc(,)/modnorule/(, , Fc -)
+    grup-sp/modnorule/(a a SPS00 -) [
+      sn/head/(veces vez NCFP000 -) [
+        grup-verb/modnomatch/(hay haber VMIP3S0 -)
+      ]
+    ]
+  ]
+  conj-subord/modnomatch/(que que CS -)
+  grup-verb-inf/modnomatch/(probar probar VMN0000 -)
+  grup-sp-inf/iobj/(a a SPS00 -) [
+    grup-verb-inf/head/(ver ver VMN0000 -)
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(sale salir VMIP3S0 -) [
+      sn/subj/(tal tal PD0CS000 -)
+      F-no-c/modnomatch/(... ... Fs -)
+    ]
+  ]
+]
+

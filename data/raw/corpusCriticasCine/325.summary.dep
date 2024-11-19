@@ -1,0 +1,62 @@
+sn/top/(película película NCFS000 -) [
+  s-a-fs/qual/(Larga largo AQ0FS0 -)
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(animación animación NCFS000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(factoría factoría NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          w-fs/modnomatch/(Pixar pixar NP00000 -)
+        ]
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(sería ser VSIC1S0 -) [
+      sn/obj/(obra obra NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        s-a-fs/qual/(maestra maestro AQ0FS0 -)
+      ]
+    ]
+  ]
+  subord/modnomatch/(si si CS -) [
+    grup-verb/modnorule/(fuese ser VSSI1S0 -) [
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  subord/modnomatch/(porque porque CS -) [
+    grup-verb/modnorule/(es ser VSIP3S0 -) [
+      sn/obj/(obra obra NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        s-a-fs/qual/(enésima enésimo AO0FS0 -)
+        s-a-fs/qual/(maestra maestro AQ0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(factoría factoría NCFS000 -) [
+            espec-fs/espec/(la el DA0FS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(pero pero CC -) [
+  grup-verb/co-v/(gustado gustar VMP00SM -) [
+    patons/modnomatch/(Me me PP1CS000 -)
+    vaux/aux/(ha haber VAIP3S0 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(matar matar VMN0000 -) [
+    patons/modnomatch/(me me PP1CS000 -)
+    VMI*<llegar>/modnomatch/(llega llegar VMIP3S0 -)
+    SPS00(a)/modnomatch/(a a SPS00 -)
+    neg/modneg/(no no RN -)
+    sp-de/modnomatch/(de de SPS00 -) [
+      sn/gen/(ilusión ilusión NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

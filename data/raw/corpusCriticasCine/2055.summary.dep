@@ -1,0 +1,70 @@
+grup-verb/top/(mantiene mantener VMIP3S0 -) [
+  patons/modnomatch/(te te PP2CS000 -)
+  sn/subj/(historia historia NCFS000 -) [
+    espec-fs/espec/(Una uno DI0FS0 -)
+    prel/modnomatch/(que que PR0CN000 -)
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-sp/modnomatch/(en en SPS00 -) [
+      sn/head/(ejercicio ejercicio NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        s-a-ms/qual/(perfecto perfecto AQ0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(sapiencia sapiencia NCFS000 -) [
+            s-a-fs/qual/(cinematográfica cinematográfico AQ0FS0 -)
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  parti-flex/modnomatch/(imantado imantar VMP00SM -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(butaca butaca NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  parti-flex/modnomatch/(embebido embeber VMP00SM -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(pantalla pantalla NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(Y y CC -) [
+  Fc(,)/modnomatch/(, , Fc -)
+  sadv/modnomatch/(después después RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  prep/modnomatch/(a a SPS00 -)
+  espec-ms/modnomatch/(el el DA0MS0 -)
+  grup-verb-inf/modnomatch/(salir salir VMN0000 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(cuando cuando CS -) [
+    grup-verb/modnorule/(comentas comentar VMIP2S0 -) [
+      sn/obj/(película película NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+    F-no-c/modnorule/(... ... Fs -)
+    F-no-c/modnorule/(¿ ¿ Fia -)
+  ]
+  grup-verb/co-v/(pasado pasar VMP00SM -) [
+    vaux/aux/(ha haber VAIP3S0 -)
+    sn/subj/(qué qué PT0CN000 -)
+    sadv/cc/(realmente realmente RG -)
+  ]
+  prep/modnomatch/(en en SPS00 -)
+  espec-fp/modnomatch/(las el DA0FP0 -)
+  data/modnomatch/(dos_horas_y_media [??:??/??/??:2.30:??] W -)
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(proyección proyección NCFS000 -)
+  ]
+  F-term/modnomatch/(? ? Fit -)
+]
+
+sn/top/(Nada nada PI0CS000 -) [
+  F-term/term/(. . Fp -)
+]
+

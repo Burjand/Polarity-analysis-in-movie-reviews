@@ -1,0 +1,57 @@
+coor-vb/top/(y y CC -) [
+  sn/subj/(Tremenda tremenda NP00000 -)
+  grup-verb/co-v/(muestra mostrar VMIP3S0 -) [
+    sp-de/modnomatch/(de de SPS00 -) [
+      sn/gen/(cine cine NCMS000 -) [
+        s-a-ms/qual/(buen bueno AQ0MS0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(interesa interesar VMM02S0 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(deja dejar VMM02S0 -) [
+    sn/obj/(sabor sabor NCMS000 -) [
+      s-a-ms/qual/(buen bueno AQ0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(boca boca NCFS000 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(dejando dejar VMG0000 -) [
+    VMI*<terminar>/modnomatch/(termina terminar VMIP3S0 -)
+    grup-sp/cc/(a a SPS00 -) [
+      sn/head/(espectador espectador NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        s-a-ms/qual/(sorprendido sorprender VMP00SM -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(mas mas CC -)
+  prel/modnomatch/(que que PR0CN000 -)
+  sn/modnomatch/(nada nada PI0CS000 -) [
+    grup-sp/modnomatch/(por por SPS00 -) [
+      sn/head/(trucos truco NCMP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+        s-a-mp/qual/(tremendos tremendo AQ0MP0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(magia magia NCFS000 -) [
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(personaje personaje NCMS000 -) [
+                espec-ms/espec/(el el DA0MS0 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(interpreta interpretar VMIP3S0 -)
+    ]
+  ]
+  sn/modnomatch/(Edward_Norton edward_norton NP00000 -)
+  F-term/modnomatch/(. . Fp -)
+]
+

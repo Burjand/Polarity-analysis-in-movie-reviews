@@ -1,0 +1,42 @@
+grup-verb/top/(repito repetir VMIP1S0 -) [
+  sadv/cc/(Nunca nunca RG -) [
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  sadv/cc/(nunca nunca RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/modnomatch/(visto ver VMP00SM -) [
+    vaux/aux/(he haber VAIP1S0 -)
+    sn/obj/(película película NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(mala malo AQ0FS0 -) [
+        sadv/modnorule/(más más RG -)
+      ]
+    ]
+  ]
+  conj-subord/modnomatch/(que que CS -)
+  sn/obj/(esta este PD0FS000 -)
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(parecen parecer VMIP3P0 -) [
+  patons/modnomatch/(me me PP1CS000 -)
+  sn/subj/(chistes chiste NCMP000 -) [
+    espec-mp/espec/(Los el DA0MP0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(hace hacer VMIP3S0 -)
+    ]
+  ]
+  neg/modneg/(no no RN -)
+  s-adj/modnomatch/(graciosos gracioso AQ0MP0 -)
+  subord/modnomatch/(mientras_que mientras_que CS -) [
+    grup-verb/modnorule/(parecen parecer VMIP3P0 -) [
+      patons/modnomatch/(me me PP1CS000 -)
+      sn/subj/(situaciones situación NCFP000 -) [
+        espec-fp/espec/(las el DA0FP0 -)
+      ]
+    ]
+  ]
+  s-adj/modnomatch/(patéticas patético AQ0FP0 -)
+  F-term/term/(. . Fp -)
+]
+

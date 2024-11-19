@@ -1,0 +1,26 @@
+grup-sp-inf/top/(Pese_a pese_a SPS00 -) [
+  grup-verb-inf/head/(tener tener VMN0000 -)
+  sn/modnomatch/(elementos elemento NCMP000 -) [
+    s-a-mp/qual/(interesantes interesante AQ0CP0 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/modnomatch/(sobra sobrar VMIP3S0 -) [
+    patons/modnomatch/(le le PP3CSD00 -)
+    coor-n/obj/(y y CC -) [
+      sn/co-n/(hora hora NCFS000 -) [
+        s-a-fs/qual/(media medio AQ0FS0 -)
+      ]
+      sn/co-n/(enredos enredo NCMP000 -) [
+        espec-mp/espec/(demasiados demasiado DI0MP0 -)
+        s-a-mp/qual/(pequeños pequeño AQ0MP0 -)
+        s-a-mp/qual/(secundarios secundario AQ0MP0 -)
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(estropean estropear VMIP3P0 -) [
+        patons/modnomatch/(la lo PP3FSA00 -)
+      ]
+    ]
+  ]
+]
+

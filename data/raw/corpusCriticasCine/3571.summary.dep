@@ -1,0 +1,59 @@
+subord/top/(Mientras mientras CS -) [
+  grup-verb/modnorule/(filman filmar VMIP3P0 -) [
+    sn/subj/(tipos tipo NCMP000 -)
+    grup-sp/modnomatch/(como como CS -) [
+      sn/head/(Michael_Winterbotton michael_winterbotton NP00000 -)
+    ]
+    sn/obj/(películas película NCFP000 -) [
+      s-a-fp/qual/(excelentes excelente AQ0CP0 -)
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(pega pegar VMIP3S0 -) [
+    sn/subj/(director director NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(guardia guardia NCCS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          s-a-fs/qual/(vieja viejo AQ0FS0 -)
+        ]
+      ]
+      Fc(,)/modnomatch/(, , Fc -)
+    ]
+    sn/obj/(tiros tiro NCMP000 -) [
+      s-a-mp/qual/(fallidos fallir VMP00PM -)
+    ]
+    grup-sp/modnomatch/(con con SPS00 -) [
+      sn/head/(pólvora pólvora NCFS000 -) [
+        s-a-fs/qual/(mojada mojar VMP00SF -)
+      ]
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  subord/modnorule/(cuando cuando CS -) [
+    grup-verb/modnorule/(cuenta contar VMIP3S0 -)
+  ]
+  grup-sp/modnorule/(con con SPS00 -) [
+    sn/head/(recursos recurso NCMP000 -) [
+      espec-mp/espec/(todos todo DI0MP0 -) [
+        j-mp/modnorule/(los el DA0MP0 -)
+      ]
+    ]
+  ]
+  coor-n/modnorule/(y y CC -) [
+    sn/co-n/(medios medio NCMP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+    ]
+  ]
+  grup-sp-inf/modnorule/(para para SPS00 -) [
+    grup-verb-inf/head/(hacer hacer VMN0000 -)
+    sn/modnomatch/(cine cine NCMS000 -) [
+      s-a-ms/qual/(buen bueno AQ0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(verdad verdad NCFS000 -)
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

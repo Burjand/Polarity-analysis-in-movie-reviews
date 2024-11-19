@@ -1,0 +1,49 @@
+coor-vb/top/(y y CC -) [
+  grup-verb/co-v/(tenemos tener VMIP1P0 -) [
+    neg/modneg/(No no RN -)
+    sn/obj/(dosis dosis NCFN000 -) [
+      s-a-fp/qual/(grandes grande AQ0CP0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(violencia violencia NCFS000 -)
+      ]
+    ]
+  ]
+  grup-verb/co-v/(tiene tener VMIP3S0 -) [
+    sn/obj/(carga carga NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(fuerte fuerte AQ0CS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(moralina moralina NCFS000 -)
+      ]
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(viene venir VMIP3S0 -) [
+          neg/modneg/(no no RN -)
+        ]
+      ]
+    ]
+  ]
+  sadv/modnomatch/(mal mal RG -)
+  grup-sp/modnomatch/(en en SPS00 -) [
+    sn/head/(tiempos tiempo NCMP000 -) [
+      espec-mp/espec/(estos este DD0MP0 -)
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(corren correr VMIP3P0 -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+coor-vb/top/(Y y CC -) [
+  sadv/modnomatch/(posiblemente posiblemente RG -)
+  prep/modnomatch/(a a SPS00 -)
+  espec-mp/modnomatch/(los el DA0MP0 -)
+  grup-verb/co-v/(encante encantar VMSP1S0 -) [
+    patons/modnomatch/(les les PP3CPD00 -)
+    sn/subj/(peques peque NCCP000 -) [
+      espec-mp/espec/(más más RG -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

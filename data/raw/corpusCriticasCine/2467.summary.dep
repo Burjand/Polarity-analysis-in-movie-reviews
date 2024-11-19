@@ -1,0 +1,60 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  grup-sp/modnomatch/(Con con SPS00 -) [
+    sn/head/(pareja pareja NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(protagonista protagonista AQ0CS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(lujo lujo NCMS000 -) [
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(comedias comedia NCFP000 -) [
+              espec-fp/espec/(las el DA0FP0 -)
+              s-a-fp/qual/(mejores mejor AQ0CP0 -)
+              sp-de/mod/(de de SPS00 -) [
+                sn/gen/(año año NCMS000 -) [
+                  espec-ms/espec/(el el DA0MS0 -)
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(desarrollo desarrollo NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(coherente coherente AQ0CS0 -)
+    s-a-ms/qual/(argumental argumental AQ0CS0 -)
+    coor-sp/modnomatch/(y y CC -) [
+      Fc(,)/modnorule/(, , Fc -)
+      grup-sp/modnorule/(con con SPS00 -) [
+        sn/head/(guiños guiño NCMP000 -) [
+          espec-mp/espec/(sus su DP3CP0 -)
+          s-a-mp/qual/(frecuentes frecuente AQ0CP0 -)
+          grup-sp/modnomatch/(a a SPS00 -) [
+            sn/head/(títulos título NCMP000 -) [
+              s-a-mp/qual/(míticos mítico AQ0MP0 -)
+              sp-de/mod/(de de SPS00 -) [
+                sn/gen/(arte arte NCCS000 -) [
+                  espec-ms/espec/(el el DA0MS0 -)
+                  s-a-ms/qual/(séptimo 7 AO0MS0 -)
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(Hors_de_Prix hors_de_prix NP00000 -) [
+    Fe/modnomatch/(" " Fe -)
+    Fe/modnomatch/(" " Fe -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sadv/cc/(sin_duda_alguna sin_duda_alguna RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  espec-fs/modnomatch/(una uno DI0FS0 -)
+  F-term/term/(. . Fp -)
+]
+

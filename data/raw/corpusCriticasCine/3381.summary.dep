@@ -1,0 +1,44 @@
+grup-verb/top/(sido ser VSP00SM -) [
+  vaux/aux/(ha haber VAIP3S0 -)
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(Su su DP3CS0 -)
+    s-a-fs/qual/(última último AO0FS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(movimiento movimiento NCMS000 -) [
+    espec-ms/espec/(su su DP3CS0 -)
+    s-a-ms/qual/(último último AO0MS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(requiem requiem NCMS000 -) [
+    espec-ms/espec/(su su DP3CS0 -)
+  ]
+  sn/obj/(Saraband saraband NP00000 -)
+  F-term/term/(. . Fp -)
+]
+
+relatiu/top/(donde donde PR000000 -) [
+  prep/modnorule/(En en SPS00 -)
+  grup-verb/modnorule/(siente sentir VMIP3S0 -) [
+    morfema-verbal/modnomatch/(se se P0000000 -)
+    sn/subj/(música música NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  prep/modnorule/(en en SPS00 -)
+  espec-fs/modnorule/(la el DA0FS0 -)
+  subord/modnorule/(que que PR0CN000 -) [
+    grup-verb/modnorule/(encaja encajar VMIP3S0 -) [
+      sn/subj/(todo todo PI0MS000 -)
+      grup-sp/modnomatch/(como como CS -) [
+        sn/head/(sinfonía sinfonía NCFS000 -) [
+          espec-fs/espec/(una uno DI0FS0 -)
+          s-a-fs/qual/(gran gran AQ0CS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

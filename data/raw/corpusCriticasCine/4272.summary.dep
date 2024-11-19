@@ -1,0 +1,33 @@
+sn/top/(monstruo monstruo NCMS000 -) [
+  espec-ms/espec/(Un uno DI0MS0 -)
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(cine cine NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/modnomatch/(película película NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(perfecta perfecto AQ0FS0 -) [
+      sadv/modnorule/(casi casi RG -)
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(queda quedar VMIP3S0 -) [
+        morfema-verbal/modnomatch/(se se P0000000 -)
+      ]
+    ]
+    grup-sp/modnomatch/(en en SPS00 -) [
+      sn/head/(retina retina NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        n-fp/modnomatch/(horas hora NCFP000 -)
+      ]
+    ]
+  ]
+  grup-sp-inf/modnomatch/(después_de después_de SPS00 -) [
+    grup-verb-inf/head/(haber haber VMN0000 -)
+  ]
+  parti-ser/modnomatch/(sido ser VSP00SM -)
+  parti-flex/modnomatch/(vista ver VMP00SF -)
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,76 @@
+grup-verb/top/(Segunda segundar VMM02S0 -) [
+  sn/obj/(parte parte NCFS000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(trilogía trilogía NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+  ]
+  grup-sp/modnomatch/(sobre sobre SPS00 -) [
+    sn/head/(tipos tipo NCMP000 -) [
+      espec-mp/espec/(unos uno DI0MP0 -)
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(mantener mantener VMN0000 -) [
+      VMI*<querer>/modnomatch/(quieren querer VMIP3P0 -)
+    ]
+  ]
+  sn/obj/(nivel nivel NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(fuerzas fuerza NCFP000 -)
+    ]
+  ]
+  grup-sp/modnomatch/(entre entre SPS00 -) [
+    sn/head/(bien bien NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+    CC(y)/modnomatch/(y y CC -)
+    sn/head/(mal mal NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(y y CC -) [
+  grup-verb/co-v/(Carece carecer VMIP3S0 -) [
+    sp-de/modnomatch/(de de SPS00 -) [
+      sn/gen/(acción acción NCFS000 -)
+    ]
+  ]
+  grup-verb/co-v/(tiene tener VMIP3S0 -) [
+    sn/obj/(guión guión NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(enrevesado enrevesado AQ0MS0 -) [
+        sadv/modnorule/(demasiado demasiado RG -)
+      ]
+    ]
+  ]
+  prep/modnomatch/(para para SPS00 -)
+  espec-ms/modnomatch/(lo el DA0NS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(espera esperar VMIP3S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+    ]
+  ]
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(películas película NCFP000 -) [
+      espec-fp/espec/(estas este DD0FP0 -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+prep/top/(De de SPS00 -) [
+  espec-fp/modnorule/(las el DA0FP0 -)
+  subord/modnorule/(que que PR0CN000 -) [
+    grup-verb/modnorule/(necesitan necesitar VMIP3P0 -)
+  ]
+  sn/modnorule/(explicación explicación NCFS000 -) [
+    s-a-fs/qual/(posterior posterior AQ0CS0 -)
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

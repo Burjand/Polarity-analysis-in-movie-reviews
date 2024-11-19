@@ -1,0 +1,51 @@
+grup-verb/top/(cuenta contar VMIP3S0 -) [
+  sn/subj/(comedia comedia NCFS000 -) [
+    s-a-fs/qual/(Excelente excelente AQ0CS0 -)
+    s-a-fs/qual/(española español AQ0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(fines fin NCMP000 -) [
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(noventa 90 Z -) [
+            j-mp/modnomatch/(los el DA0MP0 -)
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(El el NP00000 -)
+  sn/subj/(milagro milagro NCMS000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(P._Tinto p._tinto NP00000 -)
+    ]
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(caras cara NCFP000 -) [
+      espec-fp/espec/(las el DA0FP0 -)
+      s-a-fp/qual/(mejores mejor AQ0CP0 -)
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(vi ver VMIS1S0 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(tiempo tiempo NCMS000 -) [
+      espec-ms/espec/(mucho mucho DI0MS0 -)
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(cine cine NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  coor-n/obj/(y y CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(actuaciones actuación NCFP000 -) [
+      s-a-fp/qual/(excelentes excelente AQ0CP0 -) [
+        sadv/modnorule/(además además RG -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

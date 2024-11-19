@@ -1,0 +1,53 @@
+coor-vb/top/(pero pero CC -) [
+  grup-verb/co-v/(Tiene tener VMIP3S0 -) [
+    sn/obj/(fallos fallo NCMP000 -) [
+      espec-mp/espec/(sus su DP3CP0 -)
+      s-a-mp/qual/(gordos gordo AQ0MP0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(valoro valorar VMIP1S0 -)
+  sadv/modnomatch/(mucho mucho RG -)
+  conj-subord/modnomatch/(que que CS -)
+  Fc(,)/modnomatch/(, , Fc -)
+  prep/modnomatch/(a a SPS00 -)
+  espec-ms/modnomatch/(el el DA0MS0 -)
+  sadv/modnomatch/(menos menos RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(entretenido entretener VMP00SM -) [
+    patons/modnomatch/(me me PP1CS000 -)
+    vaux/aux/(haya haber VASP1S0 -)
+    sn/obj/(suficiente suficiente AQ0CS0 -) [
+      j-ms/modnomatch/(lo el DA0NS0 -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+vaux/top/(Estoy estar VAIP1S0 -) [
+  sadv/modnorule/(mínimamente mínimamente RG -)
+  parti-flex/modnorule/(satisfecho satisfacer VMP00SM -)
+  grup-sp/modnorule/(con con SPS00 -) [
+    sn/head/(ella él PP3FS000 -)
+  ]
+  coor-vb/modnorule/(pero pero CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-verb/co-v/(remediar remediar VMN0000 -) [
+      VMI*<poder>/modnomatch/(puedo poder VMIP1S0 -)
+      neg/modneg/(no no RN -)
+      sn/obj/(regustillo regusto NCMS00D -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        s-a-ms/qual/(cierto cierto AQ0MS0 -)
+        s-a-ms/qual/(agridulce agridulce AQ0CS0 -)
+        subord/modnomatch/(que que PR0CN000 -) [
+          grup-verb/modnorule/(dejado dejar VMP00SM -) [
+            patons/modnomatch/(me me PP1CS000 -)
+            vaux/aux/(ha haber VAIP3S0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

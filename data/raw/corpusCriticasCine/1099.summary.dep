@@ -1,0 +1,41 @@
+grup-verb/top/(sugirió sugerir VMIS3S0 -) [
+  sn/subj/(crítico crítico NCMS000 -) [
+    espec-ms/espec/(Nuestro nuestro DP1MSP -)
+    s-a-ms/qual/(pequeño pequeño AQ0MS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  grup-verb-inf/modnomatch/(grabar grabar VMN0000 -) [
+    PP*/modnomatch/(la lo PP3FSA00 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(vídeo vídeo NCMS000 -)
+  ]
+  prep/modnomatch/(a a SPS00 -)
+  espec-ms/modnomatch/(el el DA0MS0 -)
+  grup-verb-inf/modnomatch/(finalizar finalizar VMN0000 -)
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(ver ver VMN0000 -) [
+      PP*/modnomatch/(la lo PP3FSA00 -)
+    ]
+  ]
+  neg/modneg/(no no RN -)
+  sadv/cc/(menos menos RG -) [
+    SPS00(de)/modnorule/(de de SPS00 -)
+    sn/modnorule/(veces vez NCFP000 -) [
+      numero-nopart/quant/(1000 1000 Z -)
+      grup-verb/modnomatch/(calificaré calificar VMIF1S0 -) [
+        patons/modnomatch/(la lo PP3FSA00 -)
+        grup-sp/modnomatch/(de de SPS00 -) [
+          s-a-ms/modnomatch/(excelente excelente AQ0CS0 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(. . Fp -)
+]
+

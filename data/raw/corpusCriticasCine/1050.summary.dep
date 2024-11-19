@@ -1,0 +1,58 @@
+coor-vb/top/(y y CC -) [
+  sn/subj/(estrellas estrella NCFP000 -) [
+    espec-fp/espec/(tres 3 Z -) [
+      j-fp/modnorule/(Las el DA0FP0 -)
+    ]
+  ]
+  grup-verb/co-v/(puesto poner VMP00SM -) [
+    patons/modnomatch/(las los PP3FPA00 -)
+    vaux/aux/(he haber VAIP1S0 -)
+    neg/modneg/(no no RN -)
+    sn/subj/(cuatro 4 Z -)
+    grup-sp/cc/(por por SPS00 -) [
+      sn/head/(razón razón NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        s-a-fs/qual/(simple simple AQ0CS0 -)
+      ]
+    ]
+    F-no-c/modnomatch/(: : Fd -)
+    sn/obj/(película película NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(por por SPS00 -) [
+    s-a-fs/modnomatch/(buena bueno AQ0FS0 -) [
+      sadv/modnorule/(muy muy RG -)
+    ]
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(sea ser VSSP1S0 -)
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  grup-verb/co-v/(gustado gustar VMP00SM -) [
+    patons/modnomatch/(me me PP1CS000 -)
+    vaux/aux/(ha haber VAIP3S0 -)
+    neg/modneg/(no no RN -)
+    sadv/cc/(tanto tanto RG -)
+    subord/modnomatch/(como como CS -) [
+      grup-verb/modnorule/(esperaba esperar VMII1S0 -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+sadv/top/(Sí sí RG -) [
+  Fc(,)/modnorule/(, , Fc -)
+  s-adj/modnorule/(buena bueno AQ0FS0 -)
+  sadv/modnorule/(sí sí RG -)
+  coor-n/modnorule/(pero pero CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(pelo pelo NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(decepcionante decepcionante AQ0CS0 -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

@@ -1,0 +1,57 @@
+grup-verb/top/(dado dar VMP00SM -) [
+  vaux/aux/(ha haber VAIP3S0 -)
+  grup-sp/modnomatch/(Aparte_de aparte_de SPS00 -) [
+    sn/head/(uno uno PI0MS000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(personajes personaje NCMP000 -) [
+          espec-mp/espec/(esos ese DD0MP0 -)
+          s-a-mp/qual/(inmortales inmortal AQ0CP0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(cine cine NCMS000 -) [
+              espec-ms/espec/(el el DA0MS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(La la NP00000 -)
+  sn/subj/(leyenda leyenda NCFS000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(indomable indomable AQ0CS0 -) [
+        j-ms/modnomatch/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  sn/obj/(escenas escena NCFP000 -) [
+    s-a-fp/qual/(grandes grande AQ0CP0 -)
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(diálogos diálogo NCMP000 -) [
+      s-a-mp/qual/(maravillosos maravilloso AQ0MP0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(imágenes imagen NCFP000 -) [
+    espec-fp/espec/(esas ese DD0FP0 -)
+    s-a-fp/qual/(icónicas icónico AQ0FP0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(penetrar penetrar VMN0000 -) [
+        VMI*<poder>/modnomatch/(pueden poder VMIP3P0 -)
+        VMN0000(llegar)/modnomatch/(llegar llegar VMN0000 -)
+        SPS00(a)/modnomatch/(a a SPS00 -)
+      ]
+    ]
+  ]
+  sn/obj/(subconsciente subconsciente NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    s-a-ms/qual/(popular popular AQ0CS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(Imprescindible imprescindible NP00000 -) [
+  F-term/term/(. . Fp -)
+]
+

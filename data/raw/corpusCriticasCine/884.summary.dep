@@ -1,0 +1,40 @@
+grup-verb/top/(parece parecer VMIP3S0 -) [
+  sn/subj/(Milos_Forman milos_forman NP00000 -) [
+    grup-verb/modnomatch/(ser ser VSN0000 -) [
+      VMI*<acabar>/modnomatch/(acaba acabar VMIP3S0 -)
+      SPS00(de)/modnomatch/(de de SPS00 -)
+      coor-n/subj/(y y CC -) [
+        sn/co-n/(suficiente suficiente AQ0CS0 -) [
+          j-ms/modnomatch/(lo el DA0NS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(artista artista NCCS000 -) [
+              espec-ms/espec/(el el DA0MS0 -)
+              s-a-ms/qual/(genial genial AQ0CS0 -)
+              s-a-ms/qual/(maño maño AQ0MS0 -)
+            ]
+          ]
+        ]
+        sn/co-n/(personaje personaje NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  neg/modneg/(no no RN -)
+  grup-verb-inf/modnomatch/(haber haber VAN0000 -) [
+    PP*/modnomatch/(se se PP3CN000 -)
+  ]
+  parti-flex/modnomatch/(empapado empapar VMP00SM -)
+  s-adj/modnomatch/(convincente convincente AQ0CS0 -)
+  F-term/term/(. . Fp -)
+]
+
+parti-flex/top/(Entretenida entretener VMP00SF -) [
+  Fc(,)/modnorule/(, , Fc -)
+  coord/modnorule/(pero pero CC -)
+  neg/modnorule/(no no RN -)
+  sadv/modnorule/(más más RG -)
+  F-term/modnorule/(. . Fp -)
+]
+

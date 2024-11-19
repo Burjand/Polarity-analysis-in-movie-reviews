@@ -1,0 +1,72 @@
+grup-verb/top/(encante encantar VMSP1S0 -) [
+  patons/modnomatch/(les les PP3CPD00 -)
+  sn/subj/(maravilla maravilla NCFS000 -) [
+    espec-fs/espec/(Una uno DI0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(terror terror NCMS000 -)
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(hará hacer VMIF3S0 -)
+    ]
+    sn/modnomatch/(delicias delicia NCFP000 -) [
+      espec-fp/espec/(las el DA0FP0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(aquellos aquel PD0MP000 -) [
+          indef-mp/modnomatch/(todos todo DI0MP0 -)
+        ]
+      ]
+    ]
+    prep/modnomatch/(a a SPS00 -)
+    quien-p/modnomatch/(quienes quien PR0CP000 -)
+  ]
+  grup-verb-inf/modnomatch/(comer comer VMN0000 -) [
+    PP*/modnomatch/(se se PP3CN000 -)
+  ]
+  sn/obj/(uñas uña NCFP000 -) [
+    espec-fp/espec/(las el DA0FP0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(nerviosismo nerviosismo NCMS000 -) [
+        s-a-ms/qual/(puro puro AQ0MS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+F-no-c/top/(¡ ¡ Faa -) [
+  grup-verb/modnorule/(aproveche aprovechar VMM03S0 -) [
+    sn/subj/(Qué qué PT0CN000 -)
+  ]
+  F-term/modnorule/(! ! Fat -)
+]
+
+grup-verb/top/(pienso pensar VMIP1S0 -) [
+  sn/subj/(Yo yo PP1CSN00 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    sadv/modnomatch/(por_si_las_moscas por_si_las_moscas RG -)
+    Fc(,)/modnomatch/(, , Fc -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(turismo turismo NCMS000 -)
+    ]
+  ]
+  neg/modneg/(no no RN -)
+  grup-verb-inf/modnomatch/(ir ir VMN0000 -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(Australia australia NP00000 -)
+    F-no-c/modnomatch/(... ... Fs -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  prep/modnomatch/(a a SPS00 -)
+  espec-ms/modnomatch/(el el DA0MS0 -)
+  sadv/cc/(menos menos RG -)
+  prep/modnomatch/(hasta hasta SPS00 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(olvide olvidar VMSP1S0 -) [
+      sn/obj/(película película NCFS000 -) [
+        espec-fs/espec/(esta este DD0FS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

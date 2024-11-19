@@ -1,0 +1,48 @@
+grup-verb/top/(queda quedar VMIP3S0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  sn/subj/(término término NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+    n-ms/modnomatch/(thriller thriller NCMS000 -)
+  ]
+  s-adj/modnomatch/(corto corto AQ0MS0 -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(hora hora NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(encuadrar encuadrar VMN0000 -)
+    sn/modnomatch/(filme filme NCMS000 -) [
+      espec-ms/espec/(este este DD0MS0 -)
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(recupera recuperar VMIP3S0 -)
+      ]
+    ]
+    sn/modnomatch/(mejor mejor AQ0CS0 -) [
+      j-ms/modnomatch/(lo el DA0NS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(género género NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          n-ms/modnomatch/(film film NCMS000 -)
+        ]
+      ]
+    ]
+    sn/modnomatch/(noir noir NP00000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  prep/modnomatch/(a a SPS00 -)
+  espec-ms/modnomatch/(el el DA0MS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(acerca acercar VMIP3S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+    ]
+  ]
+  grup-sp/modnomatch/(desde desde SPS00 -) [
+    sn/head/(aproximación aproximación NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(nueva nuevo AQ0FS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

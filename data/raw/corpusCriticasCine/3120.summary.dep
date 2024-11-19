@@ -1,0 +1,54 @@
+coor-vb/top/(o o CC -) [
+  grup-verb/co-v/(funciona funcionar VMIP3S0 -) [
+    sn/subj/(película película NCFS000 -) [
+      espec-fs/espec/(La el DA0FS0 -)
+    ]
+    sadv/cc/(más más RG -)
+    subord/modnomatch/(como como CS -) [
+      grup-verb/modnorule/(comedia comediar VMIP3S0 -)
+    ]
+    conj-subord/modnomatch/(que que CS -)
+    coor-sp/modnomatch/(aunque aunque CC -) [
+      grup-sp/modnorule/(como como CS -) [
+        sn/head/(película película NCFS000 -) [
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(terror terror NCMS000 -) [
+              grup-verb/modnomatch/(anuncien anunciar VMSP3P0 -) [
+                sadv/cc/(a_bombo_y_platillo a_bombo_y_platillo RG -)
+              ]
+            ]
+          ]
+        ]
+      ]
+      Fc(,)/modnorule/(, , Fc -)
+      grup-sp/modnorule/(antes_de antes_de SPS00 -) [
+        sn/head/(visionado visionar VMP00SM -) [
+          espec-ms/espec/(su su DP3CS0 -)
+        ]
+      ]
+    ]
+    conj-subord/modnomatch/(que que CS -)
+    espec-mp/modnomatch/(los el DA0MP0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(sufran sufrir VMSP3P0 -)
+    ]
+  ]
+  sn/subj/(problemas problema NCMP000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(corazón corazón NCMS000 -)
+    ]
+  ]
+  grup-verb/co-v/(tengan tener VMSP3P0 -) [
+    sn/obj/(epilepsia epilepsia NCFS000 -)
+  ]
+  grup-verb/co-v/(abstengan abstener VMSP3P0 -) [
+    morfema-verbal/modnomatch/(se se P0000000 -)
+    grup-sp-inf/modnomatch/(de de SPS00 -) [
+      grup-verb-inf/head/(ver ver VMN0000 -) [
+        PP*/modnomatch/(la lo PP3FSA00 -)
+      ]
+    ]
+    F-no-c/modnomatch/(... ... Fs -)
+  ]
+]
+

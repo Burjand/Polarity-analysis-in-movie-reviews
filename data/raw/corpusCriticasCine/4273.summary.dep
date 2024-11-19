@@ -1,0 +1,69 @@
+coor-vb/top/(y y CC -) [
+  sn/subj/(Atractiva atractiva NP00000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    s-adj/qual/(ingeniosa ingenioso AQ0FS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+    coord/modnomatch/(y y CC -)
+    sadv/modnomatch/(sorprendentemente sorprendentemente RG -)
+    s-adj/qual/(y y CC -) [
+      s-a-fs/modnorule/(entretenida entretener VMP00SF -)
+      s-a-fs/modnorule/(divertida divertir VMP00SF -)
+    ]
+    F-no-c/modnomatch/(; ; Fx -)
+  ]
+  sn/subj/(retrato retrato NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(e e CC -) [
+      s-a-ms/modnorule/(excelente excelente AQ0CS0 -)
+      s-a-ms/modnorule/(ingenioso ingenioso AQ0MS0 -)
+    ]
+  ]
+  grup-verb/co-v/(parodia parodiar VMIP3S0 -) [
+    sadv/cc/(a_la_vez a_la_vez RG -)
+    sp-de/modnomatch/(de de SPS00 -) [
+      sn/gen/(cine cine NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        s-a-ms/qual/(, , Fc -) [
+          s-a-ms/modnorule/(policíaco policíaco AQ0MS0 -)
+          s-a-ms/modnorule/(superior superior AQ0CS0 -) [
+            sadv/modnorule/(muy muy RG -)
+          ]
+        ]
+      ]
+    ]
+    grup-sp/iobj/(a a SPS00 -) [
+      sn/head/(media medio AQ0FS0 -) [
+        j-fs/modnomatch/(la el DA0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(parodias parodia NCFP000 -)
+        ]
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(proliferan proliferar VMIP3P0 -) [
+      sadv/cc/(tanto tanto RG -)
+      sadv/cc/(hoy hoy RG -)
+      grup-sp/cc/(en en SPS00 -) [
+        sn/head/(día día NCMS000 -)
+      ]
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(quedan quedar VMIP3P0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+      sadv/cc/(simplemente simplemente RG -)
+    ]
+  ]
+  prep/modnomatch/(en en SPS00 -)
+  espec-ms/modnomatch/(un uno DI0MS0 -)
+  coor-vb/modnomatch/(y y CC -) [
+    grup-verb/co-v/(quiero querer VMIP1S0 -)
+    grup-verb/co-v/(puedo poder VMIP1S0 -) [
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

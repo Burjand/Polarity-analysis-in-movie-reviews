@@ -1,0 +1,48 @@
+grup-verb/top/(siente sentir VMIP3S0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+  ]
+  conj-subord/modnomatch/(como como CS -)
+  conj-subord/modnomatch/(si si CS -)
+  grup-sp/modnomatch/(fuera_de fuera_de SPS00 -) [
+    sn/head/(época época NCFS000 -) [
+      espec-fs/espec/(otra otro DI0FS0 -)
+    ]
+  ]
+  subord/modnomatch/(porque porque CS -) [
+    grup-verb/modnorule/(juega jugar VMIP3S0 -)
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(ilusión ilusión NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(efectos efecto NCMP000 -) [
+          s-a-mp/qual/(ópticos óptico AQ0MP0 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(como como CS -) [
+    sn/head/(deformaciones deformación NCFP000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(lente lente NCFS000 -)
+      ]
+    ]
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(desenfoques desenfoque NCMP000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(dan dar VMIP3P0 -) [
+      patons/modnomatch/(le le PP3CSD00 -)
+      sn/obj/(textura textura NCFS000 -) [
+        espec-fs/espec/(otra otro DI0FS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

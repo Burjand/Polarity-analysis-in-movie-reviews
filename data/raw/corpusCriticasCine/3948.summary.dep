@@ -1,0 +1,36 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(Esta este PD0FS000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(decepciones decepción NCFP000 -) [
+        espec-fp/espec/(las el DA0FP0 -)
+        s-a-fp/qual/(mayores mayor AQ0CP0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(año año NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+            s-a-ms/qual/(anterior anterior AQ0CS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sadv/cc/(probablemente probablemente RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  espec-fs/modnomatch/(una uno DI0FS0 -)
+  F-term/term/(. . Fp -)
+]
+
+conj-subord/top/(Que que CS -) [
+  sn/modnorule/(heche heche NCFS000 -)
+  grup-sp-inf/modnorule/(a a SPS00 -) [
+    grup-verb-inf/head/(temblar temblar VMN0000 -)
+    sn/modnomatch/(Hafström hafström NP00000 -)
+  ]
+  subord/modnorule/(si si CS -) [
+    grup-verb/modnorule/(resucita resucitar VMIP3S0 -) [
+      sn/subj/(Kubrick kubrick NP00000 -)
+      F-no-c/modnomatch/(... ... Fs -)
+    ]
+  ]
+]
+

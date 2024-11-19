@@ -1,0 +1,41 @@
+grup-verb/top/(sé saber VMIP1S0 -) [
+  neg/modneg/(No no RN -)
+  grup-sp/modnomatch/(como como CS -) [
+    sn/head/(bodrio bodrio NCMS000 -) [
+      espec-ms/espec/(semejante semejante DD0CS0 -)
+    ]
+  ]
+  F-no-c/modnomatch/(( ( Fpa -)
+  grup-sp/modnomatch/(tras tras SPS00 -) [
+    sn/head/(éxito éxito NCMS000 -) [
+      espec-ms/espec/(su su DP3CS0 -)
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(Cannes cannes NP00000 -) [
+      grup-verb/modnomatch/(estrenar estrenar VMN0000 -) [
+        patons/modnomatch/(se se PP3CN000 -)
+        vaux/aux/(ha haber VAIP3S0 -)
+        VMP00SM(llegado)/modnomatch/(llegado llegar VMP00SM -)
+        SPS00(a)/modnomatch/(a a SPS00 -)
+        grup-sp/cc/(en en SPS00 -) [
+          sn/head/(España españa NP00000 -) [
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(ella él PP3FS000 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-no-c/modnomatch/() ) Fpt -)
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(pero pero CC -)
+  subord/modnomatch/(si si CS -) [
+    grup-verb/modnorule/(podéis poder VMIP2P0 -)
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  grup-verb-inf/modnomatch/(huir huir VMN0000 -)
+  F-term/term/(. . Fp -)
+]
+

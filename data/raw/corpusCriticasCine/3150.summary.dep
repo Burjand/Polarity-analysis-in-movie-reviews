@@ -1,0 +1,58 @@
+grup-verb/top/(dirigido dirigir VMP00SM -) [
+  vaux/aux/(ha haber VAIP3S0 -)
+  sn/subj/(Juan_Antonio_Bayona juan_antonio_bayona NP00000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    parti-flex/modnomatch/(ayudado ayudar VMP00SM -)
+    grup-sp/modnomatch/(por por SPS00 -) [
+      sn/head/(padrino padrino NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(excepción excepción NCFS000 -)
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(Guillermo_de_el_Toro guillermo_de_el_toro NP00000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(eficaz eficaz AQ0CS0 -) [
+      sadv/modnorule/(muy muy RG -)
+    ]
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(terror terror NCMS000 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  ger/modnomatch/(apoyando apoyar VMG0000 -) [
+    PP*/modnorule/(se se PP3CN000 -)
+  ]
+  coor-sp/modnomatch/(y y CC -) [
+    grup-sp/modnorule/(en en SPS00 -) [
+      sn/head/(producción producción NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        s-a-fs/qual/(primorosa primoroso AQ0FS0 -)
+      ]
+    ]
+    grup-sp/modnorule/(en en SPS00 -) [
+      sn/head/(guión guión NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+      ]
+    ]
+  ]
+  sadv/cc/(algo algo RG -)
+  parti-flex/modnomatch/(manido manir VMP00SM -)
+  coor-n/obj/(pero pero CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(sólido sólido NCMS000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(Sergio_G._Sánchez sergio_g._sánchez NP00000 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(. . Fp -)
+]
+

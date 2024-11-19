@@ -1,0 +1,52 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  grup-sp/modnomatch/(Para para SPS00 -) [
+    sn/head/(aquellos aquel PD0MP000 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(saber saber VMN0000 -) [
+        VMS*<querer>/modnomatch/(quieran querer VMSP3P0 -)
+      ]
+    ]
+    prep/modnomatch/(con con SPS00 -)
+    espec-ms/modnomatch/(lo el DA0NS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(encontrar encontrar VMN0000 -) [
+        patons/modnomatch/(se se PP3CN000 -)
+        VMI*<ir>/modnomatch/(van ir VMIP3P0 -)
+        SPS00(a)/modnomatch/(a a SPS00 -)
+      ]
+    ]
+  ]
+  sn/subj/(Mi_Hermano_Es_Hijo_Único mi_hermano_es_hijo_único NP00000 -)
+  sn/obj/(especie especie NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  F-term/term/(? ? Fit -)
+]
+
+grup-verb/top/(Cuenta contar VMM02S0 -) [
+  patons/modnomatch/(me me PP1CS000 -)
+  F-term/term/(? ? Fit -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(virtudes virtud NCFP000 -) [
+      espec-fp/espec/(todas todo DI0FP0 -) [
+        pos-fp/modnorule/(sus su DP3CP0 -)
+      ]
+    ]
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(defectos defecto NCMP000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-sp/top/(En en SPS00 -) [
+  sn/head/(realidad realidad NCFS000 -)
+  sn/head/(virtudes virtud NCFP000 -) [
+    espec-fp/espec/(más más RG -)
+  ]
+  conj-subord/modnomatch/(que que CS -)
+  sn/head/(defectos defecto NCMP000 -)
+  F-term/modnomatch/(. . Fp -)
+]
+

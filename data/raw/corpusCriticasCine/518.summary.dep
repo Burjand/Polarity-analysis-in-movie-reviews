@@ -1,0 +1,65 @@
+grup-verb/top/(Consigue conseguir VMIP3S0 -) [
+  grup-verb-inf/modnomatch/(unir unir VMN0000 -)
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(conceptos concepto NCMP000 -) [
+      numero-nopart/quant/(dos 2 Z -)
+      s-a-mp/qual/(antagónicos antagónico AQ0MP0 -) [
+        sadv/modnorule/(totalmente totalmente RG -)
+      ]
+      F-no-c/modnomatch/(: : Fd -)
+    ]
+    sn/co-n/(comédia comédia NCCS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(romántica romántico AQ0FS0 -)
+    ]
+    sn/co-n/(cine cine NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(Superhéroes superhéroes NP00000 -)
+      ]
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(concepto concepto NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(solo solo AQ0MS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(propuesta propuesta NCFS000 -) [
+  espec-fs/espec/(Una uno DI0FS0 -)
+  s-a-fs/qual/(buena bueno AQ0FS0 -)
+  prep/modnomatch/(para para SPS00 -)
+  espec-mp/espec/(todos todo DI0MP0 -) [
+    dem-mp/modnorule/(aquellos aquel DD0MP0 -)
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(ver ver VMN0000 -) [
+      VMI*<ir>/modnomatch/(vamos ir VMIP1P0 -)
+      SPS00(a)/modnomatch/(a a SPS00 -)
+    ]
+  ]
+  sn/modnomatch/(películas película NCFP000 -) [
+    espec-fp/espec/(estas este DD0FP0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(marido marido NCMS000 -) [
+        Fe/modnomatch/(" " Fe -)
+        Fe/modnomatch/(" " Fe -)
+        n-fs/modnomatch/(consorte consorte NCCS000 -)
+        grup-sp/modnomatch/(como como CS -) [
+          sn/head/(cochino cochino NCMS000 -) [
+            grup-sp/modnomatch/(a a SPS00 -) [
+              sn/head/(matadero matadero NCMS000 -) [
+                espec-ms/espec/(el el DA0MS0 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

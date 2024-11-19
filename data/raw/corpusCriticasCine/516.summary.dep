@@ -1,0 +1,54 @@
+coor-vb/top/(y y CC -) [
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+  ]
+  grup-verb/co-v/(entretiene entretener VMIP3S0 -)
+  grup-verb/co-v/(gustará gustar VMIF3S0 -) [
+    grup-sp/iobj/(a a SPS00 -) [
+      sn/head/(amantes amante NCCP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(género género NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+            s-a-ms/qual/(feudal feudal AQ0CS0 -)
+          ]
+        ]
+      ]
+    ]
+    coor-n/obj/(y y CC -) [
+      sn/co-n/(japones japón NCMP000 -)
+      sn/co-n/(amantes amante NCCP000 -)
+    ]
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  espec-ms/modnomatch/(el el DA0MS0 -)
+  coor-n/modnomatch/(aunque aunque CC -) [
+    sn/co-n/(manga manga NCFS000 -)
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(film film NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(como como CS -) [
+    grup-verb/modnorule/(dicho decir VMP00SM -) [
+      vaux/aux/(hemos haber VAIP1P0 -)
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  grup-verb/co-v/(queda quedar VMIP3S0 -) [
+    morfema-verbal/modnomatch/(se se P0000000 -)
+    grup-sp/iobj/(a a SPS00 -) [
+      sn/head/(medias media NCFP000 -)
+    ]
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(propósitos propósito NCMP000 -) [
+        espec-mp/espec/(todos todo DI0MP0 -) [
+          pos-mp/modnorule/(sus su DP3CP0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

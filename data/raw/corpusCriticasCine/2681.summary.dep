@@ -1,0 +1,48 @@
+grup-verb/top/(trata tratar VMIP3S0 -) [
+  morfema-verbal/modnomatch/(Se se P0000000 -)
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(pieza pieza NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(y y CC -) [
+        s-a-fs/modnorule/(pequeña pequeño AQ0FS0 -)
+        s-a-fs/modnorule/(delicada delicado AQ0FS0 -)
+      ]
+    ]
+  ]
+  prep/modnomatch/(en en SPS00 -)
+  espec-fs/modnomatch/(la el DA0FS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(funden fundir VMIP3P0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+      sn/subj/(detalles detalle NCMP000 -) [
+        espec-mp/espec/(todos todo DI0MP0 -) [
+          j-mp/modnorule/(los el DA0MP0 -)
+        ]
+      ]
+      grup-sp/cc/(en en SPS00 -) [
+        sn/head/(objetivo objetivo AQ0MS0 -) [
+          indef-ms/modnomatch/(un uno DI0MS0 -)
+          sadv/modnomatch/(sólo sólo RG -)
+        ]
+      ]
+      F-no-c/modnomatch/(: : Fd -)
+    ]
+  ]
+  grup-verb-inf/modnomatch/(pasar pasar VMN0000 -)
+  sn/obj/(miedo miedo NCMS000 -) [
+    s-a-ms/qual/(auténtico auténtico AQ0MS0 -)
+    grup-sp/modnomatch/(junto_a junto_a SPS00 -) [
+      sn/head/(horror horror NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(viven vivir VMIP3P0 -)
+    ]
+  ]
+  sn/obj/(protagonistas protagonista NCCP000 -) [
+    espec-mp/espec/(sus su DP3CP0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

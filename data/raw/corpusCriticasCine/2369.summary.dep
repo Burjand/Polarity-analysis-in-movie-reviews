@@ -1,0 +1,73 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(Café_Solo café_solo NP00000 -) [
+    F-term/term/(? ? Fit -)
+    coor-sp/modnomatch/(o o CC -) [
+      grup-sp/modnorule/(con con SPS00 -) [
+        sn/head/(Ellas ellas NP00000 -)
+      ]
+    ]
+  ]
+  s-adj/att/(simple simple AQ0CS0 -)
+  coord/modnomatch/(y y CC -)
+  sadv/cc/(llanamente llanamente RG -)
+  sn/obj/(bodrio bodrio NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(patético patético AQ0MS0 -)
+    s-a-ms/qual/(pergeñado pergeñar VMP00SM -)
+    grup-sp/modnomatch/(por por SPS00 -) [
+      sn/head/(sobrino sobrino NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(Agustín_Díaz_Yanes agustín_díaz_yanes NP00000 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+subord/top/(Si si CS -) [
+  grup-verb/modnorule/(es ser VSIP3S0 -) [
+    sn/obj/(éste este PD0MS000 -)
+    sn/obj/(tipo tipo NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(films film NCMP000 -)
+      ]
+    ]
+  ]
+  subord/modnorule/(que que PR0CN000 -) [
+    grup-verb/modnorule/(gusta gustar VMIP3S0 -)
+  ]
+  grup-sp/modnorule/(a a SPS00 -) [
+    sn/head/(espectadores espectador NCMP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(es ser VSIP3S0 -)
+  s-adj/modnorule/(normal normal AQ0CS0 -) [
+    sadv/modnorule/(completamente completamente RG -)
+  ]
+  subord/modnorule/(que que CS -) [
+    grup-verb/modnorule/(guste gustar VMSP1S0 -) [
+      patons/modnomatch/(le le PP3CSD00 -)
+      grup-sp/modnomatch/(a a SPS00 -) [
+        sn/head/(público público NCMS000 -) [
+          espec-ms/espec/(ese ese DD0MS0 -)
+          s-a-ms/qual/(mismo mismo AQ0MS0 -)
+        ]
+      ]
+      neg/modneg/(no no RN -)
+      sn/obj/(cine cine NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        s-a-ms/qual/(español español AQ0MS0 -)
+      ]
+      grup-sp/cc/(en en SPS00 -) [
+        s-a-ms/modnomatch/(general general AQ0CS0 -)
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

@@ -1,0 +1,65 @@
+coor-vb/top/(y y CC -) [
+  sn/subj/(idea idea NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(film film NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  grup-verb/co-v/(está estar VAIP3S0 -) [
+    neg/modneg/(no no RN -)
+    sp-de/modnomatch/(de de SPS00 -) [
+      sn/gen/(mal mal NCMS000 -) [
+        espec-ms/espec/(todo todo DI0MS0 -) [
+          j-ms/modnorule/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  grup-verb/co-v/(dado dar VMP00SM -) [
+    VMI*<poder>/modnomatch/(podría poder VMIC1S0 -)
+    infaux/modnomatch/(haber haber VAN0000 -)
+    grup-sp/iobj/(para para SPS00 -) [
+      sn/head/(algo algo PI0CS000 -)
+    ]
+  ]
+  sadv/modnomatch/(más más RG -)
+  prep/modnomatch/(de de SPS00 -)
+  neg/modnomatch/(no no RN -)
+  grup-verb-inf/modnomatch/(ser ser VSN0000 -)
+  grup-sp/modnomatch/(por por SPS00 -) [
+    sn/head/(dirección dirección NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(penosa penoso AQ0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(Patrick_Lussier patrick_lussier NP00000 -)
+      ]
+    ]
+  ]
+  coor-n/modnomatch/(y y CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(responsable responsable NCCS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(desaguisado desaguisado NCMS000 -) [
+          espec-ms/espec/(este este DD0MS0 -)
+        ]
+      ]
+      Fc(,)/modnomatch/(, , Fc -)
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(consigue conseguir VMIP3S0 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(punto punto NCMS000 -) [
+      s-a-ms/qual/(llegado llegar VMP00SM -)
+      s-a-ms/qual/(cierto cierto AQ0MS0 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(aburrimiento aburrimiento NCMS000 -)
+    sn/co-n/(cansancio cansancio NCMS000 -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

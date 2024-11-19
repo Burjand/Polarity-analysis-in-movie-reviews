@@ -1,0 +1,68 @@
+grup-verb/top/(queda quedar VMIP3S0 -) [
+  patons/modnomatch/(te te PP2CS000 -)
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(Una uno DI0FS0 -)
+    s-a-fs/qual/(dramática dramático AQ0FS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+    prep/modnomatch/(de de SPS00 -)
+    espec-fp/espec/(las el DA0FP0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(toca tocar VMIP3S0 -) [
+        sadv/cc/(de_vez_en_cuando de_vez_en_cuando RG -)
+      ]
+    ]
+    grup-verb-inf/modnomatch/(ver ver VMN0000 -)
+    F-no-c/modnomatch/(... ... Fs -)
+    coord/modnomatch/(y y CC -)
+    prep/modnomatch/(con con SPS00 -)
+    espec-fs/espec/(la el DA0FS0 -)
+    prel/modnomatch/(que que PR0CN000 -)
+    prep/modnomatch/(a a SPS00 -)
+    espec-ms/espec/(el el DA0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(tipo tipo NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        grup-verb/modnomatch/(ver ver VMN0000 -) [
+          vaux/aux/(habré haber VAIF1S0 -)
+          VMP00SM(tenido)/modnomatch/(tenido tener VMP00SM -)
+          CS(que)/modnomatch/(que que CS -)
+          grup-sp/modnomatch/(por por SPS00 -) [
+            sn/head/(qué qué PT0CN000 -)
+          ]
+          sn/subj/(leches leche NCFP000 -)
+          sn/obj/(cosa cosa NCFS000 -) [
+            espec-fs/espec/(esta este DD0FS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  sn/subj/(final final NCFS000 -)
+  sn/obj/(regusto regusto NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(amargo amargo AQ0MS0 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  F-no-c/modnomatch/(: : Fd -)
+  F-no-c/modnomatch/(¿ ¿ Fia -)
+  F-term/term/(? ? Fit -)
+]
+
+F-no-c/top/(¿ ¿ Fia -) [
+  grup-verb/modnorule/(era ser VSII1S0 -) [
+    neg/modneg/(no no RN -)
+  ]
+  s-adj/modnorule/(feliz feliz AQ0CS0 -) [
+    sadv/modnorule/(más más RG -)
+  ]
+  grup-verb/modnorule/(hace hacer VMIP3S0 -)
+  espec-fs/modnorule/(una uno DI0FS0 -)
+  sn/modnorule/(par par NCMS000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(horas hora NCFP000 -)
+    ]
+  ]
+  F-term/modnorule/(? ? Fit -)
+  F-term/modnorule/(. . Fp -)
+]
+

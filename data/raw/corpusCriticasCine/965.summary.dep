@@ -1,0 +1,46 @@
+grup-verb/top/(presento presentar VMIP1S0 -) [
+  patons/modnomatch/(Os os PP2CP000 -)
+  F-term/term/(? ? Fit -)
+]
+
+grup-verb/top/(cambiar cambiar VMN0000 -) [
+  VMI*<ir>/modnomatch/(va ir VMIP3S0 -)
+  SPS00(a)/modnomatch/(a a SPS00 -)
+  sn/subj/(The_Rocky_Horror_Picture_Show the_rocky_horror_picture_show NP00000 -) [
+    F-term/term/(? ? Fit -)
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/modnomatch/(todo todo PI0MS000 -)
+    espec-ms/espec/(lo el DA0NS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(leeréis leer VMIF2P0 -)
+    ]
+  ]
+  grup-sp/modnomatch/(a a SPS00 -) [
+    sn/head/(continuación continuación NCFS000 -)
+  ]
+  sn/obj/(vidas vida NCFP000 -) [
+    espec-fp/espec/(vuestras vuestro DP2FPP -)
+  ]
+  F-term/term/(? ? Fit -)
+  coord/modnomatch/(o o CC -)
+  sadv/cc/(bien bien RG -) [
+    cuantif/modnorule/(más más RG -)
+  ]
+  grup-verb-inf/modnomatch/(travestir travestir VMN0000 -) [
+    PP*/modnomatch/(las los PP3FPA00 -)
+  ]
+  F-term/term/(? ? Fit -)
+]
+
+F-no-c/top/(¡ ¡ Faa -) [
+  grup-verb/modnorule/(sueñes soñar VMSP2S0 -) [
+    patons/modnomatch/(lo lo PP3CNA00 -)
+    neg/modneg/(No no RN -)
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(vive vivir VMM02S0 -) [
+    patons/modnomatch/(lo lo PP3CNA00 -)
+  ]
+  F-term/modnorule/(! ! Fat -)
+]
+

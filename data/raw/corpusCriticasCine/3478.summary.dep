@@ -1,0 +1,37 @@
+grup-verb/top/(fue ser VSIS3S0 -) [
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(Una uno DI0FS0 -)
+    n-fs/modnomatch/(entretenidilla entretenida NCFS00D -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(queda quedar VMIP3S0 -) [
+        morfema-verbal/modnomatch/(se se P0000000 -)
+      ]
+    ]
+    grup-sp/modnomatch/(a a SPS00 -) [
+      sn/head/(años año NCMP000 -) [
+        n-fs/modnomatch/(luz luz NCFS000 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(hecho hecho NCMS000 -)
+        ]
+      ]
+    ]
+    prep/modnomatch/(de de SPS00 -)
+    espec-ms/espec/(lo el DA0NS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(ser ser VSN0000 -) [
+        VMI*<poder>/modnomatch/(podría poder VMIC1S0 -)
+        VMN0000(llegar)/modnomatch/(llegar llegar VMN0000 -)
+        SPS00(a)/modnomatch/(a a SPS00 -)
+      ]
+    ]
+    coord/modnomatch/(y y CC -)
+    prep/modnomatch/(de de SPS00 -)
+    espec-ms/espec/(lo el DA0NS0 -)
+    prel/modnomatch/(que que PR0CN000 -)
+    Fc(,)/modnomatch/(, , Fc -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sadv/cc/(ya ya RG -)
+  F-term/term/(. . Fp -)
+]
+

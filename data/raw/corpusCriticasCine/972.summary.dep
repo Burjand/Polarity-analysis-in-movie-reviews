@@ -1,0 +1,77 @@
+grup-verb/top/(Supondrá suponer VMIF3S0 -) [
+  sn/obj/(fomento fomento NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(amor amor NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(cine cine NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(buen bueno AQ0MS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  conj-subord/modnomatch/(ya_que ya_que CS -)
+  sn/obj/(incautos incauto AQ0MP0 -) [
+    j-mp/modnomatch/(los el DA0MP0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(caigan caer VMSP3P0 -)
+    ]
+    grup-sp/modnomatch/(en en SPS00 -) [
+      sn/head/(redes red NCFP000 -) [
+        espec-fp/espec/(sus su DP3CP0 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(vez vez NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    s-a-fs/qual/(próxima próximo AQ0FS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(oigan oír VMSP3P0 -)
+    ]
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(ella él PP3FS000 -) [
+        grup-verb/modnomatch/(correrán correr VMIF3P0 -) [
+          grup-sp-inf/iobj/(a a SPS00 -) [
+            grup-verb-inf/head/(encerrar encerrar VMN0000 -) [
+              PP*/modnomatch/(se se PP3CN000 -)
+            ]
+          ]
+          grup-sp/cc/(en en SPS00 -) [
+            sn/head/(filmoteca filmoteca NCFS000 -) [
+              espec-fs/espec/(la el DA0FS0 -)
+              s-a-fs/qual/(cercana cercano AQ0FS0 -) [
+                sadv/modnorule/(más más RG -)
+              ]
+            ]
+          ]
+          grup-sp-inf/iobj/(a a SPS00 -) [
+            grup-verb-inf/head/(visionar visionar VMN0000 -)
+            sn/modnomatch/(obra obra NCFS000 -) [
+              espec-fs/espec/(la el DA0FS0 -)
+              sp-de/mod/(de de SPS00 -) [
+                sn/gen/(genios genio NCMP000 -)
+              ]
+            ]
+          ]
+          grup-sp/cc/(como como CS -) [
+            sn/head/(Bergman bergman NP00000 -)
+          ]
+          coor-n/obj/(o o CC -) [
+            Fc(,)/modnomatch/(, , Fc -)
+            sn/co-n/(Fellini fellini NP00000 -)
+            sn/co-n/(Kurosawa kurosawa NP00000 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  grup-verb-inf/modnomatch/(hablar hablar VMN0000 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,52 @@
+grup-verb/top/(gira girar VMIP3S0 -) [
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-verb/modnomatch/(puteo putear VMIP1S0 -)
+  ]
+  sadv/cc/(más más RG -)
+  prep/modnomatch/(ante ante SPS00 -)
+  espec-ms/modnomatch/(el el DA0MS0 -)
+  prep/modnomatch/(a a SPS00 -)
+  espec-ms/modnomatch/(el el DA0MS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(somete someter VMIP3S0 -)
+  ]
+  sn/obj/(Robin_Williams robin_williams NP00000 -) [
+    grup-sp/modnomatch/(a a SPS00 -) [
+      sn/head/(protagonistas protagonista NCCP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  coord/modnomatch/(y y CC -)
+  subord/modnomatch/(si si CS -) [
+    grup-verb/modnorule/(pasado pasar VMP00SM -) [
+      vaux/aux/(habéis haber VAIP2P0 -)
+      sn/subj/(alguno alguno PI0MS000 -) [
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(lectores lector NCMP000 -) [
+            espec-mp/espec/(los el DA0MP0 -)
+            grup-verb/modnomatch/(tramite tramitar VMSP1S0 -) [
+              grup-sp-inf/modnomatch/(de de SPS00 -) [
+                grup-verb-inf/head/(organizar organizar VMN0000 -)
+                sn/modnomatch/(boda boda NCFS000 -) [
+                  espec-fs/espec/(una uno DI0FS0 -)
+                  grup-verb/modnomatch/(sentireis sentireis VMSI2P0 -) [
+                    patons/modnomatch/(os os PP2CP000 -)
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  prep/modnomatch/(por por SPS00 -)
+  espec-ms/modnomatch/(el el DA0MS0 -)
+  parti-flex/modnomatch/(identificados identificar VMP00PM -)
+  F-no-c/modnomatch/(... ... Fs -)
+]
+

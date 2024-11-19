@@ -1,0 +1,68 @@
+sn/top/(film film NCMS000 -) [
+  espec-ms/espec/(El el DA0MS0 -)
+  s-a-ms/qual/(mejor mejor AQ0CS0 -)
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(actor actor NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(singular singular AQ0CS0 -)
+      w-ms/modnomatch/(William_S._Hart william_s._hart NP00000 -)
+      grup-sp/modnomatch/(en en SPS00 -) [
+        sn/head/(teatro teatro NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(comenzó comenzar VMIS3S0 -)
+  ]
+  forma-ger/modnomatch/(representando representar VMG0000 -)
+  sn/modnomatch/(nada nada PI0CS000 -)
+  sadv/modnomatch/(menos menos RG -)
+  conj-subord/modnomatch/(que que CS -)
+  sn/modnomatch/(obras obra NCFP000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Shakespeare shakespeare NP00000 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sadv/top/(Ya ya RG -) [
+  grup-sp/modnorule/(con con SPS00 -) [
+    sn/head/(años año NCMP000 -) [
+      numero-nopart/quant/(44 44 Z -)
+    ]
+  ]
+  coor-vb/modnorule/(y y CC -) [
+    grup-verb/co-v/(interpretar interpretar VMN0000 -) [
+      VMI*<empezar>/modnomatch/(empezó empezar VMIS3S0 -)
+      SPS00(a)/modnomatch/(a a SPS00 -)
+      grup-sp/iobj/(a a SPS00 -) [
+        sn/head/(cowboys cowboy NCMP000 -)
+      ]
+      grup-sp/cc/(en en SPS00 -) [
+        sn/head/(cine cine NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+    grup-verb/co-v/(hizo hacer VMIS3S0 -) [
+      patons/modnomatch/(lo lo PP3CNA00 -)
+    ]
+  ]
+  sadv/modnorule/(bien bien RG -)
+  grup-sp/modnorule/(por por SPS00 -) [
+    sn/head/(manejo manejo NCMS000 -) [
+      espec-ms/espec/(su su DP3CS0 -)
+      grup-sp/modnomatch/(con con SPS00 -) [
+        sn/head/(caballo caballo NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

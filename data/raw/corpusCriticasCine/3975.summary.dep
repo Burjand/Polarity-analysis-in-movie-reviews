@@ -1,0 +1,38 @@
+grup-verb/top/(haber haber VAN0000 -) [
+  patons/modnomatch/(se se PP3CN000 -)
+  VMI*<deber>/modnomatch/(debería deber VMIC1S0 -)
+  grup-sp/modnomatch/(En_lugar_de en_lugar_de SPS00 -) [
+    sn/head/(Misión misión NP00000 -)
+    F-no-c/modnomatch/(: : Fd -)
+    grup-verb-inf/modnomatch/(salvar salvar VMN0000 -)
+  ]
+  sn/subj/(tierra tierra NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(secuela secuela NCFS000 -) [
+    espec-fs/espec/(esta este DD0FS0 -)
+    s-a-fs/qual/(prescindible prescindible AQ0CS0 -)
+  ]
+  sn/obj/(Misión misión NP00000 -) [
+    s-a-ms/qual/(titulado titular VMP00SM -)
+  ]
+  F-no-c/modnomatch/(: : Fd -)
+  grup-verb-inf/modnomatch/(hundir hundir VMN0000 -)
+  sadv/cc/(todavía todavía RG -)
+  sadv/cc/(más más RG -)
+  coor-n/obj/(o o CC -) [
+    sn/co-n/(cine cine NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(nacional nacional AQ0CS0 -)
+    ]
+    sn/co-n/(Misión misión NP00000 -)
+  ]
+  F-no-c/modnomatch/(: : Fd -)
+  grup-verb-inf/modnomatch/(matar matar VMN0000 -)
+  sn/obj/(cine cine NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

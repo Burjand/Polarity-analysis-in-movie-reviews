@@ -1,0 +1,31 @@
+grup-verb/top/(dar dar VMN0000 -) [
+  VMI*<querer>/modnomatch/(quiere querer VMIP3S0 -)
+  VMN0000(volver)/modnomatch/(volver volver VMN0000 -)
+  SPS00(a)/modnomatch/(a a SPS00 -)
+  sn/subj/(George_Miller george_miller NP00000 -)
+  sn/obj/(caña caña NCFS000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(buena bueno AQ0FS0 -) [
+        j-fs/modnomatch/(la el DA0FS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+conj-subord/top/(Que que CS -) [
+  sn/modnorule/(alguien alguien PI0CS000 -)
+  patons/modnorule/(le le PP3CSD00 -)
+  sp-de/modnorule/(de de SPS00 -) [
+    sn/gen/(guión guión NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+    ]
+  ]
+  grup-sp/modnorule/(a a SPS00 -) [
+    sn/head/(altura altura NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

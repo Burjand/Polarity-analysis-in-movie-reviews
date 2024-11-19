@@ -1,0 +1,46 @@
+grup-verb/top/(Aprueba aprobar VMIP3S0 -) [
+  coor-sp/modnomatch/(y y CC -) [
+    grup-sp/modnorule/(por por SPS00 -) [
+      sn/head/(pelos pelo NCMP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+      ]
+    ]
+    grup-sp/modnorule/(por por SPS00 -) [
+      sn/head/(banda banda NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        s-a-fs/qual/(sonora sonoro AQ0FS0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(porque porque CS -) [
+    grup-verb/modnorule/(son ser VSIP3P0 -) [
+      sn/subj/(últimos último AO0MP0 -) [
+        j-mp/modnomatch/(los el DA0MP0 -)
+      ]
+      sn/subj/(minutos minuto NCMP000 -) [
+        numero-nopart/quant/(20 20 Z -)
+      ]
+    ]
+  ]
+  s-adj/modnomatch/(pobres pobre AQ0CP0 -) [
+    sadv/modnorule/(muy muy RG -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+F-no-c/top/(¿ ¿ Fia -) [
+  grup-verb/modnorule/(ser ser VSN0000 -) [
+    VMI*<poder>/modnomatch/(Podría poder VMIC1S0 -)
+  ]
+  conj-subord/modnorule/(que que CS -)
+  sn/modnorule/(comedia comedia NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    s-a-fs/qual/(americana americano AQ0FS0 -)
+  ]
+  vaux/modnorule/(esté estar VASP1S0 -)
+  forma-ger/modnorule/(tocando tocar VMG0000 -)
+  sn/modnorule/(fondo fondo NCMS000 -)
+  F-term/modnorule/(? ? Fit -)
+]
+

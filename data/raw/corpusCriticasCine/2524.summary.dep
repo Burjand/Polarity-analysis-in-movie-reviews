@@ -1,0 +1,28 @@
+grup-sp-inf/top/(Para para SPS00 -) [
+  grup-verb-inf/head/(partir partir VMN0000 -) [
+    PP*/modnomatch/(se se PP3CN000 -)
+  ]
+  sn/modnomatch/(pecho pecho NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+  ]
+  grup-sp-inf/modnomatch/(a a SPS00 -) [
+    grup-verb-inf/head/(reir reir VMN0000 -)
+  ]
+  coord/modnomatch/(y y CC -)
+  grup-verb-inf/head/(bajar bajar VMN0000 -) [
+    VMN0000(tener)/modnomatch/(tener tener VMN0000 -)
+    CS(que)/modnomatch/(que que CS -)
+  ]
+  grup-sp/modnomatch/(a a SPS00 -) [
+    sn/head/(urgencias urgencia NCFP000 -)
+  ]
+  prep/modnomatch/(a a SPS00 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(cosan coser VMSP3P0 -) [
+      patons/modnomatch/(os os PP2CP000 -)
+      patons/modnomatch/(lo lo PP3CNA00 -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

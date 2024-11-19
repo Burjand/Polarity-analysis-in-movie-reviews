@@ -1,0 +1,47 @@
+grup-verb/top/(trata tratar VMIP3S0 -) [
+  morfema-verbal/modnomatch/(Se se P0000000 -)
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(historia historia NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(continúa continuar VMIP3S0 -)
+  ]
+  sadv/cc/(bien bien RG -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(predecesora predecesor NCFS000 -) [
+      espec-fs/espec/(su su DP3CS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  ger/modnomatch/(haciendo hacer VMG0000 -) [
+    PP*/modnorule/(nos nos PP1CP000 -)
+  ]
+  grup-verb-inf/modnomatch/(pasar pasar VMN0000 -)
+  sn/obj/(rato rato NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(y y CC -) [
+      s-a-ms/modnorule/(angustioso angustioso AQ0MS0 -)
+      s-a-ms/modnorule/(terrorífico terrorífico AQ0MS0 -)
+    ]
+    F-no-c/modnomatch/(: : Fd -)
+  ]
+  sn/obj/(intento intento NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(buen bueno AQ0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Fresnadillo fresnadillo NP00000 -) [
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(ideas idea NCFP000 -) [
+            s-a-fp/qual/(originales original AQ0CP0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  coord/modnomatch/(pero pero CC -)
+  s-adj/modnomatch/(falto falto AQ0MS0 -)
+  F-no-c/modnomatch/(... ... Fs -)
+]
+

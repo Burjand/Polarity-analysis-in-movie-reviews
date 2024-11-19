@@ -1,0 +1,54 @@
+grup-verb/top/(pretende pretender VMIP3S0 -) [
+  sn/subj/(Hombre_de_el_Tiempo hombre_de_el_tiempo NP00000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+  ]
+  grup-verb-inf/modnomatch/(ser ser VSN0000 -)
+  sn/obj/(retrato retrato NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(vida vida NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(desgraciado desgraciado NCMS000 -) [
+            espec-ms/espec/(un uno DI0MS0 -)
+            s-a-ms/qual/(pobre pobre AQ0CS0 -)
+          ]
+        ]
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(consigue conseguir VMIP3S0 -) [
+        neg/modneg/(no no RN -)
+      ]
+    ]
+    subord/modnomatch/(que que CS -) [
+      grup-verb/modnorule/(salga salir VMSP1S0 -) [
+        patons/modnomatch/(le le PP3CSD00 -)
+        sn/subj/(nada nada PI0CS000 -)
+        sadv/cc/(bien bien RG -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(Y y CC -) [
+  coor-vb/modnomatch/(aunque aunque CC -) [
+    grup-verb/co-v/(queda quedar VMIP3S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+    ]
+  ]
+  sadv/modnomatch/(cerca cerca RG -)
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(conseguir conseguir VMN0000 -) [
+      PP*/modnomatch/(lo lo PP3CNA00 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(consigue conseguir VMIP3S0 -) [
+    neg/modneg/(no no RN -)
+  ]
+  grup-verb-inf/modnomatch/(emocionar emocionar VMN0000 -)
+  F-term/modnomatch/(. . Fp -)
+]
+

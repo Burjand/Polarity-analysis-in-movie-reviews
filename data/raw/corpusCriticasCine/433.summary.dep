@@ -1,0 +1,61 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(film film NCMS000 -) [
+    espec-ms/espec/(Este este DD0MS0 -)
+  ]
+  sn/obj/(lección lección NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(cosas cosa NCFP000 -) [
+        espec-fp/espec/(muchas mucho DI0FP0 -)
+      ]
+    ]
+  ]
+  F-no-c/modnomatch/(: : Fd -)
+  grup-sp/modnomatch/(de de SPS00 -) [
+    sadv/modnomatch/(cómo cómo PT000000 -)
+  ]
+  grup-verb-inf/modnomatch/(hacer hacer VMN0000 -)
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(pero pero CC -) [
+      s-a-fs/modnorule/(valiente valiente AQ0CS0 -)
+      s-a-fs/modnorule/(respetuosa respetuoso AQ0FS0 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-sp/modnomatch/(de de SPS00 -) [
+      sadv/modnomatch/(cómo cómo PT000000 -)
+    ]
+  ]
+  grup-verb-inf/modnomatch/(basar basar VMN0000 -) [
+    PP*/modnomatch/(se se PP3CN000 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(hechos hecho NCMP000 -) [
+      s-a-mp/qual/(reales real AQ0CP0 -)
+    ]
+  ]
+  grup-sp-inf/modnomatch/(sin sin SPS00 -) [
+    grup-verb-inf/head/(eclipsar eclipsar VMN0000 -)
+    sn/modnomatch/(película película NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(ideologías ideología NCFP000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(de de SPS00 -) [
+    sadv/modnomatch/(cómo cómo PT000000 -)
+  ]
+  grup-verb-inf/modnomatch/(adaptar adaptar VMN0000 -)
+  sn/obj/(reglas regla NCFP000 -) [
+    espec-fp/espec/(las el DA0FP0 -)
+    s-a-fp/qual/(cinematográficas cinematográfico AQ0FP0 -)
+  ]
+  coord/modnomatch/(y y CC -)
+  grup-verb-inf/modnomatch/(emocionando emocionar VMG0000 -) [
+    VMN0000(seguir)/modnomatch/(seguir seguir VMN0000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

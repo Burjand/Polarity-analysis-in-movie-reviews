@@ -1,0 +1,35 @@
+grup-verb/top/(sería ser VSIC1S0 -) [
+  sn/subj/(Hollywoodland hollywoodland NP00000 -)
+  sn/obj/(ejemplo ejemplo NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(perfecto perfecto AQ0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(bulevar bulevar NCMS000 -) [
+        espec-ms/espec/(ese ese DD0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(sueños sueño NCMP000 -) [
+            espec-mp/espec/(los el DA0MP0 -)
+            s-a-mp/qual/(rotos romper VMP00PM -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  prep/modnomatch/(en en SPS00 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(reventando reventar VMG0000 -) [
+      patons/modnomatch/(se se PP3CN000 -)
+      VMI*<terminar>/modnomatch/(terminan terminar VMIP3P0 -)
+      sn/subj/(aspiraciones aspiración NCFP000 -) [
+        espec-fp/espec/(tantas tanto DI0FP0 -)
+      ]
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  subord-ger/modnomatch/(haciendo hacer VMG0000 -) [
+    PP*/modnorule/(se se PP3CN000 -)
+    sn/modnorule/(polvo polvo NCMS000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

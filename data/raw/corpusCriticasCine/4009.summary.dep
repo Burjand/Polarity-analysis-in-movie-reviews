@@ -1,0 +1,43 @@
+grup-verb/top/(radica radicar VMIP3S0 -) [
+  sn/subj/(fuerza fuerza NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Irina_Palm irina_palm NP00000 -)
+    ]
+  ]
+  sadv/cc/(tanto tanto RG -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(desarrollo desarrollo NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(personal personal AQ0CS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(protagonista protagonista NCCS000 -) [
+          espec-ms/espec/(su su DP3CS0 -)
+        ]
+      ]
+    ]
+  ]
+  conj-subord/modnomatch/(como como CS -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(romance romance NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(delicioso delicioso AQ0MS0 -)
+    ]
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(mantiene mantener VMIP3S0 -) [
+      sn/subj/(ésta este PD0FS000 -)
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  s-adj/modnomatch/(pero pero CC -) [
+    s-a-ms/modnorule/(predominante predominante AQ0CS0 -) [
+      sadv/modnorule/(nunca nunca RG -)
+    ]
+    s-a-ms/modnorule/(latente latente AQ0CS0 -) [
+      sadv/modnorule/(siempre siempre RG -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

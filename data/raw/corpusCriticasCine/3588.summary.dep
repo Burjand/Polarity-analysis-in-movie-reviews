@@ -1,0 +1,68 @@
+grup-verb/top/(mezcla mezclar VMIP3S0 -) [
+  sn/subj/(Peligrosa peligrosa NP00000 -)
+  grup-sp/modnomatch/(entre entre SPS00 -) [
+    sn/head/(géneros género NCMP000 -)
+  ]
+  prep/modnomatch/(en en SPS00 -)
+  espec-fs/modnomatch/(la el DA0FS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(antepone anteponer VMIP3S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+      sn/subj/(técnica técnica NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        Fc(,)/modnomatch/(, , Fc -)
+        subord/modnomatch/(que que PR0CN000 -) [
+          grup-verb/modnorule/(perfecciona perfeccionar VMIP3S0 -)
+        ]
+      ]
+      sn/subj/(idea idea NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        s-a-fs/qual/(existente existente AQ0CS0 -) [
+          sadv/modnorule/(ya ya RG -)
+        ]
+        Fc(,)/modnomatch/(, , Fc -)
+      ]
+      grup-sp/iobj/(a a SPS00 -) [
+        sn/head/(formalidad formalidad NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(guión guión NCMS000 -) [
+              espec-ms/espec/(un uno DI0MS0 -)
+              s-a-ms/qual/(fundamentado fundamentar VMP00SM -)
+            ]
+          ]
+        ]
+      ]
+      grup-sp/cc/(en en SPS00 -) [
+        sn/head/(premisas premisa NCFP000 -) [
+          s-a-fp/qual/(endebles endeble AQ0CP0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(destrucción destrucción NCFS000 -) [
+              s-a-fs/qual/(fácil fácil AQ0CS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-n/top/(y y CC -) [
+  sn/co-n/(terror terror NCMS000 -) [
+    s-a-ms/qual/(Patético patético AQ0MS0 -)
+    s-a-ms/qual/(engañoso engañoso AQ0MS0 -) [
+      s-a-ms/modnorule/(construido construir VMP00SM -)
+    ]
+    grup-sp/modnomatch/(a_base_de a_base_de SPS00 -) [
+      sn/head/(Dogma dogma NP00000 -)
+    ]
+  ]
+  sn/co-n/(apagones apagón NCMP000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(luz luz NCFS000 -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

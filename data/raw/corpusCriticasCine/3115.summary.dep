@@ -1,0 +1,53 @@
+grup-verb/top/(son ser VSIP3P0 -) [
+  sn/subj/(defectos defecto NCMP000 -) [
+    espec-mp/espec/(Todos todo DI0MP0 -) [
+      pos-mp/modnorule/(sus su DP3CP0 -)
+    ]
+  ]
+  s-adj/att/(mínimos mínimo AQ0MP0 -) [
+    s-a-mp/modnorule/(comparados comparar VMP00PM -)
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(sorpresa sorpresa NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(sido ser VSP00SM -) [
+      vaux/aux/(ha haber VAIP3S0 -)
+    ]
+  ]
+  grup-verb-inf/modnomatch/(encontrar encontrar VMN0000 -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(película película NCFS000 -) [
+      espec-fs/espec/(esta este DD0FS0 -)
+    ]
+  ]
+  sn/obj/(uno uno PI0MS000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(estrenos estreno NCMP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+        s-a-mp/qual/(disfrutables disfrutables AQ0CP0 -) [
+          sadv/modnorule/(más más RG -)
+        ]
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(temporada temporada NCFS000 -) [
+            espec-fs/espec/(la el DA0FS0 -)
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(uno uno PI0MS000 -) [
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(vale valer VMIP3S0 -)
+    ]
+  ]
+  sn/obj/(pena pena NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  grup-verb-inf/modnomatch/(recomendar recomendar VMN0000 -)
+  F-term/term/(. . Fp -)
+]
+

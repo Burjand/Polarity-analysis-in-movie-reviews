@@ -1,0 +1,74 @@
+grup-verb/top/(son ser VSIP3P0 -) [
+  sn/subj/(Retablo retablo NCMS000 -) [
+    s-a-ms/qual/(folclórico folclórico AQ0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(España españa NP00000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+    prep/modnomatch/(de de SPS00 -)
+    espec-ms/espec/(el el DA0MS0 -)
+  ]
+  sn/subj/(hambre hambre NCFS000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(tiempos tiempo NCMP000 -) [
+    espec-mp/espec/(estos este DD0MP0 -)
+  ]
+  grup-sp/modnomatch/(de de SPS00 -) [
+    sadv/modnomatch/(ahora ahora RG -)
+  ]
+  neg/modneg/(no no RN -)
+  s-adj/att/(distintos distinto AQ0MP0 -) [
+    sadv/modnorule/(particularmente particularmente RG -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(son ser VSIP3P0 -) [
+  sn/subj/(dificultades dificultad NCFP000 -) [
+    espec-fp/espec/(Las el DA0FP0 -)
+  ]
+  sn/obj/(otras otro PI0FP000 -)
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(pero pero CC -) [
+  grup-verb/co-v/(Es ser VSIP3S0 -) [
+    s-adj/att/(posible posible AQ0CS0 -)
+    subord/modnomatch/(que que CS -) [
+      grup-verb/modnorule/(sea ser VSSP1S0 -) [
+        neg/modneg/(no no RN -)
+      ]
+    ]
+    espec-ms/modnomatch/(el el DA0MS0 -)
+  ]
+  coor-n/subj/(o o CC -) [
+    sn/co-n/(hambre hambre NCFS000 -)
+    sn/co-n/(censura censura NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  sn/subj/(argumentos argumento NCMP000 -) [
+    espec-mp/espec/(los el DA0MP0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(revolución revolución NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  grup-verb/co-v/(colea colear VMIP3S0 -) [
+    sadv/cc/(todavía todavía RG -)
+    sn/obj/(hijo hijo NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(pactos pacto NCMP000 -) [
+          espec-mp/espec/(aquellos aquel DD0MP0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

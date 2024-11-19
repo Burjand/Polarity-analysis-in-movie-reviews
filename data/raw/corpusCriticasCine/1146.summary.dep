@@ -1,0 +1,78 @@
+grup-verb/top/(pasará pasar VMIF3S0 -) [
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+  ]
+  sadv/cc/(desde_luego desde_luego RG -)
+  neg/modneg/(no no RN -)
+  grup-sp/cc/(a a SPS00 -) [
+    sn/head/(historia historia NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(puesto puesto NCMS000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(principio principio NCMS000 -) [
+        grup-verb/modnomatch/(es ser VSIP3S0 -) [
+          grup-sp/modnomatch/(a a SPS00 -) [
+            sn/head/(fin fin NCMS000 -)
+          ]
+          sn/obj/(, , Fc -) [
+            j-ms/modnomatch/(lo el DA0NS0 -)
+            s-a-ms/qual/(absurdo absurdo AQ0MS0 -) [
+              sadv/modnorule/(más más RG -)
+            ]
+            s-a-ms/qual/(y y CC -) [
+              s-a-ms/modnorule/(rallante rallante AQ0CS0 -)
+              s-a-ms/modnorule/(zafio zafio AQ0MS0 -)
+            ]
+          ]
+          subord/modnomatch/(que que PR0CN000 -) [
+            grup-verb/modnorule/(esperar esperar VMN0000 -) [
+              VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+              sn/subj/(uno uno PI0MS000 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  prel/modnomatch/(que que PR0CN000 -)
+  coor-sp/modnomatch/(pero pero CC -) [
+    Fc(,)/modnorule/(, , Fc -)
+    grup-sp/modnorule/(en en SPS00 -) [
+      sn/head/(fin fin NCMS000 -) [
+        grup-verb/modnomatch/(son ser VSIP3P0 -) [
+          sn/obj/(90_min TM_min:90 Zu -) [
+            grup-verb/modnomatch/(olvidan olvidar VMIP3P0 -) [
+              morfema-verbal/modnomatch/(se se P0000000 -)
+              subord/modnomatch/(como como CS -) [
+                grup-verb/modnorule/(visionan visionar VMIP3P0 -) [
+                  morfema-verbal/modnomatch/(se se P0000000 -)
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(. . Fp -)
+  parti-flex/modnomatch/(entretenidos entretener VMP00PM -)
+  Fc(,)/modnomatch/(, , Fc -)
+  conj-subord/modnomatch/(que que CS -)
+  Fc(,)/modnomatch/(, , Fc -)
+  sadv/cc/(a_priori a_priori RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(Consumo consumo NCMS000 -) [
+  s-a-ms/qual/(rápido rápido AQ0MS0 -)
+  coord/modnomatch/(y y CC -)
+  sadv/modnomatch/(poco poco RG -)
+  sadv/modnomatch/(más más RG -)
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,51 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(This this NP00000 -)
+  sn/subj/(is i NCFP000 -)
+  sn/subj/(England england NP00000 -)
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    n-fs/modnomatch/(revelación revelación NCFS000 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(cine cine NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        s-a-ms/qual/(inglés inglés AQ0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(año año NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+            s-a-ms/qual/(pasado pasar VMP00SM -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(definir definir VMN0000 -) [
+  morfema-verbal/modnomatch/(Se se P0000000 -)
+  VMI*<poder>/modnomatch/(podría poder VMIC1S0 -)
+  grup-sp/modnomatch/(como como CS -) [
+    sn/head/(especie especie NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(England_History_X england_history_x NP00000 -)
+      ]
+    ]
+  ]
+  sadv/cc/(tanto tanto RG -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(espíritu espíritu NCMS000 -)
+  ]
+  conj-subord/modnomatch/(como como CS -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(concepción concepción NCFS000 -)
+  ]
+  forma-ger/modnomatch/(sustituyendo sustituir VMG0000 -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(Edward_Norton_por_Stephen_Graham edward_norton_por_stephen_graham NP00000 -)
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(Eduard_Furlong_por_Thomas_Turgoose eduard_furlong_por_thomas_turgoose NP00000 -)
+  ]
+]
+

@@ -1,0 +1,79 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(giro giro NCMS000 -) [
+    espec-ms/espec/(Este este DD0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Fincher fincher NP00000 -)
+    ]
+  ]
+  neg/modneg/(no no RN -)
+  s-adj/att/(estilístico estilístico AQ0MS0 -)
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(trata tratar VMIP3S0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  neg/modneg/(No no RN -)
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(contención contención NCFS000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(rigor rigor NCMS000 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(sino sino CC -)
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(y y CC -) [
+  sn/subj/(Percibo percibo NCMS000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-sp/modnomatch/(como como CS -) [
+      sadv/modnomatch/(siempre siempre RG -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/modnomatch/(abuso abuso NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(directores director NCMP000 -) [
+          espec-mp/espec/(los el DA0MP0 -)
+          s-a-mp/qual/(mimados mimar VMP00PM -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(industria industria NCFS000 -) [
+              espec-fs/espec/(la el DA0FS0 -)
+              sp-de/mod/(de de SPS00 -) [
+                sn/gen/(sistema sistema NCMS000 -) [
+                  espec-ms/espec/(el el DA0MS0 -)
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+      Fc(,)/modnomatch/(, , Fc -)
+    ]
+    prel/modnomatch/(que que PR0CN000 -)
+    Fc(,)/modnomatch/(, , Fc -)
+    parti-flex/modnomatch/(adueñados adueñar VMP00PM -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(mandan mandar VMIP3P0 -) [
+    grup-sp/modnomatch/(sobre sobre SPS00 -) [
+      sn/head/(productores productor NCMP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+      ]
+    ]
+  ]
+  grup-verb/co-v/(niegan negar VMIP3P0 -) [
+    morfema-verbal/modnomatch/(se se P0000000 -)
+  ]
+  grup-sp-inf/modnomatch/(a a SPS00 -) [
+    grup-verb-inf/head/(aceptar aceptar VMN0000 -)
+    sn/modnomatch/(tijera tijera NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(necesaria necesario AQ0FS0 -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

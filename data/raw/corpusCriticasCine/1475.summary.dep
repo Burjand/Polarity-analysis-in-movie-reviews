@@ -1,0 +1,74 @@
+coor-n/top/(y y CC -) [
+  sn/co-n/(Ultraviolenta ultraviolenta NP00000 -)
+  sn/co-n/(película película NCFS000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(mafiosos mafioso NCMP000 -)
+    ]
+  ]
+  sn/co-n/(asesinos asesino NCMP000 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(discurre discurrir VMIP3S0 -)
+  ]
+  grup-sp/modnomatch/(en en SPS00 -) [
+    sn/head/(mayoría mayoría NCFS000 -) [
+      espec-fs/espec/(su su DP3CS0 -)
+      grup-sp/modnomatch/(en en SPS00 -) [
+        sn/head/(hotel hotel NCMS000 -) [
+          espec-ms/espec/(un uno DI0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord-ger/modnomatch/(mostrando mostrar VMG0000 -) [
+    PP*/modnorule/(nos nos PP1CP000 -)
+    sn/modnorule/(elaborados elaborar VMP00PM -) [
+      espec-mp/espec/(los el DA0MP0 -)
+      espec-mp/espec/(más más RG -)
+    ]
+  ]
+  sn/co-n/(métodos método NCMP000 -)
+  grup-sp-inf/modnomatch/(para para SPS00 -) [
+    grup-verb-inf/head/(matar matar VMN0000 -)
+  ]
+  grup-sp/modnomatch/(a a SPS00 -) [
+    sn/head/(alguien alguien PI0CS000 -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+grup-sp/top/(A a SPS00 -) [
+  ptonic/modnomatch/(mí mí PP1CSO00 -)
+  coor-vb/modnomatch/(pero pero CC -) [
+    grup-verb/co-v/(encantó encantar VMIS3S0 -) [
+      patons/modnomatch/(me me PP1CS000 -)
+      neg/modneg/(no no RN -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-verb/co-v/(convencido convencer VMP00SM -) [
+      vaux/aux/(estoy estar VAIP1S0 -)
+      subord/modnomatch/(que que CS -) [
+        grup-verb/modnorule/(convertirá convertir VMIF3S0 -) [
+          morfema-verbal/modnomatch/(se se P0000000 -)
+        ]
+      ]
+      grup-sp/cc/(en en SPS00 -) [
+        sn/head/(película película NCFS000 -) [
+          espec-fs/espec/(una uno DI0FS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(referencia referencia NCFS000 -) [
+              sp-de/mod/(de de SPS00 -) [
+                sn/gen/(género género NCMS000 -) [
+                  espec-ms/espec/(el el DA0MS0 -)
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

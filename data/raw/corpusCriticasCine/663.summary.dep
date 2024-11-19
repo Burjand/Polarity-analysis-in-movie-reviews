@@ -1,0 +1,46 @@
+grup-verb/top/(Convierte convertir VMIP3S0 -) [
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(anodino anodino NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(empleado emplear VMP00SM -)
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(bomba bomba NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(relojería relojería NCFS000 -) [
+          s-a-fs/qual/(ambulante ambulante AQ0CS0 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  ger/modnomatch/(llevando llevar VMG0000 -) [
+    PP*/modnorule/(lo lo PP3CNA00 -)
+  ]
+  grup-sp/modnomatch/(a_través_de a_través_de SPS00 -) [
+    sn/head/(situaciones situación NCFP000 -) [
+      grup-sp/modnomatch/(a a SPS00 -) [
+        sn/head/(caballo caballo NCMS000 -) [
+          grup-sp/modnomatch/(entre entre SPS00 -) [
+            sn/head/(humor humor NCMS000 -) [
+              espec-ms/espec/(el el DA0MS0 -)
+              w-ms/modnomatch/(Tarantiniano tarantiniano NP00000 -)
+            ]
+            CC(y)/modnomatch/(y y CC -)
+            sn/head/(humor humor NCMS000 -) [
+              espec-ms/espec/(el el DA0MS0 -)
+              s-a-ms/qual/(amarillo amarillo AQ0MS0 -)
+              sp-de/mod/(de de SPS00 -) [
+                sn/gen/(Cuatro 4 Z -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

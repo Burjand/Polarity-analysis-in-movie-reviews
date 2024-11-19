@@ -1,0 +1,57 @@
+coor-vb/top/(Aunque aunque CC -) [
+  grup-verb/co-v/(acabe acabar VMM03S0 -)
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(empezar empezar VMN0000 -)
+    sn/modnomatch/(año año NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  grup-verb/co-v/(atrevo atrever VMIP1S0 -) [
+    patons/modnomatch/(me me PP1CS000 -)
+    grup-sp-inf/iobj/(a a SPS00 -) [
+      grup-verb-inf/head/(presagiar presagiar VMN0000 -)
+    ]
+    subord/modnomatch/(que que CS -) [
+      grup-verb/modnorule/(ser ser VSN0000 -) [
+        VMI*<ir>/modnomatch/(va ir VMIP3S0 -)
+        SPS00(a)/modnomatch/(a a SPS00 -)
+      ]
+    ]
+    sp-de/modnomatch/(de de SPS00 -) [
+      sn/gen/(cintas cinta NCFP000 -) [
+        espec-fp/espec/(las el DA0FP0 -)
+        s-a-fp/qual/(peores peor AQ0CP0 -)
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(esperan esperar VMIP3P0 -) [
+        patons/modnomatch/(nos nos PP1CP000 -)
+      ]
+    ]
+    grup-sp/modnomatch/(con con SPS00 -) [
+      sn/head/(calidad calidad NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(llega llegar VMIP3S0 -) [
+        sadv/cc/(casi casi RG -)
+        neg/modneg/(no no RN -)
+        grup-sp/cc/(a a SPS00 -) [
+          sn/head/(de de SPS00 -) [
+            j-fs/modnomatch/(la el DA0FS0 -)
+            sn/modnomatch/(telefilm telefilm NCMS000 -) [
+              sp-de/mod/(de de SPS00 -) [
+                sn/gen/(tarde tarde NCFS000 -) [
+                  s-a-fs/qual/(media medio AQ0FS0 -)
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

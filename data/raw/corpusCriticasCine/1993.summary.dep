@@ -1,0 +1,43 @@
+grup-verb/top/(respirar respirar VMN0000 -) [
+  VMI*<poder>/modnomatch/(pude poder VMIS1S0 -)
+  grup-sp/modnomatch/(Durante durante SPS00 -) [
+    sn/head/(parte parte NCFS000 -) [
+      s-a-fs/qual/(buena bueno AQ0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(metraje metraje NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+    coord/modnomatch/(y y CC -)
+    s-adj/modnomatch/(solo solo AQ0MS0 -)
+  ]
+  s-adj/modnomatch/(tranquilo tranquilo AQ0MS0 -)
+  subord/modnomatch/(cuando cuando CS -) [
+    grup-verb/modnorule/(aparecieron aparecer VMIS3P0 -) [
+      sn/obj/(títulos título NCMP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(crédito crédito NCMS000 -)
+        ]
+      ]
+    ]
+  ]
+  s-adj/modnomatch/(finales final AQ0CP0 -)
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(resumir resumir VMN0000 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+  sn/subj/(Patética patética NP00000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  neg/modneg/(no no RN -)
+  sadv/cc/(más más RG -)
+  grup-sp/cc/(en en SPS00 -) [
+    sadv/modnomatch/(menos menos RG -)
+    F-no-c/modnomatch/(... ... Fs -)
+  ]
+]
+

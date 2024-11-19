@@ -1,0 +1,43 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(Adiós_Pequeña_Adiós adiós_pequeña_adiós NP00000 -)
+  espec-fs/modnomatch/(una uno DI0FS0 -)
+  sadv/cc/(más más RG -)
+  conj-subord/modnomatch/(que que CS -)
+  sn/obj/(película película NCFS000 -) [
+    s-a-fs/qual/(correcta correcto AQ0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(intriga intriga NCFS000 -) [
+        grup-sp/modnomatch/(en en SPS00 -) [
+          sn/head/(parte parte NCFS000 -) [
+            espec-fs/espec/(su su DP3CS0 -)
+            s-a-fs/qual/(final final AQ0CS0 -)
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(falla fallar VMIP3S0 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  coord/modnomatch/(pero pero CC -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(cumple cumplir VMIP3S0 -) [
+      sadv/cc/(en_líneas_generales en_líneas_generales RG -)
+      sn/obj/(objetivo objetivo NCMS000 -) [
+        espec-ms/espec/(su su DP3CS0 -)
+      ]
+    ]
+  ]
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(entretener entretener VMN0000 -)
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(espectador espectador NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

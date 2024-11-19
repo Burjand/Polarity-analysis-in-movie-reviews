@@ -1,0 +1,59 @@
+grup-verb/top/(supone suponer VMIP3S0 -) [
+  sn/subj/(Beowulf beowulf NP00000 -)
+  sn/obj/(paso paso NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    s-a-ms/qual/(siguiente siguiente AQ0CS0 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(evolución evolución NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(sistema sistema NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          w-ms/modnomatch/(Motion_Capture motion_capture NP00000 -)
+        ]
+      ]
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  prep/modnomatch/(a_pesar_de a_pesar_de SPS00 -)
+  espec-mp/modnomatch/(sus su DP3CP0 -)
+  s-adj/modnomatch/(evidente evidente AQ0CS0 -)
+  coor-n/obj/(e e CC -) [
+    sn/co-n/(aciertos acierto NCMP000 -) [
+      s-a-mp/qual/(innegables innegable AQ0CP0 -)
+      grup-verb/modnomatch/(es ser VSIP3S0 -) [
+        sn/obj/(film film NCMS000 -) [
+          espec-ms/espec/(un uno DI0MS0 -)
+          grup-verb/modnomatch/(resultar resultar VMN0000 -) [
+            VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+          ]
+        ]
+        sadv/cc/(poco poco RG -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  parti-flex/modnomatch/(equilibrado equilibrar VMP00SM -)
+  relatiu/modnomatch/(duración duración NCFS000 -) [
+    cuyo-fs/modnorule/(cuya cuyo PR0FS000 -)
+  ]
+  parti-flex/modnomatch/(pesada pesar VMP00SF -)
+  grup-sp/iobj/(para para SPS00 -) [
+    sn/head/(espectador espectador NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      grup-sp/modnomatch/(debido_a debido_a SPS00 -) [
+        sn/head/(irregular irregular AQ0CS0 -) [
+          j-ms/modnomatch/(lo el DA0NS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(ritmo ritmo NCMS000 -) [
+              espec-ms/espec/(su su DP3CS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

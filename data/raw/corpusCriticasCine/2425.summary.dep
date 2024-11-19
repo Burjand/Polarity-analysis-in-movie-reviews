@@ -1,0 +1,55 @@
+coor-vb/top/(y y CC -) [
+  sn/subj/(Yo yo PP1CSN00 -)
+  grup-verb/co-v/(es ser VSIP3S0 -) [
+    sn/obj/(película película NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(levantará levantar VMIF3S0 -)
+      ]
+    ]
+    sn/obj/(pasiones pasión NCFP000 -) [
+      s-a-fp/qual/(grandes grande AQ0CP0 -)
+    ]
+    grup-sp/modnomatch/(entre entre SPS00 -) [
+      sn/head/(espectadores espectador NCMP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(vean ver VMSP3P0 -) [
+        patons/modnomatch/(la lo PP3FSA00 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(ofrece ofrecer VMIP3S0 -) [
+    coor-n/obj/(y y CC -) [
+      sn/co-n/(serie serie NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        s-a-fs/qual/(buena bueno AQ0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(preguntas pregunta NCFP000 -)
+        ]
+      ]
+      Fc(,)/modnomatch/(, , Fc -)
+      sn/co-n/(reflexiones reflexión NCFP000 -)
+      sn/co-n/(lecturas lectura NCFP000 -)
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(variarán variar VMIF3P0 -)
+    ]
+  ]
+  forma-ger/modnomatch/(dependiendo depender VMG0000 -)
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(ojo ojo NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(juzgue juzgar VMSP1S0 -) [
+      patons/modnomatch/(la lo PP3FSA00 -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

@@ -1,0 +1,75 @@
+coor-vb/top/(y y CC -) [
+  sn/subj/(Truño truño NP00000 -) [
+    s-a-ms/qual/(infumable infumable AQ0CS0 -)
+    grup-sp/modnomatch/(sobre sobre SPS00 -) [
+      sn/head/(tipo tipo NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        grup-sp/modnomatch/(con con SPS00 -) [
+          sn/head/(mujeres mujer NCFP000 -)
+        ]
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(obsesiona obsesionar VMIP3S0 -) [
+        morfema-verbal/modnomatch/(se se P0000000 -)
+      ]
+    ]
+  ]
+  grup-verb/co-v/(matar matar VMN0000 -) [
+    patons/modnomatch/(las los PP3FPA00 -)
+    VMI*<querer>/modnomatch/(quiere querer VMIP3S0 -)
+  ]
+  sadv/modnomatch/(a_bordo a_bordo RG -)
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(coche coche NCMS000 -) [
+      espec-ms/espec/(su su DP3CS0 -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+grup-verb/top/(hacía hacer VMII1S0 -) [
+  coor-n/subj/(y y CC -) [
+    sn/co-n/(charla charla NCFS000 -) [
+      espec-fs/espec/(Mucha mucho DI0FS0 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(acción acción NCFS000 -) [
+      espec-fs/espec/(poca poco DI0FS0 -)
+    ]
+    sn/co-n/(diálogos diálogo NCMP000 -)
+    prel/modnomatch/(que que PR0CN000 -)
+    sadv/modnomatch/(seguro seguro RG -)
+    subord/modnomatch/(que que CS -) [
+      grup-verb/modnorule/(encandilen encandilar VMSP3P0 -) [
+        grup-sp/modnomatch/(a a SPS00 -) [
+          sn/head/(gente gente NCFS000 -) [
+            espec-fs/espec/(mucha mucho DI0FS0 -)
+          ]
+        ]
+      ]
+      Fc(,)/modnorule/(, , Fc -)
+    ]
+    coord/modnomatch/(pero pero CC -)
+    subord/modnomatch/(que que CS -) [
+      grup-verb/modnorule/(ayudaron ayudar VMIS3P0 -) [
+        patons/modnomatch/(me me PP1CS000 -)
+      ]
+    ]
+    grup-sp-inf/modnomatch/(a a SPS00 -) [
+      grup-verb-inf/head/(decidir decidir VMN0000 -)
+      sn/modnomatch/(qué qué PT0CN000 -)
+    ]
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(día día NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(siguiente siguiente AQ0CS0 -)
+    ]
+  ]
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(cenar cenar VMN0000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

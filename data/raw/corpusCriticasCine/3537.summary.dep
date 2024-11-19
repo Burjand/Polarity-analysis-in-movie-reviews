@@ -1,0 +1,76 @@
+grup-verb/top/(vampira vampira VMM02S0 -) [
+  sn/subj/(Película película NCFS000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(culto culto NCMS000 -) [
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(director director NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+            s-a-ms/qual/(prolífico prolífico AQ0MS0 -) [
+              sadv/modnorule/(más más RG -)
+            ]
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(cine cine NCMS000 -) [
+                espec-ms/espec/(el el DA0MS0 -)
+                s-a-ms/qual/(español español AQ0MS0 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    prel-adv/modnomatch/(donde donde PR000000 -)
+    espec-fs/espec/(una uno DI0FS0 -)
+  ]
+  grup-verb/modnomatch/(comiendo comer VMG0000 -) [
+    patons/modnomatch/(le le PP3CSD00 -)
+    VMI*<ir>/modnomatch/(va ir VMIP3S0 -)
+  ]
+  espec-ms/modnomatch/(lo el DA0NS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(apetece apetecer VMIP3S0 -) [
+      patons/modnomatch/(le le PP3CSD00 -)
+    ]
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(chatunga chatungo NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+s-adj/top/(mala malo AQ0FS0 -) [
+  sadv/modnorule/(Más más RG -)
+  conj-subord/modnorule/(que que CS -)
+  grup-verb-inf/modnorule/(pegar pegar VMN0000 -)
+  grup-verb/modnorule/(sudad sudar VMM02P0 -) [
+    patons/modnomatch/(os os PP2CP000 -)
+    grup-sp/modnomatch/(a a SPS00 -) [
+      sn/head/(padre padre NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        grup-sp/modnomatch/(con con SPS00 -) [
+          sn/head/(calzoncillos calzoncillo NCMP000 -) [
+            espec-mp/espec/(unos uno DI0MP0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+grup-sp-inf/top/(Para para SPS00 -) [
+  grup-verb-inf/head/(decir decir VMN0000 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(visto ver VMP00SM -) [
+      vaux/aux/(has haber VAIP2S0 -)
+    ]
+  ]
+  espec-fs/modnomatch/(una uno DI0FS0 -)
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(Jess_Franco jess_franco NP00000 -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

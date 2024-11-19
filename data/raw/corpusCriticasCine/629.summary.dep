@@ -1,0 +1,41 @@
+coor-vb/top/(pero pero CC -) [
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+    s-a-fs/qual/(dura duro AQ0FS0 -)
+    data/modnomatch/(dos_horas_y_media [??:??/??/??:2.30:??] W -)
+  ]
+  grup-verb/co-v/(hay haber VMIP3S0 -) [
+    neg/modneg/(no no RN -)
+    sn/obj/(tiempo tiempo NCMS000 -)
+  ]
+  grup-sp-inf/modnomatch/(para para SPS00 -) [
+    grup-verb-inf/head/(tomar tomar VMN0000 -)
+    sn/modnomatch/(aliento aliento NCMS000 -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+grup-verb/top/(nota notar VMIP3S0 -) [
+  morfema-verbal/modnomatch/(Se se P0000000 -)
+  sn/obj/(maestría maestría NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Scorsese scorsese NP00000 -)
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  sadv/cc/(también también RG -)
+  sn/obj/(amor amor NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(tiene tener VMIP3S0 -)
+    ]
+    grup-sp/modnomatch/(por por SPS00 -) [
+      sn/head/(cine cine NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

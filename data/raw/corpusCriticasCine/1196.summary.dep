@@ -1,0 +1,55 @@
+subord/top/(Si si CS -) [
+  grup-verb/modnorule/(vuelto volver VMP00SM -) [
+    vaux/aux/(hubiera haber VASI1S0 -)
+    neg/modneg/(no no RN -)
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(pasado pasar VMP00SM -) [
+    vaux/aux/(hubiera haber VASI1S0 -)
+    sadv/cc/(tampoco tampoco RG -)
+    sn/obj/(nada nada PI0CS000 -)
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+grup-sp/top/(Para para SPS00 -) [
+  sn/head/(fans fan NCCP000 -) [
+    espec-mp/espec/(los el DA0MP0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(pugil pugil NP00000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        s-a-ms/qual/(famoso famoso AQ0MS0 -) [
+          sadv/modnorule/(más más RG -)
+        ]
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(cine cine NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+            grup-sp/modnomatch/(a a SPS00 -) [
+              sn/head/(resto resto NCMS000 -) [
+                espec-ms/espec/(el el DA0MS0 -)
+                sp-de/mod/(de de SPS00 -) [
+                  sn/gen/(olvidable olvidable AQ0CS0 -) [
+                    j-ms/modnomatch/(lo el DA0NS0 -)
+                    sadv/modnomatch/(más más RG -)
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  Fc(,)/modnomatch/(, , Fc -)
+  forma-ger/modnomatch/(exceptuando exceptuar VMG0000 -)
+  espec-ms/modnomatch/(lo el DA0NS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(citado citar VMP00SM -) [
+      vaux/aux/(he haber VAIP1S0 -)
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

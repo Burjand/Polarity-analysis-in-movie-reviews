@@ -1,0 +1,83 @@
+grup-verb/top/(era ser VSII1S0 -) [
+  sn/subj/(voz voz NCFS000 -) [
+    espec-fs/espec/(La el DA0FS0 -)
+    s-a-fs/qual/(hueca hueco AQ0FS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(suelta soltar VMIP3S0 -)
+    ]
+  ]
+  sn/subj/(frases frase NCFP000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(catecismo catecismo NCMS000 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  espec-ms/modnomatch/(el el DA0MS0 -)
+  sn/obj/(fondo fondo NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(estrella estrella NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(había haber VMII3S0 -) [
+  neg/modneg/(No no RN -)
+  sn/obj/(chica chico NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+  ]
+  prep/modnomatch/(para para SPS00 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(funcionara funcionar VMSI1S0 -) [
+      sn/obj/(romance romance NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(está estar VAIP3S0 -) [
+  neg/modneg/(No no RN -) [
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(realidad realidad NCFS000 -)
+  ]
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(sostener sostener VMN0000 -)
+    sn/modnomatch/(pancarta pancarta NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(arreglar arreglar VMN0000 -) [
+      VMI*<poder>/modnomatch/(podemos poder VMIP1P0 -)
+      sn/subj/(blancos blanco NCMP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+      ]
+      sn/obj/(África áfrica NP00000 -)
+      grup-sp/modnomatch/(con con SPS00 -) [
+        sn/head/(par par NCMS000 -) [
+          espec-ms/espec/(un uno DI0MS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(leyes ley NCFP000 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+conj-subord/top/(Que que CS -) [
+  sn/modnorule/(maja majo NCFS000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/modnorule/(ella él PP3FS000 -)
+  F-term/modnorule/(. . Fp -)
+]
+

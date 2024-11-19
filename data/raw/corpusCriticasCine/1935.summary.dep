@@ -1,0 +1,48 @@
+grup-verb/top/(cinta cintar VMIP3S0 -) [
+  sn/subj/(Disfrutable disfrutable NP00000 -)
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(aventuras aventura NCFP000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  s-adj/modnomatch/(dinámica dinámico AQ0FS0 -) [
+    sadv/modnorule/(muy muy RG -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(hay haber VMIP3S0 -) [
+  sadv/cc/(Además además RG -)
+  sn/obj/(paisajes paisaje NCMP000 -) [
+    s-a-mp/qual/(bonitos bonito AQ0MP0 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(como como CS -) [
+    grup-verb/modnorule/(corresponde corresponder VMIP3S0 -)
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(ciudad ciudad NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(bellísima bello AQSFS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(Río_de_Janeiro río_de_janeiro NP00000 -)
+      ]
+    ]
+  ]
+  coor-n/obj/(y y CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(localizaciones localización NCFP000 -) [
+      espec-fp/espec/(otras otro DI0FP0 -)
+      s-a-fp/qual/(preciosas precioso AQ0FP0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(película película NCFS000 -) [
+  espec-fs/espec/(Una uno DI0FS0 -)
+  s-a-fs/qual/(disfrutable disfrutable AQ0CS0 -) [
+    sadv/modnorule/(muy muy RG -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

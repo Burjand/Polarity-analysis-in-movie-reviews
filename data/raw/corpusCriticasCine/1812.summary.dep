@@ -1,0 +1,45 @@
+grup-verb/top/(ser ser VSN0000 -) [
+  VMI*<llegar>/modnomatch/(llega llegar VMIP3S0 -)
+  SPS00(a)/modnomatch/(a a SPS00 -)
+  sn/subj/(cinta cinta NCFS000 -) [
+    s-a-fs/qual/(Curiosa curioso AQ0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(cine cine NCMS000 -) [
+        s-a-ms/qual/(negro negro AQ0MS0 -)
+        grup-sp/modnomatch/(en en SPS00 -) [
+          sn/head/(años año NCMP000 -) [
+            espec-mp/espec/(los el DA0MP0 -)
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    parti-flex/modnomatch/(ambientada ambientar VMP00SF -)
+    sn/modnomatch/(50 50 Z -) [
+      Fc(,)/modnomatch/(, , Fc -)
+      grup-sp/modnomatch/(en en SPS00 -) [
+        sn/head/(planos plano NCMP000 -) [
+          numero-nopart/quant/(2 2 Z -)
+        ]
+      ]
+    ]
+    conj-subord/modnomatch/(que que CS -)
+    coord/modnomatch/(aunque aunque CC -)
+    parti-flex/modnomatch/(desarrollada desarrollar VMP00SF -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  neg/modneg/(no no RN -)
+  s-adj/att/(redonda redondo AQ0FS0 -)
+  subord/modnomatch/(porque porque CS -) [
+    grup-verb/modnorule/(pierde perder VMIP3S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+    ]
+  ]
+  grup-sp/modnomatch/(por por SPS00 -) [
+    sn/head/(camino camino NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

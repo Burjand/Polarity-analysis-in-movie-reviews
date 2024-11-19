@@ -1,0 +1,62 @@
+grup-verb/top/(pasará pasar VMIF3S0 -) [
+  neg/modneg/(No no RN -)
+  grup-sp/cc/(a a SPS00 -) [
+    sn/head/(historia historia NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(películas película NCFP000 -) [
+          espec-fp/espec/(las el DA0FP0 -)
+          s-a-fp/qual/(grandes grande AQ0CP0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(animación animación NCFS000 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  conj-subord/modnomatch/(como como CS -)
+  espec-fs/modnomatch/(una uno DI0FS0 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(pero pero CC -)
+  F-term/term/(? ? Fit -)
+]
+
+s-adj/top/(Locos loco AQ0MP0 -) [
+  grup-sp/modnorule/(por por SPS00 -) [
+    sn/head/(surf surf NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  F-term/modnorule/(? ? Fit -)
+  grup-verb/modnorule/(hará hacer VMIF3S0 -) [
+    sn/obj/(delicias delicia NCFP000 -) [
+      espec-fp/espec/(las el DA0FP0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(pequeños pequeño AQ0MP0 -) [
+          j-mp/modnomatch/(los el DA0MP0 -)
+          sadv/modnomatch/(más más RG -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  sp-de/modnorule/(de de SPS00 -) [
+    sn/gen/(amantes amante NCCP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(surf surf NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  coord/modnorule/(y y CC -)
+  sp-de/modnorule/(de de SPS00 -) [
+    sn/gen/(espectadores espectador NCMP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+      s-a-mp/qual/(complacientes complaciente AQ0CP0 -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

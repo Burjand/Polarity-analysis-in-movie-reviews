@@ -1,0 +1,68 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(Todo todo PI0MS000 -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(ella él PP3FS000 -)
+  ]
+  s-adj/att/(imperecedero imperecedero AQ0MS0 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(interpretaciones interpretación NCFP000 -) [
+      s-a-fp/qual/(magníficas magnífico AQ0FP0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  forma-ger/modnomatch/(estando estar VAG0000 -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(cabeza cabeza NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  sn/obj/(Claude_Rains claude_rains NP00000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(y y CC -) [
+      s-a-ms/modnorule/(cachondo cachondo AQ0MS0 -) [
+        sadv/modnorule/(más más RG -)
+      ]
+      s-a-ms/modnorule/(pícaro pícaro AQ0MS0 -)
+    ]
+  ]
+  prel/modnomatch/(que que PR0CN000 -)
+  sadv/cc/(nunca nunca RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  prep/modnomatch/(a a SPS00 -)
+  espec-fs/modnomatch/(la el DA0FS0 -)
+  sn/obj/(par par NCMS000 -)
+  prel/modnomatch/(que que PR0CN000 -)
+  s-adj/att/(amenazador amenazador AQ0MS0 -)
+  F-term/term/(. . Fp -)
+]
+
+sn/top/(película película NCFS000 -) [
+  espec-fs/espec/(Una uno DI0FS0 -)
+  s-a-fs/qual/(maravillosa maravilloso AQ0FS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(cuenta contar VMIP3S0 -)
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(Gloria_Stuart gloria_stuart NP00000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/modnomatch/(anciana anciano NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    s-a-fs/qual/(entrañable entrañable AQ0CS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Titanic titanic NP00000 -) [
+        Fe/modnomatch/(" " Fe -)
+        Fe/modnomatch/(" " Fe -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(protagonista protagonista NCCS000 -) [
+            s-a-fs/qual/(encantadora encantador AQ0FS0 -)
+            s-a-fs/qual/(femenina femenino AQ0FS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

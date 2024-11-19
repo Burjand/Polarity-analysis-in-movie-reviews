@@ -1,0 +1,43 @@
+grup-verb/top/(hecho hacer VMP00SM -) [
+  vaux/aux/(ha haber VAIP3S0 -)
+  sn/subj/(Smith smith NP00000 -)
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(su su DP3CS0 -)
+    s-a-fs/qual/(segunda 2 AO0FS0 -)
+    s-a-fs/qual/(mejor mejor AQ0CS0 -)
+  ]
+  coord/modnomatch/(y y CC -)
+  Fc(,)/modnomatch/(, , Fc -)
+  forma-ger/modnomatch/(quitando quitar VMG0000 -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(Rosario_Dawson rosario_dawson NP00000 -) [
+      grup-verb/modnomatch/(escrito escribir VMP00SM -) [
+        vaux/aux/(ha haber VAIP3S0 -)
+        sn/obj/(puesta puesta NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          s-a-fs/qual/(y y CC -) [
+            s-a-fs/modnorule/(mejor mejor AQ0CS0 -)
+            s-a-fs/modnorule/(cariñosa cariñoso AQ0FS0 -) [
+              sadv/modnorule/(más más RG -)
+            ]
+          ]
+        ]
+        grup-sp/iobj/(a a SPS00 -) [
+          sn/head/(día día NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+            s-a-ms/qual/(posible posible AQ0CS0 -)
+          ]
+        ]
+        grup-sp/iobj/(para para SPS00 -) [
+          sn/head/(personajes personaje NCMP000 -) [
+            espec-mp/espec/(sus su DP3CP0 -)
+            s-a-mp/qual/(míticos mítico AQ0MP0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(. . Fp -)
+]
+

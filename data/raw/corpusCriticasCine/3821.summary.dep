@@ -1,0 +1,78 @@
+grup-verb/top/(asesinen asesinar VMSP3P0 -) [
+  sn/subj/(Señores_de_Lions_Gate señores_de_lions_gate NP00000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  neg/modneg/(no no RN -)
+  coor-sp/modnomatch/(ni ni CC -) [
+    grup-sp/modnorule/(a a SPS00 -) [
+      sn/head/(saga saga NCFS000 -) [
+        espec-fs/espec/(su su DP3CS0 -)
+        n-fs/modnomatch/(franquicia franquicia NCFS000 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(huevos huevo NCMP000 -) [
+            espec-mp/espec/(los el DA0MP0 -)
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(Oro oro NP00000 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+    grup-sp/modnorule/(a a SPS00 -) [
+      sn/head/(gallina gallina NCFS000 -) [
+        espec-fs/espec/(su su DP3CS0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  s-adj/modnomatch/(decepcionante decepcionante AQ0CS0 -)
+  coord/modnomatch/(y y CC -)
+  grup-sp-inf/modnomatch/(sin sin SPS00 -) [
+    grup-verb-inf/head/(aportar aportar VMN0000 -)
+    sn/modnomatch/(nada nada PI0CS000 -)
+  ]
+  coor-sp/modnomatch/(ni ni CC -) [
+    grup-sp/modnorule/(a a SPS00 -) [
+      sn/head/(saga saga NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(misma mismo AQ0FS0 -) [
+            j-fs/modnomatch/(la el DA0FS0 -)
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+    grup-sp/modnorule/(a a SPS00 -) [
+      sn/head/(desarrollo desarrollo NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(sin sin SPS00 -) [
+    sn/head/(motivación motivación NCFS000 -) [
+      grup-verb/modnomatch/(vacía vaciar VMIP3S0 -) [
+        F-no-c/modnomatch/(... ... Fs -)
+        F-no-c/modnomatch/(¿ ¿ Fia -)
+        grup-verb/modnomatch/(decir decir VMN0000 -) [
+          morfema-verbal/modnomatch/(se se P0000000 -)
+          VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+          sn/obj/(palabras palabra NCFP000 -) [
+            espec-fp/espec/(más más RG -)
+            s-a-fp/qual/(negativas negativo AQ0FP0 -)
+          ]
+          grup-sp/cc/(en en SPS00 -) [
+            sadv/modnomatch/(tan tan RG -)
+          ]
+          sn/obj/(espacio espacio NCMS000 -) [
+            espec-ms/espec/(poco poco DI0MS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  F-term/term/(? ? Fit -)
+]
+

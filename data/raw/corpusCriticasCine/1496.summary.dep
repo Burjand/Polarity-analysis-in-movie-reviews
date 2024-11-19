@@ -1,0 +1,55 @@
+grup-verb/top/(acaba acabar VMIP3S0 -) [
+  sn/subj/(cinta cinta NCFS000 -) [
+    espec-fs/espec/(Una uno DI0FS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+    conj-subord/modnomatch/(que que CS -)
+    Fc(,)/modnomatch/(, , Fc -)
+    coord/modnomatch/(aunque aunque CC -)
+    sadv/modnomatch/(excelentemente excelentemente RG -)
+    sadv/modnomatch/(bien bien RG -)
+    parti-flex/modnomatch/(ambientada ambientar VMP00SF -)
+    coor-sp/modnomatch/(y y CC -) [
+      grup-sp/modnorule/(con con SPS00 -) [
+        sn/head/(desarrollo desarrollo NCMS000 -) [
+          espec-ms/espec/(un uno DI0MS0 -)
+          s-a-ms/qual/(bueno bueno AQ0MS0 -) [
+            sadv/modnorule/(bastante bastante RG -)
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    F-no-c/modnomatch/(( ( Fpa -)
+    coord/modnomatch/(y y CC -)
+    s-adj/qual/(corta corto AQ0FS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+    subord/modnomatch/(que que CS -) [
+      grup-verb/modnorule/(olvide olvidar VMM03S0 -) [
+        morfema-verbal/modnomatch/(se se P0000000 -)
+        patons/modnomatch/(me me PP1CS000 -)
+        neg/modneg/(no no RN -)
+      ]
+      F-no-c/modnorule/() ) Fpt -)
+      Fc(,)/modnorule/(, , Fc -)
+    ]
+  ]
+  prep/modnomatch/(con con SPS00 -)
+  espec-ms/modnomatch/(un uno DI0MS0 -)
+  sadv/cc/(mal mal RG -) [
+    cuantif/modnorule/(muy muy RG -)
+  ]
+  sn/obj/(cierre cierre NCMS000 -)
+  F-term/term/(. . Fp -)
+]
+
+coor-n/top/(ni ni CC -) [
+  sn/co-n/(tostón tostón NCMS000 -) [
+    s-a-ms/qual/(Menudo menudo AQ0MS0 -)
+    grup-sp/modnomatch/(sin sin SPS00 -) [
+      sn/head/(pies pie NCMP000 -)
+    ]
+  ]
+  sn/co-n/(cabeza cabeza NCFS000 -)
+  F-no-c/modnomatch/(... ... Fs -)
+]
+

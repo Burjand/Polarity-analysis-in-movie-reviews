@@ -1,0 +1,48 @@
+grup-verb/top/(Gustará gustar VMIF3S0 -) [
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(aquellos aquel PD0MP000 -) [
+      indef-mp/modnomatch/(todos todo DI0MP0 -)
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(pelado pelar VMP00SM -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+      vaux/aux/(han haber VAIP3P0 -)
+    ]
+  ]
+  sn/obj/(pulgares pulgar NCMP000 -) [
+    espec-mp/espec/(los el DA0MP0 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  ger/modnomatch/(dando dar VMG0000 -) [
+    PP*/modnorule/(le le PP3CSD00 -)
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(mando mando NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      grup-sp/modnomatch/(en en SPS00 -) [
+        sn/head/(casa casa NCFS000 -) [
+          espec-fs/espec/(su su DP3CS0 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  forma-ger/modnomatch/(jugando jugar VMG0000 -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(juego juego NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  prep/modnomatch/(en en SPS00 -)
+  espec-ms/modnomatch/(el el DA0MS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(está estar VAIP3S0 -)
+  ]
+  parti-flex/modnomatch/(basada basar VMP00SF -)
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,56 @@
+coor-vb/top/(pero pero CC -) [
+  grup-verb/co-v/(pretende pretender VMIP3S0 -) [
+    neg/modneg/(No no RN -)
+    grup-verb-inf/modnomatch/(ser ser VSN0000 -)
+  ]
+  sn/subj/(film film NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(ciencia-ficción ciencia-ficción NCFS000 -) [
+        grup-sp/modnomatch/(a a SPS00 -) [
+          sn/head/(uso uso NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  grup-verb/co-v/(faltado faltar VMP00SM -) [
+    patons/modnomatch/(le le PP3CSD00 -)
+    vaux/aux/(ha haber VAIP3S0 -)
+    sadv/cc/(realmente realmente RG -)
+    sn/obj/(poquito poquito AQ0MS0 -) [
+      indef-ms/modnomatch/(un uno DI0MS0 -)
+    ]
+    sadv/cc/(más más RG -) [
+      SPS00(de)/modnorule/(de de SPS00 -)
+      sn/modnorule/(riesgo riesgo NCMS000 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(aportado aportar VMP00SM -) [
+    VMI*<tener>/modnomatch/(tendría tener VMIC1S0 -)
+    CS(que)/modnomatch/(que que CS -)
+    infaux/modnomatch/(haber haber VAN0000 -)
+    sn/subj/(director director NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+    sadv/cc/(algo algo RG -)
+    grup-sp/iobj/(a a SPS00 -) [
+      sn/head/(película película NCFS000 -) [
+        espec-fs/espec/(su su DP3CS0 -)
+        grup-sp/modnomatch/(en_lugar_de en_lugar_de SPS00 -) [
+          sadv/modnomatch/(simplemente simplemente RG -)
+        ]
+      ]
+    ]
+  ]
+  grup-verb-inf/modnomatch/(adaptar adaptar VMN0000 -)
+  sn/modnomatch/(libro libro NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    s-a-ms/qual/(gran gran AQ0CS0 -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

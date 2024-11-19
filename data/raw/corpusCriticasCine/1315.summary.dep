@@ -1,0 +1,56 @@
+grup-verb/top/(Imaginen imaginar VMM03P0 -) [
+  patons/modnomatch/(se se PP3CN000 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(dejan dejar VMIP3P0 -) [
+      patons/modnomatch/(le le PP3CSD00 -)
+      grup-sp/cc/(a a SPS00 -) [
+        sn/head/(Santiago_Nasar santiago_nasar NP00000 -)
+      ]
+    ]
+  ]
+  grup-verb-inf/modnomatch/(leer leer VMN0000 -)
+  sn/obj/(principio principio NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  F-no-c/modnomatch/(" " Fe -)
+  sn/obj/(Crónica crónica NCFS000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(muerte muerte NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        s-a-fs/qual/(anunciada anunciar VMP00SF -)
+      ]
+    ]
+    F-no-c/modnomatch/(" " Fe -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(buscaría buscar VMIC1S0 -) [
+  sn/subj/(hombre hombre NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+    s-a-ms/qual/(pobre pobre AQ0CS0 -)
+  ]
+  sadv/cc/(desesperadamente desesperadamente RG -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(García_Marquez garcía_marquez NP00000 -)
+  ]
+  prep/modnomatch/(para para SPS00 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(cambiara cambiar VMSI1S0 -)
+  ]
+  espec-ms/modnomatch/(el el DA0MS0 -)
+  sn/obj/(final final NCFS000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  coord/modnomatch/(y y CC -)
+  Fc(,)/modnomatch/(, , Fc -)
+  sadv/cc/(por_ende por_ende RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  sadv/cc/(también también RG -)
+  sn/obj/(título título NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

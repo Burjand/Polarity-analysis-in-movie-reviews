@@ -1,0 +1,42 @@
+grup-verb/top/(Acusa acusar VMIP3S0 -) [
+  sn/obj/(falta falta NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(sorpresa sorpresa NCFS000 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(queda quedar VMIP3S0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  sadv/cc/(Bien bien RG -) [
+    s-adj/modnorule/(y y CC -) [
+      s-a-fs/modnorule/(pensada pensar VMP00SF -)
+      s-a-fs/modnorule/(lograda lograr VMP00SF -)
+    ]
+  ]
+  coor-n/subj/(aunque aunque CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(sorpresa sorpresa NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(final final AQ0CS0 -)
+    ]
+  ]
+  sn/obj/(algo algo PI0CS000 -)
+  s-adj/modnomatch/(floja flojo AQ0FS0 -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(comparación comparación NCFS000 -) [
+      grup-sp/modnomatch/(con con SPS00 -) [
+        sn/head/(de de SPS00 -) [
+          j-fs/modnomatch/(la el DA0FS0 -)
+          sn/modnomatch/(entregas entrega NCFP000 -) [
+            s-a-fp/qual/(anteriores anterior AQ0CP0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

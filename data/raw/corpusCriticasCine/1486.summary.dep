@@ -1,0 +1,47 @@
+sn/top/(película película NCFS000 -) [
+  s-a-fs/qual/(Típica típico AQ0FS0 -)
+  s-a-fs/qual/(infantil-familiar infantil-familiar AQ0CS0 -)
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(navidades navidad NCFP000 -) [
+      espec-fp/espec/(las el DA0FP0 -)
+      grup-sp/modnomatch/(con con SPS00 -) [
+        sn/head/(padre padre NCMS000 -) [
+          espec-ms/espec/(un uno DI0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/modnomatch/(torpe torpe AQ0CS0 -) [
+    indef-ms/modnomatch/(un uno DI0MS0 -)
+    sadv/modnomatch/(poco poco RG -)
+    Fc(,)/modnomatch/(, , Fc -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(ganar ganar VMN0000 -) [
+        patons/modnomatch/(se se PP3CN000 -)
+        VMI*<tener>/modnomatch/(tendrá tener VMIF3S0 -)
+        CS(que)/modnomatch/(que que CS -)
+      ]
+    ]
+  ]
+  sn/modnomatch/(cariño cariño NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(hijo hijo NCMS000 -) [
+        espec-ms/espec/(su su DP3CS0 -)
+      ]
+    ]
+  ]
+  ger/modnomatch/(demostrando demostrar VMG0000 -) [
+    PP*/modnorule/(le le PP3CSD00 -)
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(es ser VSIP3S0 -)
+  ]
+  s-adj/qual/(y y CC -) [
+    s-a-ms/modnorule/(responsable responsable AQ0CS0 -)
+    s-a-ms/modnorule/(trabajador trabajador AQ0MS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

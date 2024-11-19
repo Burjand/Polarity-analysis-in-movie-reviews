@@ -1,0 +1,73 @@
+grup-verb/top/(presentaba presentar VMII1S0 -) [
+  morfema-verbal/modnomatch/(Se se P0000000 -)
+  grup-sp/modnomatch/(como como CS -) [
+    sn/head/(propuesta propuesta NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(interesante interesante AQ0CS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(pierde perder VMIP3S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+    ]
+  ]
+  forma-ger/modnomatch/(recurriendo recurrir VMG0000 -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(estructura estructura NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(larga largo AQ0FS0 -) [
+        sadv/modnorule/(demasiado demasiado RG -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  prep/modnomatch/(en en SPS00 -)
+  espec-fs/modnomatch/(la el DA0FS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(mezclan mezclar VMIP3P0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+    ]
+  ]
+  sn/obj/(pantallas pantalla NCFP000 -) [
+    s-a-fp/qual/(partidas partir VMP00PF -)
+    grup-sp/modnomatch/(con con SPS00 -) [
+      sn/head/(otras otro PI0FP000 -) [
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(estilo estilo NCMS000 -) [
+            s-a-ms/qual/(clásico clásico AQ0MS0 -)
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  coord/modnomatch/(y y CC -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(logran lograr VMIP3P0 -) [
+      grup-sp/cc/(en en SPS00 -) [
+        s-a-ms/modnomatch/(absoluto absoluto AQ0MS0 -)
+      ]
+    ]
+  ]
+  grup-verb-inf/modnomatch/(crear crear VMN0000 -)
+  sn/obj/(clima clima NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    s-a-ms/qual/(necesario necesario AQ0MS0 -)
+  ]
+  prep/modnomatch/(para para SPS00 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(seducir seducir VMN0000 -) [
+      patons/modnomatch/(nos nos PP1CP000 -)
+      VMS*<llegar>/modnomatch/(llegue llegar VMSP1S0 -)
+      SPS00(a)/modnomatch/(a a SPS00 -)
+      sn/subj/(historia historia NCFS000 -) [
+        espec-fs/espec/(esta este DD0FS0 -)
+        s-a-fs/qual/(interesante interesante AQ0CS0 -)
+        Fc(,)/modnomatch/(, , Fc -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

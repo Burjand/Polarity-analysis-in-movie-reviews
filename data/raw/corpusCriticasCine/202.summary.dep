@@ -1,0 +1,47 @@
+grup-verb/top/(sale salir VMIP3S0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  sn/subj/(director director NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+    grup-verb/modnomatch/(hace hacer VMIP3S0 -) [
+      sn/obj/(cinta cinta NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(género género NCMS000 -)
+        ]
+      ]
+      grup-sp-inf/modnomatch/(sin sin SPS00 -) [
+        grup-verb-inf/head/(machacar machacar VMN0000 -) [
+          VMN0000(dejar)/modnomatch/(dejar dejar VMN0000 -)
+          SPS00(de)/modnomatch/(de de SPS00 -)
+          PP*/modnomatch/(nos nos PP1CP000 -)
+        ]
+      ]
+      grup-sp/modnomatch/(con con SPS00 -) [
+        sn/head/(ideas idea NCFP000 -) [
+          espec-fp/espec/(cuatro 4 Z -) [
+            j-fp/modnorule/(las el DA0FP0 -)
+          ]
+        ]
+      ]
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(tenido tener VMP00SM -) [
+          vaux/aux/(ha haber VAIP3S0 -)
+        ]
+      ]
+    ]
+  ]
+  grup-sp/cc/(con con SPS00 -) [
+    sn/head/(suya suyo PX3FS0C0 -) [
+      DA0FS0/modnomatch/(la el DA0FS0 -)
+    ]
+  ]
+  F-no-c/modnomatch/(: : Fd -)
+  prep/modnomatch/(desde desde SPS00 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(tomó tomar VMIS3S0 -)
+  ]
+  sn/cc/(cámara cámara NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+  ]
+]
+

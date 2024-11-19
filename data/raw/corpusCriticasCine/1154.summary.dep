@@ -1,0 +1,77 @@
+sn/top/(Película película NCFS000 -) [
+  s-a-fs/qual/(deportiva deportivo AQ0FS0 -) [
+    s-a-fs/modnorule/(carcelaria carcelario AQ0FS0 -)
+  ]
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(superación superación NCFS000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  prep/modnomatch/(en en SPS00 -)
+  espec-fs/espec/(la el DA0FS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(coge coger VMM02S0 -) [
+      sn/subj/(jugador jugador NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+        s-a-ms/qual/(retirado retirar VMP00SM -)
+        grup-sp/modnomatch/(en en SPS00 -) [
+          sn/head/(personas persona NCFP000 -) [
+            sp-de/mod/(de de SPS00 -) [
+              sn/gen/(provecho provecho NCMS000 -)
+            ]
+          ]
+        ]
+      ]
+      grup-sp/iobj/(a a SPS00 -) [
+        sn/head/(despojos despojo NCMP000 -) [
+          espec-mp/espec/(unos uno DI0MP0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(sociedad sociedad NCFS000 -) [
+              espec-fs/espec/(la el DA0FS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  grup-sp-inf/modnomatch/(para para SPS00 -) [
+    grup-verb-inf/head/(convertir convertir VMN0000 -) [
+      PP*/modnomatch/(los los PP3MPA00 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(Pasaría pasar VMIC1S0 -) [
+  grup-sp/cc/(con con SPS00 -) [
+    sn/head/(pena pena NCFS000 -) [
+      espec-fs/espec/(más más RG -)
+    ]
+  ]
+  conj-subord/modnomatch/(que que CS -)
+  sn/obj/(gloria gloria NCFS000 -)
+  prep/modnomatch/(de de SPS00 -)
+  neg/modneg/(no no RN -)
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  prep/modnomatch/(por por SPS00 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(es ser VSIP3S0 -) [
+      sn/obj/(historia historia NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        s-a-fs/qual/(real real AQ0CS0 -)
+      ]
+    ]
+    Fc(,)/modnorule/(, , Fc -)
+  ]
+  grup-sp-inf/modnomatch/(además_de además_de SPS00 -) [
+    grup-verb-inf/head/(tener tener VMN0000 -)
+    sn/modnomatch/(desarrollo desarrollo NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(aunque aunque CC -) [
+        s-a-ms/modnorule/(sobrio sobrio AQ0MS0 -)
+        s-a-ms/modnorule/(largo largo AQ0MS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

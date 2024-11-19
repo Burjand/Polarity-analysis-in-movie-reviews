@@ -1,0 +1,64 @@
+coor-vb/top/(pero pero CC -) [
+  sn/subj/(entretenimiento entretenimiento NCMS000 -) [
+    espec-ms/espec/(Un uno DI0MS0 -)
+    s-a-ms/qual/(sano sano AQ0MS0 -)
+    grup-sp/modnomatch/(para para SPS00 -) [
+      sn/head/(familia familia NCFS000 -) [
+        espec-fs/espec/(toda todo DI0FS0 -) [
+          j-fs/modnorule/(la el DA0FS0 -)
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    conj-subord/modnomatch/(que que CS -)
+  ]
+  sn/subj/(verdad verdad NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+  ]
+  grup-verb/co-v/(es ser VSIP3S0 -) [
+    subord/modnomatch/(que que CS -) [
+      grup-verb/modnorule/(descubre descubrir VMIP3S0 -) [
+        neg/modneg/(no no RN -)
+        sn/obj/(nuevo nuevo AQ0MS0 -) [
+          pindef-ms/modnomatch/(nada nada PI0CS000 -)
+        ]
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(visto ver VMP00SM -) [
+        morfema-verbal/modnomatch/(se se P0000000 -)
+        vaux/aux/(haya haber VASP1S0 -)
+        neg/modneg/(no no RN -)
+      ]
+    ]
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(tele tele NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(es ser VSIP3S0 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(es ser VSIP3S0 -) [
+      sn/subj/(eso ese PD0NS000 -)
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  espec-ms/modnomatch/(lo el DA0NS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(pretendían pretender VMII3P0 -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+parti-flex/top/(Divertido divertir VMP00SM -) [
+  sadv/modnorule/(largo largo RG -)
+  grup-sp/modnorule/(con con SPS00 -) [
+    sn/head/(Simpson simpson NP00000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

@@ -1,0 +1,55 @@
+coor-vb/top/(y y CC -) [
+  sn/subj/(Scorsese scorsese NP00000 -)
+  grup-verb/co-v/(dirige dirigir VMIP3S0 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(dirige dirigir VMIP3S0 -)
+  sadv/modnomatch/(bien bien RG -)
+  F-term/modnomatch/(. . Fp -)
+]
+
+grup-verb/top/(espera esperar VMIP3S0 -) [
+  patons/modnomatch/(nos nos PP1CP000 -)
+  grup-sp/modnomatch/(Tras tras SPS00 -) [
+    sn/head/(introducción introducción NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(larguísima largo AQSFS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(personajes personaje NCMP000 -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(ritmo ritmo NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+    ]
+    sn/co-n/(montaje montaje NCMS000 -) [
+      s-a-ms/qual/(frenético frenético AQ0MS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(donde donde PR000000 -) [
+    grup-verb/modnorule/(consisten consistir VMIP3P0 -) [
+      sn/subj/(logro logro NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        s-a-ms/qual/(mayor mayor AQ0CS0 -)
+      ]
+    ]
+  ]
+  prep/modnomatch/(en en SPS00 -)
+  neg/modneg/(no no RN -)
+  grup-verb-inf/modnomatch/(aburrir aburrir VMN0000 -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(público público NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      grup-sp/modnomatch/(pese_a pese_a SPS00 -) [
+        sn/head/(metraje metraje NCMS000 -) [
+          espec-ms/espec/(su su DP3CS0 -)
+          s-a-ms/qual/(extenso extenso AQ0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

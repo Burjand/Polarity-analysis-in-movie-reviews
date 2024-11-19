@@ -1,0 +1,58 @@
+subord/top/(Si si CS -) [
+  grup-verb/modnorule/(siente sentir VMIP3S0 -) [
+    sn/subj/(usted tú PP2CS00P -)
+    sn/obj/(algo algo PI0CS000 -)
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(boca boca NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(estómago estómago NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  forma-ger/modnorule/(viendo ver VMG0000 -)
+  s-adj/modnorule/(felices feliz AQ0CP0 -) [
+    sadv/modnorule/(tan tan RG -)
+  ]
+  grup-verb/modnorule/(preocupar preocupar VMN0000 -) [
+    patons/modnomatch/(se se PP3CN000 -)
+    VMI*<tener>/modnomatch/(tiene tener VMIP3S0 -)
+    CS(que)/modnomatch/(que que CS -)
+    grup-sp/modnomatch/(a a SPS00 -) [
+      sn/head/(amigos amigo NCMP000 -) [
+        espec-mp/espec/(todos todo DI0MP0 -) [
+          j-mp/modnorule/(los el DA0MP0 -)
+        ]
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(Soderberg soderberg NP00000 -)
+        ]
+      ]
+    ]
+    neg/modneg/(no no RN -)
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+grup-verb/top/(llama llamar VMIP3S0 -) [
+  morfema-verbal/modnomatch/(Se se P0000000 -)
+  sn/obj/(arcadas arcada NCFP000 -)
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(Y y CC -) [
+  grup-verb/co-v/(pasa pasar VMIP3S0 -) [
+    morfema-verbal/modnomatch/(se se P0000000 -)
+    subord/modnomatch/(cuando cuando CS -) [
+      grup-verb/modnorule/(acaba acabar VMIP3S0 -) [
+        sn/obj/(película película NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

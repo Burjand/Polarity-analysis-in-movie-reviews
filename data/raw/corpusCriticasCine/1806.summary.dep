@@ -1,0 +1,84 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  grup-sp/modnomatch/(En_cuanto_a en_cuanto_a SPS00 -) [
+    sn/head/(película película NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  neg/modneg/(no no RN -)
+  sn/obj/(tele-film tele-film NP00000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+  ]
+  F-no-c/modnomatch/(... ... Fs -)
+  sn/obj/(piropo piropo NCMS000 -) [
+    espec-ms/espec/(Un uno DI0MS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(echar echar VMN0000 -) [
+        morfema-verbal/modnomatch/(se se P0000000 -)
+        patons/modnomatch/(le le PP3CSD00 -)
+        VMI*<poder>/modnomatch/(podía poder VMII1S0 -)
+        neg/modneg/(no no RN -)
+      ]
+    ]
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(The_River_King the_river_king NP00000 -) [
+      Fe/modnomatch/(" " Fe -)
+      Fe/modnomatch/(" " Fe -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(Es ser VSIP3S0 -) [
+  sadv/cc/(bien bien RG -) [
+    cuantif/modnorule/(más más RG -)
+  ]
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  espec-fp/modnomatch/(estas este DD0FP0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(pasan pasar VMIP3P0 -)
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(cines cine NCMP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(verano verano NCMS000 -) [
+          grup-sp/modnomatch/(en en SPS00 -) [
+            sn/head/(sesión sesión NCFS000 -) [
+              espec-fs/espec/(una uno DI0FS0 -)
+              grup-sp/modnomatch/(a a SPS00 -) [
+                sn/head/(tantas tanto PI0FP000 -) [
+                  j-fp/modnomatch/(las el DA0FP0 -)
+                  sp-de/mod/(de de SPS00 -) [
+                    sn/gen/(noche noche NCFS000 -) [
+                      espec-fs/espec/(la el DA0FS0 -)
+                      grup-sp/modnomatch/(en en SPS00 -) [
+                        sn/head/(sala sala NCFS000 -) [
+                          espec-fs/espec/(la el DA0FS0 -)
+                          s-a-fs/qual/(remota remoto AQ0FS0 -) [
+                            sadv/modnorule/(más más RG -)
+                          ]
+                          sp-de/mod/(de de SPS00 -) [
+                            sn/gen/(cine cine NCMS000 -) [
+                              espec-ms/espec/(el el DA0MS0 -)
+                            ]
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

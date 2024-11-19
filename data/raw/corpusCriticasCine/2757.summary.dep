@@ -1,0 +1,73 @@
+grup-verb/top/(hay haber VMIP3S0 -) [
+  grup-sp/cc/(En en SPS00 -) [
+    sn/head/(Ocean ocean NP00000 -)
+    F-term/modnomatch/(? ? Fit -)
+  ]
+  sn/subj/(s13 s13 Z -) [
+    grup-verb/modnomatch/(vague vagar VMSP1S0 -) [
+      coor-n/obj/(ni ni CC -) [
+        sn/co-n/(chorras chorras NCFP000 -)
+        Fc(,)/modnomatch/(, , Fc -)
+        sn/co-n/(jump jump NP00000 -) [
+          w-ms/modnomatch/(cuts cuts NP00000 -)
+        ]
+      ]
+      coor-n/obj/(ni ni CC -) [
+        Fc(,)/modnomatch/(, , Fc -)
+        sn/co-n/(chistes chiste NCMP000 -) [
+          s-a-mp/qual/(privados privar VMP00PM -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(gusto gusto NCMS000 -) [
+              s-a-ms/qual/(dudoso dudoso AQ0MS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  neg/modneg/(no no RN -)
+  sn/obj/(experimentos experimento NCMP000 -)
+  coor-n/obj/(ni ni CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(Nouvelle nouvelle NP00000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+interjeccio/top/(Vamos vamos I -) [
+  Fc(,)/modnorule/(, , Fc -)
+  subord/modnorule/(que que CS -) [
+    grup-verb/modnorule/(es ser VSIP3S0 -) [
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  sadv/modnorule/(tan tan RG -)
+  sn/modnorule/(macarra macarra NCCS000 -) [
+    subord/modnomatch/(como como CS -) [
+      grup-verb/modnorule/(fue ir VMIS3S0 -) [
+        patons/modnomatch/(lo lo PP3CNA00 -)
+        sn/cc/(Ocean ocean NP00000 -)
+      ]
+    ]
+  ]
+  F-term/modnorule/(? ? Fit -)
+  sn/modnorule/(s s NCFS000 -)
+  sn/modnorule/(12 12 Z -) [
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/modnorule/(mejor mejor AQ0CS0 -) [
+    j-fs/modnomatch/(la el DA0FS0 -)
+    grup-sp/modnomatch/(a a SPS00 -) [
+      sn/head/(juicio juicio NCMS000 -) [
+        espec-ms/espec/(mi mi DP1CSS -)
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+sn/top/(partes parte NCFP000 -) [
+  s-a-fp/qual/(Terceras 3 AO0FP0 -)
+  F-no-c/modnomatch/(... ... Fs -)
+]
+

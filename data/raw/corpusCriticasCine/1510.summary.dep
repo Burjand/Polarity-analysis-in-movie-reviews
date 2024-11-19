@@ -1,0 +1,56 @@
+sn/top/(Peter_O peter_o NP00000 -) [
+  F-term/term/(? ? Fit -)
+]
+
+grup-verb/top/(da dar VMIP3S0 -) [
+  sn/subj/(Toole toole NP00000 -)
+  sn/obj/(vida vida NCFS000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(forma forma NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        s-a-fs/qual/(magistral magistral AQ0CS0 -)
+      ]
+    ]
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(cínico cínico NCMS000 -) [
+      espec-ms/espec/(ese ese DD0MS0 -)
+      s-a-ms/qual/(endurecido endurecer VMP00SM -)
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(es ser VSIP3S0 -)
+  ]
+  sn/obj/(Maurice maurice NP00000 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  forma-ger/modnomatch/(llenando llenar VMG0000 -)
+  sn/obj/(pantalla pantalla NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    grup-sp/modnomatch/(con con SPS00 -) [
+      sn/head/(aparición aparición NCFS000 -) [
+        espec-fs/espec/(cada cada DI0CS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(mirada mirada NCFS000 -) [
+            espec-fs/espec/(cada cada DI0CS0 -)
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  forma-ger/modnomatch/(haciendo hacer VMG0000 -)
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(gesto gesto NCMS000 -) [
+      espec-ms/espec/(cada cada DI0CS0 -)
+    ]
+  ]
+  sn/obj/(lección lección NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(auténtica auténtico AQ0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(interpretación interpretación NCFS000 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

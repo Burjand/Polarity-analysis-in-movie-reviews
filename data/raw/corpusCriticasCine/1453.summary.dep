@@ -1,0 +1,63 @@
+sn/top/(ejemplo ejemplo NCMS000 -) [
+  s-a-ms/qual/(Perfecto perfecto AQ0MS0 -)
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(secuela secuela NCFS000 -) [
+      s-a-fs/qual/(e e CC -) [
+        s-a-fs/modnorule/(fallida fallir VMP00SF -)
+        s-a-fs/modnorule/(innecesaria innecesario AQ0FS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(es ser VSIP3S0 -) [
+  grup-sp/modnomatch/(A a SPS00 -) [
+    sn/head/(aquellos aquel PD0MP000 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(disfrutaron disfrutar VMIS3P0 -)
+    ]
+    coor-vb/modnomatch/(y y CC -) [
+      grup-verb/co-v/(mondaron mondar VMIS3P0 -) [
+        morfema-verbal/modnomatch/(se se P0000000 -)
+        sp-de/modnomatch/(de de SPS00 -) [
+          sn/gen/(risa risa NCFS000 -)
+        ]
+        grup-sp/modnomatch/(con con SPS00 -) [
+          sn/head/(Manuale_D'Amore manuale_d'amore NP00000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+            s-a-ms/qual/(primer 1 AO0MS0 -)
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(recomendación recomendación NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    s-a-fs/qual/(mejor mejor AQ0CS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(hacer hacer VMN0000 -) [
+        patons/modnomatch/(les les PP3CPD00 -)
+        VMI*<poder>/modnomatch/(podemos poder VMIP1P0 -)
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(mantengan mantener VMSP3P0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+    ]
+  ]
+  espec-ms/modnomatch/(lo el DA0NS0 -)
+  sn/obj/(alejados alejar VMP00PM -) [
+    espec-mp/espec/(más más RG -)
+    s-adj/qual/(posibles posible AQ0CP0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(secuela secuela NCFS000 -) [
+        espec-fs/espec/(su su DP3CS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

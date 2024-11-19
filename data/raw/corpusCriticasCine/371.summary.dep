@@ -1,0 +1,49 @@
+grup-verb/top/(fascinado fascinar VMP00SM -) [
+  patons/modnomatch/(Me me PP1CS000 -)
+  vaux/aux/(ha haber VAIP3S0 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  subord-ger/modnomatch/(provocando provocar VMG0000 -) [
+    PP*/modnorule/(me me PP1CS000 -)
+    sn/modnorule/(mezcla mezcla NCFS000 -) [
+      espec-fs/espec/(esa ese DD0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(repulsión repulsión NCFS000 -)
+      ]
+    ]
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(atracción atracción NCFS000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(condición condición NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(conlleva conllevar VMIP3S0 -)
+  ]
+  espec-ms/modnomatch/(el el DA0MS0 -)
+  grup-verb-inf/modnomatch/(asomar asomar VMN0000 -) [
+    PP*/modnomatch/(se se PP3CN000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sadv/cc/(cara_a_cara cara_a_cara RG -)
+  Fc(,)/modnomatch/(, , Fc -)
+  s-adj/modnomatch/(, , Fc -) [
+    s-a-ms/modnorule/(turbio turbio AQ0MS0 -) [
+      sadv/modnorule/(a_lo_más a_lo_más RG -)
+    ]
+    s-a-ms/modnorule/(y y CC -) [
+      s-a-ms/modnorule/(complejo complejo AQ0MS0 -)
+      s-a-ms/modnorule/(contradictorio contradictorio AQ0MS0 -)
+    ]
+  ]
+  sn/obj/(in in NP00000 -) [
+    Fpa/modnomatch/(( ( Fpa -)
+    Fpt/modnomatch/() ) Fpt -)
+    s-adj/qual/(humana humano AQ0FS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

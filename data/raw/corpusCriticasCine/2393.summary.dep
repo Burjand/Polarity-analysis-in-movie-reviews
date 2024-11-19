@@ -1,0 +1,75 @@
+grup-verb/top/(son ser VSIP3P0 -) [
+  sn/subj/(minutos minuto NCMP000 -) [
+    espec-mp/espec/(diez 10 Z -) [
+      j-mp/modnorule/(Los el DA0MP0 -)
+    ]
+    s-a-mp/qual/(primeros 1 AO0MP0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(cinta cinta NCFS000 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    subord/modnomatch/(cuando cuando CS -) [
+      grup-verb/modnorule/(toman tomar VMIP3P0 -) [
+        sn/subj/(infectados infectar VMP00PM -) [
+          j-mp/modnomatch/(los el DA0MP0 -)
+        ]
+        grup-sp/modnomatch/(por por SPS00 -) [
+          sn/head/(asalto asalto NCMS000 -)
+        ]
+        sn/obj/(cabaña cabaña NCFS000 -) [
+          espec-fs/espec/(una uno DI0FS0 -)
+          subord/modnomatch/(donde donde PR000000 -) [
+            grup-verb/modnorule/(refugia refugiar VMIP3S0 -) [
+              morfema-verbal/modnomatch/(se se P0000000 -)
+            ]
+          ]
+        ]
+        sn/obj/(grupo grupo NCMS000 -) [
+          espec-ms/espec/(un uno DI0MS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(supervivientes superviviente NCCP000 -)
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  s-adj/att/(, , Fc -) [
+    s-a-mp/modnorule/(magistrales magistral AQ0CP0 -)
+    s-a-mp/modnorule/(, , Fc -) [
+      s-a-mp/modnorule/(intensos intenso AQ0MP0 -)
+      s-a-mp/modnorule/(asfixiantes asfixiante AQ0CP0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(está estar VAIP3S0 -) [
+  grup-sp/modnomatch/(Por por SPS00 -) [
+    sn/head/(desgracia desgracia NCFS000 -)
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/subj/(momento momento NCMS000 -) [
+    espec-ms/espec/(ningún ninguno DI0MS0 -) [
+      indef-ms/modnorule/(otro otro DI0MS0 -)
+    ]
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(película película NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(altura altura NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(escena escena NCFS000 -) [
+          espec-fs/espec/(esta este DD0FS0 -)
+          s-a-fs/qual/(primera 1 AO0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

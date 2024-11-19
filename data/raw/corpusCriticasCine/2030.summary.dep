@@ -1,0 +1,64 @@
+grup-verb/top/(trata tratar VMIP3S0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  neg/modneg/(No no RN -)
+  sp-de/modnomatch/(de de SPS00 -) [
+    sn/gen/(film film NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(terror terror NCMS000 -) [
+          grup-verb/modnomatch/(pretendido pretender VMP00SM -) [
+            morfema-verbal/modnomatch/(se se P0000000 -)
+            vaux/aux/(ha haber VAIP3S0 -)
+            grup-sp/cc/(en en SPS00 -) [
+              sn/head/(momento momento NCMS000 -) [
+                espec-ms/espec/(algún alguno DI0MS0 -)
+                sp-de/mod/(de de SPS00 -) [
+                  sn/gen/(suspense suspense NCMS000 -)
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  grup-sp/modnomatch/(como como CS -) [
+    sadv/modnomatch/(quizás quizás RG -)
+  ]
+  coord/modnomatch/(sino sino CC -)
+  coord/modnomatch/(mas mas CC -)
+  sadv/cc/(bien bien RG -)
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(drama drama NCMS000 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(y y CC -) [
+  sn/subj/(Este este PD0MS000 -)
+  grup-verb/co-v/(supone suponer VMIP3S0 -) [
+    sn/obj/(film film NCMS000 -) [
+      espec-ms/espec/(4º 4º Z -) [
+        j-ms/modnorule/(el el DA0MS0 -)
+      ]
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(Algora algora NP00000 -)
+      ]
+    ]
+  ]
+  grup-verb/co-v/(creo crear VMIP1S0 -) [
+    subord/modnomatch/(que que CS -) [
+      grup-verb/modnorule/(es ser VSIP3S0 -) [
+        sn/obj/(efectivo efectivo AQ0MS0 -) [
+          j-ms/modnomatch/(el el DA0MS0 -)
+          sadv/modnomatch/(más más RG -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(todos todo PI0MP000 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

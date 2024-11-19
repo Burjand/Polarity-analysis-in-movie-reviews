@@ -1,0 +1,40 @@
+sn/top/(película película NCFS000 -) [
+  espec-fs/espec/(Una uno DI0FS0 -)
+  sp-de/mod/(de de SPS00 -) [
+    sn/gen/(serie serie NCFS000 -)
+  ]
+  sn/modnomatch/(B b NP00000 -) [
+    s-a-fs/qual/(, , Fc -) [
+      s-a-fs/modnorule/(española español AQ0FS0 -)
+      s-a-fs/modnorule/(realizada realizar VMP00SF -)
+    ]
+    grup-sp/modnomatch/(con con SPS00 -) [
+      sn/head/(medios medio NCMP000 -) [
+        s-a-mp/qual/(escasos escaso AQ0MP0 -)
+      ]
+    ]
+  ]
+  coord/modnomatch/(pero pero CC -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(consigue conseguir VMIP3S0 -)
+  ]
+  grup-verb-inf/modnomatch/(mantener mantener VMN0000 -)
+  sn/modnomatch/(interés interés NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(espectador espectador NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        grup-sp/modnomatch/(a_pesar_de a_pesar_de SPS00 -) [
+          sn/head/(pobreza pobreza NCFS000 -) [
+            espec-fs/espec/(su su DP3CS0 -)
+            s-a-fs/qual/(evidente evidente AQ0CS0 -)
+            s-a-fs/qual/(técnica técnico AQ0FS0 -)
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  F-term/term/(. . Fp -)
+]
+

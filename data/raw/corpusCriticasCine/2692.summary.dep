@@ -1,0 +1,56 @@
+sn/top/(Ovejas oveja NCFP000 -) [
+  s-a-fp/qual/(asesinas asesino AQ0FP0 -)
+  sn/modnomatch/(parte parte NCFS000 -) [
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(idea idea NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        s-a-fs/qual/(cachonda cachondo AQ0FS0 -)
+      ]
+    ]
+  ]
+  prep/modnomatch/(a a SPS00 -)
+  espec-fs/espec/(la el DA0FS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(saca sacar VMIP3S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+      patons/modnomatch/(le le PP3CSD00 -)
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  sn/modnomatch/(partido partido NCMS000 -) [
+    espec-ms/espec/(ningún ninguno DI0MS0 -)
+    grup-sp/modnomatch/(a a SPS00 -) [
+      sn/head/(producto producto NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        s-a-ms/qual/(final final AQ0CS0 -)
+        grup-sp/modnomatch/(como como CS -) [
+          sn/head/(anécdota anécdota NCFS000 -) [
+            espec-fs/espec/(una uno DI0FS0 -)
+            s-a-fs/qual/(mera mero AQ0FS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(posiciona posicionar VMIP3S0 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/modnomatch/(película película NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+  ]
+  sadv/modnomatch/(más más RG -) [
+    SPS00(de)/modnorule/(de de SPS00 -)
+    sn/modnorule/(serie serie NCFS000 -) [
+      w-fs/modnomatch/(B b NP00000 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(montón montón NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

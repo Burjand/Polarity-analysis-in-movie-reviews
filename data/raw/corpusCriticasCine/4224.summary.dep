@@ -1,0 +1,46 @@
+grup-verb/top/(sorprende sorprender VMIP3S0 -) [
+  sn/subj/(Caramel caramel NP00000 -)
+  grup-sp/modnomatch/(por por SPS00 -) [
+    sn/head/(facilidad facilidad NCFS000 -) [
+      espec-fs/espec/(su su DP3CS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-sp/top/(Y y CC -) [
+  grup-sp/modnorule/(sin sin SPS00 -) [
+    sn/head/(embargo embargo NCMS000 -)
+  ]
+  grup-verb/modnorule/(contiene contener VMIP3S0 -) [
+    sn/obj/(complejidad complejidad NCFS000 -) [
+      espec-fs/espec/(esa ese DD0FS0 -)
+    ]
+  ]
+  prep/modnorule/(de de SPS00 -)
+  quien-s/modnorule/(quien quien PR0CS000 -)
+  grup-verb/modnorule/(sabe saber VMIP3S0 -)
+  grup-verb-inf/modnorule/(hacer hacer VMN0000 -)
+  sn/modnorule/(cosas cosa NCFP000 -) [
+    espec-fp/espec/(las el DA0FP0 -)
+  ]
+  sadv/modnorule/(bien bien RG -)
+  coord/modnorule/(y y CC -)
+  prep/modnorule/(a a SPS00 -)
+  espec-ms/modnorule/(el el DA0MS0 -)
+  grup-verb-inf/modnorule/(ver ver VMN0000 -)
+  grup-verb/modnorule/(parecen parecer VMIP3P0 -) [
+    patons/modnomatch/(lo lo PP3CNA00 -)
+    sn/obj/(eso ese PD0NS000 -)
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  s-adj/modnorule/(sencillas sencillo AQ0FP0 -)
+  F-term/modnorule/(. . Fp -)
+]
+
+coord/top/(Pero pero CC -) [
+  neg/modnomatch/(no no RN -)
+  s-adj/modnomatch/(simples simple AQ0CP0 -)
+  F-term/term/(. . Fp -)
+]
+

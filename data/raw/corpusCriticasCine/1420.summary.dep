@@ -1,0 +1,54 @@
+grup-verb/top/(funciona funcionar VMIP3S0 -) [
+  sn/subj/(Sólamente sólamente NP00000 -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(hora hora NCFS000 -) [
+      espec-fs/espec/(esa ese DD0FS0 -)
+      s-a-fs/qual/(primera 1 AO0FS0 -)
+      s-a-fs/qual/(rápida rápido AQ0FS0 -)
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  F-no-c/modnomatch/(( ( Fpa -)
+  sadv/cc/(muy muy RG -)
+  F-no-c/modnomatch/() ) Fpt -)
+  parti-flex/modnomatch/(divertida divertir VMP00SF -)
+  F-no-c/modnomatch/(( ( Fpa -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(ratos rato NCMP000 -)
+    F-no-c/modnomatch/() ) Fpt -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(porque porque CS -) [
+    grup-verb/modnorule/(convierte convertir VMIP3S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+      grup-sp/modnomatch/(a_partir_de a_partir_de SPS00 -) [
+        sn/head/(ecuador ecuador NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          w-ms/modnomatch/(Días días NP00000 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(cine cine NCMS000 -)
+          ]
+        ]
+      ]
+      grup-sp/cc/(en en SPS00 -) [
+        sn/head/(drama drama NCMS000 -) [
+          espec-ms/espec/(un uno DI0MS0 -)
+          s-a-ms/qual/(fallido fallir VMP00SM -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(denuncia denuncia NCFS000 -)
+          ]
+        ]
+      ]
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(aburre aburrir VMIP3S0 -)
+      ]
+      grup-sp/iobj/(a a SPS00 -) [
+        sn/head/(piedras piedra NCFP000 -) [
+          espec-fp/espec/(las el DA0FP0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

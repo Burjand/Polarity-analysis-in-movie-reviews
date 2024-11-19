@@ -1,0 +1,92 @@
+grup-verb/top/(corren correr VMIP3P0 -) [
+  sn/subj/(sandeces sandez NCFP000 -) [
+    espec-fp/espec/(Las el DA0FP0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(cine cine NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        s-a-ms/qual/(coreano coreano AQ0MS0 -)
+      ]
+    ]
+  ]
+  sn/obj/(riesgo riesgo NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+  ]
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(gustar gustar VMN0000 -) [
+      PP*/modnomatch/(nos nos PP1CP000 -)
+    ]
+  ]
+  grup-sp/cc/(por por SPS00 -) [
+    sn/head/(motivo motivo NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(simple simple AQ0CS0 -)
+    ]
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(son ser VSIP3P0 -) [
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  sn/obj/(sandeces sandez NCFP000 -) [
+    espec-fp/espec/(las el DA0FP0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(cine cine NCMS000 -) [
+        espec-ms/espec/(el el DA0MS0 -)
+        s-a-ms/qual/(americano americano AQ0MS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(prefiero preferir VMIP1S0 -) [
+  sn/subj/(Yo yo PP1CSN00 -)
+  neg/modneg/(no no RN -)
+  grup-verb-inf/modnomatch/(corriendo correr VMG0000 -) [
+    VMN0000(ir)/modnomatch/(ir ir VMN0000 -)
+  ]
+  grup-sp-inf/iobj/(a a SPS00 -) [
+    grup-verb-inf/head/(colgar colgar VMN0000 -)
+    sn/modnomatch/(trofeos trofeo NCMP000 -)
+    sn/modnomatch/(vez vez NCFS000 -) [
+      espec-fs/espec/(cada cada DI0CS0 -)
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(veo ver VMIP1S0 -)
+      ]
+    ]
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(señores señor NCMP000 -) [
+      numero-nopart/quant/(dos 2 Z -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(ojos ojo NCMP000 -) [
+          s-a-mp/qual/(rasgados rasgar VMP00PM -)
+        ]
+      ]
+    ]
+  ]
+  forma-ger/modnomatch/(comiéndo comiéndo VMG0000 -)
+  sn/obj/(sopa sopa NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(instantánea instantáneo AQ0FS0 -)
+    grup-sp/modnomatch/(con con SPS00 -) [
+      sn/head/(palillos palillo NCMP000 -) [
+        grup-sp/modnomatch/(por por SPS00 -) [
+          sn/head/(hecho hecho NCMS000 -) [
+            espec-ms/espec/(el el DA0MS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(usemos usar VMSP1P0 -) [
+      sadv/cc/(aquí aquí RG -)
+      sn/obj/(cuchara cuchara NCFS000 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

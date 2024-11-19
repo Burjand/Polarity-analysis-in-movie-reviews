@@ -1,0 +1,53 @@
+grup-verb/top/(agradecen agradecer VMIP3P0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  grup-sp/modnomatch/(Con con SPS00 -) [
+    sn/head/(fuego fuego NCMS000 -) [
+      espec-ms/espec/(tanto tanto DI0MS0 -)
+      s-a-ms/qual/(artificial artificial AQ0CS0 -)
+      grup-sp/modnomatch/(en en SPS00 -) [
+        sn/head/(películas película NCFP000 -) [
+          espec-fp/espec/(las el DA0FP0 -)
+          s-a-fp/qual/(fantásticas fantástico AQ0FP0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(hoy hoy NCMS000 -) [
+              grup-sp/modnomatch/(en en SPS00 -) [
+                sn/head/(día día NCMS000 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(perlas perla NCFP000 -) [
+    espec-fp/espec/(las el DA0FP0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(vuelven volver VMIP3P0 -)
+    ]
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(esencia esencia NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(perder perder VMN0000 -) [
+      patons/modnomatch/(se se PP3CN000 -)
+      VMI*<deber>/modnomatch/(debió deber VMIS3S0 -)
+      sadv/cc/(nunca nunca RG -)
+      F-no-c/modnomatch/(: : Fd -)
+      sn/obj/(fantasía fantasía NCFS000 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(aventura aventura NCFS000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(magia magia NCFS000 -) [
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  sn/obj/(amor amor NCMS000 -)
+  F-term/term/(. . Fp -)
+]
+

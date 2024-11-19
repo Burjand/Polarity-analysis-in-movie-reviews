@@ -1,0 +1,59 @@
+grup-verb/top/(vuelto volver VMP00SM -) [
+  vaux/aux/(ha haber VAIP3S0 -)
+  sn/subj/(Stallone stallone NP00000 -)
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(vuelto volver VMP00SM -) [
+  vaux/aux/(ha haber VAIP3S0 -)
+  sn/subj/(Rambo rambo NP00000 -)
+  F-term/term/(. . Fp -)
+]
+
+F-no-c/top/(¿ ¿ Fia -) [
+  grup-verb/modnorule/(disfrutar disfrutar VMN0000 -) [
+    VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+    sn/subj/(Quién quién PT0CS000 -)
+    neg/modneg/(no no RN -)
+    sp-de/modnomatch/(de de SPS00 -) [
+      sn/gen/(noticia noticia NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+  ]
+  F-term/modnorule/(? ? Fit -)
+]
+
+F-no-c/top/(¿ ¿ Fia -) [
+  grup-verb/modnorule/(disfrutar disfrutar VMN0000 -) [
+    VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+    sn/subj/(Quién quién PT0CS000 -)
+    neg/modneg/(no no RN -)
+    grup-sp/modnomatch/(ante ante SPS00 -) [
+      sn/head/(peli peli AQ0CN0 -) [
+        indef-fs/modnomatch/(una uno DI0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(de de SPS00 -) [
+            j-fp/modnomatch/(las el DA0FP0 -)
+            sadv/modnomatch/(antes antes RG -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/modnorule/(? ? Fit -)
+]
+
+s-adj/top/(violenta violento AQ0FS0 -) [
+  sadv/modnorule/(Tan tan RG -)
+  grup-sp/modnorule/(como como CS -) [
+    sn/head/(entretenida entretenida NCFS000 -)
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+sn/top/(Queda_Stallone queda_stallone NP00000 -) [
+  sadv/modnomatch/(para_rato para_rato RG -)
+  F-term/term/(. . Fp -)
+]
+

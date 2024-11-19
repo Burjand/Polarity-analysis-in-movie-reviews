@@ -1,0 +1,38 @@
+coor-vb/top/(y y CC -) [
+  grup-verb/co-v/(Cierra cerrar VMM02S0 -) [
+    sn/obj/(ojos ojo NCMP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+    ]
+  ]
+  grup-verb/co-v/(abre abrir VMIP3S0 -) [
+    sn/obj/(mente mente NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+
+sn/top/(Frase frase NCFS000 -) [
+  s-a-fs/qual/(importantísima importante AQSFS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(tener tener VMN0000 -) [
+      VMI*<tener>/modnomatch/(tenéis tener VMIP2P0 -)
+      CS(que)/modnomatch/(que que CS -)
+    ]
+  ]
+  sn/modnomatch/(presente presente NCMS000 -) [
+    grup-sp/modnomatch/(a a SPS00 -) [
+      sn/head/(hora hora NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+  ]
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(ver ver VMN0000 -)
+    sn/modnomatch/(película película NCFS000 -) [
+      espec-fs/espec/(esta este DD0FS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

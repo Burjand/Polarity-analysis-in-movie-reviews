@@ -1,0 +1,63 @@
+grup-verb/top/(masacrar masacrar VMN0000 -) [
+  VMI*<ir>/modnomatch/(vamos ir VMIP1P0 -)
+  SPS00(a)/modnomatch/(a a SPS00 -)
+  neg/modneg/(No no RN -)
+  grup-sp/modnomatch/(por por SPS00 -) [
+    sn/head/(película película NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+    ]
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(cine cine NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(español español AQ0MS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-verb/top/(hacemos hacer VMIP1P0 -) [
+  patons/modnomatch/(lo lo PP3CNA00 -)
+  neg/modneg/(No no RN -)
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(otros otro PI0MP000 -)
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(entregan entregar VMIP3P0 -) [
+      sadv/cc/(también también RG -)
+      sn/obj/(basura basura NCFS000 -) [
+        s-a-fs/qual/(semejante semejante AQ0CS0 -)
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(pero pero CC -) [
+  grup-verb/co-v/(está estar VAIP3S0 -) [
+    sn/subj/(cine cine NCMS000 -) [
+      espec-ms/espec/(El el DA0MS0 -)
+      s-a-ms/qual/(español español AQ0MS0 -)
+    ]
+    forma-ger/modnomatch/(levantando levantar VMG0000 -)
+  ]
+  sn/subj/(cabeza cabeza NCFS000 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(llega llegar VMIP3S0 -)
+  sadv/modnomatch/(luego luego RG -)
+  coor-vb/modnomatch/(y y CC -) [
+    sn/subj/(título título NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(guisa guisa NCFS000 -) [
+          espec-fs/espec/(esta este DD0FS0 -)
+        ]
+      ]
+    ]
+    grup-verb/co-v/(agacha agachar VMIP3S0 -) [
+      patons/modnomatch/(la lo PP3FSA00 -)
+    ]
+  ]
+  F-no-c/modnomatch/(... ... Fs -)
+]
+

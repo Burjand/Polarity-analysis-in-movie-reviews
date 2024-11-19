@@ -1,0 +1,48 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(Stardust stardust NP00000 -)
+  sn/obj/(película película NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+    s-a-fs/qual/(y y CC -) [
+      s-a-fs/modnorule/(emocionante emocionante AQ0CS0 -)
+      s-a-fs/modnorule/(divertida divertir VMP00SF -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(hará hacer VMIF3S0 -)
+  ]
+  grup-verb-inf/modnomatch/(disfrutar disfrutar VMN0000 -)
+  sadv/cc/(de_lo_lindo de_lo_lindo RG -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(cualquiera cualquiera PI0CS000 -)
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(entrar entrar VMN0000 -) [
+      VMS*<querer>/modnomatch/(quiera querer VMSP1S0 -)
+    ]
+  ]
+  grup-sp/modnomatch/(sin sin SPS00 -) [
+    sn/head/(prejuicios prejuicio NCMP000 -) [
+      grup-sp/modnomatch/(en en SPS00 -) [
+        sn/head/(historia historia NCFS000 -) [
+          espec-fs/espec/(una uno DI0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(toma tomar VMIP3S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+      sadv/cc/(tampoco tampoco RG -)
+      sadv/cc/(muy muy RG -)
+      grup-sp/cc/(en en SPS00 -) [
+        s-a-ms/modnomatch/(serio serio AQ0MS0 -)
+      ]
+    ]
+  ]
+  prep/modnomatch/(a a SPS00 -)
+  conj-subord/modnomatch/(si si CS -)
+  s-adj/att/(misma mismo AQ0FS0 -)
+  F-term/term/(. . Fp -)
+]
+

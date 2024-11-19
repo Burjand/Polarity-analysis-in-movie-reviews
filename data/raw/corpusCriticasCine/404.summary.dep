@@ -1,0 +1,41 @@
+grup-verb/top/(Expresa expresar VMIP3S0 -) [
+  sn/obj/(filosofía filosofía NCFS000 -) [
+    espec-fs/espec/(su su DP3CS0 -)
+  ]
+  forma-ger/modnomatch/(recurriendo recurrir VMG0000 -)
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(caricatura caricatura NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(personajes personaje NCMP000 -) [
+          espec-mp/espec/(los el DA0MP0 -)
+        ]
+      ]
+    ]
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(situaciones situación NCFP000 -) [
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(obviedad obviedad NCFS000 -) [
+          espec-fs/espec/(una uno DI0FS0 -)
+          s-a-fs/qual/(alarmante alarmante AQ0CS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+s-adj/top/(ingenuo ingenuo AQ0MS0 -) [
+  sadv/modnorule/(Demasiado demasiado RG -)
+  Fc(,)/modnorule/(, , Fc -)
+  sadv/modnorule/(incluso incluso RG -)
+  grup-sp-inf/modnorule/(para para SPS00 -) [
+    grup-verb-inf/head/(ser ser VSN0000 -)
+    sn/modnomatch/(cuento cuento NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

@@ -1,0 +1,37 @@
+grup-verb/top/(aplastaré aplastar VMIF1S0 -) [
+  sadv/cc/(Nunca nunca RG -)
+  sadv/cc/(más más RG -)
+  sn/obj/(hormiga hormiga NCFS000 -) [
+    espec-fs/espec/(una uno DI0FS0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+F-no-c/top/(¿ ¿ Fia -) [
+  sn/modnorule/(Qué qué PT0CN000 -)
+  sn/modnorule/(tal tal PD0CS000 -)
+  conj-subord/modnorule/(si si CS -)
+  prep/modnorule/(a a SPS00 -)
+  espec-ms/modnorule/(el el DA0MS0 -)
+  grup-verb-inf/modnorule/(llegar llegar VMN0000 -)
+  grup-verb/modnorule/(damos dar VMIP1P0 -) [
+    patons/modnomatch/(les les PP3CPD00 -)
+    grup-sp/modnomatch/(a a SPS00 -) [
+      sn/head/(casa casa NCFS000 -)
+    ]
+    sn/obj/(caramelos caramelo NCMP000 -) [
+      espec-mp/espec/(esos ese DD0MP0 -)
+    ]
+  ]
+  conj-subord/modnorule/(que que CS -)
+  subord/modnorule/(cuando cuando CS -) [
+    grup-verb/modnorule/(masticas masticar VMIP2S0 -) [
+      patons/modnomatch/(los los PP3MPA00 -)
+    ]
+  ]
+  grup-verb/modnorule/(deshacen deshacer VMIP3P0 -) [
+    morfema-verbal/modnomatch/(se se P0000000 -)
+  ]
+  F-term/modnorule/(? ? Fit -)
+]
+

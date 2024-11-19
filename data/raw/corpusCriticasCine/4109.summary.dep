@@ -1,0 +1,66 @@
+grup-verb/top/(hacen hacer VMIP3P0 -) [
+  sn/subj/(pena pena NCFS000 -) [
+    espec-fs/espec/(Una uno DI0FS0 -)
+    Fc(,)/modnomatch/(, , Fc -)
+    conj-subord/modnomatch/(porque porque CS -)
+    sn/modnomatch/(actores actor NCMP000 -) [
+      espec-mp/espec/(los el DA0MP0 -)
+      F-no-c/modnomatch/(- - Fg -)
+    ]
+    forma-ger/modnomatch/(exceptuando exceptuar VMG0000 -)
+  ]
+  sn/subj/(Elijah_Wood elijah_wood NP00000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(despejar despejar VMN0000 -) [
+        patons/modnomatch/(se se PP3CN000 -)
+        VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+        sadv/cc/(aún aun RG -)
+        neg/modneg/(no no RN -)
+        sn/obj/(careto careto NCMS000 -) [
+          espec-ms/espec/(su su DP3CS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(hobbit hobbit NP00000 -) [
+              grup-verb/modnomatch/(sobresale sobresalir VMIP3S0 -) [
+                grup-sp/cc/(en en SPS00 -) [
+                  sn/head/(papel papel NCMS000 -) [
+                    espec-ms/espec/(un uno DI0MS0 -)
+                  ]
+                ]
+                subord/modnomatch/(que que PR0CN000 -) [
+                  grup-verb/modnorule/(aplaudiría aplaudir VMIC1S0 -) [
+                    sn/subj/(Hitchcock hitchcock NP00000 -) [
+                      grup-verb/modnomatch/(encuadra encuadrar VMIP3S0 -) [
+                        grup-sp/modnomatch/(con con SPS00 -) [
+                          sn/head/(acierto acierto NCMS000 -)
+                        ]
+                      ]
+                    ]
+                    F-no-c/modnomatch/() ) Fpt -)
+                    coor-n/obj/(y y CC -) [
+                      Fc(,)/modnomatch/(, , Fc -)
+                      sn/co-n/(cámara cámara NCFS000 -) [
+                        espec-fs/espec/(la el DA0FS0 -)
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+        F-no-c/modnomatch/(- - Fg -)
+      ]
+    ]
+  ]
+  sn/obj/(trabajo trabajo NCMS000 -) [
+    espec-ms/espec/(su su DP3CS0 -)
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(soltura soltura NCFS000 -)
+  ]
+  F-no-c/modnomatch/(( ( Fpa -)
+  sn/obj/(Julie_Cox julie_cox NP00000 -)
+  F-term/term/(. . Fp -)
+]
+

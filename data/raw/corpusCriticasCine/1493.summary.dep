@@ -1,0 +1,61 @@
+grup-verb/top/(recordarán recordar VMIF3P0 -) [
+  patons/modnomatch/(nos nos PP1CP000 -)
+  sn/subj/(Escenas escenas NP00000 -) [
+    grup-sp/modnomatch/(como como CS -) [
+      sn/head/(despedida despedida NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        s-a-fs/qual/(triste triste AQ0CS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(enamorados enamorado NCMP000 -) [
+            espec-mp/espec/(los el DA0MP0 -)
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    coord/modnomatch/(y y CC -)
+    espec-ms/espec/(un uno DI0MS0 -)
+  ]
+  sn/subj/(final final NCFS000 -) [
+    s-adj/qual/(cercano cercano AQ0MS0 -) [
+      sadv/modnorule/(muy muy RG -)
+    ]
+    grup-sp/modnomatch/(a a SPS00 -) [
+      sn/head/(realidad realidad NCFS000 -) [
+        espec-fs/espec/(nuestra nuestro DP1FSP -)
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+  ]
+  conj-subord/modnomatch/(que que CS -)
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(pese_a pese_a SPS00 -) [
+    sn/head/(madurez madurez NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(alcanzada alcanzar VMP00SF -)
+      grup-sp/modnomatch/(por por SPS00 -) [
+        sn/head/(cine cine NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(espectador espectador NCMS000 -) [
+      espec-ms/espec/(su su DP3CS0 -)
+      grup-verb/modnomatch/(seguir seguir VMN0000 -) [
+        VMI*<poder>/modnomatch/(puede poder VMIP3S0 -)
+        sn/subj/(pantalla pantalla NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(emoción emoción NCFS000 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  parti-flex/modnomatch/(desbordada desbordar VMP00SF -)
+  F-term/term/(. . Fp -)
+]
+

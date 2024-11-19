@@ -1,0 +1,47 @@
+grup-verb/top/(Tengo tener VMIP1S0 -) [
+  sn/obj/(sentimientos sentimiento NCMP000 -) [
+    s-a-mp/qual/(contradictorios contradictorio AQ0MP0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+grup-sp/top/(Por por SPS00 -) [
+  sn/head/(lado lado NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+  ]
+  coor-vb/modnomatch/(pero pero CC -) [
+    sn/subj/(película película NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+    ]
+    grup-verb/co-v/(tiene tener VMIP3S0 -) [
+      sn/obj/(cosas cosa NCFP000 -) [
+        subord/modnomatch/(que que PR0CN000 -) [
+          grup-verb/modnorule/(fascinan fascinar VMIP3P0 -) [
+            patons/modnomatch/(me me PP1CS000 -)
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    grup-verb/co-v/(pienso pensar VMIP1S0 -)
+  ]
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(va ir VMIP3S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+      patons/modnomatch/(le le PP3CSD00 -)
+      grup-sp/cc/(a a SPS00 -) [
+        sn/head/(Médem médem NP00000 -)
+      ]
+      sn/subj/(historia historia NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+      sp-de/modnomatch/(de de SPS00 -) [
+        sn/gen/(manos mano NCFP000 -) [
+          espec-fp/espec/(las el DA0FP0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

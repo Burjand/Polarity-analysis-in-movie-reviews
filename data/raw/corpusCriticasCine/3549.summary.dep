@@ -1,0 +1,50 @@
+coor-vb/top/(y y CC -) [
+  grup-verb/co-v/(pertenecería pertenecer VMIC1S0 -) [
+    sn/subj/(documental documental NCMS000 -) [
+      espec-ms/espec/(Este este DD0MS0 -)
+      s-a-ms/qual/(falso falso AQ0MS0 -)
+    ]
+    grup-sp/iobj/(a a SPS00 -) [
+      sn/head/(esilo esilo NCMS000 -) [
+        espec-ms/espec/(ese ese DD0MS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(películas película NCFP000 -) [
+            s-a-fp/qual/(concebidas concebir VMP00PF -)
+          ]
+        ]
+      ]
+    ]
+    grup-sp/iobj/(a a SPS00 -) [
+      sn/head/(público público NCMS000 -) [
+        espec-ms/espec/(un uno DI0MS0 -)
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(ver ver VMN0000 -) [
+        VMI*<ir>/modnomatch/(va ir VMIP3S0 -)
+        SPS00(a)/modnomatch/(a a SPS00 -)
+      ]
+    ]
+    sn/obj/(arriesgado arriesgar VMP00SM -) [
+      pindef-ms/modnomatch/(algo algo PI0CS000 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/subj/(algo algo PI0CS000 -) [
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(conmueva conmover VMSP1S0 -) [
+        patons/modnomatch/(les les PP3CPD00 -)
+      ]
+    ]
+  ]
+  grup-verb/co-v/(conciencíe conciencíe VMIP3S0 -)
+  F-term/modnomatch/(. . Fp -)
+]
+
+grup-verb/top/(pierdan perder VMSP3P0 -) [
+  morfema-verbal/modnomatch/(se se P0000000 -)
+  patons/modnomatch/(la lo PP3FSA00 -)
+  neg/modneg/(No no RN -)
+  F-term/term/(. . Fp -)
+]
+

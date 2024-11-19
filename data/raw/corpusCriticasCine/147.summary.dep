@@ -1,0 +1,40 @@
+sn/top/(Película película NCFS000 -) [
+  s-a-fs/qual/(e e CC -) [
+    s-a-fs/modnorule/(curiosa curioso AQ0FS0 -)
+    s-a-fs/modnorule/(interesante interesante AQ0CS0 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(llegar llegar VMN0000 -) [
+      VMI*<ir>/modnomatch/(va ir VMIP3S0 -)
+      SPS00(a)/modnomatch/(a a SPS00 -)
+      neg/modneg/(no no RN -)
+    ]
+  ]
+  grup-sp/modnomatch/(a a SPS00 -) [
+    sn/head/(mundo mundo NCMS000 -) [
+      espec-ms/espec/(todo todo DI0MS0 -) [
+        j-ms/modnorule/(el el DA0MS0 -)
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(como como CS -) [
+    grup-verb/modnorule/(ocurrió ocurrir VMIS3S0 -)
+  ]
+  prep/modnomatch/(con con SPS00 -)
+  F-term/term/(? ? Fit -)
+]
+
+grup-sp/top/(A_propósito_de a_propósito_de SPS00 -) [
+  sn/head/(Schimdt schimdt NP00000 -)
+  F-term/modnomatch/(? ? Fit -)
+  coord/modnomatch/(y y CC -)
+  F-term/modnomatch/(? ? Fit -)
+]
+
+grup-verb/top/(Extrañas extrañar VMIP2S0 -) [
+  sn/obj/(coincidencias coincidencia NCFP000 -)
+  F-term/term/(? ? Fit -)
+]
+

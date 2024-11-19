@@ -1,0 +1,76 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(consejo consejo NCMS000 -) [
+    espec-ms/espec/(Mi mi DP1CSS -)
+    F-no-c/modnomatch/(: : Fd -)
+    subord/modnomatch/(si si CS -) [
+      grup-verb/modnorule/(disfrutaste disfrutar VMIS2S0 -)
+    ]
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(primera 1 AO0FS0 -) [
+        j-fs/modnomatch/(la el DA0FS0 -)
+      ]
+    ]
+  ]
+  s-adj/att/(posible posible AQ0CS0 -)
+  subord/modnomatch/(que que CS -) [
+    grup-verb/modnorule/(repitas repetir VMSP2S0 -)
+  ]
+  prep/modnomatch/(con con SPS00 -)
+  espec-fs/modnomatch/(esta este DD0FS0 -)
+  F-term/term/(. . Fp -)
+]
+
+subord/top/(Si si CS -) [
+  grup-verb/modnorule/(eres ser VSIP2S0 -) [
+    sn/obj/(fan fan NCCS000 -) [
+      s-a-ms/qual/(absoluto absoluto AQ0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(peluquín peluquín NCMS000 -) [
+          espec-ms/espec/(el el DA0MS0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(Cage cage NP00000 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  sadv/modnorule/(adelante adelante RG -)
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(pasa pasar VMIP3S0 -) [
+    grup-sp-inf/modnomatch/(sin sin SPS00 -) [
+      grup-verb-inf/head/(llamar llamar VMN0000 -)
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+
+subord/top/(Si si CS -) [
+  grup-verb/modnorule/(ver ver VMN0000 -) [
+    VMI*<querer>/modnomatch/(quieres querer VMIP2S0 -)
+    sn/obj/(cine cine NCMS000 -) [
+      s-a-ms/qual/(buen bueno AQ0MS0 -)
+    ]
+  ]
+  grup-verb/modnorule/(mira mirar VMIP3S0 -) [
+    grup-sp-inf/iobj/(a a SPS00 -) [
+      grup-verb-inf/head/(ver ver VMN0000 -)
+    ]
+    subord/modnomatch/(que que CS -) [
+      grup-verb/modnorule/(echan echar VMIP3P0 -)
+    ]
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(Sala sala NP00000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+      ]
+    ]
+    sn/obj/(3 3 Z -) [
+      Fc(,)/modnomatch/(, , Fc -)
+      grup-verb/modnomatch/(sea ser VSSP1S0 -)
+    ]
+    sadv/cc/(posiblemente posiblemente RG -)
+  ]
+  s-adj/modnorule/(mejor mejor AQ0CS0 -)
+  F-term/modnorule/(. . Fp -)
+]
+

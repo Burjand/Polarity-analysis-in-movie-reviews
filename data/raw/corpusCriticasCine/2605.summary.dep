@@ -1,0 +1,53 @@
+grup-verb-inf/top/(Entretener entretener VMN0000 -) [
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(poco poco PI0MS000 -)
+  ]
+  coord/modnomatch/(y y CC -)
+  grup-verb-inf/modnomatch/(recurrir recurrir VMN0000 -)
+  grup-sp/modnomatch/(a a SPS00 -) [
+    sn/head/(sencillez sencillez NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      s-a-fs/qual/(extrema extremo AQ0FS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  sn/obj/(regla_de_oro regla_de_oro NCFS000 -)
+  grup-sp-inf/modnomatch/(para para SPS00 -) [
+    grup-verb-inf/head/(construir construir VMN0000 -)
+    sn/modnomatch/(producto producto NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      s-a-ms/qual/(destinado destinar VMP00SM -)
+    ]
+  ]
+  grup-sp/modnomatch/(a a SPS00 -) [
+    sn/head/(divertimento divertimento NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(inmediato inmediato AQ0MS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp-inf/modnomatch/(sin sin SPS00 -) [
+    grup-verb-inf/head/(preocupar preocupar VMN0000 -) [
+      PP*/modnomatch/(se se PP3CN000 -)
+    ]
+  ]
+  prep/modnomatch/(de de SPS00 -)
+  subord/modnomatch/(si si CS -) [
+    grup-verb/modnorule/(acordará acordar VMIF3S0 -) [
+      morfema-verbal/modnomatch/(se se P0000000 -)
+      grup-sp/modnomatch/(dentro_de dentro_de SPS00 -) [
+        sn/head/(años año NCMP000 -) [
+          numero-nopart/quant/(20 20 Z -)
+        ]
+      ]
+      sn/subj/(alguien alguien PI0CS000 -)
+      sp-de/modnomatch/(de de SPS00 -) [
+        sn/gen/(película película NCFS000 -) [
+          espec-fs/espec/(esta este DD0FS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

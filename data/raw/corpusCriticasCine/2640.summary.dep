@@ -1,0 +1,47 @@
+grup-verb/top/(es ser VSIP3S0 -) [
+  sn/subj/(fallo fallo NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+    s-a-ms/qual/(principal principal AQ0CS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Días días NP00000 -) [
+        numero-nopart/quant/(2 2 Z -)
+      ]
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(París parís NP00000 -)
+  ]
+  sn/obj/(obsesión obsesión NCFS000 -) [
+    espec-fs/espec/(la el DA0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(Julie_Delpy julie_delpy NP00000 -)
+    ]
+  ]
+  grup-sp-inf/modnomatch/(en en SPS00 -) [
+    grup-verb-inf/head/(emular emular VMN0000 -)
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(Richard_Linklater richard_linklater NP00000 -)
+  ]
+  coor-n/obj/(y y CC -) [
+    sn/co-n/(trabajo trabajo NCMS000 -) [
+      espec-ms/espec/(su su DP3CS0 -)
+      grup-verb/modnomatch/(es ser VSIP3S0 -) [
+        sadv/cc/(tampoco tampoco RG -)
+        subord/modnomatch/(que que CS -) [
+          grup-verb/modnorule/(fuera ser VSSI1S0 -) [
+            sn/obj/(joya joya NCFS000 -) [
+              espec-fs/espec/(ninguna ninguno DI0FS0 -)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  conj-subord/modnomatch/(que que CS -)
+  geraux-ser/modnomatch/(siendo ser VSG0000 -)
+  s-adj/att/(sinceros sincero AQ0MP0 -)
+  F-term/term/(. . Fp -)
+]
+

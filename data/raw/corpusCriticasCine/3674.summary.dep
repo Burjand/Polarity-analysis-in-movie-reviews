@@ -1,0 +1,67 @@
+grup-verb/top/(logran lograr VMIP3P0 -) [
+  sn/subj/(Ni ni CC -) [
+    sn/modnomatch/(coreografías coreografía NCFP000 -) [
+      espec-fp/espec/(sus su DP3CP0 -)
+    ]
+    CC(ni)/modnomatch/(ni ni CC -)
+    sn/modnomatch/(planos plano NCMP000 -) [
+      espec-mp/espec/(sus su DP3CP0 -)
+      s-a-mp/qual/(contínuos contínuos AQ0MP0 -)
+    ]
+  ]
+  grup-sp/modnomatch/(a a SPS00 -) [
+    sn/head/(cámara cámara NCFS000 -) [
+      s-a-fs/qual/(lenta lento AQ0FS0 -)
+    ]
+  ]
+  grup-verb-inf/modnomatch/(aproximar aproximar VMN0000 -) [
+    PP*/modnomatch/(se se PP3CN000 -)
+  ]
+  grup-sp/iobj/(a a SPS00 -) [
+    sn/head/(John_Woo john_woo NP00000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+      s-a-ms/qual/(decadente decadente AQ0CS0 -) [
+        sadv/modnorule/(más más RG -)
+      ]
+      grup-verb/modnomatch/(suena sonar VMIP3S0 -) [
+        patons/modnomatch/(nos nos PP1CP000 -)
+        sn/subj/(historia historia NCFS000 -) [
+          espec-fs/espec/(su su DP3CS0 -)
+          grup-verb/modnomatch/(resulta resultar VMIP3S0 -) [
+            patons/modnomatch/(nos nos PP1CP000 -)
+            grup-sp/modnomatch/(a a SPS00 -) [
+              sn/head/(refrito refrito NCMS000 -)
+            ]
+            coor-n/subj/(y y CC -) [
+              Fc(,)/modnomatch/(, , Fc -)
+              sn/co-n/(Timothy_Olyphant timothy_olyphant NP00000 -)
+            ]
+            sadv/cc/(todavía todavía RG -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  prep/modnomatch/(a a SPS00 -)
+  s-adj/modnomatch/(creíble creíble AQ0CS0 -) [
+    sadv/modnorule/(menos menos RG -)
+  ]
+  conj-subord/modnomatch/(que que CS -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(rol rol NCMS000 -) [
+      espec-ms/espec/(su su DP3CS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(villano villano NCMS000 -) [
+          grup-sp/modnomatch/(en en SPS00 -) [
+            sn/head/(La la NP00000 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  sn/obj/(jungla jungla NCFS000 -)
+  sn/obj/(4.0 40 Z -)
+  F-term/term/(. . Fp -)
+]
+

@@ -1,0 +1,60 @@
+sn/top/(película película NCFS000 -) [
+  espec-fs/espec/(Una uno DI0FS0 -)
+  s-a-fs/qual/(redonda redondo AQ0FS0 -)
+  grup-sp/modnomatch/(en en SPS00 -) [
+    sn/head/(suma suma NCFS000 -) [
+      grup-sp/modnomatch/(con con SPS00 -) [
+        sn/head/(calidad calidad NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          grup-sp/modnomatch/(en_cuanto_a en_cuanto_a SPS00 -) [
+            sn/head/(realización realización NCFS000 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  prep/modnomatch/(a a SPS00 -)
+  espec-fs/espec/(la el DA0FS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(tiene tener VMIP3S0 -) [
+      patons/modnomatch/(nos nos PP1CP000 -)
+    ]
+  ]
+  sn/modnomatch/(Loach loach NP00000 -) [
+    s-a-mp/qual/(acostumbrados acostumbrar VMP00PM -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
+subord/top/(Si si CS -) [
+  grup-verb/modnorule/(quereis quereis VMSI2P0 -)
+  grup-verb-inf/modnorule/(pasar pasar VMN0000 -)
+  coor-n/modnorule/(y y CC -) [
+    sn/co-n/(rato rato NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(cine cine NCMS000 -) [
+          s-a-ms/qual/(buen bueno AQ0MS0 -)
+          grup-sp/modnomatch/(con con SPS00 -) [
+            sn/head/(historia historia NCFS000 -)
+          ]
+        ]
+      ]
+      Fc(,)/modnomatch/(, , Fc -)
+    ]
+    sn/co-n/(trasfondo trasfondo NCMS000 -) [
+      s-a-ms/qual/(social social AQ0CS0 -)
+    ]
+  ]
+  Fc(,)/modnorule/(, , Fc -)
+  grup-verb/modnorule/(dejéis dejar VMSP2P0 -) [
+    neg/modneg/(no no RN -)
+  ]
+  grup-verb-inf/modnorule/(escaapar escaapar VMN0000 -)
+  sn/modnorule/(film film NCMS000 -) [
+    espec-ms/espec/(este este DD0MS0 -)
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

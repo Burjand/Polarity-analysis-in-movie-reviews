@@ -1,0 +1,41 @@
+coor-vb/top/(pero pero CC -) [
+  sn/subj/(talento talento NCMS000 -) [
+    espec-ms/espec/(El el DA0MS0 -)
+  ]
+  grup-verb/co-v/(dado_paso dar_paso VMP00SM -) [
+    vaux/aux/(ha haber VAIP3S0 -)
+    grup-sp/iobj/(a a SPS00 -) [
+      sn/head/(glotonería glotonería NCFS000 -) [
+        espec-fs/espec/(la el DA0FS0 -)
+        s-a-fs/qual/(monetaria monetario AQ0FS0 -)
+      ]
+    ]
+    F-no-c/modnomatch/(; ; Fx -)
+  ]
+  grup-verb/co-v/(aparece aparecer VMIP3S0 -) [
+    grup-sp/modnomatch/(por por SPS00 -) [
+      sn/head/(momentos momento NCMP000 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-verb/co-v/(produce producir VMIP3S0 -) [
+    morfema-verbal/modnomatch/(se se P0000000 -)
+    neg/modneg/(no no RN -)
+    sn/obj/(alegría alegría NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      subord/modnomatch/(que que PR0CN000 -) [
+        grup-verb/modnorule/(tuvimos tener VMIS1P0 -)
+      ]
+    ]
+  ]
+  prep/modnomatch/(con con SPS00 -)
+  espec-fp/modnomatch/(las el DA0FP0 -)
+  sn/modnomatch/(entregas entrega NCFP000 -) [
+    espec-fp/espec/(otras otro DI0FP0 -) [
+      num-fp/modnorule/(2 2 Z -)
+    ]
+    s-a-fp/qual/(memorables memorable AQ0CP0 -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

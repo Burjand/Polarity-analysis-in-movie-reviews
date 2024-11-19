@@ -1,0 +1,36 @@
+grup-sp/top/(Con con SPS00 -) [
+  sn/head/(altibajos altibajo NCMP000 -) [
+    espec-mp/espec/(unos uno DI0MP0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(ritmo ritmo NCMS000 -) [
+        grup-sp/modnomatch/(con con SPS00 -) [
+          sn/head/(subtrama subtrama NCFS000 -) [
+            espec-fs/espec/(una uno DI0FS0 -)
+            s-a-fs/qual/(viral viral AQ0CS0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  s-adj/modnomatch/(brutales brutal AQ0CP0 -)
+  Fc(,)/modnomatch/(, , Fc -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(comprender comprender VMN0000 -) [
+      VMI*<terminar>/modnomatch/(termina terminar VMIP3S0 -)
+      SPS00(de)/modnomatch/(de de SPS00 -)
+      sn/subj/(nadie nadie PI0CS000 -)
+    ]
+  ]
+  coord/modnomatch/(y y CC -)
+  espec-ms/modnomatch/(un uno DI0MS0 -)
+  sn/head/(final final NCFS000 -) [
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(es ser VSIP3S0 -)
+    ]
+  ]
+  sn/head/(delirio delirio NCMS000 -) [
+    s-a-ms/qual/(puro puro AQ0MS0 -)
+    F-no-c/modnomatch/(... ... Fs -)
+  ]
+]
+

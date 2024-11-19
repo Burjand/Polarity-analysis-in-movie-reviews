@@ -1,0 +1,40 @@
+grup-verb/top/(haber haber VMN0000 -) [
+  VMI*<deber>/modnomatch/(debería deber VMIC1S0 -)
+  sn/subj/(película película NCFS000 -) [
+    espec-fs/espec/(Una uno DI0FS0 -)
+  ]
+  grup-sp/modnomatch/(como como CS -) [
+    sn/head/(esta este PD0FS000 -)
+  ]
+  neg/modneg/(no no RN -)
+  parti-ser/modnomatch/(sido ser VSP00SM -)
+  parti-flex/modnomatch/(doblada doblar VMP00SF -)
+  F-term/term/(. . Fp -)
+]
+
+sadv/top/(Quizá quizá RG -) [
+  coor-vb/modnorule/(ni ni CC -) [
+    grup-verb/co-v/(haber haber VMN0000 -) [
+      VMI*<deber>/modnomatch/(debería deber VMIC1S0 -)
+      sadv/cc/(siquiera siquiera RG -)
+    ]
+  ]
+  parti-ser/modnorule/(sido ser VSP00SM -)
+  parti-flex/modnorule/(exportada exportar VMP00SF -)
+  F-term/modnorule/(. . Fp -)
+]
+
+coor-vb/top/(y y CC -) [
+  grup-verb/co-v/(visto ver VMP00SM -) [
+    patons/modnomatch/(La lo PP3FSA00 -)
+    vaux/aux/(he haber VAIP1S0 -)
+    grup-sp/cc/(en en SPS00 -) [
+      sn/head/(español español NCMS000 -)
+    ]
+  ]
+  grup-verb/co-v/(funciona funcionar VMIP3S0 -) [
+    sadv/cc/(apenas apenas RG -)
+  ]
+  F-term/modnomatch/(. . Fp -)
+]
+

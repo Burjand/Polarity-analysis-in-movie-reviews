@@ -1,0 +1,59 @@
+grup-verb/top/(pasa pasar VMIP3S0 -) [
+  sn/subj/(Last_Days last_days NP00000 -)
+  neg/modneg/(no no RN -)
+  grup-sp-inf/modnomatch/(de de SPS00 -) [
+    grup-verb-inf/head/(explicar explicar VMN0000 -)
+    sn/modnomatch/(algo algo PI0CS000 -) [
+      subord/modnomatch/(que que CS -) [
+        grup-verb/modnorule/(decir decir VMN0000 -) [
+          vaux/aux/(hubiera haber VASI1S0 -)
+          VMP00SM(podido)/modnomatch/(podido poder VMP00SM -)
+        ]
+      ]
+    ]
+  ]
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(cortometraje cortometraje NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+
+coor-vb/top/(Y y CC -) [
+  grup-verb/co-v/(hubiera haber VMSI3S0 -)
+  parti-ser/modnomatch/(sido ser VSP00SM -)
+  s-adj/modnomatch/(bueno bueno AQ0MS0 -) [
+    sadv/modnorule/(muy muy RG -)
+  ]
+  coor-n/modnomatch/(pero pero CC -) [
+    Fc(,)/modnomatch/(, , Fc -)
+    sn/co-n/(hora hora NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+    ]
+  ]
+  coor-n/modnomatch/(y y CC -) [
+    sn/co-n/(media medio PI0FS000 -)
+  ]
+  forma-ger/modnomatch/(viendo ver VMG0000 -)
+  grup-sp/modnomatch/(a a SPS00 -) [
+    sn/head/(Michael_Pitt michael_pitt NP00000 -)
+  ]
+  forma-ger/modnomatch/(deambulando deambular VMG0000 -)
+  grup-verb/co-v/(es ser VSIP3S0 -) [
+    sadv/cc/(demasiado demasiado RG -)
+    sn/obj/(tiempo tiempo NCMS000 -)
+  ]
+  conj-subord/modnomatch/(como como CS -)
+  prep/modnomatch/(para para SPS00 -)
+  neg/modnomatch/(no no RN -)
+  grup-verb-inf/modnomatch/(plantear plantear VMN0000 -) [
+    PP*/modnomatch/(te te PP2CS000 -)
+  ]
+  conj-subord/modnomatch/(si si CS -)
+  patons/modnomatch/(te te PP2CS000 -)
+  vaux/modnomatch/(están estar VAIP3P0 -)
+  forma-ger/modnomatch/(tomando_el_pelo tomar_el_pelo VMG0000 -)
+  F-term/modnomatch/(. . Fp -)
+]
+

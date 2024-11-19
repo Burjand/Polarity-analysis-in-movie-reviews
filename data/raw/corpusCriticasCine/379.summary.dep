@@ -1,0 +1,44 @@
+subord/top/(Donde donde PR000000 -) [
+  grup-verb/modnorule/(haber haber VMN0000 -) [
+    VMI*<poder>/modnomatch/(pudo poder VMIS3S0 -)
+  ]
+  grup-verb/modnorule/(exhibe exhibir VMIP3S0 -) [
+    morfema-verbal/modnomatch/(se se P0000000 -)
+    patons/modnomatch/(nos nos PP1CP000 -)
+    coor-n/subj/(o o CC -) [
+      sn/co-n/(películas película NCFP000 -) [
+        numero-nopart/quant/(cinco 5 Z -)
+      ]
+      sn/co-n/(serie serie NCFS000 -) [
+        espec-fs/espec/(una uno DI0FS0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(televisión televisión NCFS000 -) [
+            s-a-fs/qual/(interesante interesante AQ0CS0 -)
+          ]
+        ]
+      ]
+    ]
+    sn/obj/(muestrario muestrario NCMS000 -) [
+      espec-ms/espec/(un uno DI0MS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(escenas escena NCFP000 -) [
+          s-a-fp/qual/(llenas lleno AQ0FP0 -)
+          sp-de/mod/(de de SPS00 -) [
+            sn/gen/(huecos hueco NCMP000 -)
+          ]
+        ]
+      ]
+    ]
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(rellenen rellenar VMSP3P0 -) [
+        morfema-verbal/modnomatch/(se se P0000000 -)
+        sadv/cc/(quizás quizás RG -)
+        sn/obj/(día día NCMS000 -) [
+          espec-ms/espec/(algún alguno DI0MS0 -)
+        ]
+      ]
+    ]
+  ]
+  F-term/modnorule/(. . Fp -)
+]
+

@@ -1,0 +1,73 @@
+grup-verb/top/(consideren considerar VMSP3P0 -) [
+  patons/modnomatch/(le le PP3CSD00 -)
+  sn/subj/(película película NCFS000 -) [
+    s-a-fs/qual/(Buena bueno AQ0FS0 -)
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(género género NCMS000 -) [
+        coor-sp/modnomatch/(y y CC -) [
+          grup-sp/modnorule/(con con SPS00 -) [
+            sn/head/(ideas idea NCFP000 -) [
+              s-a-fp/qual/(excelentes excelente AQ0CP0 -)
+              grup-sp/modnomatch/(como como CS -) [
+                s-a-mp/modnomatch/(verbales verbal AQ0CP0 -)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    s-adj/qual/(seria serio AQ0FS0 -) [
+      sadv/modnorule/(más más RG -)
+    ]
+    conj-subord/modnomatch/(que que CS -)
+    espec-ms/espec/(lo el DA0NS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(parece parecer VMIP3S0 -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    s-adj/qual/(visuales visual AQ0CP0 -) [
+      sadv/modnorule/(tanto tanto RG -)
+    ]
+    Fc(,)/modnomatch/(, , Fc -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(demuestran demostrar VMIP3P0 -)
+    ]
+    sn/modnomatch/(vez vez NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+    ]
+    sadv/modnomatch/(más más RG -)
+    subord/modnomatch/(que que CS -) [
+      grup-verb/modnorule/(es ser VSIP3S0 -) [
+        sn/subj/(Tarantino tarantino NP00000 -)
+        sn/obj/(grande grande AQ0CS0 -) [
+          indef-ms/modnomatch/(un uno DI0MS0 -)
+        ]
+      ]
+      Fc(,)/modnorule/(, , Fc -)
+    ]
+    conj-subord/modnomatch/(por_mucho_que por_mucho_que CS -)
+    vaux/modnomatch/(haya haber VASP1S0 -)
+    quien-p/modnomatch/(quienes quien PR0CP000 -)
+  ]
+  sn/obj/(chupóctero chupóctero NCMS000 -) [
+    espec-ms/espec/(un uno DI0MS0 -)
+    subord/modnomatch/(que que PR0CN000 -) [
+      grup-verb/modnorule/(aprovecha aprovechar VMIP3S0 -) [
+        morfema-verbal/modnomatch/(se se P0000000 -)
+      ]
+    ]
+    sp-de/mod/(de de SPS00 -) [
+      sn/gen/(aciertos acierto NCMP000 -) [
+        espec-mp/espec/(los el DA0MP0 -)
+        sp-de/mod/(de de SPS00 -) [
+          sn/gen/(colegas colega NCCP000 -) [
+            espec-mp/espec/(otros otro DI0MP0 -)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

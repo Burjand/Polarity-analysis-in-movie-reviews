@@ -1,0 +1,49 @@
+F-no-c/top/(¿ ¿ Fia -) [
+  grup-verb/modnorule/(Merece merecer VMIP3S0 -)
+  grup-verb-inf/modnorule/(ver ver VMN0000 -) [
+    PP*/modnomatch/(se se PP3CN000 -)
+  ]
+  grup-sp/modnorule/(en en SPS00 -) [
+    sn/head/(cine cine NCMS000 -) [
+      espec-ms/espec/(el el DA0MS0 -)
+    ]
+  ]
+  F-term/modnorule/(? ? Fit -)
+]
+
+conj-subord/top/(Pues pues CS -) [
+  conj-subord/modnorule/(si si CS -)
+  F-term/modnorule/(. . Fp -)
+]
+
+grup-verb/top/(Tiene tener VMIP3S0 -) [
+  sn/obj/(elementos elemento NCMP000 -) [
+    espec-mp/espec/(los el DA0MP0 -)
+    s-a-mp/qual/(suficientes suficiente AQ0CP0 -)
+    s-a-mp/qual/(interesantes interesante AQ0CP0 -)
+  ]
+  conj-subord/modnomatch/(como como CS -)
+  grup-sp-inf/iobj/(para para SPS00 -) [
+    grup-verb-inf/head/(disfrutar disfrutar VMN0000 -)
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/modnomatch/(pese_a pese_a SPS00 -) [
+    sn/head/(metraje metraje NCMS000 -) [
+      espec-ms/espec/(su su DP3CS0 -)
+      s-a-ms/qual/(desmedido desmedir VMP00SM -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  coord/modnomatch/(aunque aunque CC -)
+  vaux/aux/(esté estar VASP1S0 -)
+  sadv/cc/(bastante bastante RG -)
+  grup-sp-inf/modnomatch/(lejos_de lejos_de SPS00 -) [
+    grup-verb-inf/head/(ser ser VSN0000 -)
+    sn/modnomatch/(redonda redonda NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(peli peli AQ0CN0 -)
+    ]
+  ]
+  F-term/term/(. . Fp -)
+]
+

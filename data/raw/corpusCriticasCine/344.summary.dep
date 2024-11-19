@@ -1,0 +1,39 @@
+grup-verb/top/(intriga intrigar VMIP3S0 -) [
+  patons/modnomatch/(nos nos PP1CP000 -)
+  neg/modneg/(No no RN -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(momento momento NCMS000 -) [
+      espec-ms/espec/(ningún ninguno DI0MS0 -)
+      grup-verb/modnomatch/(es ser VSIP3S0 -) [
+        sn/subj/(cosa cosa NCFS000 -) [
+          espec-fs/espec/(la el DA0FS0 -)
+          grup-verb/modnomatch/(das_cuenta dar_cuenta VMIP2S0 -) [
+            subord/modnomatch/(que que CS -) [
+              grup-verb/modnorule/(es ser VSIP3S0 -) [
+                sn/subj/(película película NCFS000 -) [
+                  espec-fs/espec/(toda todo DI0FS0 -) [
+                    j-fs/modnorule/(la el DA0FS0 -)
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  s-adj/modnomatch/(previsible previsible AQ0CS0 -) [
+    sadv/modnorule/(muy muy RG -)
+  ]
+  coord/modnomatch/(y y CC -)
+  subord/modnomatch/(una_vez_que una_vez_que CS -) [
+    grup-verb/modnorule/(terminado terminar VMP00SM -) [
+      patons/modnomatch/(te te PP2CS000 -)
+      vaux/aux/(ha haber VAIP3S0 -)
+    ]
+  ]
+  s-adj/modnomatch/(absurda absurdo AQ0FS0 -)
+  F-term/term/(. . Fp -)
+]
+

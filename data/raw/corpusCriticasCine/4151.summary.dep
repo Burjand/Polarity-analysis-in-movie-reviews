@@ -1,0 +1,55 @@
+grup-verb/top/(entremezcla entremezclar VMIP3S0 -) [
+  sn/subj/(Juno juno NP00000 -)
+  sn/obj/(humor humor NCMS000 -) [
+    espec-ms/espec/(el el DA0MS0 -)
+    s-a-ms/qual/(ácido ácido AQ0MS0 -)
+  ]
+  grup-sp/modnomatch/(con con SPS00 -) [
+    sn/head/(moralina moralina NCFS000 -) [
+      espec-fs/espec/(la el DA0FS0 -)
+      sp-de/mod/(de de SPS00 -) [
+        sn/gen/(turno turno NCMS000 -)
+      ]
+    ]
+  ]
+  prep/modnomatch/(a_través_de a_través_de SPS00 -)
+  espec-ms/modnomatch/(lo el DA0NS0 -)
+  subord/modnomatch/(que que PR0CN000 -) [
+    grup-verb/modnorule/(definir definir VMN0000 -) [
+      VMI*<poder>/modnomatch/(podríamos poder VMIC1P0 -)
+    ]
+  ]
+  grup-sp/modnomatch/(como como CS -) [
+    sn/head/(tragedia tragedia NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      Fe/modnomatch/(' ' Fe -)
+      Fe/modnomatch/(' ' Fe -)
+      s-a-fs/qual/(cotidiana cotidiano AQ0FS0 -)
+    ]
+  ]
+  Fc(,)/modnomatch/(, , Fc -)
+  grup-sp/cc/(en en SPS00 -) [
+    sn/head/(receta receta NCFS000 -) [
+      espec-fs/espec/(una uno DI0FS0 -)
+      s-a-fs/qual/(eficiente eficiente AQ0CS0 -)
+      grup-verb/modnomatch/(reside residir VMIP3S0 -)
+    ]
+  ]
+  coord/modnomatch/(aunque aunque CC -)
+  neg/modneg/(no no RN -)
+  s-adj/modnomatch/(explosiva explosivo AQ0FS0 -)
+  relatiu/modnomatch/(atractivo atractivo NCMS000 -) [
+    cuyo-ms/modnorule/(cuyo cuyo PR0MS000 -)
+    s-a-ms/modnorule/(principal principal AQ0CS0 -)
+  ]
+  prep/modnomatch/(en en SPS00 -)
+  F-no-c/modnomatch/(( ( Fpa -)
+  sn/obj/(algunos alguno PI0MP000 -)
+  prep/modnomatch/(de de SPS00 -)
+  F-no-c/modnomatch/() ) Fpt -)
+  sn/obj/(personajes personaje NCMP000 -) [
+    espec-mp/espec/(sus su DP3CP0 -)
+  ]
+  F-term/term/(. . Fp -)
+]
+
